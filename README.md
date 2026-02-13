@@ -12,6 +12,8 @@ Each category has its own directory with a README listing all relevant tools. Se
 
 The full list of repo URLs can be found in [raw_list.txt](raw_list.txt). 
 
+**DO NOT BREAK LAWS**
+
 ---
 
 ## License
