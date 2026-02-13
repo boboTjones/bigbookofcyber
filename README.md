@@ -117,8 +117,6 @@ This is a living document. As tools are evaluated:
 ## Related Files
 
 - **[SECURITY_TOOLS_CATALOG.md](SECURITY_TOOLS_CATALOG.md)** - Original complete catalog (all categories in one file)
-- **[../utils/](../utils/)** - Utility scripts for managing repositories
-
 ---
 
 ## License
