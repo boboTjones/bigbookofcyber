@@ -1,6 +1,6 @@
 # Threat Intelligence
 
-A curated collection of threat intelligence tools, platforms, and resources for analyzing malware, tracking APTs, and understanding cyber threats.
+Tools, platforms, and resources for analyzing malware, tracking APTs, and understanding cyber threats.
 
 **Total Tools:** 146
 

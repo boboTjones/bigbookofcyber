@@ -1,4 +1,4 @@
-# Offensive Security (Red Team)
+# Offensive Security
 
 Penetration testing, exploitation, and red team tools for security assessment and adversarial simulation.
 

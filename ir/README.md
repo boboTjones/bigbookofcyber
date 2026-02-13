@@ -1,4 +1,4 @@
-# Incident Response (Blue Team)
+# Incident Response
 
 Tools and resources for incident response, forensics, and defensive security operations.
 
