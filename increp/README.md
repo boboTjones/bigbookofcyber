@@ -38,7 +38,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 **Last Updated:** 2026-01-13
 
-**Description:** <p align="center"> <img src="dfirtrack_main/static/dfirtrack_main/img/dfirtrack_logo.png" width="600">
+**Description:**  
 
 ---
 
@@ -110,7 +110,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 **Last Updated:** 2018-04-20
 
-**Description:** <p align="center"> <img src="https://github.com/Invoke-IR/PowerForensics/blob/master/Images/powerforensic_square_blue_lowres.png?raw=true" width="300" height="300">
+**Description:**  
 
 ---
 
@@ -146,7 +146,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 **Last Updated:** 2016-04-25
 
-**Description:** <p align="center"><img src="/media/VezirCrown.png" width="200"></p>
+**Description:** 
 
 ---
 

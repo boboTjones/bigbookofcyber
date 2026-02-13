@@ -86,7 +86,7 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2025-12-05
 
-**Description:**  <a href="https://www.cossacklabs.com/acra/">
+**Description:**  <a href="https://www.cossacklabs.com/acra/"></a>
 
 ---
 
@@ -182,7 +182,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2025-11-27
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## AgentKB-public
@@ -265,7 +266,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-09
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## alterix
@@ -276,7 +278,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2025-01-26
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## amass
@@ -311,7 +314,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2024-02-22
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## AMExtractor
@@ -634,7 +638,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-01-25
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## arkime
@@ -765,7 +770,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2020-03-30
 
-**Description:** (No description available)
+**Description:** <center></image></center>
+
 ---
 
 ## avet
@@ -800,7 +806,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-01-28
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## awesome-analytics
@@ -1039,7 +1046,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-01-14
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## awesome-nodejs-security
@@ -1050,7 +1058,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-01-16
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## awesome-osint
@@ -1109,7 +1118,7 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2025-06-09
 
-**Description:**  <a href="https://scapy.net/">
+**Description:**  <a href="https://scapy.net/"></a>
 
 ---
 
@@ -1241,7 +1250,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-01-11
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## aws-vault
@@ -1552,7 +1562,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2024-11-20
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## boofuzz
@@ -1647,7 +1658,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2025-10-30
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## bruteforce-wallet
@@ -1706,7 +1718,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2025-10-27
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## bug-bounty-platforms
@@ -1741,7 +1754,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-06
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## bwpot
@@ -1896,7 +1910,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2022-06-08
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## Chaosreader
@@ -1991,7 +2006,7 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2023-10-12
 
-**Description:**  Translations <br> <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/de/README.md>🇩🇪 DE    <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/fr/README.md>🇫🇷 FR   
+**Description:**  Translations <br> <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/de/README.md>🇩🇪 DE   </a> <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/fr/README.md>🇫🇷 FR   </a>
 
 ---
 
@@ -2135,7 +2150,163 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-08
 
-**Description:**    <a href="https://github.com/commixproject/commix/actions/workflows/builds.yml">
+**Description:**    <a href="https://github.com/commixproject/commix/actions/workflows/builds.yml"><img alt="Builds Tests" src="https://github.com/commixproject/commix/actions/workflows/builds.y...
+
+---
+
+## ConDroid
+
+**Repository:** [https://github.com/JulianSchuette/ConDroid](https://github.com/JulianSchuette/ConDroid)
+
+**Author:** JulianSchuette
+
+**Last Updated:** 2016-03-08
+
+**Description:** This project is a fork and extension of the Acteve project on concolic execution for Android (https://code.google.com/p/acteve/) [1]
+
+---
+
+## confidant
+
+**Repository:** [https://github.com/lyft/confidant](https://github.com/lyft/confidant)
+
+**Author:** lyft
+
+**Last Updated:** 2025-02-14
+
+**Description:** [Archive Confidant Notice]
+
+---
+
+## confsec
+
+**Repository:** [https://github.com/cryptax/confsec](https://github.com/cryptax/confsec)
+
+**Author:** cryptax
+
+**Last Updated:** 2026-01-27
+
+**Description:** | Name           | Location	| CfP ends |  Conference dates | | ---------------- | ------------- | ------------ | -------------------------| | [Ph0wn CTF](https://ph0wn.org) | Sophia Antipolis, France | - | March 13-14, 2026 |
+
+---
+
+## conpot
+
+**Repository:** [https://github.com/mushorg/conpot](https://github.com/mushorg/conpot)
+
+**Author:** mushorg
+
+**Last Updated:** 2024-12-24
+
+**Description:** Conpot is an ICS honeypot with the goal to collect intelligence about the motives and methods of adversaries targeting industrial control systems.
+
+---
+
+## container-security-awesome
+
+**Repository:** [https://github.com/kai5263499/container-security-awesome](https://github.com/kai5263499/container-security-awesome)
+
+**Author:** kai5263499
+
+**Last Updated:** 2019-03-07
+
+**Description:** No description available
+
+---
+
+## copyparty
+
+**Repository:** [https://github.com/9001/copyparty](https://github.com/9001/copyparty)
+
+**Author:** 9001
+
+**Last Updated:** 2026-02-12
+
+**Description:** 
+
+---
+
+## cowpatty
+
+**Repository:** [https://github.com/joswr1ght/cowpatty](https://github.com/joswr1ght/cowpatty)
+
+**Author:** joswr1ght
+
+**Last Updated:** 2018-11-30
+
+**Description:** coWPAtty - Brute-force dictionary attack against WPA-PSK.
+
+---
+
+## cowrie
+
+**Repository:** [https://github.com/cowrie/cowrie](https://github.com/cowrie/cowrie)
+
+**Author:** cowrie
+
+**Last Updated:** 2026-02-12
+
+**Description:** What is Cowrie *****************************************
+
+---
+
+## CrackMapExec
+
+**Repository:** [https://github.com/byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)
+
+**Author:** byt3bl33d3r
+
+**Last Updated:** 2023-12-06
+
+**Description:** This project is no longer mantained due to the existence of a hostile fork.
+
+---
+
+## crackpkcs12
+
+**Repository:** [https://github.com/crackpkcs12/crackpkcs12](https://github.com/crackpkcs12/crackpkcs12)
+
+**Author:** crackpkcs12
+
+**Last Updated:** 2018-03-10
+
+**Description:** A multithreaded program to crack PKCS#12 files (p12 and pfx extensions) by Aestu
+
+---
+
+## creddump
+
+**Repository:** [https://github.com/moyix/creddump](https://github.com/moyix/creddump)
+
+**Author:** moyix
+
+**Last Updated:** 2017-08-01
+
+**Description:** creddump is a python tool to extract various credentials and secrets from Windows registry hives. It currently extracts: * LM and NT hashes (SYSKEY protected) * Cached domain passwords * LSA secrets
+
+---
+
+## credstash
+
+**Repository:** [https://github.com/fugue/credstash](https://github.com/fugue/credstash)
+
+**Author:** fugue
+
+**Last Updated:** 2021-05-07
+
+**Description:** 0. (Linux only) Install dependencies 1. `pip install credstash` 2. Set up a key called credstash in KMS (found in the IAM console) 3. Make sure you have AWS creds in a place that boto/botocore can read them
+
+---
+
+## creepy
+
+**Repository:** [https://github.com/ilektrojohn/creepy](https://github.com/ilektrojohn/creepy)
+
+**Author:** ilektrojohn
+
+**Last Updated:** 2014-02-02
+
+**Description:** Yiannis Kakavas <jkakavas__AT__gmail__dot__com>
 
 ---
 
@@ -2159,7 +2330,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-12
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## CryptoKnight
@@ -2218,7 +2390,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2025-12-01
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## CVE-2017-0199
@@ -2265,7 +2438,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2024-12-17
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## cyberclopaedia
@@ -2288,7 +2462,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2024-02-14
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## CyLR
@@ -2395,7 +2570,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-12
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## DC3-MWCP
@@ -2454,7 +2630,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2023-12-06
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## decker
@@ -2477,7 +2654,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2025-11-23
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## demovfuscator
@@ -2740,7 +2918,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-03
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## discoshell
@@ -2919,7 +3098,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2020-06-25
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## docker-explorer
@@ -3290,7 +3470,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2022-08-23
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## enjarify
@@ -3361,7 +3542,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-01
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## evilginx2
@@ -3372,7 +3554,20 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2025-10-06
 
-**Description:** (No description available)
+**Description:**    <img alt="Evilginx2 Title" src="https://raw.githubusercontent.com/kgretzky/evilginx2/master/media/img/evilginx2-title-...
+
+---
+
+## evilgrade
+
+**Repository:** [https://github.com/infobyte/evilgrade](https://github.com/infobyte/evilgrade)
+
+**Author:** infobyte
+
+**Last Updated:** 2021-09-01
+
+**Description:**  <a href="https://www.faradaysec.com" target="_blank"></a>
+
 ---
 
 ## EvilOSX
@@ -3383,7 +3578,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2021-02-10
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## evolve
@@ -3466,7 +3662,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2024-12-31
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## FARA
@@ -3525,7 +3722,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2022-12-15
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## featherduster
@@ -3764,7 +3962,7 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-12
 
-**Description:** <a href="https://fleetdm.com">
+**Description:** <a href="https://fleetdm.com"></a>
 
 ---
 
@@ -3812,7 +4010,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2021-08-27
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## Forager
@@ -3883,7 +4082,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2022-08-19
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## friTap
@@ -3942,7 +4142,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-01-31
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## fuzzdb
@@ -3965,7 +4166,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2025-07-24
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## gatekeeper
@@ -4012,7 +4214,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-03
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## Generate-Macro
@@ -4047,7 +4250,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-12
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## ghidra_scripts
@@ -4070,7 +4274,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2016-09-16
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## GHunt
@@ -4249,7 +4454,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2025-07-16
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## gobuster
@@ -4392,7 +4598,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2025-12-16
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## GyoiThon
@@ -4403,7 +4610,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2021-06-30
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## h26forge
@@ -4426,7 +4634,7 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2022-06-25
 
-**Description:**  <a href="https://github.com/khast3x/h8mail/releases/">
+**Description:**  <a href="https://github.com/khast3x/h8mail/releases/"></a>
 
 ---
 
@@ -4738,7 +4946,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2019-04-24
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## honeylambda
@@ -4749,7 +4958,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2018-10-20
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## honeymap
@@ -5012,7 +5222,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-12
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## I-ISMS
@@ -5287,7 +5498,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-07
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## IntelligentHoneyNet
@@ -5490,7 +5702,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-01-23
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## juice-shop
@@ -5573,7 +5786,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2022-05-31
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## KeeFarce
@@ -5584,7 +5798,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2015-11-17
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## keyscope
@@ -5595,7 +5810,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2025-07-24
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## kics
@@ -5606,7 +5822,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-12
 
-**Description:** (No description available)
+**Description:**   
+
 ---
 
 ## king-phisher
@@ -6829,7 +7046,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2025-02-06
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## linux-explorer
@@ -6888,7 +7106,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2025-10-19
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## LOIC
@@ -6935,7 +7154,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-11
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## lophiid
@@ -6946,7 +7166,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-08
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## lunasec
@@ -7101,7 +7322,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2023-12-22
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## maldrolyzer
@@ -7232,7 +7454,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-11
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## manuka
@@ -7303,7 +7526,7 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2025-01-07
 
-**Description:**  <a href="https://www.matano.dev">
+**Description:**  <a href="https://www.matano.dev"></a>
 
 ---
 
@@ -7375,7 +7598,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2025-04-17
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## metagoofil
@@ -7518,7 +7742,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2020-06-19
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## mnemosyne
@@ -7721,7 +7946,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-04
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## my-arsenal-of-aws-security-tools
@@ -7744,7 +7970,7 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-10
 
-**Description:**  <a href="https://github.com/its-a-feature/Mythic/pulse"> alt="Activity"/> alt="commits since last release"/> <a href="https://twitter.com/its_a_feature_"> alt="@its_a_feature_ on Twitter"/>
+**Description:**  <a href="https://github.com/its-a-feature/Mythic/pulse"> alt="Activity"/></a> alt="commits since last release"/> <a href="https://twitter.com/its_a_feature_"> alt="@its_a_feature_ on Twitter"/></a>
 
 ---
 
@@ -8020,7 +8246,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-11
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## nudge4j
@@ -8067,7 +8294,7 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2021-01-22
 
-**Description:**  <a href="https://github.com/loseys/Oblivion//">
+**Description:**  <a href="https://github.com/loseys/Oblivion//"></a>
 
 ---
 
@@ -8271,7 +8498,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-11
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## oss-oopssec-store
@@ -8342,7 +8570,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2021-11-09
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## pagodo
@@ -8653,7 +8882,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2024-04-19
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## phoneyc
@@ -8724,7 +8954,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2024-02-18
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## PIE
@@ -8735,7 +8966,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2019-04-08
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## pig
@@ -9058,7 +9290,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-06
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## PSRecon
@@ -9249,7 +9482,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2025-06-11
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## python3-in-one-pic
@@ -9428,7 +9662,199 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2025-11-02
 
-**Description:**   **Warning**
+**Description:** <a class="badge-chip" href="https://github.com/Lazza/RecuperaBit/blob/master/LICENSE.md"></a> <a class="badge-chip" href="https://github.com/Lazza/RecuperaBit/releases"><img alt="Latest release" src="https://b...
+
+---
+
+## recursebuster
+
+**Repository:** [https://github.com/c-sto/recursebuster](https://github.com/c-sto/recursebuster)
+
+**Author:** c-sto
+
+**Last Updated:** 2019-10-15
+
+**Description:** It's like gobuster, but recursive!
+
+---
+
+## red_team_tool_countermeasures
+
+**Repository:** [https://github.com/fireeye/red_team_tool_countermeasures](https://github.com/fireeye/red_team_tool_countermeasures)
+
+**Author:** fireeye
+
+**Last Updated:** 2024-03-05
+
+**Description:** These rules are provided freely to the community without warranty.
+
+---
+
+## Redcloud
+
+**Repository:** [https://github.com/khast3x/Redcloud](https://github.com/khast3x/Redcloud)
+
+**Author:** khast3x
+
+**Last Updated:** 2022-08-24
+
+**Description:**  
+
+---
+
+## redoctober
+
+**Repository:** [https://github.com/cloudflare/redoctober](https://github.com/cloudflare/redoctober)
+
+**Author:** cloudflare
+
+**Last Updated:** 2024-11-12
+
+**Description:** Red October
+
+---
+
+## RedPeanut
+
+**Repository:** [https://github.com/b4rtik/RedPeanut](https://github.com/b4rtik/RedPeanut)
+
+**Author:** b4rtik
+
+**Last Updated:** 2020-07-22
+
+**Description:** __________________________________________________________________________ ooooooo________________oo_ooooooo___________________________________oo____ oo____oo___ooooo___oooooo_oo____oo__ooooo___ooooo__oo_ooo__oo____o__oo____
+
+---
+
+## Redpoint
+
+**Repository:** [https://github.com/digitalbond/Redpoint](https://github.com/digitalbond/Redpoint)
+
+**Author:** digitalbond
+
+**Last Updated:** 2016-03-08
+
+**Description:** Redpoint is a Digital Bond research project to enumerate ICS applications and devices.
+
+---
+
+## redsnarf
+
+**Repository:** [https://github.com/nccgroup/redsnarf](https://github.com/nccgroup/redsnarf)
+
+**Author:** nccgroup
+
+**Last Updated:** 2017-08-22
+
+**Description:** ______           .____________                     _____ \______   \ ____   __| _/   _____/ ____ _____ ________/ ____\ |       _// __ \ / __ |\_____  \ /    \\__  \\_  __ \   __\ |    |   \  ___// /_/ |/        \   |  \/ __ \|  | \/|  |
+
+---
+
+## ReelPhish
+
+**Repository:** [https://github.com/fireeye/ReelPhish](https://github.com/fireeye/ReelPhish)
+
+**Author:** fireeye
+
+**Last Updated:** 2018-02-07
+
+**Description:** This tool has been released along with a FireEye blog post. The blog post can be found at the following link: https://www.fireeye.com/blog/threat-research/2018/02/reelphish-real-time-two-factor-phishing-tool.html
+
+---
+
+## refinery
+
+**Repository:** [https://github.com/binref/refinery](https://github.com/binref/refinery)
+
+**Author:** binref
+
+**Last Updated:** 2026-02-12
+
+**Description:** __     __  High Octane Triage Analysis          __ ||    _||______ __       __________     _____   || ||    \||___   \__| ____/   ______/___ / ____\  || ==||=====||  | __/  |/    \  /==|  / __ \   __\===]|
+
+---
+
+## RegEx-DoS
+
+**Repository:** [https://github.com/jagracey/RegEx-DoS](https://github.com/jagracey/RegEx-DoS)
+
+**Author:** jagracey
+
+**Last Updated:** 2016-06-04
+
+**Description:** *Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
+
+---
+
+## RegRipper3.0
+
+**Repository:** [https://github.com/keydet89/RegRipper3.0](https://github.com/keydet89/RegRipper3.0)
+
+**Author:** keydet89
+
+**Last Updated:** 2024-12-12
+
+**Description:** Here's what's new in this release
+
+---
+
+## regrippy
+
+**Repository:** [https://github.com/airbus-cert/regrippy](https://github.com/airbus-cert/regrippy)
+
+**Author:** airbus-cert
+
+**Last Updated:** 2025-03-31
+
+**Description:** *This is the public GitHub repository of RegRippy*
+
+---
+
+## rekall
+
+**Repository:** [https://github.com/google/rekall](https://github.com/google/rekall)
+
+**Author:** google
+
+**Last Updated:** 2020-10-18
+
+**Description:** This project is no longer maintained.
+
+---
+
+## Responder
+
+**Repository:** [https://github.com/SpiderLabs/Responder](https://github.com/SpiderLabs/Responder)
+
+**Author:** SpiderLabs
+
+**Last Updated:** 2019-09-09
+
+**Description:** :no_entry: [DEPRECATED] Active at https://github.com/lgandx/Responder
+
+---
+
+## respounder
+
+**Repository:** [https://github.com/codeexpress/respounder](https://github.com/codeexpress/respounder)
+
+**Author:** codeexpress
+
+**Last Updated:** 2018-02-21
+
+**Description:** 
+
+---
+
+## retdec
+
+**Repository:** [https://github.com/avast-tl/retdec](https://github.com/avast-tl/retdec)
+
+**Author:** avast-tl
+
+**Last Updated:** 2025-06-19
+
+**Description:** > **Warning**
 
 ---
 
@@ -9596,7 +10022,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-10
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## rVMI
@@ -9751,7 +10178,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2024-05-10
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## Scylla
@@ -9798,7 +10226,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2025-05-18
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## SecGen
@@ -9833,7 +10262,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-11
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## security-acronyms
@@ -9892,7 +10322,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-12
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## sflock
@@ -9915,7 +10346,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-01-16
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## sharppcap
@@ -9938,7 +10370,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2023-11-26
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## shellfirm
@@ -9949,7 +10382,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2025-03-25
 
-**Description:** (No description available)
+**Description:**   
+
 ---
 
 ## shellpop
@@ -10032,7 +10466,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2023-12-06
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## simplify
@@ -10307,7 +10742,7 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2024-10-25
 
-**Description:** <a name="readme-top"> <!-- PROJECT LOGO -->
+**Description:** <a name="readme-top"></a> <!-- PROJECT LOGO -->
 
 ---
 
@@ -10319,7 +10754,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2023-07-25
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## SpoofSpotter
@@ -10342,7 +10778,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-07
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## spotify_profile_monitor
@@ -10353,7 +10790,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-07
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## SprayingToolkit
@@ -10580,7 +11018,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-06
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## stegcloak
@@ -10591,7 +11030,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2024-10-02
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## StegCracker
@@ -10674,7 +11114,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2023-07-12
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## strong-node
@@ -10709,7 +11150,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2023-07-20
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## subbrute
@@ -10840,7 +11282,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2018-10-18
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## tanner
@@ -10959,7 +11402,7 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2024-09-12
 
-**Description:**  <a href="https://www.cossacklabs.com/themis/">
+**Description:**  <a href="https://www.cossacklabs.com/themis/"></a>
 
 ---
 
@@ -11031,7 +11474,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2018-09-17
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## tor-relay-bootstrap
@@ -11114,7 +11558,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-01-30
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## tosint
@@ -11197,7 +11642,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2025-10-05
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## trivy
@@ -11208,7 +11654,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-10
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## troje
@@ -11279,7 +11726,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-11
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## UDPot
@@ -11290,7 +11738,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-01-23
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## UEFITool
@@ -11433,7 +11882,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2025-05-01
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## urlhs
@@ -11660,7 +12110,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-01-07
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## vuls
@@ -11719,7 +12170,7 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-01-27
 
-**Description:**  <a href="https://github.com/enablesecurity/wafw00f">
+**Description:**  <a href="https://github.com/enablesecurity/wafw00f"></a>
 
 ---
 
@@ -11839,7 +12290,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2025-02-04
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## wifite
@@ -12030,7 +12482,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2026-02-06
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## xortool
@@ -12101,7 +12554,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2020-05-19
 
-**Description:** (No description available)
+**Description:**  
+
 ---
 
 ## yarg
@@ -12196,7 +12650,8 @@ Various security tools and resources that are pending categorization.
 
 **Last Updated:** 2021-09-05
 
-**Description:** (No description available)
+**Description:** 
+
 ---
 
 ## yrfy

@@ -26,7 +26,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 **Last Updated:** 2021-01-20
 
-**Description:** <img src="http://i.imgur.com/cFll5P9.jpg" width="250" />
+**Description:** 
 
 ---
 
@@ -218,7 +218,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 **Last Updated:** 2026-02-06
 
-**Description:** <p align="center"> <img alt="BunkerWeb logo" src="https://github.com/bunkerity/bunkerweb/raw/v1.6.8/misc/logo.png" height=100 width=350 />
+**Description:**  
 
 ---
 
@@ -230,7 +230,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 **Last Updated:** 2024-04-05
 
-**Description:** <p align="center"> <img src=".github/assets/capital-logo-white.PNG#center" width="600" height="300" />
+**Description:**  
 
 ---
 
@@ -302,7 +302,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 **Last Updated:** 2025-08-08
 
-**Description:** <p align="center">
+**Description:** 
 
 ---
 
@@ -386,7 +386,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 **Last Updated:** 2025-02-27
 
-**Description:** <p align="center"> <img src="ui/public/assets/img/logo.ico" />
+**Description:**  
 
 ---
 
@@ -398,7 +398,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 **Last Updated:** 2025-09-04
 
-**Description:** <p align="center"><h1 align="center"> is-website-vulnerable
+**Description:**  is-website-vulnerable
 
 ---
 
@@ -470,7 +470,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 **Last Updated:** 2026-01-13
 
-**Description:** <div align=center> <img src="https://i2-s3-ui-static-content-prod-10.s3.eu-west-1.amazonaws.com/elpis/tree-no-bg-256.png" width="100" height="100"> <h1>openappsec/openappsec</h1>
+**Description:**   openappsec/openappsec
 
 ---
 
@@ -638,7 +638,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 **Last Updated:** 2026-02-12
 
-**Description:** <p align="center">
+**Description:** 
 
 ---
 

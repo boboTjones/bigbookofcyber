@@ -122,7 +122,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 **Last Updated:** 2025-03-26
 
-**Description:** <p align="center"> <img height="128" src="./awesome-yara.png"  alt="Awesome YARA" title="Awesome YARA">
+**Description:**  
 
 ---
 
@@ -218,7 +218,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 **Last Updated:** 2021-12-28
 
-**Description:** <p align="center"> <img src="https://user-images.githubusercontent.com/5906222/133688671-d830f2e2-b8d4-4238-a5dd-02808984ae36.gif">
+**Description:**  
 
 ---
 
@@ -542,7 +542,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 **Last Updated:** 2026-02-10
 
-**Description:** <a href="https://sigmahq.io/"> <p align="center">
+**Description:** <a href="https://sigmahq.io/"> 
 
 ---
 
@@ -614,7 +614,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 **Last Updated:** 2023-11-02
 
-**Description:** <div align="center"> <h1>ThreatIngestor</h1>
+**Description:**  ThreatIngestor
 
 ---
 
@@ -626,7 +626,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 **Last Updated:** 2024-01-29
 
-**Description:** <p align="center"> <img src="https://raw.githubusercontent.com/InQuest/ThreatKB/rc/.github/wiki/inquest_logo.svg" />
+**Description:**  
 
 ---
 
@@ -638,7 +638,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 **Last Updated:** 2025-07-24
 
-**Description:** <a href="https://trendshift.io/repositories/171" target="_blank"><img src="https://trendshift.io/api/badge/repositories/171" alt="deepfence%2FThreatMapper | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+**Description:** <a href="https://trendshift.io/repositories/171" target="_blank"></a>
 
 ---
 
@@ -1082,7 +1082,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 **Last Updated:** 2022-11-02
 
-**Description:** <div align="center">
+**Description:** 
 
 ---
 
@@ -1214,7 +1214,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 **Last Updated:** 2022-02-01
 
-**Description:** <p align="center"> <img src="app/core/static/assets/images/mid_new.png"/>
+**Description:**  
 
 ---
 
@@ -1226,7 +1226,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 **Last Updated:** 2022-11-27
 
-**Description:** <img src=images/yara_syntax_example.gif>
+**Description:** 
 
 ---
 

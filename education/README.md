@@ -290,7 +290,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 **Last Updated:** 2025-12-03
 
-**Description:** <div id="top"></div> <div align="center">
+**Description:**  
 
 ---
 

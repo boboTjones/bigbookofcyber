@@ -98,7 +98,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 **Last Updated:** 2018-04-23
 
-**Description:** ﻿# Dolos: SDN Honeypot <pre style="font: 16px/8px monospace;">          `. `'. :;+.,. `   ` :;, '#,  ; ; ,:;;;,  '`.' `,;, `++#:`;';'.;;;. ``';  ;.. '.;.; ;#,;,   '#.+,'::'+; .,:`,,` ..'+'+:'`  ,`, ::..`': :,
+**Description:** ﻿# Dolos: SDN Honeypot           `. `'. :;+.,. `   ` :;, '#,  ; ; ,:;;;,  '`.' `,;, `++#:`;';'.;;;. ``';  ;.. '.;.; ;#,;,   '#.+,'::'+; .,:`,,` ..'+'+:'`  ,`, ::..`': :,
 
 ---
 
@@ -278,7 +278,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 **Last Updated:** 2026-02-09
 
-**Description:** <img width="2043" height="571" alt="Impacket_light" src="https://github.com/user-attachments/assets/14aed700-0c6e-4865-ac53-686b91874f50" />
+**Description:** 
 
 ---
 

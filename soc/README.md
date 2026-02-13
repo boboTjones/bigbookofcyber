@@ -146,7 +146,7 @@ Security Operations Center tools for monitoring, detection, and response to secu
 
 **Last Updated:** 2026-02-12
 
-**Description:** <h1 align="center">PyBA</h1>
+**Description:** PyBA
 
 ---
 
@@ -170,7 +170,7 @@ Security Operations Center tools for monitoring, detection, and response to secu
 
 **Last Updated:** 2026-01-18
 
-**Description:** <div align="center">
+**Description:** 
 
 ---
 
@@ -194,7 +194,7 @@ Security Operations Center tools for monitoring, detection, and response to secu
 
 **Last Updated:** 2024-10-28
 
-**Description:** <p align="center"> <img src="https://raw.githubusercontent.com/UndeadSec/SocialFishMobile/master/content/logo.png" width="200"/>
+**Description:**  
 
 ---
 

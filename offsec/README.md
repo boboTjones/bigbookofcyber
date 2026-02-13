@@ -554,7 +554,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 **Last Updated:** 2019-11-24
 
-**Description:** <p align="center"><img src="https://raw.githubusercontent.com/rastating/wordpress-exploit-framework/gh-pages/static/wordpress-exploit-framework-200px.png" /></p>
+**Description:** 
 
 ---
 
