@@ -2,12224 +2,7367 @@
 
 Various security tools and resources that are pending categorization.
 
-**Total Tools:** 1056
+**Total Tools:** 920
 
 ---
 
 ## a-ray-grass
 
-**Repository:** [https://github.com/hashlookup/a-ray-grass](https://github.com/hashlookup/a-ray-grass)
+**Repository:** [[https://github.com/hashlookup/a-ray-grass](https://github.com/hashlookup/a-ray-grass)]([https://github.com/hashlookup/a-ray-grass](https://github.com/hashlookup/a-ray-grass))
 
 **Author:** hashlookup
 
-**Last Updated:** 2022-08-19
-
-**Description:** `a-ray-grass` is a yara module that provides support for DCSO format bloom filters in yara. In the context of [hashlookup](https://hashlookup.io), it allows quickly discard known files "pour séparer le grain de l\'ivraie".
-
 ---
 
-## abusehelper
+## Aaia
 
-**Repository:** [https://github.com/abusesa/abusehelper](https://github.com/abusesa/abusehelper)
+**Repository:** [[https://github.com/rams3sh/Aaia](https://github.com/rams3sh/Aaia)]([https://github.com/rams3sh/Aaia](https://github.com/rams3sh/Aaia))
 
-**Author:** abusesa
-
-**Last Updated:** 2019-09-27
-
-**Description:** AbuseHelper is an open-source framework for receiving and redistributing abuse feeds and threat intel.
+**Author:** rams3sh
 
 ---
 
 ## acapulco
 
-**Repository:** [https://github.com/hgascon/acapulco](https://github.com/hgascon/acapulco)
+**Repository:** [[https://github.com/hgascon/acapulco](https://github.com/hgascon/acapulco)]([https://github.com/hgascon/acapulco](https://github.com/hgascon/acapulco))
 
 **Author:** hgascon
-
-**Last Updated:** 2015-10-04
-
-**Description:** The Honeynet Project Acapulco app bundles a Splunk application that can be deployed on a central server to automatically generate meta-events from several hpfeeds channels. This events are clustered using DBSCAN or K-means algorithms and displayed at an external client using parallel coordinates ...
 
 ---
 
 ## AChoir
 
-**Repository:** [https://github.com/OMENScan/AChoir](https://github.com/OMENScan/AChoir)
+**Repository:** [[https://github.com/OMENScan/AChoir](https://github.com/OMENScan/AChoir)]([https://github.com/OMENScan/AChoir](https://github.com/OMENScan/AChoir))
 
 **Author:** OMENScan
 
-**Last Updated:** 2022-06-20
-
-**Description:** Windows Live Artifacts Acquisition Scripting Framework
-
 ---
 
-## ACLight
+## acquirepi
 
-**Repository:** [https://github.com/cyberark/ACLight](https://github.com/cyberark/ACLight)
+**Repository:** [[https://github.com/plonxyz/acquirepi](https://github.com/plonxyz/acquirepi)]([https://github.com/plonxyz/acquirepi](https://github.com/plonxyz/acquirepi))
 
-**Author:** cyberark
-
-**Last Updated:** 2019-09-09
-
-**Description:** A tool for advanced discovery of Privileged Accounts - including Shadow Admins. ACLight2 is the improved version of the tool.
-
----
-
-## acquire
-
-**Repository:** [https://github.com/fox-it/acquire](https://github.com/fox-it/acquire)
-
-**Author:** fox-it
-
-**Last Updated:** 2026-02-11
-
-**Description:** `acquire` is a tool to quickly gather forensic artifacts from disk images or a live system into a lightweight container. This makes `acquire` an excellent tool to, among others, speedup the process of digital forensic triage.
-
----
-
-## acra
-
-**Repository:** [https://github.com/cossacklabs/acra](https://github.com/cossacklabs/acra)
-
-**Author:** cossacklabs
-
-**Last Updated:** 2025-12-05
-
-**Description:**  <a href="https://www.cossacklabs.com/acra/">
+**Author:** plonxyz
 
 ---
 
 ## acstore
 
-**Repository:** [https://github.com/log2timeline/acstore](https://github.com/log2timeline/acstore)
+**Repository:** [[https://github.com/log2timeline/acstore](https://github.com/log2timeline/acstore)]([https://github.com/log2timeline/acstore](https://github.com/log2timeline/acstore))
 
 **Author:** log2timeline
-
-**Last Updated:** 2025-12-22
-
-**Description:** ACStore, or Attribute Container Storage, provides a stand-alone implementation to read and write Attribute Container stores, such as Plaso storage files.
 
 ---
 
 ## AD-control-paths
 
-**Repository:** [https://github.com/ANSSI-FR/AD-control-paths](https://github.com/ANSSI-FR/AD-control-paths)
+**Repository:** [[https://github.com/ANSSI-FR/AD-control-paths](https://github.com/ANSSI-FR/AD-control-paths)]([https://github.com/ANSSI-FR/AD-control-paths](https://github.com/ANSSI-FR/AD-control-paths))
 
 **Author:** ANSSI-FR
-
-**Last Updated:** 2020-01-07
-
-**Description:** Control paths in Active Directory are an aggregation of "control relations" between entities of the domain (users, computers, groups, GPO, containers, etc.) which can be visualized as graphs (such as above) and whose purpose is to answer questions like *"Who can get 'Domain Admins' privileges ?"*...
-
----
-
-## ADAPE-Script
-
-**Repository:** [https://github.com/hausec/ADAPE-Script](https://github.com/hausec/ADAPE-Script)
-
-**Author:** hausec
-
-**Last Updated:** 2020-07-10
-
-**Description:** I take absolutely no credit for the modules used in this script. Thanks to the original authors for the modules used in this script, credits and links below.
 
 ---
 
 ## ADBHoney
 
-**Repository:** [https://github.com/huuck/ADBHoney](https://github.com/huuck/ADBHoney)
+**Repository:** [[https://github.com/huuck/ADBHoney](https://github.com/huuck/ADBHoney)]([https://github.com/huuck/ADBHoney](https://github.com/huuck/ADBHoney))
 
 **Author:** huuck
 
-**Last Updated:** 2025-03-05
+---
 
-**Description:** Low interaction honeypot designed for Android Debug Bridge over TCP/IP
+## AdoreForAndroid
+
+**Repository:** [[https://github.com/juxing/AdoreForAndroid](https://github.com/juxing/AdoreForAndroid)]([https://github.com/juxing/AdoreForAndroid](https://github.com/juxing/AdoreForAndroid))
+
+**Author:** juxing
 
 ---
 
-## adbsploit
+## aff4
 
-**Repository:** [https://github.com/mesquidar/adbsploit](https://github.com/mesquidar/adbsploit)
+**Repository:** [[https://github.com/py4n6/aff4](https://github.com/py4n6/aff4)]([https://github.com/py4n6/aff4](https://github.com/py4n6/aff4))
 
-**Author:** mesquidar
-
-**Last Updated:** 2023-03-12
-
-**Description:** A python based tool for exploiting and managing Android devices via ADB
+**Author:** py4n6
 
 ---
 
-## AFE
+## ai_for_the_win
 
-**Repository:** [https://github.com/appknox/AFE](https://github.com/appknox/AFE)
+**Repository:** [[https://github.com/depalmar/ai_for_the_win](https://github.com/depalmar/ai_for_the_win)]([https://github.com/depalmar/ai_for_the_win](https://github.com/depalmar/ai_for_the_win))
 
-**Author:** appknox
-
-**Last Updated:** 2015-09-27
-
-**Description:** Android Framework for Exploitation, is a framework for exploiting android based devices and applications.
-
----
-
-## afterglow-cloud
-
-**Repository:** [https://github.com/ayrus/afterglow-cloud](https://github.com/ayrus/afterglow-cloud)
-
-**Author:** ayrus
-
-**Last Updated:** 2013-05-04
-
-**Description:** AfterGlow-Cloud
-
----
-
-## agentic-radar
-
-**Repository:** [https://github.com/splx-ai/agentic-radar](https://github.com/splx-ai/agentic-radar)
-
-**Author:** splx-ai
-
-**Last Updated:** 2025-11-27
-
-**Description:** (No description available)
----
-
-## AgentKB-public
-
-**Repository:** [https://github.com/j-w-code/AgentKB-public](https://github.com/j-w-code/AgentKB-public)
-
-**Author:** j-w-code
-
-**Last Updated:** 2026-02-04
-
-**Description:** **Governance-first knowledge infrastructure for AI agents.**
+**Author:** depalmar
 
 ---
 
 ## airgeddon
 
-**Repository:** [https://github.com/v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon)
+**Repository:** [[https://github.com/v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon)]([https://github.com/v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon))
 
 **Author:** v1s1t0r1sh3r3
-
-**Last Updated:** 2026-01-30
-
-**Description:** > This is a multi-use bash script for Linux systems to audit wireless networks.
 
 ---
 
 ## al-khaser
 
-**Repository:** [https://github.com/LordNoteworthy/al-khaser](https://github.com/LordNoteworthy/al-khaser)
+**Repository:** [[https://github.com/LordNoteworthy/al-khaser](https://github.com/LordNoteworthy/al-khaser)]([https://github.com/LordNoteworthy/al-khaser](https://github.com/LordNoteworthy/al-khaser))
 
 **Author:** LordNoteworthy
-
-**Last Updated:** 2026-02-01
-
-**Description:** - [Introduction](#introduction) - [Possible uses](#uses) - [Features](#features) - [Anti-debugging attacks](#antidebug) - [Anti-Dumping](#antidump) - [Timing Attacks](#timingattack) - [Human Interaction](#antidump)
-
----
-
-## ALEAPP
-
-**Repository:** [https://github.com/abrignoni/ALEAPP](https://github.com/abrignoni/ALEAPP)
-
-**Author:** abrignoni
-
-**Last Updated:** 2026-02-09
-
-**Description:** If you want to contribute hit me up on twitter: https://twitter.com/AlexisBrignoni
 
 ---
 
 ## aleph
 
-**Repository:** [https://github.com/merces/aleph](https://github.com/merces/aleph)
+**Repository:** [[https://github.com/merces/aleph](https://github.com/merces/aleph)]([https://github.com/merces/aleph](https://github.com/merces/aleph))
 
 **Author:** merces
 
-**Last Updated:** 2020-03-17
+---
 
-**Description:** Aleph is designed to pipeline the analysis of malware samples. It has a series of collectors that will gather samples from many sources and shove them into the pipeline. The sample manager has a series of plugins that are ran against the sample and returns found data into JSON form.
+## ALEX
+
+**Repository:** [[https://github.com/prosch88/ALEX](https://github.com/prosch88/ALEX)]([https://github.com/prosch88/ALEX](https://github.com/prosch88/ALEX))
+
+**Author:** prosch88
 
 ---
 
-## AllAboutBugBounty
+## allsafe
 
-**Repository:** [https://github.com/daffainfo/AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty)
+**Repository:** [[https://github.com/t0thkr1s/allsafe](https://github.com/t0thkr1s/allsafe)]([https://github.com/t0thkr1s/allsafe](https://github.com/t0thkr1s/allsafe))
 
-**Author:** daffainfo
-
-**Last Updated:** 2023-05-29
-
-**Description:** These are my bug bounty notes that I have gathered from various sources, you can contribute to this repository too!
+**Author:** t0thkr1s
 
 ---
 
 ## allstar
 
-**Repository:** [https://github.com/ossf/allstar](https://github.com/ossf/allstar)
+**Repository:** [[https://github.com/ossf/allstar](https://github.com/ossf/allstar)]([https://github.com/ossf/allstar](https://github.com/ossf/allstar))
 
 **Author:** ossf
 
-**Last Updated:** 2026-02-09
-
-**Description:** (No description available)
 ---
 
-## alterix
+## amun
 
-**Repository:** [https://github.com/mtnmunuklu/alterix](https://github.com/mtnmunuklu/alterix)
+**Repository:** [[https://github.com/zeroq/amun](https://github.com/zeroq/amun)]([https://github.com/zeroq/amun](https://github.com/zeroq/amun))
 
-**Author:** mtnmunuklu
-
-**Last Updated:** 2025-01-26
-
-**Description:** (No description available)
----
-
-## amass
-
-**Repository:** [https://github.com/owasp-amass/amass](https://github.com/owasp-amass/amass)
-
-**Author:** owasp-amass
-
-**Last Updated:** 2025-09-04
-
-**Description:** The OWASP Amass Project performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques.
+**Author:** zeroq
 
 ---
 
-## Amass
+## AndBug
 
-**Repository:** [https://github.com/OWASP/Amass](https://github.com/OWASP/Amass)
+**Repository:** [[https://github.com/swdunlop/AndBug](https://github.com/swdunlop/AndBug)]([https://github.com/swdunlop/AndBug](https://github.com/swdunlop/AndBug))
 
-**Author:** OWASP
-
-**Last Updated:** 2025-09-04
-
-**Description:** The OWASP Amass Project performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques.
-
----
-
-## amber
-
-**Repository:** [https://github.com/EgeBalci/amber](https://github.com/EgeBalci/amber)
-
-**Author:** EgeBalci
-
-**Last Updated:** 2024-02-22
-
-**Description:** (No description available)
----
-
-## AMExtractor
-
-**Repository:** [https://github.com/ir193/AMExtractor](https://github.com/ir193/AMExtractor)
-
-**Author:** ir193
-
-**Last Updated:** 2016-01-10
-
-**Description:** In short, AMExtractor can dump out the physical content of your Android device even without kernel source code.
-
----
-
-## AnalyzePDF
-
-**Repository:** [https://github.com/hiddenillusion/AnalyzePDF](https://github.com/hiddenillusion/AnalyzePDF)
-
-**Author:** hiddenillusion
-
-**Last Updated:** 2014-05-22
-
-**Description:** No README found
-
----
-
-## AnalyzePE
-
-**Repository:** [https://github.com/hiddenillusion/AnalyzePE](https://github.com/hiddenillusion/AnalyzePE)
-
-**Author:** hiddenillusion
-
-**Last Updated:** 2014-01-23
-
-**Description:** No README found
+**Author:** swdunlop
 
 ---
 
 ## andriller
 
-**Repository:** [https://github.com/den4uk/andriller](https://github.com/den4uk/andriller)
+**Repository:** [[https://github.com/den4uk/andriller](https://github.com/den4uk/andriller)]([https://github.com/den4uk/andriller](https://github.com/den4uk/andriller))
 
 **Author:** den4uk
-
-**Last Updated:** 2022-06-27
-
-**Description:** Andriller CE (Community Edition)
 
 ---
 
 ## AndroBugs_Framework
 
-**Repository:** [https://github.com/AndroBugs/AndroBugs_Framework](https://github.com/AndroBugs/AndroBugs_Framework)
+**Repository:** [[https://github.com/AndroBugs/AndroBugs_Framework](https://github.com/AndroBugs/AndroBugs_Framework)]([https://github.com/AndroBugs/AndroBugs_Framework](https://github.com/AndroBugs/AndroBugs_Framework))
 
 **Author:** AndroBugs
-
-**Last Updated:** 2015-11-11
-
-**Description:** AndroBugs Framework is an Android vulnerability analysis system that helps developers or hackers find potential security vulnerabilities in Android applications. No splendid GUI interface, but the most efficient (less than 2 minutes per scan in average) and more accurate.
 
 ---
 
 ## AndroFuzz
 
-**Repository:** [https://github.com/jonmetz/AndroFuzz](https://github.com/jonmetz/AndroFuzz)
+**Repository:** [[https://github.com/jonmetz/AndroFuzz](https://github.com/jonmetz/AndroFuzz)]([https://github.com/jonmetz/AndroFuzz](https://github.com/jonmetz/AndroFuzz))
 
 **Author:** jonmetz
 
-**Last Updated:** 2014-09-04
+---
 
-**Description:** A simple file format fuzzer for android. Used by me to fuzz pdf readers, but should work for any file format.
+## AndroGoat
+
+**Repository:** [[https://github.com/satishpatnayak/AndroGoat](https://github.com/satishpatnayak/AndroGoat)]([https://github.com/satishpatnayak/AndroGoat](https://github.com/satishpatnayak/AndroGoat))
+
+**Author:** satishpatnayak
 
 ---
 
 ## androguard
 
-**Repository:** [https://github.com/androguard/androguard](https://github.com/androguard/androguard)
+**Repository:** [[https://github.com/androguard/androguard](https://github.com/androguard/androguard)]([https://github.com/androguard/androguard](https://github.com/androguard/androguard))
 
 **Author:** androguard
 
-**Last Updated:** 2026-01-12
+---
 
-**Description:** Do you think your phone has been pwned ? please check [IsMyPhonePwned](https://github.com/IsMyPhonePwned)
+## androguard-yara
+
+**Repository:** [[https://github.com/MindMac/androguard-yara](https://github.com/MindMac/androguard-yara)]([https://github.com/MindMac/androguard-yara](https://github.com/MindMac/androguard-yara))
+
+**Author:** MindMac
+
+---
+
+## android-classyshark
+
+**Repository:** [[https://github.com/google/android-classyshark](https://github.com/google/android-classyshark)]([https://github.com/google/android-classyshark](https://github.com/google/android-classyshark))
+
+**Author:** google
+
+---
+
+## Android-KillPermAndSigChecks
+
+**Repository:** [[https://github.com/iSECPartners/Android-KillPermAndSigChecks](https://github.com/iSECPartners/Android-KillPermAndSigChecks)]([https://github.com/iSECPartners/Android-KillPermAndSigChecks](https://github.com/iSECPartners/Android-KillPermAndSigChecks))
+
+**Author:** iSECPartners
+
+---
+
+## android-lkms
+
+**Repository:** [[https://github.com/strazzere/android-lkms](https://github.com/strazzere/android-lkms)]([https://github.com/strazzere/android-lkms](https://github.com/strazzere/android-lkms))
+
+**Author:** strazzere
+
+---
+
+## android-malware
+
+**Repository:** [[https://github.com/ashishb/android-malware](https://github.com/ashishb/android-malware)]([https://github.com/ashishb/android-malware](https://github.com/ashishb/android-malware))
+
+**Author:** ashishb
+
+---
+
+## Android-OpenDebug
+
+**Repository:** [[https://github.com/iSECPartners/Android-OpenDebug](https://github.com/iSECPartners/Android-OpenDebug)]([https://github.com/iSECPartners/Android-OpenDebug](https://github.com/iSECPartners/Android-OpenDebug))
+
+**Author:** iSECPartners
+
+---
+
+## android-security-awesome
+
+**Repository:** [[https://github.com/ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome)]([https://github.com/ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome))
+
+**Author:** ashishb
+
+---
+
+## Android-Security-Reference
+
+**Repository:** [[https://github.com/doridori/Android-Security-Reference](https://github.com/doridori/Android-Security-Reference)]([https://github.com/doridori/Android-Security-Reference](https://github.com/doridori/Android-Security-Reference))
+
+**Author:** doridori
+
+---
+
+## Android-Storage-Extractor
+
+**Repository:** [[https://github.com/51j0/Android-Storage-Extractor](https://github.com/51j0/Android-Storage-Extractor)]([https://github.com/51j0/Android-Storage-Extractor](https://github.com/51j0/Android-Storage-Extractor))
+
+**Author:** 51j0
+
+---
+
+## android_application_analyzer
+
+**Repository:** [[https://github.com/NotSoSecure/android_application_analyzer](https://github.com/NotSoSecure/android_application_analyzer)]([https://github.com/NotSoSecure/android_application_analyzer](https://github.com/NotSoSecure/android_application_analyzer))
+
+**Author:** NotSoSecure
+
+---
+
+## Andromeda
+
+**Repository:** [[https://github.com/secrary/Andromeda](https://github.com/secrary/Andromeda)]([https://github.com/secrary/Andromeda](https://github.com/secrary/Andromeda))
+
+**Author:** secrary
 
 ---
 
 ## AndroPyTool
 
-**Repository:** [https://github.com/alexMyG/AndroPyTool](https://github.com/alexMyG/AndroPyTool)
+**Repository:** [[https://github.com/alexMyG/AndroPyTool](https://github.com/alexMyG/AndroPyTool)]([https://github.com/alexMyG/AndroPyTool](https://github.com/alexMyG/AndroPyTool))
 
 **Author:** alexMyG
-
-**Last Updated:** 2020-07-03
-
-**Description:** This is a tool for extracting static and dynamic features from Android APKs. It combines different well-known Android apps analysis tools such as DroidBox, FlowDroid, Strace, AndroGuard or VirusTotal analysis. Provided a source directory containing APK files, AndroPyTool applies all these tools t...
 
 ---
 
 ## androwarn
 
-**Repository:** [https://github.com/maaaaz/androwarn](https://github.com/maaaaz/androwarn)
+**Repository:** [[https://github.com/maaaaz/androwarn](https://github.com/maaaaz/androwarn)]([https://github.com/maaaaz/androwarn](https://github.com/maaaaz/androwarn))
 
 **Author:** maaaaz
-
-**Last Updated:** 2019-05-30
-
-**Description:** Yet another static code analyzer for malicious Android applications
 
 ---
 
 ## angr
 
-**Repository:** [https://github.com/angr/angr](https://github.com/angr/angr)
+**Repository:** [[https://github.com/angr/angr](https://github.com/angr/angr)]([https://github.com/angr/angr](https://github.com/angr/angr))
 
 **Author:** angr
-
-**Last Updated:** 2026-02-11
-
-**Description:** angr is a platform-agnostic binary analysis framework. It is brought to you by [the Computer Security Lab at UC Santa Barbara](https://seclab.cs.ucsb.edu), [SEFCOM at Arizona State University](https://sefcom.asu.edu), their associated CTF team, [Shellphish](https://shellphish.net), the open sourc...
 
 ---
 
 ## ansible-os-hardening
 
-**Repository:** [https://github.com/dev-sec/ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening)
+**Repository:** [[https://github.com/dev-sec/ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening)]([https://github.com/dev-sec/ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening))
 
 **Author:** dev-sec
-
-**Last Updated:** 2026-01-22
-
-**Description:** This collection provides battle tested hardening for:
 
 ---
 
 ## ansible-relayor
 
-**Repository:** [https://github.com/nusenu/ansible-relayor](https://github.com/nusenu/ansible-relayor)
+**Repository:** [[https://github.com/nusenu/ansible-relayor](https://github.com/nusenu/ansible-relayor)]([https://github.com/nusenu/ansible-relayor](https://github.com/nusenu/ansible-relayor))
 
 **Author:** nusenu
-
-**Last Updated:** 2025-10-14
-
-**Description:** ansible-relayor This is an ansible role for tor relay operators. An introduction to relayor can be found **[here](https://medium.com/@nusenu/deploying-tor-relays-with-ansible-6612593fa34d)**.
 
 ---
 
 ## antinet
 
-**Repository:** [https://github.com/0xd4d/antinet](https://github.com/0xd4d/antinet)
+**Repository:** [[https://github.com/0xd4d/antinet](https://github.com/0xd4d/antinet)]([https://github.com/0xd4d/antinet](https://github.com/0xd4d/antinet))
 
 **Author:** 0xd4d
 
-**Last Updated:** 2014-04-14
+---
 
-**Description:** Code to prevent a managed .NET debugger/profiler from working
+## apfs-fuse
+
+**Repository:** [[https://github.com/sgan81/apfs-fuse](https://github.com/sgan81/apfs-fuse)]([https://github.com/sgan81/apfs-fuse](https://github.com/sgan81/apfs-fuse))
+
+**Author:** sgan81
 
 ---
 
-## Apache2-Mod-Rewrite-Setup
+## ApkAnalyser
 
-**Repository:** [https://github.com/n0pe-sled/Apache2-Mod-Rewrite-Setup](https://github.com/n0pe-sled/Apache2-Mod-Rewrite-Setup)
+**Repository:** [[https://github.com/sonyxperiadev/ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser)]([https://github.com/sonyxperiadev/ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser))
 
-**Author:** n0pe-sled
-
-**Last Updated:** 2017-04-21
-
-**Description:** Setting up infrastructure for a Red Team engagement can be time consuming and difficult.  [Jeff Dimmock](https://twitter.com/bluscreenofjeff) and [Steve Borosh](https://twitter.com/424f424f) have done a lot of work to make this process easier and more transparent.  They gave a [great presentation...
+**Author:** sonyxperiadev
 
 ---
 
-## apk2gold
+## APKiD
 
-**Repository:** [https://github.com/lxdvs/apk2gold](https://github.com/lxdvs/apk2gold)
+**Repository:** [[https://github.com/rednaga/APKiD](https://github.com/rednaga/APKiD)]([https://github.com/rednaga/APKiD](https://github.com/rednaga/APKiD))
 
-**Author:** lxdvs
-
-**Last Updated:** 2024-03-04
-
-**Description:** I got pretty tired of decompiling Android apps with a bunch of steps that I had to remember all the time. It involved a lot of apktool, dex2jar, and jd-gui; it still confuses me.
+**Author:** rednaga
 
 ---
 
 ## apkinspector
 
-**Repository:** [https://github.com/honeynet/apkinspector](https://github.com/honeynet/apkinspector)
+**Repository:** [[https://github.com/honeynet/apkinspector](https://github.com/honeynet/apkinspector)]([https://github.com/honeynet/apkinspector](https://github.com/honeynet/apkinspector))
 
 **Author:** honeynet
-
-**Last Updated:** 2013-02-24
-
-**Description:** AndroidAnalysisGUI
-
----
-
-## APKLab
-
-**Repository:** [https://github.com/APKLab/APKLab](https://github.com/APKLab/APKLab)
-
-**Author:** APKLab
-
-**Last Updated:** 2025-11-11
-
-**Description:**  <a href="https://apklab.surendrajat.xyz"> 
 
 ---
 
 ## apkleaks
 
-**Repository:** [https://github.com/dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks)
+**Repository:** [[https://github.com/dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks)]([https://github.com/dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks))
 
 **Author:** dwisiswant0
-
-**Last Updated:** 2025-08-21
-
-**Description:** Scanning APK file for URIs, endpoints & secrets.
 
 ---
 
 ## Apktool
 
-**Repository:** [https://github.com/iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)
+**Repository:** [[https://github.com/iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)]([https://github.com/iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool))
 
 **Author:** iBotPeaches
-
-**Last Updated:** 2026-02-10
-
-**Description:** _This is the repository for Apktool. The website is at the [apktool.org](https://github.com/iBotPeaches/apktool.org) repository._
 
 ---
 
 ## apkx
 
-**Repository:** [https://github.com/b-mueller/apkx](https://github.com/b-mueller/apkx)
+**Repository:** [[https://github.com/b-mueller/apkx](https://github.com/b-mueller/apkx)]([https://github.com/b-mueller/apkx](https://github.com/b-mueller/apkx))
 
 **Author:** b-mueller
-
-**Last Updated:** 2021-01-19
-
-**Description:** A Python wrapper to popular free dex converters and Java decompilers. Extracts Java source code directly from the APK. Useful for experimenting with different converters/decompilers without having to worry about classpath settings and command line args.
-
----
-
-## appencryptor
-
-**Repository:** [https://github.com/AlanQuatermain/appencryptor](https://github.com/AlanQuatermain/appencryptor)
-
-**Author:** AlanQuatermain
-
-**Last Updated:** 2009-04-19
-
-**Description:** No README found
 
 ---
 
 ## Applied-Crypto-Hardening
 
-**Repository:** [https://github.com/BetterCrypto/Applied-Crypto-Hardening](https://github.com/BetterCrypto/Applied-Crypto-Hardening)
+**Repository:** [[https://github.com/BetterCrypto/Applied-Crypto-Hardening](https://github.com/BetterCrypto/Applied-Crypto-Hardening)]([https://github.com/BetterCrypto/Applied-Crypto-Hardening](https://github.com/BetterCrypto/Applied-Crypto-Hardening))
 
 **Author:** BetterCrypto
-
-**Last Updated:** 2021-09-27
-
-**Description:** First off: you are welcome to help us! Every reviewer, committer and person interested in discussing our document and changes is a valuable addition to the project. Everybody is invited to work on this document and share their experience and expertise with us or ask questions if something isn't c...
 
 ---
 
 ## appmon
 
-**Repository:** [https://github.com/dpnishant/appmon](https://github.com/dpnishant/appmon)
+**Repository:** [[https://github.com/dpnishant/appmon](https://github.com/dpnishant/appmon)]([https://github.com/dpnishant/appmon](https://github.com/dpnishant/appmon))
 
 **Author:** dpnishant
-
-**Last Updated:** 2022-11-08
-
-**Description:** Welcome to AppMon!
-
----
-
-## aquatone
-
-**Repository:** [https://github.com/michenriksen/aquatone](https://github.com/michenriksen/aquatone)
-
-**Author:** michenriksen
-
-**Last Updated:** 2019-05-19
-
-**Description:** Aquatone is a tool for visual inspection of websites across a large amount of hosts and is convenient for quickly gaining an overview of HTTP-based attack surface.
 
 ---
 
 ## arctic-swallow
 
-**Repository:** [https://github.com/ajackal/arctic-swallow](https://github.com/ajackal/arctic-swallow)
+**Repository:** [[https://github.com/ajackal/arctic-swallow](https://github.com/ajackal/arctic-swallow)]([https://github.com/ajackal/arctic-swallow](https://github.com/ajackal/arctic-swallow))
 
 **Author:** ajackal
-
-**Last Updated:** 2017-10-30
-
-**Description:** a low interaction honeypot.
-
----
-
-## arctic_shift
-
-**Repository:** [https://github.com/ArthurHeitmann/arctic_shift](https://github.com/ArthurHeitmann/arctic_shift)
-
-**Author:** ArthurHeitmann
-
-**Last Updated:** 2026-02-07
-
-**Description:** Making Reddit data accessible to researchers, moderators and everyone else.
-
----
-
-## ArkhamMirror
-
-**Repository:** [https://github.com/mantisfury/ArkhamMirror](https://github.com/mantisfury/ArkhamMirror)
-
-**Author:** mantisfury
-
-**Last Updated:** 2026-01-25
-
-**Description:** (No description available)
----
-
-## arkime
-
-**Repository:** [https://github.com/arkime/arkime](https://github.com/arkime/arkime)
-
-**Author:** arkime
-
-**Last Updated:** 2026-02-12
-
-**Description:** > Arkime is a large scale, open-source network analysis and packet capture system.
-
----
-
-## Arsenal-Image-Mounter
-
-**Repository:** [https://github.com/ArsenalRecon/Arsenal-Image-Mounter](https://github.com/ArsenalRecon/Arsenal-Image-Mounter)
-
-**Author:** ArsenalRecon
-
-**Last Updated:** 2026-02-12
-
-**Description:** Arsenal-Image-Mounter
-
----
-
-## Artemis
-
-**Repository:** [https://github.com/CERT-Polska/Artemis](https://github.com/CERT-Polska/Artemis)
-
-**Author:** CERT-Polska
-
-**Last Updated:** 2026-02-08
-
-**Description:** <source media="(prefers-color-scheme: dark)" srcset="static/images/logo_dark.png">  </picture>
 
 ---
 
 ## artifactcollector
 
-**Repository:** [https://github.com/forensicanalysis/artifactcollector](https://github.com/forensicanalysis/artifactcollector)
+**Repository:** [[https://github.com/forensicanalysis/artifactcollector](https://github.com/forensicanalysis/artifactcollector)]([https://github.com/forensicanalysis/artifactcollector](https://github.com/forensicanalysis/artifactcollector))
 
 **Author:** forensicanalysis
 
-**Last Updated:** 2025-05-07
+---
 
-**Description:** artifactcollector
+## ArtifactExtractor
+
+**Repository:** [[https://github.com/Silv3rHorn/ArtifactExtractor](https://github.com/Silv3rHorn/ArtifactExtractor)]([https://github.com/Silv3rHorn/ArtifactExtractor](https://github.com/Silv3rHorn/ArtifactExtractor))
+
+**Author:** Silv3rHorn
 
 ---
 
 ## artifacts
 
-**Repository:** [https://github.com/ForensicArtifacts/artifacts](https://github.com/ForensicArtifacts/artifacts)
+**Repository:** [[https://github.com/ForensicArtifacts/artifacts](https://github.com/ForensicArtifacts/artifacts)]([https://github.com/ForensicArtifacts/artifacts](https://github.com/ForensicArtifacts/artifacts))
 
 **Author:** ForensicArtifacts
-
-**Last Updated:** 2026-02-11
-
-**Description:** A free, community-sourced, machine-readable knowledge base of digital forensic artifacts that the world can use both as an information source and within other
-
----
-
-## artillery
-
-**Repository:** [https://github.com/BinaryDefense/artillery](https://github.com/BinaryDefense/artillery)
-
-**Author:** BinaryDefense
-
-**Last Updated:** 2020-02-05
-
-**Description:** Project Artillery - A project by Binary Defense Systems (https://www.binarydefense.com).
 
 ---
 
 ## arya
 
-**Repository:** [https://github.com/claroty/arya](https://github.com/claroty/arya)
+**Repository:** [[https://github.com/claroty/arya](https://github.com/claroty/arya)]([https://github.com/claroty/arya](https://github.com/claroty/arya))
 
 **Author:** claroty
-
-**Last Updated:** 2022-12-27
-
-**Description:** Arya is a unique tool that produces pseudo-malicious files meant to trigger YARA rules. You can think of it like a reverse YARA because it does exactly the opposite - it creates files that matches your rules.
-
----
-
-## attifyos
-
-**Repository:** [https://github.com/adi0x90/attifyos](https://github.com/adi0x90/attifyos)
-
-**Author:** adi0x90
-
-**Last Updated:** 2020-03-18
-
-**Description:** AttifyOS is a distro intended to help you perform security assessment and penetration testing of Internet of Things (IoT) devices. It saves you a lot of time by providing a pre-configured environment with all the necessary tools loaded. The new version is based on Ubuntu 18.04 64-Bit - that also ...
 
 ---
 
 ## authoscope
 
-**Repository:** [https://github.com/kpcyrd/authoscope](https://github.com/kpcyrd/authoscope)
+**Repository:** [[https://github.com/kpcyrd/authoscope](https://github.com/kpcyrd/authoscope)]([https://github.com/kpcyrd/authoscope](https://github.com/kpcyrd/authoscope))
 
 **Author:** kpcyrd
-
-**Last Updated:** 2022-03-24
-
-**Description:** [crates]:       https://crates.io/crates/authoscope
-
----
-
-## automactc
-
-**Repository:** [https://github.com/CrowdStrike/automactc](https://github.com/CrowdStrike/automactc)
-
-**Author:** CrowdStrike
-
-**Last Updated:** 2021-06-30
-
-**Description:** This is a modular forensic triage collection framework designed to access various forensic artifacts on macOS, parse them, and present them in formats viable for analysis. The output may provide valuable insights for incident response in a macOS environment. Automactc can be run against a live sy...
-
----
-
-## AutoSploit
-
-**Repository:** [https://github.com/NullArray/AutoSploit](https://github.com/NullArray/AutoSploit)
-
-**Author:** NullArray
-
-**Last Updated:** 2020-03-30
-
-**Description:** (No description available)
----
-
-## avet
-
-**Repository:** [https://github.com/govolution/avet](https://github.com/govolution/avet)
-
-**Author:** govolution
-
-**Last Updated:** 2025-04-23
-
-**Description:** AVET is an AntiVirus Evasion Tool, which was developed for making life easier for pentesters and for experimenting with antivirus evasion techniques, as well as other methods used by malicious software.
 
 ---
 
 ## avml
 
-**Repository:** [https://github.com/microsoft/avml](https://github.com/microsoft/avml)
+**Repository:** [[https://github.com/microsoft/avml](https://github.com/microsoft/avml)]([https://github.com/microsoft/avml](https://github.com/microsoft/avml))
 
 **Author:** microsoft
 
-**Last Updated:** 2026-02-03
-
-**Description:** *A portable volatile memory acquisition tool for Linux.*
-
----
-
-## awesome
-
-**Repository:** [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-
-**Author:** sindresorhus
-
-**Last Updated:** 2026-01-28
-
-**Description:** (No description available)
 ---
 
 ## awesome-analytics
 
-**Repository:** [https://github.com/0xnr/awesome-analytics](https://github.com/0xnr/awesome-analytics)
+**Repository:** [[https://github.com/0xnr/awesome-analytics](https://github.com/0xnr/awesome-analytics)]([https://github.com/0xnr/awesome-analytics](https://github.com/0xnr/awesome-analytics))
 
 **Author:** 0xnr
 
-**Last Updated:** 2026-02-11
+---
 
-**Description:** A curated list of awesome analytics platforms, resources and other awesomeness. Inspired by [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata).
+## awesome-anti-forensic
+
+**Repository:** [[https://github.com/remiflavien1/awesome-anti-forensic](https://github.com/remiflavien1/awesome-anti-forensic)]([https://github.com/remiflavien1/awesome-anti-forensic](https://github.com/remiflavien1/awesome-anti-forensic))
+
+**Author:** remiflavien1
 
 ---
 
 ## awesome-awesomeness
 
-**Repository:** [https://github.com/bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+**Repository:** [[https://github.com/bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)]([https://github.com/bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness))
 
 **Author:** bayandin
-
-**Last Updated:** 2022-03-24
-
-**Description:** A curated list of amazingly awesome awesomeness. - Programming Languages Package Manager - [Package-Manager](https://github.com/damon-kwok/awesome-package-manager)
 
 ---
 
 ## awesome-bluetooth-security
 
-**Repository:** [https://github.com/engn33r/awesome-bluetooth-security](https://github.com/engn33r/awesome-bluetooth-security)
+**Repository:** [[https://github.com/engn33r/awesome-bluetooth-security](https://github.com/engn33r/awesome-bluetooth-security)]([https://github.com/engn33r/awesome-bluetooth-security](https://github.com/engn33r/awesome-bluetooth-security))
 
 **Author:** engn33r
-
-**Last Updated:** 2025-10-03
-
-**Description:** This list links to useful references for anyone working with Bluetooth BR/EDR/LE or Mesh security.
 
 ---
 
 ## awesome-censys-queries
 
-**Repository:** [https://github.com/thehappydinoa/awesome-censys-queries](https://github.com/thehappydinoa/awesome-censys-queries)
+**Repository:** [[https://github.com/thehappydinoa/awesome-censys-queries](https://github.com/thehappydinoa/awesome-censys-queries)]([https://github.com/thehappydinoa/awesome-censys-queries](https://github.com/thehappydinoa/awesome-censys-queries))
 
 **Author:** thehappydinoa
-
-**Last Updated:** 2025-03-27
-
-**Description:** A collection of fascinating and bizarre [Censys Search](https://search.censys.io?ref=awesome-censys-queries) queries.
 
 ---
 
 ## awesome-crawler
 
-**Repository:** [https://github.com/BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler)
+**Repository:** [[https://github.com/BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler)]([https://github.com/BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler))
 
 **Author:** BruceDone
 
-**Last Updated:** 2023-10-27
+---
 
-**Description:** A collection of awesome web crawler,spider and resources in different languages.
+## awesome-cve-poc
+
+**Repository:** [[https://github.com/qazbnm456/awesome-cve-poc](https://github.com/qazbnm456/awesome-cve-poc)]([https://github.com/qazbnm456/awesome-cve-poc](https://github.com/qazbnm456/awesome-cve-poc))
+
+**Author:** qazbnm456
 
 ---
 
 ## awesome-cyber-skills
 
-**Repository:** [https://github.com/joe-shenouda/awesome-cyber-skills](https://github.com/joe-shenouda/awesome-cyber-skills)
+**Repository:** [[https://github.com/joe-shenouda/awesome-cyber-skills](https://github.com/joe-shenouda/awesome-cyber-skills)]([https://github.com/joe-shenouda/awesome-cyber-skills](https://github.com/joe-shenouda/awesome-cyber-skills))
 
 **Author:** joe-shenouda
-
-**Last Updated:** 2024-07-02
-
-**Description:** **A curated list of hacking environments where you can train your cyber skills free, legally and safely**
-
----
-
-## awesome-cybersecurity-blueteam
-
-**Repository:** [https://github.com/fabacab/awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam)
-
-**Author:** fabacab
-
-**Last Updated:** 2024-06-17
-
-**Description:** > A collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
-
----
-
-## awesome-devsecops
-
-**Repository:** [https://github.com/devsecops/awesome-devsecops](https://github.com/devsecops/awesome-devsecops)
-
-**Author:** devsecops
-
-**Last Updated:** 2021-10-20
-
-**Description:** Inspired by the awesome-* trend on GitHub. This is a collection of documents, presentations, videos, training materials, tools, services and general leadership that support the DevSecOps mission.  These are the essential building blocks and tidbits that can help you to arrange for a DevSecOps exp...
-
----
-
-## awesome-dotnet
-
-**Repository:** [https://github.com/quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet)
-
-**Author:** quozd
-
-**Last Updated:** 2025-09-16
-
-**Description:** A collection of awesome .NET libraries, tools, frameworks, and software.
 
 ---
 
 ## awesome-electronjs-hacking
 
-**Repository:** [https://github.com/doyensec/awesome-electronjs-hacking](https://github.com/doyensec/awesome-electronjs-hacking)
+**Repository:** [[https://github.com/doyensec/awesome-electronjs-hacking](https://github.com/doyensec/awesome-electronjs-hacking)]([https://github.com/doyensec/awesome-electronjs-hacking](https://github.com/doyensec/awesome-electronjs-hacking))
 
 **Author:** doyensec
 
-**Last Updated:** 2025-05-14
-
-**Description:** This list aims to cover Electron.js security related topics.
-
 ---
 
-## awesome-executable-packing
+## awesome-honeypots
 
-**Repository:** [https://github.com/dhondta/awesome-executable-packing](https://github.com/dhondta/awesome-executable-packing)
+**Repository:** [[https://github.com/paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots)]([https://github.com/paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots))
 
-**Author:** dhondta
-
-**Last Updated:** 2026-01-03
-
-**Description:** > A curated list of resources related to executable packing (including Portable Executable, Executable and Linkable Format and others) containing references to books, papers, blog posts, and other written resources but also packers and tools for detecting packers and unpacking executables.
-
----
-
-## awesome-hacking
-
-**Repository:** [https://github.com/carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking)
-
-**Author:** carpedm20
-
-**Last Updated:** 2023-12-06
-
-**Description:** A curated list of awesome Hacking. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning/)
-
----
-
-## Awesome-Hacking
-
-**Repository:** [https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
-
-**Author:** Hack-with-Github
-
-**Last Updated:** 2025-01-18
-
-**Description:** **A collection of awesome lists for hackers, pentesters & security researchers.**
+**Author:** paralax
 
 ---
 
 ## awesome-industrial-control-system-security
 
-**Repository:** [https://github.com/hslatman/awesome-industrial-control-system-security](https://github.com/hslatman/awesome-industrial-control-system-security)
+**Repository:** [[https://github.com/hslatman/awesome-industrial-control-system-security](https://github.com/hslatman/awesome-industrial-control-system-security)]([https://github.com/hslatman/awesome-industrial-control-system-security](https://github.com/hslatman/awesome-industrial-control-system-security))
 
 **Author:** hslatman
-
-**Last Updated:** 2025-10-10
-
-**Description:** A curated list of resources related to Industrial Control System (ICS) security.
-
----
-
-## awesome-infosec
-
-**Repository:** [https://github.com/onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec)
-
-**Author:** onlurking
-
-**Last Updated:** 2025-11-21
-
-**Description:** Awesome Infosec
-
----
-
-## awesome-k8s-security
-
-**Repository:** [https://github.com/magnologan/awesome-k8s-security](https://github.com/magnologan/awesome-k8s-security)
-
-**Author:** magnologan
-
-**Last Updated:** 2025-11-28
-
-**Description:** <a href="https://kubernetes.io/"> 
-
----
-
-## awesome-linux-containers
-
-**Repository:** [https://github.com/Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers)
-
-**Author:** Friz-zy
-
-**Last Updated:** 2023-07-17
-
-**Description:** * [About the Author](#About-the-Author) * [Foundations](#foundations) * [Specifications](#specifications) * [Clouds](#clouds) * [Operating Systems](#operating-systems) * [Hypervisors](#hypervisors) * [Containers](#containers)
 
 ---
 
 ## awesome-lockpicking
 
-**Repository:** [https://github.com/fabacab/awesome-lockpicking](https://github.com/fabacab/awesome-lockpicking)
+**Repository:** [[https://github.com/fabacab/awesome-lockpicking](https://github.com/fabacab/awesome-lockpicking)]([https://github.com/fabacab/awesome-lockpicking](https://github.com/fabacab/awesome-lockpicking))
 
 **Author:** fabacab
-
-**Last Updated:** 2021-03-06
-
-**Description:** > A curated list of awesome guides, tools, and other resources relating to the security and compromise of locks, safes, and keys.
-
----
-
-## awesome-ml-for-cybersecurity
-
-**Repository:** [https://github.com/jivoi/awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity)
-
-**Author:** jivoi
-
-**Last Updated:** 2024-04-11
-
-**Description:** [](https://github.com/jivoi/awesome-ml-for-cybersecurity)
-
----
-
-## awesome-nodejs
-
-**Repository:** [https://github.com/sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
-
-**Author:** sindresorhus
-
-**Last Updated:** 2026-01-14
-
-**Description:** (No description available)
----
-
-## awesome-nodejs-security
-
-**Repository:** [https://github.com/lirantal/awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security)
-
-**Author:** lirantal
-
-**Last Updated:** 2026-01-16
-
-**Description:** (No description available)
----
-
-## awesome-osint
-
-**Repository:** [https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
-
-**Author:** jivoi
-
-**Last Updated:** 2026-02-04
-
-**Description:** [](https://github.com/jivoi/awesome-osint)
 
 ---
 
 ## awesome-osx-command-line
 
-**Repository:** [https://github.com/herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line)
+**Repository:** [[https://github.com/herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line)]([https://github.com/herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line))
 
 **Author:** herrbischoff
-
-**Last Updated:** 2021-09-02
-
-**Description:** Due to personal changes, GitHub changes, a desire of not wanting to continue to deal with mostly very low-effort contributions, entitled behavior and low quality, I've permanently moved these projects to my personal Git instance,
-
----
-
-## awesome-privacy
-
-**Repository:** [https://github.com/lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy)
-
-**Author:** lissy93
-
-**Last Updated:** 2026-02-07
-
-**Description:** No README found
-
----
-
-## awesome-reversing
-
-**Repository:** [https://github.com/tylerha97/awesome-reversing](https://github.com/tylerha97/awesome-reversing)
-
-**Author:** tylerha97
-
-**Last Updated:** 2019-03-07
-
-**Description:** A curated list of awesome reversing resources
-
----
-
-## awesome-scapy
-
-**Repository:** [https://github.com/gpotter2/awesome-scapy](https://github.com/gpotter2/awesome-scapy)
-
-**Author:** gpotter2
-
-**Last Updated:** 2025-06-09
-
-**Description:**  <a href="https://scapy.net/">
 
 ---
 
 ## awesome-sec-talks
 
-**Repository:** [https://github.com/PaulSec/awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks)
+**Repository:** [[https://github.com/PaulSec/awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks)]([https://github.com/PaulSec/awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks))
 
 **Author:** PaulSec
-
-**Last Updated:** 2021-04-09
-
-**Description:** List of Sec talks/videos
 
 ---
 
 ## awesome-security
 
-**Repository:** [https://github.com/sbilly/awesome-security](https://github.com/sbilly/awesome-security)
+**Repository:** [[https://github.com/sbilly/awesome-security](https://github.com/sbilly/awesome-security)]([https://github.com/sbilly/awesome-security](https://github.com/sbilly/awesome-security))
 
 **Author:** sbilly
-
-**Last Updated:** 2026-01-11
-
-**Description:** A collection of awesome software, libraries, documents, books, resources and cool stuff about security.
-
----
-
-## awesome-security-hardening
-
-**Repository:** [https://github.com/decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening)
-
-**Author:** decalage2
-
-**Last Updated:** 2026-01-20
-
-**Description:** A collection of awesome security hardening guides, best practices, checklists, benchmarks, tools and other resources. This is work in progress: please contribute by sending your suggestions. You may do this by creating [issue tickets](https://github.com/decalage2/awesome-security-hardening/issues...
 
 ---
 
 ## awesome-selfhosted
 
-**Repository:** [https://github.com/awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+**Repository:** [[https://github.com/awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)]([https://github.com/awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted))
 
 **Author:** awesome-selfhosted
-
-**Last Updated:** 2026-02-12
-
-**Description:** Self-hosting is the practice of hosting and managing applications on your own server(s) instead of consuming from [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) providers.
-
----
-
-## awesome-serverless-security
-
-**Repository:** [https://github.com/puresec/awesome-serverless-security/](https://github.com/puresec/awesome-serverless-security/)
-
-**Author:** https://github.com/puresec/awesome-serverless-security/
-
-**Last Updated:** 2019-02-26
-
-**Description:** A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
-
----
-
-## awesome-shell
-
-**Repository:** [https://github.com/alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)
-
-**Author:** alebcay
-
-**Last Updated:** 2024-02-20
-
-**Description:** █████╗ ██╗    ██╗███████╗███████╗ ██████╗ ███╗   ███╗███████╗ ██╔══██╗██║    ██║██╔════╝██╔════╝██╔═══██╗████╗ ████║██╔════╝ ███████║██║ █╗ ██║█████╗  ███████╗██║   ██║██╔████╔██║█████╗ ██╔══██║██║███╗██║██╔══╝  ╚════██║██║   ██║██║╚██╔╝██║██╔══╝
-
----
-
-## awesome-shodan-queries
-
-**Repository:** [https://github.com/jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries)
-
-**Author:** jakejarvis
-
-**Last Updated:** 2020-04-18
-
-**Description:** Over time, I've collected an assortment of interesting, funny, and depressing search queries to plug into [Shodan](https://www.shodan.io/), the ([literal](https://www.vice.com/en_uk/article/9bvxmd/shodan-exposes-the-dark-side-of-the-net)) internet search engine. Some return facepalm-inducing resu...
 
 ---
 
 ## awesome-sysadmin
 
-**Repository:** [https://github.com/awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
+**Repository:** [[https://github.com/awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)]([https://github.com/awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin))
 
 **Author:** awesome-foss
-
-**Last Updated:** 2026-02-01
-
-**Description:** **A curated list of amazingly awesome Free and Open-Source sysadmin resources.** Please read the [Pull Request template](./.github/PULL_REQUEST_TEMPLATE.md) if you wish to add software and consider [donating](https://github.com/n1trux/awesome-donations) to the FLOSS projects you use regularly. Pl...
-
----
-
-## awesome-tor
-
-**Repository:** [https://github.com/ajvb/awesome-tor](https://github.com/ajvb/awesome-tor)
-
-**Author:** ajvb
-
-**Last Updated:** 2023-09-02
-
-**Description:** > A curated list of awesome software, articles, and other resources related to the Tor project.
-
----
-
-## awesome-translations
-
-**Repository:** [https://github.com/mbiesiad/awesome-translations](https://github.com/mbiesiad/awesome-translations)
-
-**Author:** mbiesiad
-
-**Last Updated:** 2026-01-18
-
-**Description:** > The transfer of the meaning of a text from one language to another.
 
 ---
 
 ## awesome-vulnerable
 
-**Repository:** [https://github.com/kaiiyer/awesome-vulnerable](https://github.com/kaiiyer/awesome-vulnerable)
+**Repository:** [[https://github.com/kaiiyer/awesome-vulnerable](https://github.com/kaiiyer/awesome-vulnerable)]([https://github.com/kaiiyer/awesome-vulnerable](https://github.com/kaiiyer/awesome-vulnerable))
 
 **Author:** kaiiyer
 
-**Last Updated:** 2026-01-11
+---
 
-**Description:** (No description available)
+## awesome-yara
+
+**Repository:** [[https://github.com/InQuest/awesome-yara](https://github.com/InQuest/awesome-yara)]([https://github.com/InQuest/awesome-yara](https://github.com/InQuest/awesome-yara))
+
+**Author:** InQuest
+
 ---
 
 ## aws-vault
 
-**Repository:** [https://github.com/99designs/aws-vault](https://github.com/99designs/aws-vault)
+**Repository:** [[https://github.com/99designs/aws-vault](https://github.com/99designs/aws-vault)]([https://github.com/99designs/aws-vault](https://github.com/99designs/aws-vault))
 
 **Author:** 99designs
 
-**Last Updated:** 2025-12-30
+---
 
-**Description:** > [!WARNING] > This project has been abandoned and it's not receiving any more updates. If you want to continue to receive updates > or contribute, please feel free to look at the active fork at: https://github.com/ByteNess/aws-vault
+## axiom
+
+**Repository:** [[https://github.com/pry0cc/axiom](https://github.com/pry0cc/axiom)]([https://github.com/pry0cc/axiom](https://github.com/pry0cc/axiom))
+
+**Author:** pry0cc
 
 ---
 
 ## badtouch
 
-**Repository:** [https://github.com/kpcyrd/badtouch](https://github.com/kpcyrd/badtouch)
+**Repository:** [[https://github.com/kpcyrd/badtouch](https://github.com/kpcyrd/badtouch)]([https://github.com/kpcyrd/badtouch](https://github.com/kpcyrd/badtouch))
 
 **Author:** kpcyrd
-
-**Last Updated:** 2022-03-24
-
-**Description:** [crates]:       https://crates.io/crates/authoscope
 
 ---
 
 ## bane
 
-**Repository:** [https://github.com/genuinetools/bane](https://github.com/genuinetools/bane)
+**Repository:** [[https://github.com/genuinetools/bane](https://github.com/genuinetools/bane)]([https://github.com/genuinetools/bane](https://github.com/genuinetools/bane))
 
 **Author:** genuinetools
-
-**Last Updated:** 2020-09-17
-
-**Description:** AppArmor profile generator for docker containers. Basically a better AppArmor profile, than creating one by hand, because who would ever do that.
 
 ---
 
 ## bap
 
-**Repository:** [https://github.com/BinaryAnalysisPlatform/bap](https://github.com/BinaryAnalysisPlatform/bap)
+**Repository:** [[https://github.com/BinaryAnalysisPlatform/bap](https://github.com/BinaryAnalysisPlatform/bap)]([https://github.com/BinaryAnalysisPlatform/bap](https://github.com/BinaryAnalysisPlatform/bap))
 
 **Author:** BinaryAnalysisPlatform
 
-**Last Updated:** 2025-04-29
+---
 
-**Description:** *   [Overview](#overview) *   [Installation](#installation) *   [Using](#using) *   [Learning](#learning) *   [Contributing](#contributing) *   [Sponsors](#sponsors)
+## barf-project
+
+**Repository:** [[https://github.com/programa-stic/barf-project](https://github.com/programa-stic/barf-project)]([https://github.com/programa-stic/barf-project](https://github.com/programa-stic/barf-project))
+
+**Author:** programa-stic
 
 ---
 
 ## base64_substring
 
-**Repository:** [https://github.com/DissectMalware/base64_substring](https://github.com/DissectMalware/base64_substring)
+**Repository:** [[https://github.com/DissectMalware/base64_substring](https://github.com/DissectMalware/base64_substring)]([https://github.com/DissectMalware/base64_substring](https://github.com/DissectMalware/base64_substring))
 
 **Author:** DissectMalware
-
-**Last Updated:** 2018-07-13
-
-**Description:** Often malware analysts require to search through base64-encoded samples with a search term such as Application.Run. base64_substring helps them by enumerating all possible base64 encoding for a given search term and generating a yara rule that checks those possiblities.
 
 ---
 
 ## basic-auth-pot
 
-**Repository:** [https://github.com/bjeborn/basic-auth-pot](https://github.com/bjeborn/basic-auth-pot)
+**Repository:** [[https://github.com/bjeborn/basic-auth-pot](https://github.com/bjeborn/basic-auth-pot)]([https://github.com/bjeborn/basic-auth-pot](https://github.com/bjeborn/basic-auth-pot))
 
 **Author:** bjeborn
 
-**Last Updated:** 2015-01-15
-
-**Description:** bap is a webservice honeypot that logs HTTP basic authentication credentials in a "parser friendly format"&trade;.
-
 ---
 
-## bearer
+## beagle
 
-**Repository:** [https://github.com/Bearer/bearer](https://github.com/Bearer/bearer)
+**Repository:** [[https://github.com/yampelo/beagle](https://github.com/yampelo/beagle)]([https://github.com/yampelo/beagle](https://github.com/yampelo/beagle))
 
-**Author:** Bearer
-
-**Last Updated:** 2026-01-27
-
-**Description:**  <a href="https://cycode.com/cygives/" alt="Bearer is part of Cygives, the community hub for free & open developer security tools."/>
-
----
-
-## beef
-
-**Repository:** [https://github.com/beefproject/beef](https://github.com/beefproject/beef)
-
-**Author:** beefproject
-
-**Last Updated:** 2026-02-10
-
-**Description:** Copyright (c) 2006-2026 Wade Alcorn - wade@bindshell.net Browser Exploitation Framework (BeEF) - https://beefproject.com See the file 'doc/COPYING' for copying permission
+**Author:** yampelo
 
 ---
 
 ## BeeLogger
 
-**Repository:** [https://github.com/4w4k3/BeeLogger](https://github.com/4w4k3/BeeLogger)
+**Repository:** [[https://github.com/4w4k3/BeeLogger](https://github.com/4w4k3/BeeLogger)]([https://github.com/4w4k3/BeeLogger](https://github.com/4w4k3/BeeLogger))
 
 **Author:** 4w4k3
-
-**Last Updated:** 2017-06-07
-
-**Description:** Copyright 2017 BeeLogger Written by: * **Alisson Moretto** - [4w4k3](https://github.com/4w4k3) Twitter: @4w4k3Official
-
----
-
-## beelzebub
-
-**Repository:** [https://github.com/mariocandela/beelzebub](https://github.com/mariocandela/beelzebub)
-
-**Author:** mariocandela
-
-**Last Updated:** 2026-02-10
-
-**Description:** Beelzebub is an advanced honeypot framework designed to provide a highly secure environment for detecting and analyzing cyber attacks. It offers a low code approach for easy implementation and uses AI to mimic the behavior of a high-interaction honeypot.
-
----
-
-## Bella
-
-**Repository:** [https://github.com/kdaoudieh/Bella](https://github.com/kdaoudieh/Bella)
-
-**Author:** kdaoudieh
-
-**Last Updated:** 2022-11-02
-
-**Description:** Bella is a pure python post-exploitation data mining tool & remote administration tool for macOS. 🍎 💻
-
----
-
-## bettercap
-
-**Repository:** [https://github.com/bettercap/bettercap](https://github.com/bettercap/bettercap)
-
-**Author:** bettercap
-
-**Last Updated:** 2025-12-31
-
-**Description:**  <small>Join the project community on our server!</small> <br/><br/> <a href="https://discord.gg/https://discord.gg/btZpkp45gQ" target="_blank" title="Join our community!"> 
 
 ---
 
 ## BeVigil-OSINT-CLI
 
-**Repository:** [https://github.com/Bevigil/BeVigil-OSINT-CLI](https://github.com/Bevigil/BeVigil-OSINT-CLI)
+**Repository:** [[https://github.com/Bevigil/BeVigil-OSINT-CLI](https://github.com/Bevigil/BeVigil-OSINT-CLI)]([https://github.com/Bevigil/BeVigil-OSINT-CLI](https://github.com/Bevigil/BeVigil-OSINT-CLI))
 
 **Author:** Bevigil
-
-**Last Updated:** 2023-09-18
-
-**Description:** bevigil-cli
 
 ---
 
 ## bifrozt-ansible
 
-**Repository:** [https://github.com/Ziemeck/bifrozt-ansible](https://github.com/Ziemeck/bifrozt-ansible)
+**Repository:** [[https://github.com/Ziemeck/bifrozt-ansible](https://github.com/Ziemeck/bifrozt-ansible)]([https://github.com/Ziemeck/bifrozt-ansible](https://github.com/Ziemeck/bifrozt-ansible))
 
 **Author:** Ziemeck
-
-**Last Updated:** 2016-03-17
-
-**Description:** **NOTE**: The documentation fo this project is not yet complete, thank you for the patience.
 
 ---
 
 ## binarypig
 
-**Repository:** [https://github.com/endgameinc/binarypig](https://github.com/endgameinc/binarypig)
+**Repository:** [[https://github.com/endgameinc/binarypig](https://github.com/endgameinc/binarypig)]([https://github.com/endgameinc/binarypig](https://github.com/endgameinc/binarypig))
 
 **Author:** endgameinc
-
-**Last Updated:** 2014-07-14
-
-**Description:** Malware Processing and Analytics over Pig, Exploration through Django, Twitter Bootstrap, and Elasticsearch
 
 ---
 
 ## bincapz
 
-**Repository:** [https://github.com/chainguard-dev/bincapz](https://github.com/chainguard-dev/bincapz)
+**Repository:** [[https://github.com/chainguard-dev/bincapz](https://github.com/chainguard-dev/bincapz)]([https://github.com/chainguard-dev/bincapz](https://github.com/chainguard-dev/bincapz))
 
 **Author:** chainguard-dev
-
-**Last Updated:** 2026-02-12
-
-**Description:** malcontent discovers supply-chain compromises through the magic of context, differential analysis, and YARA.
 
 ---
 
 ## bine
 
-**Repository:** [https://github.com/cretz/bine](https://github.com/cretz/bine)
+**Repository:** [[https://github.com/cretz/bine](https://github.com/cretz/bine)]([https://github.com/cretz/bine](https://github.com/cretz/bine))
 
 **Author:** cretz
-
-**Last Updated:** 2022-12-01
-
-**Description:** Bine is a Go API for using and controlling Tor. It is similar to [Stem](https://stem.torproject.org/).
 
 ---
 
 ## BinGoo
 
-**Repository:** [https://github.com/Hood3dRob1n/BinGoo](https://github.com/Hood3dRob1n/BinGoo)
+**Repository:** [[https://github.com/Hood3dRob1n/BinGoo](https://github.com/Hood3dRob1n/BinGoo)]([https://github.com/Hood3dRob1n/BinGoo](https://github.com/Hood3dRob1n/BinGoo))
 
 **Author:** Hood3dRob1n
-
-**Last Updated:** 2012-06-22
-
-**Description:** __   _,--="=--,_   __ /  \."    .-.    "./  \ /  ,/  _   : :   _  \/` \ \  `| /o\  :_:  /o\ |\__/ `-'| :="~` _ `~"=: | \`     (_)     `/ .-"-.   \      |      /   .-"-. .---{     }--|  /,.-'-.,\  |--{     }---.
 
 ---
 
 ## binnavi
 
-**Repository:** [https://github.com/google/binnavi](https://github.com/google/binnavi)
+**Repository:** [[https://github.com/google/binnavi](https://github.com/google/binnavi)]([https://github.com/google/binnavi](https://github.com/google/binnavi))
 
 **Author:** google
-
-**Last Updated:** 2020-10-23
-
-**Description:** Copyright 2011-2020 Google LLC
 
 ---
 
 ## binsequencer
 
-**Repository:** [https://github.com/karttoon/binsequencer](https://github.com/karttoon/binsequencer)
+**Repository:** [[https://github.com/karttoon/binsequencer](https://github.com/karttoon/binsequencer)]([https://github.com/karttoon/binsequencer](https://github.com/karttoon/binsequencer))
 
 **Author:** karttoon
-
-**Last Updated:** 2020-05-13
-
-**Description:** Binsequencer is intended to scan a corpus of similar malware (family/campaign/like-tools) and build a YARA rule that will detect similar sections of code.
 
 ---
 
 ## binwalk
 
-**Repository:** [https://github.com/devttys0/binwalk](https://github.com/devttys0/binwalk)
+**Repository:** [[https://github.com/devttys0/binwalk](https://github.com/devttys0/binwalk)]([https://github.com/devttys0/binwalk](https://github.com/devttys0/binwalk))
 
 **Author:** devttys0
 
-**Last Updated:** 2025-08-22
+---
 
-**Description:** This is an updated version of the Binwalk firmware analysis tool, re-written in Rust for speed and accuracy.
+## blackbird
+
+**Repository:** [[https://github.com/p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird)]([https://github.com/p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird))
+
+**Author:** p1ngul1n0
+
+---
+
+## blackbox
+
+**Repository:** [[https://github.com/StackExchange/blackbox](https://github.com/StackExchange/blackbox)]([https://github.com/StackExchange/blackbox](https://github.com/StackExchange/blackbox))
+
+**Author:** StackExchange
 
 ---
 
 ## blacknet
 
-**Repository:** [https://github.com/morian/blacknet](https://github.com/morian/blacknet)
+**Repository:** [[https://github.com/morian/blacknet](https://github.com/morian/blacknet)]([https://github.com/morian/blacknet](https://github.com/morian/blacknet))
 
 **Author:** morian
-
-**Last Updated:** 2024-03-21
-
-**Description:** Blacknet 2
-
----
-
-## Blauhaunt
-
-**Repository:** [https://github.com/cgosec/Blauhaunt](https://github.com/cgosec/Blauhaunt)
-
-**Author:** cgosec
-
-**Last Updated:** 2025-05-27
-
-**Description:** **Basic Worflow: Set Filters -> click Apply Filters -> click Render**
 
 ---
 
 ## Bless
 
-**Repository:** [https://github.com/bwrsandman/Bless](https://github.com/bwrsandman/Bless)
+**Repository:** [[https://github.com/bwrsandman/Bless](https://github.com/bwrsandman/Bless)]([https://github.com/bwrsandman/Bless](https://github.com/bwrsandman/Bless))
 
 **Author:** bwrsandman
 
-**Last Updated:** 2018-11-29
+---
 
-**Description:** Bless - Gtk# Hex Editor v0.6.1 Copyright (c) 2004-2018, Alexandros Frantzis
+## Bloodhound
+
+**Repository:** [[https://github.com/adaptivethreat/Bloodhound](https://github.com/adaptivethreat/Bloodhound)]([https://github.com/adaptivethreat/Bloodhound](https://github.com/adaptivethreat/Bloodhound))
+
+**Author:** adaptivethreat
 
 ---
 
-## bluepot
+## bluepill
 
-**Repository:** [https://github.com/andrewmichaelsmith/bluepot](https://github.com/andrewmichaelsmith/bluepot)
+**Repository:** [[https://github.com/season-lab/bluepill](https://github.com/season-lab/bluepill)]([https://github.com/season-lab/bluepill](https://github.com/season-lab/bluepill))
 
-**Author:** andrewmichaelsmith
+**Author:** season-lab
 
-**Last Updated:** 2021-01-02
-
-**Description:** Bluepot is a Bluetooth Honeypot written in Java, it runs on Linux.
-
----
-
-## BlueTeam.Lab
-
-**Repository:** [https://github.com/op7ic/BlueTeam.Lab](https://github.com/op7ic/BlueTeam.Lab)
-
-**Author:** op7ic
-
-**Last Updated:** 2024-11-20
-
-**Description:** (No description available)
 ---
 
 ## boofuzz
 
-**Repository:** [https://github.com/jtpereyda/boofuzz](https://github.com/jtpereyda/boofuzz)
+**Repository:** [[https://github.com/jtpereyda/boofuzz](https://github.com/jtpereyda/boofuzz)]([https://github.com/jtpereyda/boofuzz](https://github.com/jtpereyda/boofuzz))
 
 **Author:** jtpereyda
-
-**Last Updated:** 2026-02-10
-
-**Description:** .. image:: https://github.com/jtpereyda/boofuzz/raw/master/artwork/boo-logo-dark.svg :width: 60% :alt: boofuzz logo
 
 ---
 
 ## book
 
-**Repository:** [https://github.com/crypto101/book](https://github.com/crypto101/book)
+**Repository:** [[https://github.com/crypto101/book](https://github.com/crypto101/book)]([https://github.com/crypto101/book](https://github.com/crypto101/book))
 
 **Author:** crypto101
-
-**Last Updated:** 2023-08-10
-
-**Description:** Crypto 101: the book
 
 ---
 
 ## BoomBox
 
-**Repository:** [https://github.com/nbeede/BoomBox](https://github.com/nbeede/BoomBox)
+**Repository:** [[https://github.com/nbeede/BoomBox](https://github.com/nbeede/BoomBox)]([https://github.com/nbeede/BoomBox](https://github.com/nbeede/BoomBox))
 
 **Author:** nbeede
-
-**Last Updated:** 2020-03-09
-
-**Description:** BoomBox is designed for malware analysts and incident responders. It allows for the rapid deployment of a dynamic malware analysis environment using Cuckoo Sandbox and a Windows 10 detonation chamber. Cuckoo is configured to use the physical machinery so that both Cuckoo and the Windows sandbox c...
-
----
-
-## boomerang
-
-**Repository:** [https://github.com/BoomerangDecompiler/boomerang](https://github.com/BoomerangDecompiler/boomerang)
-
-**Author:** BoomerangDecompiler
-
-**Last Updated:** 2020-12-28
-
-**Description:** No README found
 
 ---
 
 ## box-js
 
-**Repository:** [https://github.com/CapacitorSet/box-js](https://github.com/CapacitorSet/box-js)
+**Repository:** [[https://github.com/CapacitorSet/box-js](https://github.com/CapacitorSet/box-js)]([https://github.com/CapacitorSet/box-js](https://github.com/CapacitorSet/box-js))
 
 **Author:** CapacitorSet
-
-**Last Updated:** 2024-11-22
-
-**Description:** A utility to analyze malicious JavaScript.
 
 ---
 
 ## boxxy-rs
 
-**Repository:** [https://github.com/kpcyrd/boxxy-rs](https://github.com/kpcyrd/boxxy-rs)
+**Repository:** [[https://github.com/kpcyrd/boxxy-rs](https://github.com/kpcyrd/boxxy-rs)]([https://github.com/kpcyrd/boxxy-rs](https://github.com/kpcyrd/boxxy-rs))
 
 **Author:** kpcyrd
-
-**Last Updated:** 2025-01-23
-
-**Description:** [travis-img]:   https://travis-ci.org/kpcyrd/boxxy-rs.svg?branch=master [travis]:       https://travis-ci.org/kpcyrd/boxxy-rs [crates]:       https://crates.io/crates/boxxy [docs-img]:     https://docs.rs/boxxy/badge.svg
 
 ---
 
 ## brakeman
 
-**Repository:** [https://github.com/presidentbeef/brakeman](https://github.com/presidentbeef/brakeman)
+**Repository:** [[https://github.com/presidentbeef/brakeman](https://github.com/presidentbeef/brakeman)]([https://github.com/presidentbeef/brakeman](https://github.com/presidentbeef/brakeman))
 
 **Author:** presidentbeef
-
-**Last Updated:** 2026-02-03
-
-**Description:** Brakeman is a static analysis tool which checks Ruby on Rails applications for security vulnerabilities.
 
 ---
 
 ## Brida
 
-**Repository:** [https://github.com/federicodotta/Brida](https://github.com/federicodotta/Brida)
+**Repository:** [[https://github.com/federicodotta/Brida](https://github.com/federicodotta/Brida)]([https://github.com/federicodotta/Brida](https://github.com/federicodotta/Brida))
 
 **Author:** federicodotta
 
-**Last Updated:** 2025-10-30
+---
 
-**Description:** (No description available)
+## broyara
+
+**Repository:** [[https://github.com/hempnall/broyara](https://github.com/hempnall/broyara)]([https://github.com/hempnall/broyara](https://github.com/hempnall/broyara))
+
+**Author:** hempnall
+
 ---
 
 ## bruteforce-wallet
 
-**Repository:** [https://github.com/glv2/bruteforce-wallet](https://github.com/glv2/bruteforce-wallet)
+**Repository:** [[https://github.com/glv2/bruteforce-wallet](https://github.com/glv2/bruteforce-wallet)]([https://github.com/glv2/bruteforce-wallet](https://github.com/glv2/bruteforce-wallet))
 
 **Author:** glv2
-
-**Last Updated:** 2024-03-01
-
-**Description:** The purpose of this program is to try to find the password of an encrypted Peercoin (or Bitcoin, Litecoin, etc...) wallet file (i.e. wallet.dat).
 
 ---
 
 ## BruteShark
 
-**Repository:** [https://github.com/odedshimon/BruteShark](https://github.com/odedshimon/BruteShark)
+**Repository:** [[https://github.com/odedshimon/BruteShark](https://github.com/odedshimon/BruteShark)]([https://github.com/odedshimon/BruteShark](https://github.com/odedshimon/BruteShark))
 
 **Author:** odedshimon
-
-**Last Updated:** 2021-10-30
-
-**Description:** * [About](#about) * [What it can do](#what-it-can-do) * [Download](#download) * [Examples](#examples) * [Usage](#usage) * [BruteSharkDesktop](#brutesharkdesktop) * [BruteSharkCli](#brutesharkcli) * [Modules](#modules)
 
 ---
 
 ## bstrings
 
-**Repository:** [https://github.com/EricZimmerman/bstrings](https://github.com/EricZimmerman/bstrings)
+**Repository:** [[https://github.com/EricZimmerman/bstrings](https://github.com/EricZimmerman/bstrings)]([https://github.com/EricZimmerman/bstrings](https://github.com/EricZimmerman/bstrings))
 
 **Author:** EricZimmerman
-
-**Last Updated:** 2026-02-08
-
-**Description:** A better strings utility!
-
----
-
-## bubblewrap
-
-**Repository:** [https://github.com/containers/bubblewrap](https://github.com/containers/bubblewrap)
-
-**Author:** containers
-
-**Last Updated:** 2026-02-04
-
-**Description:** Bubblewrap
 
 ---
 
 ## Bug-Bounty
 
-**Repository:** [https://github.com/AnLoMinus/Bug-Bounty](https://github.com/AnLoMinus/Bug-Bounty)
+**Repository:** [[https://github.com/AnLoMinus/Bug-Bounty](https://github.com/AnLoMinus/Bug-Bounty)]([https://github.com/AnLoMinus/Bug-Bounty](https://github.com/AnLoMinus/Bug-Bounty))
 
 **Author:** AnLoMinus
 
-**Last Updated:** 2025-10-27
-
-**Description:** (No description available)
 ---
 
 ## bug-bounty-platforms
 
-**Repository:** [https://github.com/disclose/bug-bounty-platforms](https://github.com/disclose/bug-bounty-platforms)
+**Repository:** [[https://github.com/disclose/bug-bounty-platforms](https://github.com/disclose/bug-bounty-platforms)]([https://github.com/disclose/bug-bounty-platforms](https://github.com/disclose/bug-bounty-platforms))
 
 **Author:** disclose
 
-**Last Updated:** 2026-02-09
-
-**Description:** An ongoing community-powered collection of all known bug bounty platforms, vulnerability disclosure platforms, and crowdsourced security platforms currently active on the Internet.
-
 ---
 
-## bug-bounty-reference
+## bugbounty-cheatsheet
 
-**Repository:** [https://github.com/ngalongc/bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference)
+**Repository:** [[https://github.com/EdOverflow/bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)]([https://github.com/EdOverflow/bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet))
 
-**Author:** ngalongc
-
-**Last Updated:** 2024-08-01
-
-**Description:** A list of bug bounty write-up that is categorized by the bug nature, this is inspired by https://github.com/djadmin/awesome-bug-bounty
+**Author:** EdOverflow
 
 ---
 
 ## bunkerized-nginx
 
-**Repository:** [https://github.com/bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx)
+**Repository:** [[https://github.com/bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx)]([https://github.com/bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx))
 
 **Author:** bunkerity
 
-**Last Updated:** 2026-02-06
+---
 
-**Description:** (No description available)
+## bunkerweb
+
+**Repository:** [[https://github.com/bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)]([https://github.com/bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb))
+
+**Author:** bunkerity
+
 ---
 
 ## bwpot
 
-**Repository:** [https://github.com/graneed/bwpot](https://github.com/graneed/bwpot)
+**Repository:** [[https://github.com/graneed/bwpot](https://github.com/graneed/bwpot)]([https://github.com/graneed/bwpot](https://github.com/graneed/bwpot))
 
 **Author:** graneed
-
-**Last Updated:** 2019-03-11
-
-**Description:** BW-Pot (**B**reakable **W**eb applications honey**Pot**)は、HTTPまたはHTTPSを対象とする高対話型のハニーポットです。 狙われやすく侵害されやすいWebアプリケーションを構築することで、攻撃者からのアクセスを観察します。 また、ログをGoogle BigQueryに転送し、ログの蓄積および可視化を行います。
 
 ---
 
 ## bytecode-viewer
 
-**Repository:** [https://github.com/Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer)
+**Repository:** [[https://github.com/Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer)]([https://github.com/Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer))
 
 **Author:** Konloch
 
-**Last Updated:** 2026-01-06
+---
 
-**Description:** Bytecode Viewer - a lightweight user-friendly Java/Android Bytecode Viewer, Decompiler & More.
+## cadvisor
+
+**Repository:** [[https://github.com/google/cadvisor](https://github.com/google/cadvisor)]([https://github.com/google/cadvisor](https://github.com/google/cadvisor))
+
+**Author:** google
 
 ---
 
-## CakeFuzzer
+## canary-stable
 
-**Repository:** [https://github.com/Zigrin-Security/CakeFuzzer](https://github.com/Zigrin-Security/CakeFuzzer)
+**Repository:** [[https://github.com/PigeonSec/canary-stable](https://github.com/PigeonSec/canary-stable)]([https://github.com/PigeonSec/canary-stable](https://github.com/PigeonSec/canary-stable))
 
-**Author:** Zigrin-Security
+**Author:** PigeonSec
 
-**Last Updated:** 2025-07-20
+---
 
-**Description:** CakeFuzzer
+## canarytokendetector
+
+**Repository:** [[https://github.com/referefref/canarytokendetector](https://github.com/referefref/canarytokendetector)]([https://github.com/referefref/canarytokendetector](https://github.com/referefref/canarytokendetector))
+
+**Author:** referefref
 
 ---
 
 ## capa
 
-**Repository:** [https://github.com/fireeye/capa](https://github.com/fireeye/capa)
+**Repository:** [[https://github.com/fireeye/capa](https://github.com/fireeye/capa)]([https://github.com/fireeye/capa](https://github.com/fireeye/capa))
 
 **Author:** fireeye
-
-**Last Updated:** 2026-02-09
-
-**Description:**  <a href="https://mandiant.github.io/capa/" target="_blank"> 
-
----
-
-## CAPEv2
-
-**Repository:** [https://github.com/kevoreilly/CAPEv2](https://github.com/kevoreilly/CAPEv2)
-
-**Author:** kevoreilly
-
-**Last Updated:** 2026-02-12
-
-**Description:** A sandbox is used to execute malicious files in an isolated environment whilst instrumenting their dynamic behaviour and collecting forensic artefacts.
 
 ---
 
 ## capstone
 
-**Repository:** [https://github.com/aquynh/capstone](https://github.com/aquynh/capstone)
+**Repository:** [[https://github.com/aquynh/capstone](https://github.com/aquynh/capstone)]([https://github.com/aquynh/capstone](https://github.com/aquynh/capstone))
 
 **Author:** aquynh
 
-**Last Updated:** 2026-02-11
-
-**Description:** Capstone Engine
-
 ---
 
-## CarbonCopy
+## CCCS-Yara
 
-**Repository:** [https://github.com/paranoidninja/CarbonCopy](https://github.com/paranoidninja/CarbonCopy)
+**Repository:** [[https://github.com/CybercentreCanada/CCCS-Yara](https://github.com/CybercentreCanada/CCCS-Yara)]([https://github.com/CybercentreCanada/CCCS-Yara](https://github.com/CybercentreCanada/CCCS-Yara))
 
-**Author:** paranoidninja
-
-**Last Updated:** 2019-06-04
-
-**Description:** A tool which creates a spoofed certificate of any online website and signs an Executable for AV Evasion. Works for both Windows and Linux
-
----
-
-## catphish
-
-**Repository:** [https://github.com/ring0lab/catphish](https://github.com/ring0lab/catphish)
-
-**Author:** ring0lab
-
-**Last Updated:** 2017-11-11
-
-**Description:** Generate similar-looking domains for phishing attacks. Check expired domains and their categorized domain status to evade proxy categorization. Whitelisted domains are perfect for your C2 servers. Perfect for Red Team engagements.
+**Author:** CybercentreCanada
 
 ---
 
 ## CCTV
 
-**Repository:** [https://github.com/IvanGlinkin/CCTV](https://github.com/IvanGlinkin/CCTV)
+**Repository:** [[https://github.com/IvanGlinkin/CCTV](https://github.com/IvanGlinkin/CCTV)]([https://github.com/IvanGlinkin/CCTV](https://github.com/IvanGlinkin/CCTV))
 
 **Author:** IvanGlinkin
-
-**Last Updated:** 2025-02-24
-
-**Description:** Close-Circuit Telegram Vision revolutionizes location tracking with its open-source design and Telegram API integration. Offering precise tracking within 50-100 meters, users can monitor others in real-time for logistics or safety, redefining how we navigate our surroundings.
 
 ---
 
 ## celerystalk
 
-**Repository:** [https://github.com/sethsec/celerystalk](https://github.com/sethsec/celerystalk)
+**Repository:** [[https://github.com/sethsec/celerystalk](https://github.com/sethsec/celerystalk)]([https://github.com/sethsec/celerystalk](https://github.com/sethsec/celerystalk))
 
 **Author:** sethsec
-
-**Last Updated:** 2020-05-07
-
-**Description:** celerystalk helps you automate your network scanning/enumeration process with asynchronous jobs (aka *tasks*) while retaining full control of which tools you want to run.
 
 ---
 
 ## censys-python
 
-**Repository:** [https://github.com/censys/censys-python](https://github.com/censys/censys-python)
+**Repository:** [[https://github.com/censys/censys-python](https://github.com/censys/censys-python)]([https://github.com/censys/censys-python](https://github.com/censys/censys-python))
 
 **Author:** censys
 
-**Last Updated:** 2025-12-11
+---
 
-**Description:** > [!WARNING] > **DEPRECATION NOTICE**: The Censys Search v1 and v2 APIs will be deprecated soon. Please migrate to the new **Censys Platform**.
+## censys-resources
+
+**Repository:** [[https://github.com/emilyaustin/censys-resources](https://github.com/emilyaustin/censys-resources)]([https://github.com/emilyaustin/censys-resources](https://github.com/emilyaustin/censys-resources))
+
+**Author:** emilyaustin
 
 ---
 
 ## certgraph
 
-**Repository:** [https://github.com/lanrat/certgraph](https://github.com/lanrat/certgraph)
+**Repository:** [[https://github.com/lanrat/certgraph](https://github.com/lanrat/certgraph)]([https://github.com/lanrat/certgraph](https://github.com/lanrat/certgraph))
 
 **Author:** lanrat
-
-**Last Updated:** 2025-08-25
-
-**Description:** CertGraph crawls SSL certificates creating a directed graph where each domain is a node and the certificate alternative names for that domain's certificate are the edges to other domain nodes. New domains are printed as they are found. In Detailed mode upon completion the Graph's adjacency list i...
 
 ---
 
 ## certificate-expiry-monitor
 
-**Repository:** [https://github.com/muxinc/certificate-expiry-monitor](https://github.com/muxinc/certificate-expiry-monitor)
+**Repository:** [[https://github.com/muxinc/certificate-expiry-monitor](https://github.com/muxinc/certificate-expiry-monitor)]([https://github.com/muxinc/certificate-expiry-monitor](https://github.com/muxinc/certificate-expiry-monitor))
 
 **Author:** muxinc
 
-**Last Updated:** 2022-06-08
-
-**Description:** (No description available)
 ---
 
-## Chaosreader
+## CFGScanDroid
 
-**Repository:** [https://github.com/brendangregg/Chaosreader](https://github.com/brendangregg/Chaosreader)
+**Repository:** [[https://github.com/douggard/CFGScanDroid](https://github.com/douggard/CFGScanDroid)]([https://github.com/douggard/CFGScanDroid](https://github.com/douggard/CFGScanDroid))
 
-**Author:** brendangregg
-
-**Last Updated:** 2014-06-15
-
-**Description:** Chaosreader
+**Author:** douggard
 
 ---
 
-## Checklists
+## chamber
 
-**Repository:** [https://github.com/netbiosX/Checklists](https://github.com/netbiosX/Checklists)
+**Repository:** [[https://github.com/segmentio/chamber](https://github.com/segmentio/chamber)]([https://github.com/segmentio/chamber](https://github.com/segmentio/chamber))
 
-**Author:** netbiosX
+**Author:** segmentio
 
-**Last Updated:** 2025-07-27
+---
 
-**Description:** Even though, a penetration test is a creative process most people maintain private checklists to ensure that they will not forget to test networks, systems and applications against various scenarios and maintain the overall quality of the assessment.
+## CheatSheets
+
+**Repository:** [[https://github.com/HarmJ0y/CheatSheets](https://github.com/HarmJ0y/CheatSheets)]([https://github.com/HarmJ0y/CheatSheets](https://github.com/HarmJ0y/CheatSheets))
+
+**Author:** HarmJ0y
 
 ---
 
 ## checkov
 
-**Repository:** [https://github.com/bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
+**Repository:** [[https://github.com/bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)]([https://github.com/bridgecrewio/checkov](https://github.com/bridgecrewio/checkov))
 
 **Author:** bridgecrewio
-
-**Last Updated:** 2026-02-11
-
-**Description:** **Checkov** is a static code analysis tool for infrastructure as code (IaC) and also a software composition analysis (SCA) tool for images and open source packages.
 
 ---
 
 ## CheckPlease
 
-**Repository:** [https://github.com/Arvanaghi/CheckPlease](https://github.com/Arvanaghi/CheckPlease)
+**Repository:** [[https://github.com/Arvanaghi/CheckPlease](https://github.com/Arvanaghi/CheckPlease)]([https://github.com/Arvanaghi/CheckPlease](https://github.com/Arvanaghi/CheckPlease))
 
 **Author:** Arvanaghi
 
-**Last Updated:** 2021-06-01
-
-**Description:** **Implant-Security Modules in PowerShell, Python, Go, Ruby, Perl, C, C#, VBS, and Rust.**
-
 ---
 
-## chopshop
+## checksec.py
 
-**Repository:** [https://github.com/MITRECND/chopshop](https://github.com/MITRECND/chopshop)
+**Repository:** [[https://github.com/Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)]([https://github.com/Wenzel/checksec.py](https://github.com/Wenzel/checksec.py))
 
-**Author:** MITRECND
-
-**Last Updated:** 2022-12-19
-
-**Description:** ChopShop 4
-
----
-
-## chrome-url-dumper
-
-**Repository:** [https://github.com/eLoopWoo/chrome-url-dumper](https://github.com/eLoopWoo/chrome-url-dumper)
-
-**Author:** eLoopWoo
-
-**Last Updated:** 2017-11-11
-
-**Description:** Accessing db's stored on machine by chrome browser and dumping urls found
+**Author:** Wenzel
 
 ---
 
 ## cicd-goat
 
-**Repository:** [https://github.com/cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat)
+**Repository:** [[https://github.com/cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat)]([https://github.com/cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat))
 
 **Author:** cider-security-research
 
-**Last Updated:** 2024-07-11
-
-**Description:** Deliberately vulnerable CI/CD environment. Hack CI/CD pipelines, capture the flags. :triangular_flag_on_post:
-
 ---
 
-## ciphey
+## CimSweep
 
-**Repository:** [https://github.com/ciphey/ciphey](https://github.com/ciphey/ciphey)
+**Repository:** [[https://github.com/PowerShellMafia/CimSweep](https://github.com/PowerShellMafia/CimSweep)]([https://github.com/PowerShellMafia/CimSweep](https://github.com/PowerShellMafia/CimSweep))
 
-**Author:** ciphey
-
-**Last Updated:** 2023-10-12
-
-**Description:**  Translations <br> <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/de/README.md>🇩🇪 DE    <a href=https://github.com/Ciphey/Ciphey/tree/master/translations/fr/README.md>🇫🇷 FR   
+**Author:** PowerShellMafia
 
 ---
 
 ## CIRTKit
 
-**Repository:** [https://github.com/opensourcesec/CIRTKit](https://github.com/opensourcesec/CIRTKit)
+**Repository:** [[https://github.com/opensourcesec/CIRTKit](https://github.com/opensourcesec/CIRTKit)]([https://github.com/opensourcesec/CIRTKit](https://github.com/opensourcesec/CIRTKit))
 
 **Author:** opensourcesec
-
-**Last Updated:** 2017-04-17
-
-**Description:** <i>One DFIR console to rule them all. Built on top of the [Viper Framework](https://github.com/viper-framework/viper)</i>
 
 ---
 
 ## clair
 
-**Repository:** [https://github.com/coreos/clair](https://github.com/coreos/clair)
+**Repository:** [[https://github.com/coreos/clair](https://github.com/coreos/clair)]([https://github.com/coreos/clair](https://github.com/coreos/clair))
 
 **Author:** coreos
-
-**Last Updated:** 2026-02-03
-
-**Description:** **Note**: The `main` branch may be in an *unstable or even broken state* during development. Please use [releases] instead of the `main` branch in order to get stable binaries.
 
 ---
 
 ## clara
 
-**Repository:** [https://github.com/abhinavbom/clara](https://github.com/abhinavbom/clara)
+**Repository:** [[https://github.com/abhinavbom/clara](https://github.com/abhinavbom/clara)]([https://github.com/abhinavbom/clara](https://github.com/abhinavbom/clara))
 
 **Author:** abhinavbom
-
-**Last Updated:** 2021-03-24
-
-**Description:** Serverless, real-time, ClamAV+Yara scanning for your S3 Buckets
 
 ---
 
 ## clevis
 
-**Repository:** [https://github.com/latchset/clevis](https://github.com/latchset/clevis)
+**Repository:** [[https://github.com/latchset/clevis](https://github.com/latchset/clevis)]([https://github.com/latchset/clevis](https://github.com/latchset/clevis))
 
 **Author:** latchset
 
-**Last Updated:** 2026-02-05
+---
 
-**Description:** Clevis is a pluggable framework for automated decryption. It can be used to provide automated decryption of data or even automated unlocking of LUKS
+## cloudfrunt
+
+**Repository:** [[https://github.com/MindPointGroup/cloudfrunt](https://github.com/MindPointGroup/cloudfrunt)]([https://github.com/MindPointGroup/cloudfrunt](https://github.com/MindPointGroup/cloudfrunt))
+
+**Author:** MindPointGroup
 
 ---
 
-## Cloakify
+## cloudgoat
 
-**Repository:** [https://github.com/TryCatchHCF/Cloakify](https://github.com/TryCatchHCF/Cloakify)
+**Repository:** [[https://github.com/RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)]([https://github.com/RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat))
 
-**Author:** TryCatchHCF
-
-**Last Updated:** 2020-05-27
-
-**Description:** CloakifyFactory & the Cloakify Toolset - Data Exfiltration & Infiltration In Plain Sight; Evade DLP/MLS Devices; Social Engineering of Analysts; Defeat Data Whitelisting Controls; Evade AV Detection. Text-based steganography using lists. Convert any file type (e.g. executables, Office, Zip, image...
-
----
-
-## CloudFail
-
-**Repository:** [https://github.com/m0rtem/CloudFail](https://github.com/m0rtem/CloudFail)
-
-**Author:** m0rtem
-
-**Last Updated:** 2023-12-11
-
-**Description:** CloudFail is a tactical reconnaissance tool which aims to gather enough information about a target protected by Cloudflare in the hopes of discovering the location of the server. Using Tor to mask all requests, the tool as of right now has 3 different attack phases.
+**Author:** RhinoSecurityLabs
 
 ---
 
 ## CloudHunter
 
-**Repository:** [https://github.com/belane/CloudHunter](https://github.com/belane/CloudHunter)
+**Repository:** [[https://github.com/belane/CloudHunter](https://github.com/belane/CloudHunter)]([https://github.com/belane/CloudHunter](https://github.com/belane/CloudHunter))
 
 **Author:** belane
 
-**Last Updated:** 2023-08-25
+---
 
-**Description:** Looks for AWS, Azure, Alibaba and Google cloud storage buckets and lists permissions for vulnerable buckets.
+## codebro
+
+**Repository:** [[https://github.com/hugsy/codebro](https://github.com/hugsy/codebro)]([https://github.com/hugsy/codebro](https://github.com/hugsy/codebro))
+
+**Author:** hugsy
 
 ---
 
 ## columbus
 
-**Repository:** [https://github.com/elmasy-com/columbus](https://github.com/elmasy-com/columbus)
+**Repository:** [[https://github.com/elmasy-com/columbus](https://github.com/elmasy-com/columbus)]([https://github.com/elmasy-com/columbus](https://github.com/elmasy-com/columbus))
 
 **Author:** elmasy-com
 
-**Last Updated:** 2024-04-06
+---
 
-**Description:** Columbus Project is an API first subdomain discovery service, blazingly fast subdomain enumeration service with advanced features.
+## ConDroid
+
+**Repository:** [[https://github.com/JulianSchuette/ConDroid](https://github.com/JulianSchuette/ConDroid)]([https://github.com/JulianSchuette/ConDroid](https://github.com/JulianSchuette/ConDroid))
+
+**Author:** JulianSchuette
 
 ---
 
-## combine
+## conpot
 
-**Repository:** [https://github.com/mlsecproject/combine](https://github.com/mlsecproject/combine)
+**Repository:** [[https://github.com/mushorg/conpot](https://github.com/mushorg/conpot)]([https://github.com/mushorg/conpot](https://github.com/mushorg/conpot))
 
-**Author:** mlsecproject
-
-**Last Updated:** 2016-07-26
-
-**Description:** Combine gathers Threat Intelligence Feeds from publicly available sources
+**Author:** mushorg
 
 ---
 
-## combobulator
+## copyparty
 
-**Repository:** [https://github.com/apiiro/combobulator](https://github.com/apiiro/combobulator)
+**Repository:** [[https://github.com/9001/copyparty](https://github.com/9001/copyparty)]([https://github.com/9001/copyparty](https://github.com/9001/copyparty))
 
-**Author:** apiiro
-
-**Last Updated:** 2024-01-10
-
-**Description:** Dependency Combobulator is an Open-Source, modular and extensible framework to detect and prevent dependency confusion leakage and potential attacks. This facilitates a holistic approach for ensuring secure application releases that can be evaluated against different sources (e.g., GitHub Package...
+**Author:** 9001
 
 ---
 
-## commando-vm
+## Covenant
 
-**Repository:** [https://github.com/fireeye/commando-vm](https://github.com/fireeye/commando-vm)
+**Repository:** [[https://github.com/cobbr/Covenant](https://github.com/cobbr/Covenant)]([https://github.com/cobbr/Covenant](https://github.com/cobbr/Covenant))
 
-**Author:** fireeye
-
-**Last Updated:** 2025-10-15
-
-**Description:** **Complete Mandiant Offensive VM ("CommandoVM")** is a comprehensive and customizable, Windows-based security distribution for penetration testing and red teaming. CommandoVM comes packaged with a variety of offensive tools not included in [Kali Linux](https://www.kali.org/) which highlight the e...
+**Author:** cobbr
 
 ---
 
-## commix
+## cowrie2neo
 
-**Repository:** [https://github.com/commixproject/commix](https://github.com/commixproject/commix)
+**Repository:** [[https://github.com/xlfe/cowrie2neo](https://github.com/xlfe/cowrie2neo)]([https://github.com/xlfe/cowrie2neo](https://github.com/xlfe/cowrie2neo))
 
-**Author:** commixproject
+**Author:** xlfe
 
-**Last Updated:** 2026-02-08
+---
 
-**Description:**    <a href="https://github.com/commixproject/commix/actions/workflows/builds.yml">
+## CrackMapExec
+
+**Repository:** [[https://github.com/byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)]([https://github.com/byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec))
+
+**Author:** byt3bl33d3r
+
+---
+
+## creddump
+
+**Repository:** [[https://github.com/moyix/creddump](https://github.com/moyix/creddump)]([https://github.com/moyix/creddump](https://github.com/moyix/creddump))
+
+**Author:** moyix
+
+---
+
+## credstash
+
+**Repository:** [[https://github.com/fugue/credstash](https://github.com/fugue/credstash)]([https://github.com/fugue/credstash](https://github.com/fugue/credstash))
+
+**Author:** fugue
+
+---
+
+## creepy
+
+**Repository:** [[https://github.com/ilektrojohn/creepy](https://github.com/ilektrojohn/creepy)]([https://github.com/ilektrojohn/creepy](https://github.com/ilektrojohn/creepy))
+
+**Author:** ilektrojohn
 
 ---
 
 ## CrowdFMS
 
-**Repository:** [https://github.com/CrowdStrike/CrowdFMS](https://github.com/CrowdStrike/CrowdFMS)
+**Repository:** [[https://github.com/CrowdStrike/CrowdFMS](https://github.com/CrowdStrike/CrowdFMS)]([https://github.com/CrowdStrike/CrowdFMS](https://github.com/CrowdStrike/CrowdFMS))
 
 **Author:** CrowdStrike
 
-**Last Updated:** 2014-02-13
+---
 
-**Description:** Copyright (C) 2013 CrowdStrike, Inc. This file is subject to the terms and conditions of the BSD License. See the file LICENSE in the main directory for details
+## csirtg-honeypot
+
+**Repository:** [[https://github.com/csirtgadgets/csirtg-honeypot](https://github.com/csirtgadgets/csirtg-honeypot)]([https://github.com/csirtgadgets/csirtg-honeypot](https://github.com/csirtgadgets/csirtg-honeypot))
+
+**Author:** csirtgadgets
 
 ---
 
-## crowdsec
+## csvkit
 
-**Repository:** [https://github.com/crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)
+**Repository:** [[https://github.com/wireservice/csvkit](https://github.com/wireservice/csvkit)]([https://github.com/wireservice/csvkit](https://github.com/wireservice/csvkit))
 
-**Author:** crowdsecurity
-
-**Last Updated:** 2026-02-12
-
-**Description:** (No description available)
----
-
-## CryptoKnight
-
-**Repository:** [https://github.com/AbertayMachineLearningGroup/CryptoKnight](https://github.com/AbertayMachineLearningGroup/CryptoKnight)
-
-**Author:** AbertayMachineLearningGroup
-
-**Last Updated:** 2020-04-08
-
-**Description:** Automated cryptographic classification framework using Intel's [Pin](https://software.intel.com/en-us/articles/pintool-downloads) platform for dynamic binary instrumentation and [PyTorch](http://pytorch.org/) for deep learning.
-
----
-
-## cset
-
-**Repository:** [https://github.com/cisagov/cset](https://github.com/cisagov/cset)
-
-**Author:** cisagov
-
-**Last Updated:** 2026-02-12
-
-**Description:** The Cybersecurity Infrastructure Security Agency (CISA) and the Idaho National Laboratory (INL) develop the Cyber Security Evaluation Tool (CSET®) for asset owners with the primary objective of reducing the risk to the nation’s critical infrastructure. Control systems are defined as electronic de...
+**Author:** wireservice
 
 ---
 
 ## cuckoo-droid
 
-**Repository:** [https://github.com/idanr1986/cuckoo-droid](https://github.com/idanr1986/cuckoo-droid)
+**Repository:** [[https://github.com/idanr1986/cuckoo-droid](https://github.com/idanr1986/cuckoo-droid)]([https://github.com/idanr1986/cuckoo-droid](https://github.com/idanr1986/cuckoo-droid))
 
 **Author:** idanr1986
 
-**Last Updated:** 2017-07-25
+---
 
-**Description:** CuckooDroid - Automated Android Malware Analysis. Contributed By Check Point Software Technologies LTD.
+## cuckoo-modified-api
+
+**Repository:** [[https://github.com/keithjjones/cuckoo-modified-api](https://github.com/keithjjones/cuckoo-modified-api)]([https://github.com/keithjjones/cuckoo-modified-api](https://github.com/keithjjones/cuckoo-modified-api))
+
+**Author:** keithjjones
 
 ---
 
-## cuckoo-modified
+## Curlwright
 
-**Repository:** [https://github.com/brad-accuvant/cuckoo-modified](https://github.com/brad-accuvant/cuckoo-modified)
+**Repository:** [[https://github.com/seifreed/Curlwright](https://github.com/seifreed/Curlwright)]([https://github.com/seifreed/Curlwright](https://github.com/seifreed/Curlwright))
 
-**Author:** brad-accuvant
-
-**Last Updated:** 2019-09-09
-
-**Description:** This is a heavily modified version of [Cuckoo Sandbox](http://www.cuckoosandbox.org) provided under the GPL.
-
----
-
-## cupidcr4wl
-
-**Repository:** [https://github.com/OSINTI4L/cupidcr4wl](https://github.com/OSINTI4L/cupidcr4wl)
-
-**Author:** OSINTI4L
-
-**Last Updated:** 2025-12-01
-
-**Description:** (No description available)
----
-
-## CVE-2017-0199
-
-**Repository:** [https://github.com/bhdresh/CVE-2017-0199](https://github.com/bhdresh/CVE-2017-0199)
-
-**Author:** bhdresh
-
-**Last Updated:** 2017-11-19
-
-**Description:** Exploit toolkit CVE-2017-0199 - v4.0 is a handy python script which provides pentesters and security researchers a quick and effective way to test Microsoft Office RCE. It could generate a malicious RTF/PPSX file and deliver metasploit / meterpreter / other payload to victim without any complex c...
+**Author:** seifreed
 
 ---
 
 ## CVE-2018-15685
 
-**Repository:** [https://github.com/matt-/CVE-2018-15685](https://github.com/matt-/CVE-2018-15685)
+**Repository:** [[https://github.com/matt-/CVE-2018-15685](https://github.com/matt-/CVE-2018-15685)]([https://github.com/matt-/CVE-2018-15685](https://github.com/matt-/CVE-2018-15685))
 
 **Author:** matt-
-
-**Last Updated:** 2018-08-24
-
-**Description:** This is a minimal Electron application with a POC for [CVE-2018-15685](https://nvd.nist.gov/vuln/detail/CVE-2018-15685).
 
 ---
 
 ## cve-ape
 
-**Repository:** [https://github.com/baalmor/cve-ape](https://github.com/baalmor/cve-ape)
+**Repository:** [[https://github.com/baalmor/cve-ape](https://github.com/baalmor/cve-ape)]([https://github.com/baalmor/cve-ape](https://github.com/baalmor/cve-ape))
 
 **Author:** baalmor
-
-**Last Updated:** 2022-05-10
-
-**Description:** CVE Ape is a fairly simple, free and open source tool which helps to find all registred at the National Vulnerability Database (NVD) list of Common Vulnerabilities and Exposures (CVEs).  The tool creates a local copy of NVD and CVEs databases and allows to search for registered CVEs by package na...
 
 ---
 
 ## cwe_checker
 
-**Repository:** [https://github.com/fkie-cad/cwe_checker](https://github.com/fkie-cad/cwe_checker)
+**Repository:** [[https://github.com/fkie-cad/cwe_checker](https://github.com/fkie-cad/cwe_checker)]([https://github.com/fkie-cad/cwe_checker](https://github.com/fkie-cad/cwe_checker))
 
 **Author:** fkie-cad
 
-**Last Updated:** 2024-12-17
+---
 
-**Description:** (No description available)
+## cyberbro
+
+**Repository:** [[https://github.com/stanfrbd/cyberbro](https://github.com/stanfrbd/cyberbro)]([https://github.com/stanfrbd/cyberbro](https://github.com/stanfrbd/cyberbro))
+
+**Author:** stanfrbd
+
 ---
 
 ## cyberclopaedia
 
-**Repository:** [https://github.com/cr0mll/cyberclopaedia](https://github.com/cr0mll/cyberclopaedia)
+**Repository:** [[https://github.com/cr0mll/cyberclopaedia](https://github.com/cr0mll/cyberclopaedia)]([https://github.com/cr0mll/cyberclopaedia](https://github.com/cr0mll/cyberclopaedia))
 
 **Author:** cr0mll
-
-**Last Updated:** 2024-06-18
-
-**Description:** This is an aspiring project aimed at accumulating knowledge from the world of cybersecurity and presenting it in a cogent way, so it is accessible to as large an audience as possible and so that everyone has a good resource to learn hacking from.
 
 ---
 
 ## cyberowl
 
-**Repository:** [https://github.com/karimhabush/cyberowl](https://github.com/karimhabush/cyberowl)
+**Repository:** [[https://github.com/karimhabush/cyberowl](https://github.com/karimhabush/cyberowl)]([https://github.com/karimhabush/cyberowl](https://github.com/karimhabush/cyberowl))
 
 **Author:** karimhabush
 
-**Last Updated:** 2024-02-14
-
-**Description:** (No description available)
 ---
 
 ## CyLR
 
-**Repository:** [https://github.com/orlikoski/CyLR](https://github.com/orlikoski/CyLR)
+**Repository:** [[https://github.com/orlikoski/CyLR](https://github.com/orlikoski/CyLR)]([https://github.com/orlikoski/CyLR](https://github.com/orlikoski/CyLR))
 
 **Author:** orlikoski
 
-**Last Updated:** 2021-10-12
-
-**Description:** CyLR — Live Response Collection tool by Alan Orlikoski and Jason Yegge
-
 ---
 
-## DAMM
+## Damn-Vulnerable-Bank
 
-**Repository:** [https://github.com/504ensicsLabs/DAMM](https://github.com/504ensicsLabs/DAMM)
+**Repository:** [[https://github.com/rewanthtammana/Damn-Vulnerable-Bank](https://github.com/rewanthtammana/Damn-Vulnerable-Bank)]([https://github.com/rewanthtammana/Damn-Vulnerable-Bank](https://github.com/rewanthtammana/Damn-Vulnerable-Bank))
 
-**Author:** 504ensicsLabs
-
-**Last Updated:** 2017-04-16
-
-**Description:** An open source memory analysis tool built on top of Volatility. It is meant as a proving ground for interesting new techniques to be made available to the community. These techniques are an attempt to speed up the investigation process through data reduction and codifying some expert knowledge.
+**Author:** rewanthtammana
 
 ---
 
 ## DarunGrim
 
-**Repository:** [https://github.com/ohjeongwook/DarunGrim](https://github.com/ohjeongwook/DarunGrim)
+**Repository:** [[https://github.com/ohjeongwook/DarunGrim](https://github.com/ohjeongwook/DarunGrim)]([https://github.com/ohjeongwook/DarunGrim](https://github.com/ohjeongwook/DarunGrim))
 
 **Author:** ohjeongwook
-
-**Last Updated:** 2020-08-22
-
-**Description:** * DarunGrim now merged into [binkit](https://github.com/ohjeongwook/binkit) project. - Most of the analysis algorithms are ported to the new tool - Still under internal testing before official release
-
----
-
-## data
-
-**Repository:** [https://github.com/aptnotes/data](https://github.com/aptnotes/data)
-
-**Author:** aptnotes
-
-**Last Updated:** 2024-12-16
-
-**Description:** APTnotes is a repository of publicly-available papers and blogs (sorted by year) related to malicious campaigns/activity/software that have been associated with vendor-defined APT (Advanced Persistent Threat) groups and/or tool-sets.
 
 ---
 
 ## DATA
 
-**Repository:** [https://github.com/hadojae/DATA](https://github.com/hadojae/DATA)
+**Repository:** [[https://github.com/hadojae/DATA](https://github.com/hadojae/DATA)]([https://github.com/hadojae/DATA](https://github.com/hadojae/DATA))
 
 **Author:** hadojae
-
-**Last Updated:** 2018-08-22
-
-**Description:** [Slides from presentation at CircleCityCon 2017](https://www.slideshare.net/secret/agq19JjVYt9M5W)
 
 ---
 
 ## data_hacking
 
-**Repository:** [https://github.com/ClickSecurity/data_hacking](https://github.com/ClickSecurity/data_hacking)
+**Repository:** [[https://github.com/ClickSecurity/data_hacking](https://github.com/ClickSecurity/data_hacking)]([https://github.com/ClickSecurity/data_hacking](https://github.com/ClickSecurity/data_hacking))
 
 **Author:** ClickSecurity
-
-**Last Updated:** 2019-03-05
-
-**Description:** data_hacking
 
 ---
 
 ## datasploit
 
-**Repository:** [https://github.com/upgoingstar/datasploit](https://github.com/upgoingstar/datasploit)
+**Repository:** [[https://github.com/upgoingstar/datasploit](https://github.com/upgoingstar/datasploit)]([https://github.com/upgoingstar/datasploit](https://github.com/upgoingstar/datasploit))
 
 **Author:** upgoingstar
 
-**Last Updated:** 2025-11-20
-
-**Description:** - Performs OSINT on a domain / email / username / phone and find out information from different sources. - Correlate and collaborate the results, show them in a consolidated manner. - Tries to find out credentials, api-keys, tokens, subdomains, domain history, legacy portals, etc. related to the ...
-
----
-
-## DAws
-
-**Repository:** [https://github.com/dotcppfile/DAws](https://github.com/dotcppfile/DAws)
-
-**Author:** dotcppfile
-
-**Last Updated:** 2017-05-02
-
-**Description:** Hello everyone,
-
----
-
-## dbeaver
-
-**Repository:** [https://github.com/dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)
-
-**Author:** dbeaver
-
-**Last Updated:** 2026-02-12
-
-**Description:** (No description available)
 ---
 
 ## DC3-MWCP
 
-**Repository:** [https://github.com/Defense-Cyber-Crime-Center/DC3-MWCP](https://github.com/Defense-Cyber-Crime-Center/DC3-MWCP)
+**Repository:** [[https://github.com/Defense-Cyber-Crime-Center/DC3-MWCP](https://github.com/Defense-Cyber-Crime-Center/DC3-MWCP)]([https://github.com/Defense-Cyber-Crime-Center/DC3-MWCP](https://github.com/Defense-Cyber-Crime-Center/DC3-MWCP))
 
 **Author:** Defense-Cyber-Crime-Center
-
-**Last Updated:** 2025-02-07
-
-**Description:** [Changelog](CHANGELOG.md) | [Releases](https://github.com/Defense-Cyber-Crime-Center/DC3-MWCP/releases)
 
 ---
 
 ## dcfldd
 
-**Repository:** [https://github.com/adulau/dcfldd](https://github.com/adulau/dcfldd)
+**Repository:** [[https://github.com/adulau/dcfldd](https://github.com/adulau/dcfldd)]([https://github.com/adulau/dcfldd](https://github.com/adulau/dcfldd))
 
 **Author:** adulau
-
-**Last Updated:** 2018-06-17
-
-**Description:** dcfldd is a modified version of GNU dd.  The major features added are hashing, fast disk wiping (through patterns) and status output.
 
 ---
 
 ## ddospot
 
-**Repository:** [https://github.com/aelth/ddospot](https://github.com/aelth/ddospot)
+**Repository:** [[https://github.com/aelth/ddospot](https://github.com/aelth/ddospot)]([https://github.com/aelth/ddospot](https://github.com/aelth/ddospot))
 
 **Author:** aelth
-
-**Last Updated:** 2020-12-27
-
-**Description:** *DDoSPot* is a honeypot "platform" for tracking and monitoring UDP-based *Distributed Denial of Service* (DDoS) attacks. The platform currently supports following honeypot services/servers in form of relatively simple plugins called *pots*:
 
 ---
 
 ## de4dot
 
-**Repository:** [https://github.com/0xd4d/de4dot](https://github.com/0xd4d/de4dot)
+**Repository:** [[https://github.com/0xd4d/de4dot](https://github.com/0xd4d/de4dot)]([https://github.com/0xd4d/de4dot](https://github.com/0xd4d/de4dot))
 
 **Author:** 0xd4d
 
-**Last Updated:** 2020-08-29
-
-**Description:** Description
-
 ---
 
-## DeathStar
+## DeHashed-API-Tool
 
-**Repository:** [https://github.com/byt3bl33d3r/DeathStar](https://github.com/byt3bl33d3r/DeathStar)
+**Repository:** [[https://github.com/hmaverickadams/DeHashed-API-Tool](https://github.com/hmaverickadams/DeHashed-API-Tool)]([https://github.com/hmaverickadams/DeHashed-API-Tool](https://github.com/hmaverickadams/DeHashed-API-Tool))
 
-**Author:** byt3bl33d3r
+**Author:** hmaverickadams
 
-**Last Updated:** 2023-12-06
-
-**Description:** (No description available)
----
-
-## decker
-
-**Repository:** [https://github.com/stevenaldinger/decker](https://github.com/stevenaldinger/decker)
-
-**Author:** stevenaldinger
-
-**Last Updated:** 2019-03-23
-
-**Description:** `Decker` is a penetration testing orchestration framework. It leverages [HashiCorp Configuration Language 2](https://github.com/hashicorp/hcl2) (the same config language as [Terraform](https://github.com/hashicorp/terraform)) to allow declarative `penetration testing as code`, so your tests can b...
-
----
-
-## defendnot
-
-**Repository:** [https://github.com/es3n1n/defendnot](https://github.com/es3n1n/defendnot)
-
-**Author:** es3n1n
-
-**Last Updated:** 2025-11-23
-
-**Description:** (No description available)
 ---
 
 ## demovfuscator
 
-**Repository:** [https://github.com/kirschju/demovfuscator](https://github.com/kirschju/demovfuscator)
+**Repository:** [[https://github.com/kirschju/demovfuscator](https://github.com/kirschju/demovfuscator)]([https://github.com/kirschju/demovfuscator](https://github.com/kirschju/demovfuscator))
 
 **Author:** kirschju
-
-**Last Updated:** 2025-05-04
-
-**Description:** Julian Kirsch & Clemens Jonischkeit proudly present
 
 ---
 
 ## Dependencies
 
-**Repository:** [https://github.com/lucasg/Dependencies](https://github.com/lucasg/Dependencies)
+**Repository:** [[https://github.com/lucasg/Dependencies](https://github.com/lucasg/Dependencies)]([https://github.com/lucasg/Dependencies](https://github.com/lucasg/Dependencies))
 
 **Author:** lucasg
-
-**Last Updated:** 2021-11-11
-
-**Description:** NB : due to [limitations on /clr compilation](https://msdn.microsoft.com/en-us/library/ffkc918h.aspx), `Dependencies` needs [Visual C++  Redistributable](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) installed to run properly.
-
----
-
-## Depix
-
-**Repository:** [https://github.com/beurtschipper/Depix](https://github.com/beurtschipper/Depix)
-
-**Author:** beurtschipper
-
-**Last Updated:** 2025-04-16
-
-**Description:** Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
 
 ---
 
 ## DET
 
-**Repository:** [https://github.com/sensepost/DET](https://github.com/sensepost/DET)
+**Repository:** [[https://github.com/sensepost/DET](https://github.com/sensepost/DET)]([https://github.com/sensepost/DET](https://github.com/sensepost/DET))
 
 **Author:** sensepost
-
-**Last Updated:** 2017-11-03
-
-**Description:** DET (extensible) Data Exfiltration Toolkit
 
 ---
 
 ## Detect-It-Easy
 
-**Repository:** [https://github.com/horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy)
+**Repository:** [[https://github.com/horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy)]([https://github.com/horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy))
 
 **Author:** horsicq
-
-**Last Updated:** 2026-02-11
-
-**Description:** **Detect It Easy (DiE)** is a powerful tool for file type identification, popular among **malware analysts**, **cybersecurity experts**, and **reverse engineers** worldwide. Supporting both **signature-based** and **heuristic analysis**, DiE enables efficient file inspections across a broad range...
 
 ---
 
 ## detekt
 
-**Repository:** [https://github.com/detekt/detekt](https://github.com/detekt/detekt)
+**Repository:** [[https://github.com/detekt/detekt](https://github.com/detekt/detekt)]([https://github.com/detekt/detekt](https://github.com/detekt/detekt))
 
 **Author:** detekt
 
-**Last Updated:** 2026-02-12
+---
 
-**Description:** Meet _detekt_, a static code analysis tool for the [_Kotlin_ programming language](https://kotlinlang.org/). Visit [the project website](https://detekt.dev/) for installation guides, rule descriptions, configuration options and more.
+## DeviceGuardBypasses
+
+**Repository:** [[https://github.com/tyranid/DeviceGuardBypasses](https://github.com/tyranid/DeviceGuardBypasses)]([https://github.com/tyranid/DeviceGuardBypasses](https://github.com/tyranid/DeviceGuardBypasses))
+
+**Author:** tyranid
 
 ---
 
-## detux
+## dex2jar
 
-**Repository:** [https://github.com/detuxsandbox/detux](https://github.com/detuxsandbox/detux)
+**Repository:** [[https://github.com/pxb1988/dex2jar](https://github.com/pxb1988/dex2jar)]([https://github.com/pxb1988/dex2jar](https://github.com/pxb1988/dex2jar))
 
-**Author:** detuxsandbox
-
-**Last Updated:** 2018-02-16
-
-**Description:** Detux is a sandbox developed to do traffic analysis of the Linux malwares and capture the IOCs by doing so. QEMU hypervisor is used to emulate Linux (Debian) for various CPU architectures.
+**Author:** pxb1988
 
 ---
 
 ## dexmod
 
-**Repository:** [https://github.com/google/dexmod](https://github.com/google/dexmod)
+**Repository:** [[https://github.com/google/dexmod](https://github.com/google/dexmod)]([https://github.com/google/dexmod](https://github.com/google/dexmod))
 
 **Author:** google
-
-**Last Updated:** 2024-03-05
-
-**Description:** dexmod is a tool written in python to exemplify patching Dalvik bytecode in a DEX (Dalvik Executable) file, and assist in the static analysis of Android applications.
-
----
-
-## dexter
-
-**Repository:** [https://github.com/coinbase/dexter](https://github.com/coinbase/dexter)
-
-**Author:** coinbase
-
-**Last Updated:** 2019-06-21
-
-**Description:** Your friendly forensics expert.
-
----
-
-## dfdatetime
-
-**Repository:** [https://github.com/log2timeline/dfdatetime](https://github.com/log2timeline/dfdatetime)
-
-**Author:** log2timeline
-
-**Last Updated:** 2025-12-22
-
-**Description:** dfDateTime, or Digital Forensics date and time, provides date and time objects to preserve accuracy and precision.
-
----
-
-## dff
-
-**Repository:** [https://github.com/arxsys/dff](https://github.com/arxsys/dff)
-
-**Author:** arxsys
-
-**Last Updated:** 2016-05-19
-
-**Description:** DFF is an Open Source computer forensics platform built on top of a dedicated Application Programming Interface (API). DFF proposes an alternative to the aging digital forensics solutions used today. Designed for simple use and automation, DFF interface guides the user through the main steps of a...
 
 ---
 
 ## dftimewolf
 
-**Repository:** [https://github.com/log2timeline/dftimewolf](https://github.com/log2timeline/dftimewolf)
+**Repository:** [[https://github.com/log2timeline/dftimewolf](https://github.com/log2timeline/dftimewolf)]([https://github.com/log2timeline/dftimewolf](https://github.com/log2timeline/dftimewolf))
 
 **Author:** log2timeline
-
-**Last Updated:** 2026-02-11
-
-**Description:** A framework for orchestrating forensic collection, processing and data export.
-
----
-
-## dfvfs
-
-**Repository:** [https://github.com/log2timeline/dfvfs](https://github.com/log2timeline/dfvfs)
-
-**Author:** log2timeline
-
-**Last Updated:** 2026-02-09
-
-**Description:** dfVFS, or Digital Forensics Virtual File System, provides read-only access to file-system objects from various storage media types and file formats. The goal of dfVFS is to provide a generic interface for accessing file-system
-
----
-
-## dfwinreg
-
-**Repository:** [https://github.com/log2timeline/dfwinreg](https://github.com/log2timeline/dfwinreg)
-
-**Author:** log2timeline
-
-**Last Updated:** 2025-12-22
-
-**Description:** dfWinReg, or Digital Forensics Windows Registry, provides read-only access to Windows Registry objects. The goal of dfWinReg is to provide a generic interface for accessing Windows Registry objects that resembles the Registry
-
----
-
-## dheater
-
-**Repository:** [https://github.com/Balasys/dheater](https://github.com/Balasys/dheater)
-
-**Author:** Balasys
-
-**Last Updated:** 2024-05-04
-
-**Description:** D(HE)ater is the proof-of-concept implementation of the D(HE)at attack ([CVE-2002-20001]( https://nvd.nist.gov/vuln/detail/CVE-2002-20001)). For further information about the attack visit the [project page](https://dheatattack.gitlab.io/dheater) or read the [full technical paper](
 
 ---
 
 ## dhp
 
-**Repository:** [https://github.com/ciscocsirt/dhp](https://github.com/ciscocsirt/dhp)
+**Repository:** [[https://github.com/ciscocsirt/dhp](https://github.com/ciscocsirt/dhp)]([https://github.com/ciscocsirt/dhp](https://github.com/ciscocsirt/dhp))
 
 **Author:** ciscocsirt
-
-**Last Updated:** 2020-10-06
-
-**Description:** This is a very simple server that emulates some aspects of the Docker HTTP API.  The server will respond to: 1. HTTP `GET` version 2. HTTP `GET` ping 3. HTTP `POST` create image 4. HTTP Error Code 500 in almost all other cases
 
 ---
 
 ## Diamorphine
 
-**Repository:** [https://github.com/m0nad/Diamorphine](https://github.com/m0nad/Diamorphine)
+**Repository:** [[https://github.com/m0nad/Diamorphine](https://github.com/m0nad/Diamorphine)]([https://github.com/m0nad/Diamorphine](https://github.com/m0nad/Diamorphine))
 
 **Author:** m0nad
-
-**Last Updated:** 2026-01-24
-
-**Description:** Diamorphine
 
 ---
 
 ## dicompot
 
-**Repository:** [https://github.com/nsmfoo/dicompot](https://github.com/nsmfoo/dicompot)
+**Repository:** [[https://github.com/nsmfoo/dicompot](https://github.com/nsmfoo/dicompot)]([https://github.com/nsmfoo/dicompot](https://github.com/nsmfoo/dicompot))
 
 **Author:** nsmfoo
-
-**Last Updated:** 2023-09-22
-
-**Description:** This project is built up on the great work done by GRAIL (https://github.com/grailbio/go-netdicom)
-
----
-
-## DidierStevensSuite
-
-**Repository:** [https://github.com/DidierStevens/DidierStevensSuite](https://github.com/DidierStevens/DidierStevensSuite)
-
-**Author:** DidierStevens
-
-**Last Updated:** 2026-02-09
-
-**Description:** No README found
 
 ---
 
 ## diff-gui
 
-**Repository:** [https://github.com/antojoseph/diff-gui](https://github.com/antojoseph/diff-gui)
+**Repository:** [[https://github.com/antojoseph/diff-gui](https://github.com/antojoseph/diff-gui)]([https://github.com/antojoseph/diff-gui](https://github.com/antojoseph/diff-gui))
 
 **Author:** antojoseph
-
-**Last Updated:** 2016-11-03
-
-**Description:** Uses flask for a web framework , jinja for templates , redis for message que , server side push for real time updates and some js .
 
 ---
 
 ## dionaea
 
-**Repository:** [https://github.com/DinoTools/dionaea](https://github.com/DinoTools/dionaea)
+**Repository:** [[https://github.com/DinoTools/dionaea](https://github.com/DinoTools/dionaea)]([https://github.com/DinoTools/dionaea](https://github.com/DinoTools/dionaea))
 
 **Author:** DinoTools
 
-**Last Updated:** 2021-02-08
+---
 
-**Description:** dionaea - catches bugs
+## DionaeaFR
+
+**Repository:** [[https://github.com/rubenespadas/DionaeaFR](https://github.com/rubenespadas/DionaeaFR)]([https://github.com/rubenespadas/DionaeaFR](https://github.com/rubenespadas/DionaeaFR))
+
+**Author:** rubenespadas
 
 ---
 
 ## dirsearch
 
-**Repository:** [https://github.com/maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+**Repository:** [[https://github.com/maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)]([https://github.com/maurosoria/dirsearch](https://github.com/maurosoria/dirsearch))
 
 **Author:** maurosoria
 
-**Last Updated:** 2026-02-03
-
-**Description:** (No description available)
 ---
 
 ## discoshell
 
-**Repository:** [https://github.com/foozzi/discoshell](https://github.com/foozzi/discoshell)
+**Repository:** [[https://github.com/foozzi/discoshell](https://github.com/foozzi/discoshell)]([https://github.com/foozzi/discoshell](https://github.com/foozzi/discoshell))
 
 **Author:** foozzi
 
-**Last Updated:** 2023-11-22
-
-**Description:** **Discoshell** [*discovery-shell*] - is a simple discovery script that uses popular tools such as: [subfinder](https://github.com/projectdiscovery/subfinder), [amass](https://github.com/owasp-amass/amass), [puredns](https://github.com/d3mondev/puredns), [massdns](https://github.com/blechschmidt/m...
-
 ---
 
-## Disk-Arbitrator
+## django-admin-honeypot
 
-**Repository:** [https://github.com/aburgh/Disk-Arbitrator](https://github.com/aburgh/Disk-Arbitrator)
+**Repository:** [[https://github.com/dmpayton/django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot)]([https://github.com/dmpayton/django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot))
 
-**Author:** aburgh
-
-**Last Updated:** 2025-08-24
-
-**Description:** No README found
-
----
-
-## dissect
-
-**Repository:** [https://github.com/fox-it/dissect](https://github.com/fox-it/dissect)
-
-**Author:** fox-it
-
-**Last Updated:** 2025-11-24
-
-**Description:** Dissect is a digital forensics & incident response framework and toolset that allows you to quickly access and analyse forensic artefacts from various disk and file formats, developed by Fox-IT (part of NCC Group).
-
----
-
-## diversity
-
-**Repository:** [https://github.com/mozilla/diversity](https://github.com/mozilla/diversity)
-
-**Author:** mozilla
-
-**Last Updated:** 2025-09-17
-
-**Description:** Welcome!  This repository contains a number of resources, templates, standards and other useful things for open (source, education, knowledge, science) projects.
-
----
-
-## django-kippo
-
-**Repository:** [https://github.com/jedie/django-kippo](https://github.com/jedie/django-kippo)
-
-**Author:** jedie
-
-**Last Updated:** 2012-07-09
-
-**Description:** No README found
-
----
-
-## dllinjector
-
-**Repository:** [https://github.com/OpenSecurityResearch/dllinjector](https://github.com/OpenSecurityResearch/dllinjector)
-
-**Author:** OpenSecurityResearch
-
-**Last Updated:** 2013-01-07
-
-**Description:** DLLInjector v0.2 brad.antoniewicz@foundstone.com
+**Author:** dmpayton
 
 ---
 
 ## dnscat2
 
-**Repository:** [https://github.com/iagox86/dnscat2](https://github.com/iagox86/dnscat2)
+**Repository:** [[https://github.com/iagox86/dnscat2](https://github.com/iagox86/dnscat2)]([https://github.com/iagox86/dnscat2](https://github.com/iagox86/dnscat2))
 
 **Author:** iagox86
-
-**Last Updated:** 2022-01-03
-
-**Description:** ***** NOTE: The password for the .zip downloads are all "password"! *****
 
 ---
 
 ## dnschef
 
-**Repository:** [https://github.com/iphelix/dnschef](https://github.com/iphelix/dnschef)
+**Repository:** [[https://github.com/iphelix/dnschef](https://github.com/iphelix/dnschef)]([https://github.com/iphelix/dnschef](https://github.com/iphelix/dnschef))
 
 **Author:** iphelix
-
-**Last Updated:** 2019-03-27
-
-**Description:** _                _          __ | | version 0.4  | |        / _| __| |_ __  ___  ___| |__   ___| |_ / _` | '_ \/ __|/ __| '_ \ / _ \  _| | (_| | | | \__ \ (__| | | |  __/ | \__,_|_| |_|___/\___|_| |_|\___|_|
-
----
-
-## dnscrypt-proxy
-
-**Repository:** [https://github.com/DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy)
-
-**Author:** DNSCrypt
-
-**Last Updated:** 2026-02-09
-
-**Description:** A flexible DNS proxy, with support for modern encrypted DNS protocols such as [DNSCrypt v2](https://dnscrypt.info/protocol), [DNS-over-HTTPS](https://www.rfc-editor.org/rfc/rfc8484.txt), [Anonymized DNSCrypt](https://github.com/DNSCrypt/dnscrypt-protocol/blob/master/ANONYMIZED-DNSCRYPT.txt) and [...
 
 ---
 
 ## dnsenum
 
-**Repository:** [https://github.com/fwaeytens/dnsenum/](https://github.com/fwaeytens/dnsenum/)
+**Repository:** [[https://github.com/fwaeytens/dnsenum/](https://github.com/fwaeytens/dnsenum/)]([https://github.com/fwaeytens/dnsenum/](https://github.com/fwaeytens/dnsenum/))
 
-**Author:** https://github.com/fwaeytens/dnsenum/
-
-**Last Updated:** 2015-02-20
-
-**Description:** README - dnsenum.pl VERSION: 1.2.4
+**Author:** fwaeytens
 
 ---
 
 ## dnsmap
 
-**Repository:** [https://github.com/makefu/dnsmap/](https://github.com/makefu/dnsmap/)
+**Repository:** [[https://github.com/makefu/dnsmap/](https://github.com/makefu/dnsmap/)]([https://github.com/makefu/dnsmap/](https://github.com/makefu/dnsmap/))
 
-**Author:** https://github.com/makefu/dnsmap/
-
-**Last Updated:** 2017-09-11
-
-**Description:** INTRODUCTION
-
----
-
-## dnSpy
-
-**Repository:** [https://github.com/0xd4d/dnSpy](https://github.com/0xd4d/dnSpy)
-
-**Author:** 0xd4d
-
-**Last Updated:** 2020-12-07
-
-**Description:** dnSpy is a debugger and .NET assembly editor. You can use it to edit and debug assemblies even if you don't have any source code available. Main features:
+**Author:** makefu
 
 ---
 
 ## dnsrecon
 
-**Repository:** [https://github.com/darkoperator/dnsrecon/](https://github.com/darkoperator/dnsrecon/)
+**Repository:** [[https://github.com/darkoperator/dnsrecon/](https://github.com/darkoperator/dnsrecon/)]([https://github.com/darkoperator/dnsrecon/](https://github.com/darkoperator/dnsrecon/))
 
-**Author:** https://github.com/darkoperator/dnsrecon/
-
-**Last Updated:** 2026-02-10
-
-**Description:** DNSRecon is a Python port of a Ruby script that I wrote to learn the language and about DNS in early 2007. This time I wanted to learn about Python and extend the functionality of the original tool and in the process re-learn how DNS works and how could it be used in the process of a security ass...
+**Author:** darkoperator
 
 ---
 
-## dnstwist
+## dnYara
 
-**Repository:** [https://github.com/elceef/dnstwist](https://github.com/elceef/dnstwist)
+**Repository:** [[https://github.com/airbus-cert/dnYara](https://github.com/airbus-cert/dnYara)]([https://github.com/airbus-cert/dnYara](https://github.com/airbus-cert/dnYara))
 
-**Author:** elceef
-
-**Last Updated:** 2025-04-15
-
-**Description:** See what sort of trouble users can get in trying to type your domain name. Find lookalike domains that adversaries can use to attack you. Can detect typosquatters, phishing attacks, fraud, and brand impersonation. Useful as an
+**Author:** airbus-cert
 
 ---
 
-## DocBleach
+## docker-ce
 
-**Repository:** [https://github.com/docbleach/DocBleach](https://github.com/docbleach/DocBleach)
+**Repository:** [[https://github.com/docker/docker-ce](https://github.com/docker/docker-ce)]([https://github.com/docker/docker-ce](https://github.com/docker/docker-ce))
 
-**Author:** docbleach
+**Author:** docker
 
-**Last Updated:** 2020-06-25
-
-**Description:** (No description available)
 ---
 
-## docker-explorer
+## docker-cheat-sheet
 
-**Repository:** [https://github.com/google/docker-explorer](https://github.com/google/docker-explorer)
+**Repository:** [[https://github.com/wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)]([https://github.com/wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet))
 
-**Author:** google
-
-**Last Updated:** 2024-10-04
-
-**Description:** This project helps a forensics analyst explore offline Docker filesystems.
+**Author:** wsargent
 
 ---
 
 ## dockerfile-androguard
 
-**Repository:** [https://github.com/dweinstein/dockerfile-androguard](https://github.com/dweinstein/dockerfile-androguard)
+**Repository:** [[https://github.com/dweinstein/dockerfile-androguard](https://github.com/dweinstein/dockerfile-androguard)]([https://github.com/dweinstein/dockerfile-androguard](https://github.com/dweinstein/dockerfile-androguard))
 
 **Author:** dweinstein
 
-**Last Updated:** 2018-04-02
-
-**Description:** Docker file for building androguard dependencies w/ an **optional** interactive shell environment.
-
 ---
 
-## dockerpot
+## DolosHoneypot
 
-**Repository:** [https://github.com/mrschyte/dockerpot](https://github.com/mrschyte/dockerpot)
+**Repository:** [[https://github.com/Marist-Innovation-Lab/DolosHoneypot](https://github.com/Marist-Innovation-Lab/DolosHoneypot)]([https://github.com/Marist-Innovation-Lab/DolosHoneypot](https://github.com/Marist-Innovation-Lab/DolosHoneypot))
 
-**Author:** mrschyte
-
-**Last Updated:** 2015-05-05
-
-**Description:** Dockerpot is docker based honeypot. For a better summary visit http://www.itinsight.hu/blog/posts/2015-05-04-creating-honeypots-using-docker.html
-
----
-
-## DomainPasswordSpray
-
-**Repository:** [https://github.com/dafthack/DomainPasswordSpray](https://github.com/dafthack/DomainPasswordSpray)
-
-**Author:** dafthack
-
-**Last Updated:** 2024-07-11
-
-**Description:** DomainPasswordSpray is a tool written in PowerShell to perform a password spray attack against users of a domain. By default it will automatically generate the userlist from the domain. BE VERY CAREFUL NOT TO LOCKOUT ACCOUNTS!
-
----
-
-## dork-cli
-
-**Repository:** [https://github.com/jgor/dork-cli](https://github.com/jgor/dork-cli)
-
-**Author:** jgor
-
-**Last Updated:** 2017-07-16
-
-**Description:** Command-line Google dork tool.
+**Author:** Marist-Innovation-Lab
 
 ---
 
 ## dorkbot
 
-**Repository:** [https://github.com/utiso/dorkbot](https://github.com/utiso/dorkbot)
+**Repository:** [[https://github.com/utiso/dorkbot](https://github.com/utiso/dorkbot)]([https://github.com/utiso/dorkbot](https://github.com/utiso/dorkbot))
 
 **Author:** utiso
-
-**Last Updated:** 2026-02-05
-
-**Description:** Scan Google (or other) search results for vulnerabilities.
 
 ---
 
 ## dorks
 
-**Repository:** [https://github.com/USSCltd/dorks](https://github.com/USSCltd/dorks)
+**Repository:** [[https://github.com/USSCltd/dorks](https://github.com/USSCltd/dorks)]([https://github.com/USSCltd/dorks](https://github.com/USSCltd/dorks))
 
 **Author:** USSCltd
-
-**Last Updated:** 2017-10-05
-
-**Description:** google hack database automation tool
 
 ---
 
 ## dorothy
 
-**Repository:** [https://github.com/elastic/dorothy](https://github.com/elastic/dorothy)
+**Repository:** [[https://github.com/elastic/dorothy](https://github.com/elastic/dorothy)]([https://github.com/elastic/dorothy](https://github.com/elastic/dorothy))
 
 **Author:** elastic
-
-**Last Updated:** 2025-09-11
-
-**Description:** Created by David French ([@threatpunter](https://twitter.com/threatpunter)) at [Elastic Security](https://www.elastic.co/security)
 
 ---
 
 ## dorothy2
 
-**Repository:** [https://github.com/m4rco-/dorothy2](https://github.com/m4rco-/dorothy2)
+**Repository:** [[https://github.com/m4rco-/dorothy2](https://github.com/m4rco-/dorothy2)]([https://github.com/m4rco-/dorothy2](https://github.com/m4rco-/dorothy2))
 
 **Author:** m4rco-
-
-**Last Updated:** 2015-01-18
-
-**Description:** A malware/botnet analysis framework written in Ruby.
-
----
-
-## dos-over-tor
-
-**Repository:** [https://github.com/skizap/dos-over-tor](https://github.com/skizap/dos-over-tor)
-
-**Author:** skizap
-
-**Last Updated:** 2018-07-21
-
-**Description:** Proof of concept denial of service over TOR stress test tool. Is multi-threaded and supports multiple attack vectors.
 
 ---
 
 ## dotgpg
 
-**Repository:** [https://github.com/ConradIrwin/dotgpg](https://github.com/ConradIrwin/dotgpg)
+**Repository:** [[https://github.com/ConradIrwin/dotgpg](https://github.com/ConradIrwin/dotgpg)]([https://github.com/ConradIrwin/dotgpg](https://github.com/ConradIrwin/dotgpg))
 
 **Author:** ConradIrwin
-
-**Last Updated:** 2018-04-04
-
-**Description:** dotgpg is a tool for backing up and versioning your [production secrets](#deploying) or [shared passwords](#shared-passwords) securely and easily. ([Why?](#why))
 
 ---
 
 ## dpkt
 
-**Repository:** [https://github.com/kbandla/dpkt](https://github.com/kbandla/dpkt)
+**Repository:** [[https://github.com/kbandla/dpkt](https://github.com/kbandla/dpkt)]([https://github.com/kbandla/dpkt](https://github.com/kbandla/dpkt))
 
 **Author:** kbandla
-
-**Last Updated:** 2024-05-05
-
-**Description:** The dpkt project is a python module for fast, simple packet parsing, with definitions for the basic TCP/IP protocols.
 
 ---
 
 ## drltrace
 
-**Repository:** [https://github.com/mxmssh/drltrace](https://github.com/mxmssh/drltrace)
+**Repository:** [[https://github.com/mxmssh/drltrace](https://github.com/mxmssh/drltrace)]([https://github.com/mxmssh/drltrace](https://github.com/mxmssh/drltrace))
 
 **Author:** mxmssh
 
-**Last Updated:** 2020-08-06
+---
 
-**Description:** Drltrace is a dynamic API calls tracer for Windows and Linux applications. Drltrace is built on top of [DynamoRIO](http://www.dynamorio.org/) dynamic binary instrumentation framework. Drltrace was initialy implemented by Derek Bruening and distributed with DynamoRIO and DrMemory frameworks. This ...
+## droidbox
+
+**Repository:** [[https://github.com/pjlantz/droidbox](https://github.com/pjlantz/droidbox)]([https://github.com/pjlantz/droidbox](https://github.com/pjlantz/droidbox))
+
+**Author:** pjlantz
 
 ---
 
 ## drozer
 
-**Repository:** [https://github.com/mwrlabs/drozer](https://github.com/mwrlabs/drozer)
+**Repository:** [[https://github.com/mwrlabs/drozer](https://github.com/mwrlabs/drozer)]([https://github.com/mwrlabs/drozer](https://github.com/mwrlabs/drozer))
 
 **Author:** mwrlabs
-
-**Last Updated:** 2025-06-24
-
-**Description:** drozer is a security testing framework for Android.
 
 ---
 
 ## drupot
 
-**Repository:** [https://github.com/d1str0/drupot](https://github.com/d1str0/drupot)
+**Repository:** [[https://github.com/d1str0/drupot](https://github.com/d1str0/drupot)]([https://github.com/d1str0/drupot](https://github.com/d1str0/drupot))
 
 **Author:** d1str0
 
-**Last Updated:** 2019-07-13
-
-**Description:** Drupal Honeypot
-
 ---
 
-## Dshell
+## dshield-docker
 
-**Repository:** [https://github.com/USArmyResearchLab/Dshell](https://github.com/USArmyResearchLab/Dshell)
+**Repository:** [[https://github.com/xme/dshield-docker](https://github.com/xme/dshield-docker)]([https://github.com/xme/dshield-docker](https://github.com/xme/dshield-docker))
 
-**Author:** USArmyResearchLab
-
-**Last Updated:** 2024-05-01
-
-**Description:** An extensible network forensic analysis framework. Enables rapid development of plugins to support the dissection of network packet captures.
-
----
-
-## dshp
-
-**Repository:** [https://github.com/naorlivne/dshp](https://github.com/naorlivne/dshp)
-
-**Author:** naorlivne
-
-**Last Updated:** 2016-05-31
-
-**Description:** This is a honeypot designed to be as simple as possible while allowing enough modularity to automate event handling (such as email alerts, SMS or even kicking a user out). I wrote this after not being able to find a truly zero interaction HP to stick inside a VPC that will alert only when attempt...
+**Author:** xme
 
 ---
 
 ## duckduckgo
 
-**Repository:** [https://github.com/its0x08/duckduckgo](https://github.com/its0x08/duckduckgo)
+**Repository:** [[https://github.com/its0x08/duckduckgo](https://github.com/its0x08/duckduckgo)]([https://github.com/its0x08/duckduckgo](https://github.com/its0x08/duckduckgo))
 
 **Author:** its0x08
-
-**Last Updated:** 2024-02-09
-
-**Description:** duckduckgo.py is a simple python module to scrape the duckduckgo search results. The ddg script can be used as a command line utility in a shell pipeline.
 
 ---
 
 ## duplicut
 
-**Repository:** [https://github.com/nil0x42/duplicut](https://github.com/nil0x42/duplicut)
+**Repository:** [[https://github.com/nil0x42/duplicut](https://github.com/nil0x42/duplicut)]([https://github.com/nil0x42/duplicut](https://github.com/nil0x42/duplicut))
 
 **Author:** nil0x42
-
-**Last Updated:** 2025-11-04
-
-**Description:** Duplicut :scissors:
-
----
-
-## dvca
-
-**Repository:** [https://github.com/m6a-UdS/dvca.git](https://github.com/m6a-UdS/dvca.git)
-
-**Author:** m6a-UdS
-
-**Last Updated:** 2018-09-12
-
-**Description:** This is a demonstration project to show how to do privilege escalation on AWS. DO NOT deploy this on an AWS account unless you know very well what you are doing!
 
 ---
 
 ## dvcs-ripper
 
-**Repository:** [https://github.com/kost/dvcs-ripper](https://github.com/kost/dvcs-ripper)
+**Repository:** [[https://github.com/kost/dvcs-ripper](https://github.com/kost/dvcs-ripper)]([https://github.com/kost/dvcs-ripper](https://github.com/kost/dvcs-ripper))
 
 **Author:** kost
 
-**Last Updated:** 2020-08-17
-
-**Description:** dvcs-ripper
-
 ---
 
-## dvfa
+## dvws-node
 
-**Repository:** [https://github.com/arroway/dvfa](https://github.com/arroway/dvfa)
+**Repository:** [[https://github.com/snoopysecurity/dvws-node](https://github.com/snoopysecurity/dvws-node)]([https://github.com/snoopysecurity/dvws-node](https://github.com/snoopysecurity/dvws-node))
 
-**Author:** arroway
-
-**Last Updated:** 2014-01-14
-
-**Description:** No README found
-
----
-
-## DVWA
-
-**Repository:** [https://github.com/ethicalhack3r/DVWA](https://github.com/ethicalhack3r/DVWA)
-
-**Author:** ethicalhack3r
-
-**Last Updated:** 2026-01-21
-
-**Description:** Damn Vulnerable Web Application (DVWA) is a PHP/MariaDB web application that is damn vulnerable. Its main goal is to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and to ...
+**Author:** snoopysecurity
 
 ---
 
 ## dvxte
 
-**Repository:** [https://github.com/davevs/dvxte](https://github.com/davevs/dvxte)
+**Repository:** [[https://github.com/davevs/dvxte](https://github.com/davevs/dvxte)]([https://github.com/davevs/dvxte](https://github.com/davevs/dvxte))
 
 **Author:** davevs
-
-**Last Updated:** 2022-03-15
-
-**Description:** When I started at Xebia in 2015, Docker was hip and new and I wanted to understand it better. As I was getting tired of continuously rebuilding vulnerable testing environments I thought it was a nice idea to see if I could put them all in 1 docker container, so that a simple restart would refresh...
 
 ---
 
 ## Dwarf
 
-**Repository:** [https://github.com/iGio90/Dwarf](https://github.com/iGio90/Dwarf)
+**Repository:** [[https://github.com/iGio90/Dwarf](https://github.com/iGio90/Dwarf)]([https://github.com/iGio90/Dwarf](https://github.com/iGio90/Dwarf))
 
 **Author:** iGio90
-
-**Last Updated:** 2024-05-16
-
-**Description:** A debugger for reverse engineers, crackers and security analyst. Or you can call it damn, why are raspberries so fluffy or yet, duck warriors are rich as fuck. Whatever you like! Built on top of pyqt5, frida and some terrible code.
 
 ---
 
 ## dynStruct
 
-**Repository:** [https://github.com/ampotos/dynStruct](https://github.com/ampotos/dynStruct)
+**Repository:** [[https://github.com/ampotos/dynStruct](https://github.com/ampotos/dynStruct)]([https://github.com/ampotos/dynStruct](https://github.com/ampotos/dynStruct))
 
 **Author:** ampotos
-
-**Last Updated:** 2019-08-12
-
-**Description:** dynStruct is a tool using dynamoRio to monitor memory accesses of an ELF binary via a data gatherer, and use this data to recover structures of the original code.
 
 ---
 
 ## Ebowla
 
-**Repository:** [https://github.com/Genetic-Malware/Ebowla](https://github.com/Genetic-Malware/Ebowla)
+**Repository:** [[https://github.com/Genetic-Malware/Ebowla](https://github.com/Genetic-Malware/Ebowla)]([https://github.com/Genetic-Malware/Ebowla](https://github.com/Genetic-Malware/Ebowla))
 
 **Author:** Genetic-Malware
-
-**Last Updated:** 2019-01-28
-
-**Description:** USAGE: ./ebowla.py exe_dll_shellcode genetic.config
-
----
-
-## elastichoney
-
-**Repository:** [https://github.com/jordan-wright/elastichoney](https://github.com/jordan-wright/elastichoney)
-
-**Author:** jordan-wright
-
-**Last Updated:** 2015-07-05
-
-**Description:** A Simple Elasticsearch Honeypot
-
----
-
-## electron-research
-
-**Repository:** [https://github.com/msrkp/electron-research](https://github.com/msrkp/electron-research)
-
-**Author:** msrkp
-
-**Last Updated:** 2022-02-09
-
-**Description:** Title: TBA
 
 ---
 
 ## electronegativity
 
-**Repository:** [https://github.com/doyensec/electronegativity](https://github.com/doyensec/electronegativity)
+**Repository:** [[https://github.com/doyensec/electronegativity](https://github.com/doyensec/electronegativity)]([https://github.com/doyensec/electronegativity](https://github.com/doyensec/electronegativity))
 
 **Author:** doyensec
 
-**Last Updated:** 2025-08-23
-
-**Description:** ⚠️ **We're no longer actively maintaining this project** ⚠️
-
 ---
 
-## ember
+## endlessh
 
-**Repository:** [https://github.com/endgameinc/ember](https://github.com/endgameinc/ember)
+**Repository:** [[https://github.com/skeeto/endlessh](https://github.com/skeeto/endlessh)]([https://github.com/skeeto/endlessh](https://github.com/skeeto/endlessh))
 
-**Author:** endgameinc
+**Author:** skeeto
 
-**Last Updated:** 2022-08-23
-
-**Description:** (No description available)
 ---
 
 ## enjarify
 
-**Repository:** [https://github.com/google/enjarify](https://github.com/google/enjarify)
+**Repository:** [[https://github.com/google/enjarify](https://github.com/google/enjarify)]([https://github.com/google/enjarify](https://github.com/google/enjarify))
 
 **Author:** google
 
-**Last Updated:** 2017-01-30
-
-**Description:** Note: This repository may be out of date. Future development will occur at https://github.com/Storyyeller/enjarify.
-
 ---
 
-## ensnare
+## EoHoneypotBundle
 
-**Repository:** [https://github.com/ahoernecke/ensnare](https://github.com/ahoernecke/ensnare)
+**Repository:** [[https://github.com/eymengunay/EoHoneypotBundle](https://github.com/eymengunay/EoHoneypotBundle)]([https://github.com/eymengunay/EoHoneypotBundle](https://github.com/eymengunay/EoHoneypotBundle))
 
-**Author:** ahoernecke
-
-**Last Updated:** 2017-04-18
-
-**Description:** Ensnare is packaged as a gem plugin for Ruby on Rails and was developed to allow configuring and deploying a basic malicious behavior detection and response scheme in less than ten minutes.
-
----
-
-## enum4linux-ng
-
-**Repository:** [https://github.com/cddmp/enum4linux-ng](https://github.com/cddmp/enum4linux-ng)
-
-**Author:** cddmp
-
-**Last Updated:** 2025-12-16
-
-**Description:** enum4linux-ng  <strong>A next generation version of enum4linux</strong>
+**Author:** eymengunay
 
 ---
 
 ## eotk
 
-**Repository:** [https://github.com/alecmuffett/eotk](https://github.com/alecmuffett/eotk)
+**Repository:** [[https://github.com/alecmuffett/eotk](https://github.com/alecmuffett/eotk)]([https://github.com/alecmuffett/eotk](https://github.com/alecmuffett/eotk))
 
 **Author:** alecmuffett
 
-**Last Updated:** 2024-02-09
-
-**Description:** I've landed a small breaking change in order to better-support HARICA as a certificate provider, but also for better usability; this change impacts any project with a multi-onion EV certificate from Digicert.
-
----
-
-## ESPot
-
-**Repository:** [https://github.com/mycert/ESPot](https://github.com/mycert/ESPot)
-
-**Author:** mycert
-
-**Last Updated:** 2014-08-25
-
-**Description:** ESPot - ElasticSearch Honeypot An Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit [CVE-2014-3120].
-
----
-
-## ettercap
-
-**Repository:** [https://github.com/Ettercap/ettercap](https://github.com/Ettercap/ettercap)
-
-**Author:** Ettercap
-
-**Last Updated:** 2026-02-01
-
-**Description:** (No description available)
----
-
-## evilginx2
-
-**Repository:** [https://github.com/kgretzky/evilginx2](https://github.com/kgretzky/evilginx2)
-
-**Author:** kgretzky
-
-**Last Updated:** 2025-10-06
-
-**Description:** (No description available)
 ---
 
 ## EvilOSX
 
-**Repository:** [https://github.com/Marten4n6/EvilOSX](https://github.com/Marten4n6/EvilOSX)
+**Repository:** [[https://github.com/Marten4n6/EvilOSX](https://github.com/Marten4n6/EvilOSX)]([https://github.com/Marten4n6/EvilOSX](https://github.com/Marten4n6/EvilOSX))
 
 **Author:** Marten4n6
 
-**Last Updated:** 2021-02-10
-
-**Description:** (No description available)
 ---
 
-## evolve
+## EVTXtract
 
-**Repository:** [https://github.com/JamesHabben/evolve](https://github.com/JamesHabben/evolve)
+**Repository:** [[https://github.com/williballenthin/EVTXtract](https://github.com/williballenthin/EVTXtract)]([https://github.com/williballenthin/EVTXtract](https://github.com/williballenthin/EVTXtract))
 
-**Author:** JamesHabben
-
-**Last Updated:** 2017-11-20
-
-**Description:**  <br /> Web interface for the Volatility Memory Forensics Framework https://github.com/volatilityfoundation/volatility
-
----
-
-## ExchangeFilter
-
-**Repository:** [https://github.com/k-sec-tools/ExchangeFilter](https://github.com/k-sec-tools/ExchangeFilter)
-
-**Author:** k-sec-tools
-
-**Last Updated:** 2021-08-25
-
-**Description:** Microsoft Exchange 2019 Transport Filtering Agent
+**Author:** williballenthin
 
 ---
 
 ## exiflooter
 
-**Repository:** [https://github.com/aydinnyunus/exiflooter](https://github.com/aydinnyunus/exiflooter)
+**Repository:** [[https://github.com/aydinnyunus/exiflooter](https://github.com/aydinnyunus/exiflooter)]([https://github.com/aydinnyunus/exiflooter](https://github.com/aydinnyunus/exiflooter))
 
 **Author:** aydinnyunus
 
-**Last Updated:** 2026-01-16
+---
 
-**Description:** <!-- PROJECT LOGO -->
+## exiftool
+
+**Repository:** [[https://github.com/exiftool/exiftool](https://github.com/exiftool/exiftool)]([https://github.com/exiftool/exiftool](https://github.com/exiftool/exiftool))
+
+**Author:** exiftool
 
 ---
 
 ## exiftool.rb
 
-**Repository:** [https://github.com/mceachen/exiftool.rb](https://github.com/mceachen/exiftool.rb)
+**Repository:** [[https://github.com/mceachen/exiftool.rb](https://github.com/mceachen/exiftool.rb)]([https://github.com/mceachen/exiftool.rb](https://github.com/mceachen/exiftool.rb))
 
 **Author:** mceachen
-
-**Last Updated:** 2025-12-14
-
-**Description:** This gem is the simplest thing that could possibly work that reads the output of [exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool) and renders it into a ruby hash, with _correctly typed values_ and symbolized keys.
-
----
-
-## EyeWitness
-
-**Repository:** [https://github.com/ChrisTruncer/EyeWitness](https://github.com/ChrisTruncer/EyeWitness)
-
-**Author:** ChrisTruncer
-
-**Last Updated:** 2024-05-23
-
-**Description:** EyeWitness
 
 ---
 
 ## factual-rules-generator
 
-**Repository:** [https://github.com/CIRCL/factual-rules-generator](https://github.com/CIRCL/factual-rules-generator)
+**Repository:** [[https://github.com/CIRCL/factual-rules-generator](https://github.com/CIRCL/factual-rules-generator)]([https://github.com/CIRCL/factual-rules-generator](https://github.com/CIRCL/factual-rules-generator))
 
 **Author:** CIRCL
-
-**Last Updated:** 2022-01-17
-
-**Description:** Factual-rules-generator is an open source project which aims to generate [YARA rules](https://github.com/CIRCL/factual-rules) about installed software from a running operating system.
-
----
-
-## fapro
-
-**Repository:** [https://github.com/fofapro/fapro](https://github.com/fofapro/fapro)
-
-**Author:** fofapro
-
-**Last Updated:** 2024-12-31
-
-**Description:** (No description available)
----
-
-## FARA
-
-**Repository:** [https://github.com/bartblaze/FARA](https://github.com/bartblaze/FARA)
-
-**Author:** bartblaze
-
-**Last Updated:** 2025-07-23
-
-**Description:** FARA, or Faux YARA, is a simple repository that contains a set of **purposefully erroneous** YARA rules. It is meant as a training vehicle for anyone that wants to write YARA rules; whether as a new security analyst, new to YARA or even as a YARA veteran that wants to keep their rule writing (and...
 
 ---
 
 ## faraday
 
-**Repository:** [https://github.com/infobyte/faraday](https://github.com/infobyte/faraday)
+**Repository:** [[https://github.com/infobyte/faraday](https://github.com/infobyte/faraday)]([https://github.com/infobyte/faraday](https://github.com/infobyte/faraday))
 
 **Author:** infobyte
-
-**Last Updated:** 2026-01-26
-
-**Description:** Security has two difficult tasks: designing smart ways of getting new information, and keeping track of findings to improve remediation efforts. With Faraday, you may focus on discovering vulnerabilities while we help you with the rest. Just use it in your terminal and get your work organized on ...
 
 ---
 
 ## fast-recon
 
-**Repository:** [https://github.com/DanMcInerney/fast-recon](https://github.com/DanMcInerney/fast-recon)
+**Repository:** [[https://github.com/DanMcInerney/fast-recon](https://github.com/DanMcInerney/fast-recon)]([https://github.com/DanMcInerney/fast-recon](https://github.com/DanMcInerney/fast-recon))
 
 **Author:** DanMcInerney
-
-**Last Updated:** 2020-01-20
-
-**Description:** A very simple script to open a bunch of google and pastebin dorks at once. Run it against a domain and it'll google dork for possibly sensitive files.
-
----
-
-## fastfinder
-
-**Repository:** [https://github.com/codeyourweb/fastfinder](https://github.com/codeyourweb/fastfinder)
-
-**Author:** codeyourweb
-
-**Last Updated:** 2026-01-24
-
-**Description:** **A lightweight incident response tool for threat hunting and forensic triage**
 
 ---
 
 ## fb_friend_list_scraper
 
-**Repository:** [https://github.com/narkopolo/fb_friend_list_scraper](https://github.com/narkopolo/fb_friend_list_scraper)
+**Repository:** [[https://github.com/narkopolo/fb_friend_list_scraper](https://github.com/narkopolo/fb_friend_list_scraper)]([https://github.com/narkopolo/fb_friend_list_scraper](https://github.com/narkopolo/fb_friend_list_scraper))
 
 **Author:** narkopolo
-
-**Last Updated:** 2022-12-15
-
-**Description:** (No description available)
----
-
-## featherduster
-
-**Repository:** [https://github.com/nccgroup/featherduster](https://github.com/nccgroup/featherduster)
-
-**Author:** nccgroup
-
-**Last Updated:** 2021-12-02
-
-**Description:** FeatherDuster is a tool written primarily by Daniel "unicornfurnace" Crowley, along with community contributions, for breaking crypto; It tries to make the process of identifying and exploiting weak cryptosystems as easy as possible. Cryptanalib is the moving parts behind FeatherDuster, and can b...
-
----
-
-## Fenrir
-
-**Repository:** [https://github.com/Neo23x0/Fenrir](https://github.com/Neo23x0/Fenrir)
-
-**Author:** Neo23x0
-
-**Last Updated:** 2022-02-12
-
-**Description:** Simple Bash IOC Scanner
 
 ---
 
 ## fernflower
 
-**Repository:** [https://github.com/fesh0r/fernflower](https://github.com/fesh0r/fernflower)
+**Repository:** [[https://github.com/fesh0r/fernflower](https://github.com/fesh0r/fernflower)]([https://github.com/fesh0r/fernflower](https://github.com/fesh0r/fernflower))
 
 **Author:** fesh0r
-
-**Last Updated:** 2026-01-31
-
-**Description:** [issue tracker]: https://youtrack.jetbrains.com/newIssue?project=IDEA&clearDraft=true&c=Subsystem%20Java.%20Decompiler.%20Engine
-
----
-
-## fibratus
-
-**Repository:** [https://github.com/rabbitstack/fibratus](https://github.com/rabbitstack/fibratus)
-
-**Author:** rabbitstack
-
-**Last Updated:** 2026-02-11
-
-**Description:**  <a href="https://www.fibratus.io" > 
 
 ---
 
 ## fiddle
 
-**Repository:** [https://github.com/electron/fiddle](https://github.com/electron/fiddle)
+**Repository:** [[https://github.com/electron/fiddle](https://github.com/electron/fiddle)]([https://github.com/electron/fiddle](https://github.com/electron/fiddle))
 
 **Author:** electron
-
-**Last Updated:** 2026-02-10
-
-**Description:** Electron Fiddle lets you create and play with small Electron experiments. It greets you with a quick-start template after opening – change a few things, choose the version of Electron you want to run it with, and play around. Then,
 
 ---
 
 ## fierce
 
-**Repository:** [https://github.com/mschwager/fierce](https://github.com/mschwager/fierce)
+**Repository:** [[https://github.com/mschwager/fierce](https://github.com/mschwager/fierce)]([https://github.com/mschwager/fierce](https://github.com/mschwager/fierce))
 
 **Author:** mschwager
-
-**Last Updated:** 2024-08-28
-
-**Description:** Fierce is a `DNS` reconnaissance tool for locating non-contiguous IP space.
 
 ---
 
 ## FiercePhish
 
-**Repository:** [https://github.com/Raikia/FiercePhish](https://github.com/Raikia/FiercePhish)
+**Repository:** [[https://github.com/Raikia/FiercePhish](https://github.com/Raikia/FiercePhish)]([https://github.com/Raikia/FiercePhish](https://github.com/Raikia/FiercePhish))
 
 **Author:** Raikia
 
-**Last Updated:** 2024-01-08
-
-**Description:** FiercePhish is a full-fledged phishing framework to manage all phishing engagements.  It allows you to track separate phishing campaigns, schedule sending of emails, and much more. The features will continue to be expanded and will include website spoofing, click tracking, and extensive notificat...
-
 ---
 
-## fileintel
+## findcrypt-yara
 
-**Repository:** [https://github.com/keithjjones/fileintel](https://github.com/keithjjones/fileintel)
+**Repository:** [[https://github.com/polymorf/findcrypt-yara](https://github.com/polymorf/findcrypt-yara)]([https://github.com/polymorf/findcrypt-yara](https://github.com/polymorf/findcrypt-yara))
 
-**Author:** keithjjones
-
-**Last Updated:** 2020-12-04
-
-**Description:** This is a tool used to collect various intelligence sources for a given file. Fileintel is written in a modular fashion so new intelligence sources can be easily added.
-
----
-
-## filterbypass
-
-**Repository:** [https://github.com/masatokinugawa/filterbypass](https://github.com/masatokinugawa/filterbypass)
-
-**Author:** masatokinugawa
-
-**Last Updated:** 2017-05-06
-
-**Description:** https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet
-
----
-
-## fimap
-
-**Repository:** [https://github.com/kurobeats/fimap](https://github.com/kurobeats/fimap)
-
-**Author:** kurobeats
-
-**Last Updated:** 2018-11-14
-
-**Description:** Welcome to the fimap project!
-
----
-
-## fingerprintjs
-
-**Repository:** [https://github.com/fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)
-
-**Author:** fingerprintjs
-
-**Last Updated:** 2026-01-22
-
-**Description:**  <a href="https://fingerprint.com">
-
----
-
-## finshir
-
-**Repository:** [https://github.com/isgasho/finshir](https://github.com/isgasho/finshir)
-
-**Author:** isgasho
-
-**Last Updated:** 2019-05-08
-
-**Description:**  finshir
-
----
-
-## FIR
-
-**Repository:** [https://github.com/certsocietegenerale/FIR](https://github.com/certsocietegenerale/FIR)
-
-**Author:** certsocietegenerale
-
-**Last Updated:** 2026-02-10
-
-**Description:** FIR (Fast Incident Response) is an cybersecurity incident management platform designed with agility and speed in mind. It allows for easy creation, tracking, and reporting of cybersecurity incidents.
-
----
-
-## firezone
-
-**Repository:** [https://github.com/firezone/firezone](https://github.com/firezone/firezone)
-
-**Author:** firezone
-
-**Last Updated:** 2026-02-12
-
-**Description:** No README found
+**Author:** polymorf
 
 ---
 
 ## Firmware_extractor
 
-**Repository:** [https://github.com/AndroidDumps/Firmware_extractor](https://github.com/AndroidDumps/Firmware_extractor)
+**Repository:** [[https://github.com/AndroidDumps/Firmware_extractor](https://github.com/AndroidDumps/Firmware_extractor)]([https://github.com/AndroidDumps/Firmware_extractor](https://github.com/AndroidDumps/Firmware_extractor))
 
 **Author:** AndroidDumps
-
-**Last Updated:** 2025-03-09
-
-**Description:** This repository is used mainly by `dumpyara` in order to pull all images from an archive and easily extract them to directories.
 
 ---
 
 ## fit
 
-**Repository:** [https://github.com/fit-project/fit](https://github.com/fit-project/fit)
+**Repository:** [[https://github.com/fit-project/fit](https://github.com/fit-project/fit)]([https://github.com/fit-project/fit](https://github.com/fit-project/fit))
 
 **Author:** fit-project
-
-**Last Updated:** 2025-10-27
-
-**Description:** First beta release of the new mail acquisition module, now based on **PySide6**. [View release](https://github.com/fit-project/fit-mail/releases/tag/v3.0.0-beta)
 
 ---
 
 ## flare-fakenet-ng
 
-**Repository:** [https://github.com/fireeye/flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng)
+**Repository:** [[https://github.com/fireeye/flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng)]([https://github.com/fireeye/flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng))
 
 **Author:** fireeye
-
-**Last Updated:** 2025-12-09
-
-**Description:** ______      _  ________ _   _ ______ _______     _   _  _____ |  ____/\   | |/ /  ____| \ | |  ____|__   __|   | \ | |/ ____| | |__ /  \  | ' /| |__  |  \| | |__     | |______|  \| | |  __ |  __/ /\ \ |  < |  __| | . ` |  __|    | |______| . ` | | |_ |
 
 ---
 
 ## flare-floss
 
-**Repository:** [https://github.com/fireeye/flare-floss](https://github.com/fireeye/flare-floss)
+**Repository:** [[https://github.com/fireeye/flare-floss](https://github.com/fireeye/flare-floss)]([https://github.com/fireeye/flare-floss](https://github.com/fireeye/flare-floss))
 
 **Author:** fireeye
-
-**Last Updated:** 2026-01-20
-
-**Description:** The FLARE Obfuscated String Solver (FLOSS, formerly FireEye Labs Obfuscated String Solver) uses advanced static analysis techniques to automatically extract and deobfuscate all strings from malware binaries. You can use it just like `strings.exe` to enhance the
 
 ---
 
 ## flare-vm
 
-**Repository:** [https://github.com/fireeye/flare-vm](https://github.com/fireeye/flare-vm)
+**Repository:** [[https://github.com/fireeye/flare-vm](https://github.com/fireeye/flare-vm)]([https://github.com/fireeye/flare-vm](https://github.com/fireeye/flare-vm))
 
 **Author:** fireeye
-
-**Last Updated:** 2025-12-22
-
-**Description:** Welcome to FLARE-VM - a collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a virtual machine (VM). FLARE-VM was designed to solve the problem of reverse engineering tool curation and relies on two main...
-
----
-
-## fleet
-
-**Repository:** [https://github.com/fleetdm/fleet](https://github.com/fleetdm/fleet)
-
-**Author:** fleetdm
-
-**Last Updated:** 2026-02-12
-
-**Description:** <a href="https://fleetdm.com">
-
----
-
-## flightsim
-
-**Repository:** [https://github.com/alphasoc/flightsim](https://github.com/alphasoc/flightsim)
-
-**Author:** alphasoc
-
-**Last Updated:** 2024-04-04
-
-**Description:** **flightsim** is a lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility. The tool performs tests to simulate DNS tunneling, DGA traffic, requests to known active C2 destinations, and other suspicious traffic pa...
-
----
-
-## fluxion
-
-**Repository:** [https://github.com/FluxionNetwork/fluxion](https://github.com/FluxionNetwork/fluxion)
-
-**Author:** FluxionNetwork
-
-**Last Updated:** 2025-12-13
-
-**Description:** Fluxion is a security auditing and social-engineering research tool. It is a remake of linset by vk496 with (hopefully) fewer bugs and more functionality. The script attempts to retrieve the WPA/WPA2 key from a target access point by means of a social engineering (phishing) attack. It's compatibl...
 
 ---
 
 ## Fnord
 
-**Repository:** [https://github.com/Neo23x0/Fnord](https://github.com/Neo23x0/Fnord)
+**Repository:** [[https://github.com/Neo23x0/Fnord](https://github.com/Neo23x0/Fnord)]([https://github.com/Neo23x0/Fnord](https://github.com/Neo23x0/Fnord))
 
 **Author:** Neo23x0
-
-**Last Updated:** 2022-02-12
-
-**Description:** Fnord is a pattern extractor for obfuscated code
 
 ---
 
 ## FOCA
 
-**Repository:** [https://github.com/ElevenPaths/FOCA](https://github.com/ElevenPaths/FOCA)
+**Repository:** [[https://github.com/ElevenPaths/FOCA](https://github.com/ElevenPaths/FOCA)]([https://github.com/ElevenPaths/FOCA](https://github.com/ElevenPaths/FOCA))
 
 **Author:** ElevenPaths
-
-**Last Updated:** 2021-08-27
-
-**Description:** (No description available)
----
-
-## Forager
-
-**Repository:** [https://github.com/opensourcesec/Forager](https://github.com/opensourcesec/Forager)
-
-**Author:** opensourcesec
-
-**Last Updated:** 2018-01-23
-
-**Description:** Do you ever wonder if there is an easier way to retrieve, store, and maintain all your threat intelligence data? Random user, meet Forager. Not all threat intel implementations require a database that is "correlating trillions of data points.." and instead, you just need a simple interface, with ...
 
 ---
 
 ## foremost
 
-**Repository:** [https://github.com/jonstewart/foremost](https://github.com/jonstewart/foremost)
+**Repository:** [[https://github.com/jonstewart/foremost](https://github.com/jonstewart/foremost)]([https://github.com/jonstewart/foremost](https://github.com/jonstewart/foremost))
 
 **Author:** jonstewart
-
-**Last Updated:** 2013-01-10
-
-**Description:** Foremost is a Linux program to recover files based on their headers and footers. Foremost can work on image files, such as those generated by dd, Safeback, Encase, etc, or directly on a drive. The headers and footers are
-
----
-
-## Free-Security-eBooks
-
-**Repository:** [https://github.com/Hack-with-Github/Free-Security-eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks)
-
-**Author:** Hack-with-Github
-
-**Last Updated:** 2019-01-20
-
-**Description:** A curated list of free Security and Pentesting related E-Books available on the Internet.
 
 ---
 
 ## fREedom
 
-**Repository:** [https://github.com/cseagle/fREedom](https://github.com/cseagle/fREedom)
+**Repository:** [[https://github.com/cseagle/fREedom](https://github.com/cseagle/fREedom)]([https://github.com/cseagle/fREedom](https://github.com/cseagle/fREedom))
 
 **Author:** cseagle
 
-**Last Updated:** 2016-06-08
-
-**Description:** fREedom is a primitive attempt to provide an IDA Pro independent means of extracting disassembly information from executables for use with binnavi (https://github.com/google/binnavi).
-
----
-
-## frida
-
-**Repository:** [https://github.com/frida/frida](https://github.com/frida/frida)
-
-**Author:** frida
-
-**Last Updated:** 2026-02-12
-
-**Description:** Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers. Learn more at [frida.re](https://frida.re/).
-
----
-
-## fridax
-
-**Repository:** [https://github.com/NorthwaveNL/fridax](https://github.com/NorthwaveNL/fridax)
-
-**Author:** NorthwaveNL
-
-**Last Updated:** 2022-08-19
-
-**Description:** (No description available)
 ---
 
 ## friTap
 
-**Repository:** [https://github.com/fkie-cad/friTap](https://github.com/fkie-cad/friTap)
+**Repository:** [[https://github.com/fkie-cad/friTap](https://github.com/fkie-cad/friTap)]([https://github.com/fkie-cad/friTap](https://github.com/fkie-cad/friTap))
 
 **Author:** fkie-cad
 
-**Last Updated:** 2026-01-26
-
-**Description:**   <strong>Real-time key extraction and traffic decryption for security research</strong>
-
 ---
 
-## fsf
+## fsYara
 
-**Repository:** [https://github.com/EmersonElectricCo/fsf](https://github.com/EmersonElectricCo/fsf)
+**Repository:** [[https://github.com/filescanio/fsYara](https://github.com/filescanio/fsYara)]([https://github.com/filescanio/fsYara](https://github.com/filescanio/fsYara))
 
-**Author:** EmersonElectricCo
-
-**Last Updated:** 2019-01-28
-
-**Description:** File Scanning Framework (FSF) v1.1
-
----
-
-## fslib
-
-**Repository:** [https://github.com/forensicanalysis/fslib](https://github.com/forensicanalysis/fslib)
-
-**Author:** forensicanalysis
-
-**Last Updated:** 2024-10-20
-
-**Description:** No README found
-
----
-
-## FSquaDRA
-
-**Repository:** [https://github.com/zyrikby/FSquaDRA](https://github.com/zyrikby/FSquaDRA)
-
-**Author:** zyrikby
-
-**Last Updated:** 2023-04-01
-
-**Description:** FSquaDRA is a tool for detection of repackaged Android applications. The approach is based on the idea that repackaged applications want to maintain "look and feel" of the originals.
-
----
-
-## Fuji
-
-**Repository:** [https://github.com/Lazza/Fuji](https://github.com/Lazza/Fuji)
-
-**Author:** Lazza
-
-**Last Updated:** 2026-01-31
-
-**Description:** (No description available)
----
-
-## fuzzdb
-
-**Repository:** [https://github.com/fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb)
-
-**Author:** fuzzdb-project
-
-**Last Updated:** 2020-02-26
-
-**Description:** FuzzDB was created to increase the likelihood of finding application security vulnerabilities through dynamic application security testing. It's the first and most comprehensive open dictionary of fault injection patterns, predictable resource locations, and regex for matching server responses.
+**Author:** filescanio
 
 ---
 
 ## galah
 
-**Repository:** [https://github.com/0x4D31/galah](https://github.com/0x4D31/galah)
+**Repository:** [[https://github.com/0x4D31/galah](https://github.com/0x4D31/galah)]([https://github.com/0x4D31/galah](https://github.com/0x4D31/galah))
 
 **Author:** 0x4D31
 
-**Last Updated:** 2025-07-24
-
-**Description:** (No description available)
 ---
 
-## gatekeeper
+## game
 
-**Repository:** [https://github.com/AltraMayor/gatekeeper](https://github.com/AltraMayor/gatekeeper)
+**Repository:** [[https://github.com/xelenonz/game](https://github.com/xelenonz/game)]([https://github.com/xelenonz/game](https://github.com/xelenonz/game))
 
-**Author:** AltraMayor
+**Author:** xelenonz
 
-**Last Updated:** 2025-11-05
+---
 
-**Description:** <a href="https://github.com/AltraMayor/gatekeeper/actions?query=workflow%3compile"> 
+## GasPot
+
+**Repository:** [[https://github.com/sjhilt/GasPot](https://github.com/sjhilt/GasPot)]([https://github.com/sjhilt/GasPot](https://github.com/sjhilt/GasPot))
+
+**Author:** sjhilt
 
 ---
 
 ## GCPBucketBrute
 
-**Repository:** [https://github.com/RhinoSecurityLabs/GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute)
+**Repository:** [[https://github.com/RhinoSecurityLabs/GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute)]([https://github.com/RhinoSecurityLabs/GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute))
 
 **Author:** RhinoSecurityLabs
 
-**Last Updated:** 2023-05-26
-
-**Description:** ﻿# GCPBucketBrute
-
 ---
 
-## GCTI
+## generic-parser
 
-**Repository:** [https://github.com/chronicle/GCTI](https://github.com/chronicle/GCTI)
+**Repository:** [[https://github.com/uppusaikiran/generic-parser](https://github.com/uppusaikiran/generic-parser)]([https://github.com/uppusaikiran/generic-parser](https://github.com/uppusaikiran/generic-parser))
 
-**Author:** chronicle
-
-**Last Updated:** 2023-12-04
-
-**Description:** This repository contains GCTI's open source detection signatures.
-
----
-
-## gef
-
-**Repository:** [https://github.com/hugsy/gef](https://github.com/hugsy/gef)
-
-**Author:** hugsy
-
-**Last Updated:** 2026-02-03
-
-**Description:** (No description available)
----
-
-## Generate-Macro
-
-**Repository:** [https://github.com/enigma0x3/Generate-Macro](https://github.com/enigma0x3/Generate-Macro)
-
-**Author:** enigma0x3
-
-**Last Updated:** 2016-10-27
-
-**Description:** <h2>Coded by Matt Nelson (@enigma0x3)</h2>
+**Author:** uppusaikiran
 
 ---
 
 ## geospy
 
-**Repository:** [https://github.com/atiilla/geospy](https://github.com/atiilla/geospy)
+**Repository:** [[https://github.com/atiilla/geospy](https://github.com/atiilla/geospy)]([https://github.com/atiilla/geospy](https://github.com/atiilla/geospy))
 
 **Author:** atiilla
 
-**Last Updated:** 2026-02-07
-
-**Description:** Python tool using Google's Gemini API to uncover the location where photos were taken through AI-powered geo-location analysis.
-
 ---
 
-## ghidra
+## Geotweet_GUI
 
-**Repository:** [https://github.com/NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
+**Repository:** [[https://github.com/Pinperepette/Geotweet_GUI](https://github.com/Pinperepette/Geotweet_GUI)]([https://github.com/Pinperepette/Geotweet_GUI](https://github.com/Pinperepette/Geotweet_GUI))
 
-**Author:** NationalSecurityAgency
+**Author:** Pinperepette
 
-**Last Updated:** 2026-02-12
-
-**Description:** (No description available)
 ---
 
 ## ghidra_scripts
 
-**Repository:** [https://github.com/ghidraninja/ghidra_scripts](https://github.com/ghidraninja/ghidra_scripts)
+**Repository:** [[https://github.com/ghidraninja/ghidra_scripts](https://github.com/ghidraninja/ghidra_scripts)]([https://github.com/ghidraninja/ghidra_scripts](https://github.com/ghidraninja/ghidra_scripts))
 
 **Author:** ghidraninja
 
-**Last Updated:** 2020-10-07
+---
 
-**Description:** Scripts for the Ghidra software reverse engineering suite.
+## ghidra_yara
+
+**Repository:** [[https://github.com/subreption/ghidra_yara](https://github.com/subreption/ghidra_yara)]([https://github.com/subreption/ghidra_yara](https://github.com/subreption/ghidra_yara))
+
+**Author:** subreption
 
 ---
 
 ## ghiro
 
-**Repository:** [https://github.com/Ghirensics/ghiro](https://github.com/Ghirensics/ghiro)
+**Repository:** [[https://github.com/Ghirensics/ghiro](https://github.com/Ghirensics/ghiro)]([https://github.com/Ghirensics/ghiro](https://github.com/Ghirensics/ghiro))
 
 **Author:** Ghirensics
 
-**Last Updated:** 2016-09-16
-
-**Description:** (No description available)
 ---
 
-## GHunt
+## ghost-usb-honeypot
 
-**Repository:** [https://github.com/mxrch/GHunt](https://github.com/mxrch/GHunt)
+**Repository:** [[https://github.com/honeynet/ghost-usb-honeypot](https://github.com/honeynet/ghost-usb-honeypot)]([https://github.com/honeynet/ghost-usb-honeypot](https://github.com/honeynet/ghost-usb-honeypot))
 
-**Author:** mxrch
-
-**Last Updated:** 2026-02-05
-
-**Description:** GHunt (v2) is an offensive Google framework, designed to evolve efficiently.\ It's currently focused on OSINT, but any use related with Google is possible.
+**Author:** honeynet
 
 ---
 
 ## git-dumper
 
-**Repository:** [https://github.com/arthaud/git-dumper](https://github.com/arthaud/git-dumper)
+**Repository:** [[https://github.com/arthaud/git-dumper](https://github.com/arthaud/git-dumper)]([https://github.com/arthaud/git-dumper](https://github.com/arthaud/git-dumper))
 
 **Author:** arthaud
-
-**Last Updated:** 2025-08-21
-
-**Description:** A tool to dump a git repository from a website.
 
 ---
 
 ## git-secrets
 
-**Repository:** [https://github.com/awslabs/git-secrets](https://github.com/awslabs/git-secrets)
+**Repository:** [[https://github.com/awslabs/git-secrets](https://github.com/awslabs/git-secrets)]([https://github.com/awslabs/git-secrets](https://github.com/awslabs/git-secrets))
 
 **Author:** awslabs
-
-**Last Updated:** 2025-09-17
-
-**Description:** git-secrets
 
 ---
 
 ## github-dorks
 
-**Repository:** [https://github.com/techgaun/github-dorks](https://github.com/techgaun/github-dorks)
+**Repository:** [[https://github.com/techgaun/github-dorks](https://github.com/techgaun/github-dorks)]([https://github.com/techgaun/github-dorks](https://github.com/techgaun/github-dorks))
 
 **Author:** techgaun
 
-**Last Updated:** 2025-10-05
-
-**Description:** [Github Search](https://github.com/search) is a quite powerful and useful feature that can be used to search for sensitive data on repositories. Collection of Github dorks can reveal sensitive personal and/or organizational information such as private keys, credentials, authentication tokens, etc...
-
 ---
 
-## GitPhish
+## github_monitor
 
-**Repository:** [https://github.com/praetorian-inc/GitPhish](https://github.com/praetorian-inc/GitPhish)
+**Repository:** [[https://github.com/misiektoja/github_monitor](https://github.com/misiektoja/github_monitor)]([https://github.com/misiektoja/github_monitor](https://github.com/misiektoja/github_monitor))
 
-**Author:** praetorian-inc
-
-**Last Updated:** 2025-11-12
-
-**Description:** **A GitHub Device Code Flow Security Assessment Tool**
-
----
-
-## gitrecon
-
-**Repository:** [https://github.com/atiilla/gitrecon](https://github.com/atiilla/gitrecon)
-
-**Author:** atiilla
-
-**Last Updated:** 2025-12-30
-
-**Description:** A powerful reconnaissance tool to scan GitHub and GitLab profiles for exposed email addresses, SSH keys, and organizational data. Features smart scanning, deep analysis, and network mapping.
+**Author:** misiektoja
 
 ---
 
 ## GitTools
 
-**Repository:** [https://github.com/internetwache/GitTools](https://github.com/internetwache/GitTools)
+**Repository:** [[https://github.com/internetwache/GitTools](https://github.com/internetwache/GitTools)]([https://github.com/internetwache/GitTools](https://github.com/internetwache/GitTools))
 
 **Author:** internetwache
-
-**Last Updated:** 2022-02-22
-
-**Description:** This repository contains three small python/bash scripts used for the Git research. [Read about it here](https://en.internetwache.org/dont-publicly-expose-git-or-how-we-downloaded-your-websites-sourcecode-an-analysis-of-alexas-1m-28-07-2015/)
 
 ---
 
 ## glastopf
 
-**Repository:** [https://github.com/mushorg/glastopf](https://github.com/mushorg/glastopf)
+**Repository:** [[https://github.com/mushorg/glastopf](https://github.com/mushorg/glastopf)]([https://github.com/mushorg/glastopf](https://github.com/mushorg/glastopf))
 
 **Author:** mushorg
 
-**Last Updated:** 2023-10-22
-
-**Description:** We highly recommend to check out the Glastopf successor `SNARE <https://github.com/mushorg/snare>`_ and `TANNER <https://github.com/mushorg/tanner/>`_.
-
 ---
 
-## Glastopf-Analytics
+## glit
 
-**Repository:** [https://github.com/katkad/Glastopf-Analytics](https://github.com/katkad/Glastopf-Analytics)
+**Repository:** [[https://github.com/shadawck/glit](https://github.com/shadawck/glit)]([https://github.com/shadawck/glit](https://github.com/shadawck/glit))
 
-**Author:** katkad
-
-**Last Updated:** 2014-09-26
-
-**Description:** [Glastopf](https://github.com/glastopf/glastopf) is a Python web application honeypot founded by Lukas Rist.
+**Author:** shadawck
 
 ---
 
 ## glutton
 
-**Repository:** [https://github.com/mushorg/glutton](https://github.com/mushorg/glutton)
+**Repository:** [[https://github.com/mushorg/glutton](https://github.com/mushorg/glutton)]([https://github.com/mushorg/glutton](https://github.com/mushorg/glutton))
 
 **Author:** mushorg
-
-**Last Updated:** 2025-05-30
-
-**Description:** Glutton is a protocol-agnostic, low-interaction honeypot that intercepts network traffic and logs interactions to help analyze malicious activities. It's built using Golang and leverages iptables and TPROXY to redirect all traffic to specific protocol handlers.
 
 ---
 
 ## gmapcatcher
 
-**Repository:** [https://github.com/heldersepu/gmapcatcher](https://github.com/heldersepu/gmapcatcher)
+**Repository:** [[https://github.com/heldersepu/gmapcatcher](https://github.com/heldersepu/gmapcatcher)]([https://github.com/heldersepu/gmapcatcher](https://github.com/heldersepu/gmapcatcher))
 
 **Author:** heldersepu
-
-**Last Updated:** 2021-08-27
-
-**Description:** GMapCatcher is an offline maps viewer. It can display maps from many providers such as:
 
 ---
 
 ## go-emulators
 
-**Repository:** [https://github.com/kingtuna/go-emulators](https://github.com/kingtuna/go-emulators)
+**Repository:** [[https://github.com/kingtuna/go-emulators](https://github.com/kingtuna/go-emulators)]([https://github.com/kingtuna/go-emulators](https://github.com/kingtuna/go-emulators))
 
 **Author:** kingtuna
 
-**Last Updated:** 2016-02-28
+---
 
-**Description:** honeypot go lang emulators
+## go-prefetch
+
+**Repository:** [[https://github.com/Velocidex/go-prefetch](https://github.com/Velocidex/go-prefetch)]([https://github.com/Velocidex/go-prefetch](https://github.com/Velocidex/go-prefetch))
+
+**Author:** Velocidex
 
 ---
 
 ## go-sshoney
 
-**Repository:** [https://github.com/ashmckenzie/go-sshoney](https://github.com/ashmckenzie/go-sshoney)
+**Repository:** [[https://github.com/ashmckenzie/go-sshoney](https://github.com/ashmckenzie/go-sshoney)]([https://github.com/ashmckenzie/go-sshoney](https://github.com/ashmckenzie/go-sshoney))
 
 **Author:** ashmckenzie
 
-**Last Updated:** 2017-06-01
+---
 
-**Description:** SSHoney is an SSH honeypot designed purely to log the SSH connection attempts on a given port.  It does not go any further than that.
+## go-yara
+
+**Repository:** [[https://github.com/hillu/go-yara](https://github.com/hillu/go-yara)]([https://github.com/hillu/go-yara](https://github.com/hillu/go-yara))
+
+**Author:** hillu
 
 ---
 
 ## go0r
 
-**Repository:** [https://github.com/fzerorubigd/go0r](https://github.com/fzerorubigd/go0r)
+**Repository:** [[https://github.com/fzerorubigd/go0r](https://github.com/fzerorubigd/go0r)]([https://github.com/fzerorubigd/go0r](https://github.com/fzerorubigd/go0r))
 
 **Author:** fzerorubigd
 
-**Last Updated:** 2015-04-07
-
-**Description:** A simple, around 100 line of code, ssh honeypot written in golang.
-
----
-
-## GOAD
-
-**Repository:** [https://github.com/Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD)
-
-**Author:** Orange-Cyberdefense
-
-**Last Updated:** 2025-07-16
-
-**Description:** (No description available)
 ---
 
 ## gobuster
 
-**Repository:** [https://github.com/OJ/gobuster](https://github.com/OJ/gobuster)
+**Repository:** [[https://github.com/OJ/gobuster](https://github.com/OJ/gobuster)]([https://github.com/OJ/gobuster](https://github.com/OJ/gobuster))
 
 **Author:** OJ
-
-**Last Updated:** 2026-01-13
-
-**Description:** > A fast and flexible brute-forcing tool written in Go
 
 ---
 
 ## gocrack
 
-**Repository:** [https://github.com/fireeye/gocrack](https://github.com/fireeye/gocrack)
+**Repository:** [[https://github.com/fireeye/gocrack](https://github.com/fireeye/gocrack)]([https://github.com/fireeye/gocrack](https://github.com/fireeye/gocrack))
 
 **Author:** fireeye
 
-**Last Updated:** 2023-12-12
+---
 
-**Description:** GoCrack provides APIs to manage password cracking tasks across supported cracking engines.
+## gohoney
+
+**Repository:** [[https://github.com/PaulMaddox/gohoney](https://github.com/PaulMaddox/gohoney)]([https://github.com/PaulMaddox/gohoney](https://github.com/PaulMaddox/gohoney))
+
+**Author:** PaulMaddox
 
 ---
 
 ## GooDork
 
-**Repository:** [https://github.com/k3170makan/GooDork](https://github.com/k3170makan/GooDork)
+**Repository:** [[https://github.com/k3170makan/GooDork](https://github.com/k3170makan/GooDork)]([https://github.com/k3170makan/GooDork](https://github.com/k3170makan/GooDork))
 
 **Author:** k3170makan
-
-**Last Updated:** 2013-06-09
-
-**Description:** _/_/_/                   _/_/_/                     _/ _/         _/_/     _/_/   _/    _/   _/_/   _/  _/_/ _/  _/ _/  _/_/ _/    _/ _/    _/ _/    _/ _/    _/ _/_/     _/_/ _/    _/ _/    _/ _/    _/ _/    _/ _/    _/ _/       _/  _/
-
----
-
-## google-authenticator
-
-**Repository:** [https://github.com/google/google-authenticator](https://github.com/google/google-authenticator)
-
-**Author:** google
-
-**Last Updated:** 2020-09-28
-
-**Description:** The Google Authenticator project includes implementations of one-time passcode generators for several mobile platforms. One-time passcodes are generated using open standards developed by the [Initiative for Open Authentication (OATH)](http://www.openauthentication.org/)
 
 ---
 
 ## Google-Dorks
 
-**Repository:** [https://github.com/arimogi/Google-Dorks](https://github.com/arimogi/Google-Dorks)
+**Repository:** [[https://github.com/arimogi/Google-Dorks](https://github.com/arimogi/Google-Dorks)]([https://github.com/arimogi/Google-Dorks](https://github.com/arimogi/Google-Dorks))
 
 **Author:** arimogi
-
-**Last Updated:** 2015-11-07
-
-**Description:** I'm uploading dorks here.
 
 ---
 
 ## google-play-crawler
 
-**Repository:** [https://github.com/Akdeniz/google-play-crawler](https://github.com/Akdeniz/google-play-crawler)
+**Repository:** [[https://github.com/Akdeniz/google-play-crawler](https://github.com/Akdeniz/google-play-crawler)]([https://github.com/Akdeniz/google-play-crawler](https://github.com/Akdeniz/google-play-crawler))
 
 **Author:** Akdeniz
 
-**Last Updated:** 2014-02-08
+---
 
-**Description:** Google Play Crawler JAVA API
+## googleplay-api
+
+**Repository:** [[https://github.com/egirault/googleplay-api](https://github.com/egirault/googleplay-api)]([https://github.com/egirault/googleplay-api](https://github.com/egirault/googleplay-api))
+
+**Author:** egirault
 
 ---
 
 ## gOSINT
 
-**Repository:** [https://github.com/Nhoya/gOSINT](https://github.com/Nhoya/gOSINT)
+**Repository:** [[https://github.com/Nhoya/gOSINT](https://github.com/Nhoya/gOSINT)]([https://github.com/Nhoya/gOSINT](https://github.com/Nhoya/gOSINT))
 
 **Author:** Nhoya
-
-**Last Updated:** 2019-06-17
-
-**Description:** OSINT Swiss Army Knife in Go
 
 ---
 
 ## gpgsync
 
-**Repository:** [https://github.com/firstlookmedia/gpgsync](https://github.com/firstlookmedia/gpgsync)
+**Repository:** [[https://github.com/firstlookmedia/gpgsync](https://github.com/firstlookmedia/gpgsync)]([https://github.com/firstlookmedia/gpgsync](https://github.com/firstlookmedia/gpgsync))
 
 **Author:** firstlookmedia
 
-**Last Updated:** 2021-02-08
-
-**Description:** GPG Sync is designed to let users always have up-to-date OpenPGP public keys for other members of their organization.
-
 ---
 
-## GRASSMARLIN
+## gvisor
 
-**Repository:** [https://github.com/iadgov/GRASSMARLIN](https://github.com/iadgov/GRASSMARLIN)
-
-**Author:** iadgov
-
-**Last Updated:** 2017-08-04
-
-**Description:** GRASSMARLIN provides IP network situational awareness of industrial control systems (ICS) and Supervisory Control and Data Acquisition (SCADA) networks to support network security. Passively map, and visually display, an ICS/SCADA network topology while safely conducting device discovery, account...
-
----
-
-## GRFICS
-
-**Repository:** [https://github.com/djformby/GRFICS](https://github.com/djformby/GRFICS)
-
-**Author:** djformby
-
-**Last Updated:** 2024-06-20
-
-**Description:** (Version 2 now available at https://github.com/Fortiphyd/GRFICSv2 with improved HMI and simulation)
-
----
-
-## GRFICSv2
-
-**Repository:** [https://github.com/Fortiphyd/GRFICSv2](https://github.com/Fortiphyd/GRFICSv2)
-
-**Author:** Fortiphyd
-
-**Last Updated:** 2025-10-29
-
-**Description:** Version 2 of the Graphical Realism Framework for Industrial Control Simulation (GRFICS)
-
----
-
-## grr
-
-**Repository:** [https://github.com/google/grr](https://github.com/google/grr)
+**Repository:** [[https://github.com/google/gvisor](https://github.com/google/gvisor)]([https://github.com/google/gvisor](https://github.com/google/gvisor))
 
 **Author:** google
 
-**Last Updated:** 2025-12-16
-
-**Description:** (No description available)
 ---
 
 ## GyoiThon
 
-**Repository:** [https://github.com/gyoisamurai/GyoiThon](https://github.com/gyoisamurai/GyoiThon)
+**Repository:** [[https://github.com/gyoisamurai/GyoiThon](https://github.com/gyoisamurai/GyoiThon)]([https://github.com/gyoisamurai/GyoiThon](https://github.com/gyoisamurai/GyoiThon))
 
 **Author:** gyoisamurai
-
-**Last Updated:** 2021-06-30
-
-**Description:** (No description available)
----
-
-## h26forge
-
-**Repository:** [https://github.com/h26forge/h26forge](https://github.com/h26forge/h26forge)
-
-**Author:** h26forge
-
-**Last Updated:** 2024-11-26
-
-**Description:** H26Forge is domain-specific infrastructure for analyzing, generating, and manipulating syntactically correct but semantically spec-non-compliant H.264 video files.
 
 ---
 
 ## h8mail
 
-**Repository:** [https://github.com/khast3x/h8mail](https://github.com/khast3x/h8mail)
+**Repository:** [[https://github.com/khast3x/h8mail](https://github.com/khast3x/h8mail)]([https://github.com/khast3x/h8mail](https://github.com/khast3x/h8mail))
 
 **Author:** khast3x
 
-**Last Updated:** 2022-06-25
-
-**Description:**  <a href="https://github.com/khast3x/h8mail/releases/">
-
 ---
 
-## haaukins
+## HaboMalHunter
 
-**Repository:** [https://github.com/aau-network-security/haaukins](https://github.com/aau-network-security/haaukins)
+**Repository:** [[https://github.com/Tencent/HaboMalHunter](https://github.com/Tencent/HaboMalHunter)]([https://github.com/Tencent/HaboMalHunter](https://github.com/Tencent/HaboMalHunter))
 
-**Author:** aau-network-security
-
-**Last Updated:** 2024-01-05
-
-**Description:**    <a href="https://alpha.haaukins.com">
+**Author:** Tencent
 
 ---
 
 ## habu
 
-**Repository:** [https://github.com/portantier/habu](https://github.com/portantier/habu)
+**Repository:** [[https://github.com/portantier/habu](https://github.com/portantier/habu)]([https://github.com/portantier/habu](https://github.com/portantier/habu))
 
 **Author:** portantier
 
-**Last Updated:** 2025-12-30
-
-**Description:** Habu Hacking Toolkit
-
 ---
 
-## Hack-Night
+## hachoir3
 
-**Repository:** [https://github.com/isislab/Hack-Night](https://github.com/isislab/Hack-Night)
+**Repository:** [[https://github.com/vstinner/hachoir3](https://github.com/vstinner/hachoir3)]([https://github.com/vstinner/hachoir3](https://github.com/vstinner/hachoir3))
 
-**Author:** isislab
-
-**Last Updated:** 2024-04-05
-
-**Description:** Developed from both the materials of the NYU Tandon's Introduction to Offensive Security and old Penetration Testing and Vulnerability Analysis course, Hack Night is a sobering introduction to offensive security. A lot of complex technical content is covered very quickly as students are introduce...
+**Author:** vstinner
 
 ---
 
 ## hack-the-arch
 
-**Repository:** [https://github.com/mcpa-stlouis/hack-the-arch](https://github.com/mcpa-stlouis/hack-the-arch)
+**Repository:** [[https://github.com/mcpa-stlouis/hack-the-arch](https://github.com/mcpa-stlouis/hack-the-arch)]([https://github.com/mcpa-stlouis/hack-the-arch](https://github.com/mcpa-stlouis/hack-the-arch))
 
 **Author:** mcpa-stlouis
 
-**Last Updated:** 2022-01-29
-
-**Description:** HackTheArch
-
 ---
 
-## hackademic
+## hackazon
 
-**Repository:** [https://github.com/Hackademic/hackademic](https://github.com/Hackademic/hackademic)
+**Repository:** [[https://github.com/rapid7/hackazon](https://github.com/rapid7/hackazon)]([https://github.com/rapid7/hackazon](https://github.com/rapid7/hackazon))
 
-**Author:** Hackademic
-
-**Last Updated:** 2017-02-24
-
-**Description:** OWASP Hackademic Challenges project
+**Author:** rapid7
 
 ---
 
 ## hackers-grep
 
-**Repository:** [https://github.com/codypierce/hackers-grep](https://github.com/codypierce/hackers-grep)
+**Repository:** [[https://github.com/codypierce/hackers-grep](https://github.com/codypierce/hackers-grep)]([https://github.com/codypierce/hackers-grep](https://github.com/codypierce/hackers-grep))
 
 **Author:** codypierce
-
-**Last Updated:** 2018-07-07
-
-**Description:** hackers-grep is a tool that enables you to search for strings in PE files. The tool is capable of searching strings, imports, exports, and public symbols (like woah) using regular expressions.
-
----
-
-## HackingKubernetes
-
-**Repository:** [https://github.com/g3rzi/HackingKubernetes](https://github.com/g3rzi/HackingKubernetes)
-
-**Author:** g3rzi
-
-**Last Updated:** 2021-10-12
-
-**Description:** This repository contain any information that can be used to hack Kubernetes.
 
 ---
 
 ## hardened_malloc
 
-**Repository:** [https://github.com/GrapheneOS/hardened_malloc](https://github.com/GrapheneOS/hardened_malloc)
+**Repository:** [[https://github.com/GrapheneOS/hardened_malloc](https://github.com/GrapheneOS/hardened_malloc)]([https://github.com/GrapheneOS/hardened_malloc](https://github.com/GrapheneOS/hardened_malloc))
 
 **Author:** GrapheneOS
 
-**Last Updated:** 2026-01-07
-
-**Description:** * [Introduction](#introduction) * [Dependencies](#dependencies) * [Testing](#testing) * [Individual Applications](#individual-applications) * [Automated Test Framework](#automated-test-framework) * [Compatibility](#compatibility)
-
 ---
 
-## hash_extender
+## hardentools
 
-**Repository:** [https://github.com/iagox86/hash_extender](https://github.com/iagox86/hash_extender)
+**Repository:** [[https://github.com/securitywithoutborders/hardentools](https://github.com/securitywithoutborders/hardentools)]([https://github.com/securitywithoutborders/hardentools](https://github.com/securitywithoutborders/hardentools))
 
-**Author:** iagox86
-
-**Last Updated:** 2025-01-27
-
-**Description:** This will be a blog post on http://www.skullsecurity.org/. For now, it's a README file.
+**Author:** securitywithoutborders
 
 ---
 
 ## HashCheck
 
-**Repository:** [https://github.com/gurnec/HashCheck](https://github.com/gurnec/HashCheck)
+**Repository:** [[https://github.com/gurnec/HashCheck](https://github.com/gurnec/HashCheck)]([https://github.com/gurnec/HashCheck](https://github.com/gurnec/HashCheck))
 
 **Author:** gurnec
-
-**Last Updated:** 2016-09-07
-
-**Description:** The latest installer for Windows (Vista and later) can be found here: <https://github.com/gurnec/HashCheck/releases/latest>
 
 ---
 
 ## hashdeep
 
-**Repository:** [https://github.com/jessek/hashdeep](https://github.com/jessek/hashdeep)
+**Repository:** [[https://github.com/jessek/hashdeep](https://github.com/jessek/hashdeep)]([https://github.com/jessek/hashdeep](https://github.com/jessek/hashdeep))
 
 **Author:** jessek
 
-**Last Updated:** 2017-08-24
+---
 
-**Description:** This is md5deep, a set of cross-platform tools to compute hashes, or message digests, for any number of files while optionally recursively digging through the directory structure.  It can also take a list of known
+## hashlookup-forensic-analyser
+
+**Repository:** [[https://github.com/hashlookup/hashlookup-forensic-analyser](https://github.com/hashlookup/hashlookup-forensic-analyser)]([https://github.com/hashlookup/hashlookup-forensic-analyser](https://github.com/hashlookup/hashlookup-forensic-analyser))
+
+**Author:** hashlookup
 
 ---
 
 ## haskell-tor
 
-**Repository:** [https://github.com/GaloisInc/haskell-tor](https://github.com/GaloisInc/haskell-tor)
+**Repository:** [[https://github.com/GaloisInc/haskell-tor](https://github.com/GaloisInc/haskell-tor)]([https://github.com/GaloisInc/haskell-tor](https://github.com/GaloisInc/haskell-tor))
 
 **Author:** GaloisInc
-
-**Last Updated:** 2016-09-27
-
-**Description:** This version of haskell-tor is (C) 2015 Galois, Inc., and distributed under a standard, three-clause BSD license. Please see the file LICENSE, distributed with this software, for specific terms and conditions.
 
 ---
 
 ## hate_crack
 
-**Repository:** [https://github.com/trustedsec/hate_crack](https://github.com/trustedsec/hate_crack)
+**Repository:** [[https://github.com/trustedsec/hate_crack](https://github.com/trustedsec/hate_crack)]([https://github.com/trustedsec/hate_crack](https://github.com/trustedsec/hate_crack))
 
 **Author:** trustedsec
-
-**Last Updated:** 2026-02-10
-
-**Description:** ___ ___         __             _________                       __ /   |   \_____ _/  |_  ____     \_   ___ \____________    ____ |  | __ /    ~    \__  \\   __\/ __ \    /    \  \/\_  __ \__  \ _/ ___\|  |/ /
 
 ---
 
 ## hawk
 
-**Repository:** [https://github.com/cloudina/hawk](https://github.com/cloudina/hawk)
+**Repository:** [[https://github.com/cloudina/hawk](https://github.com/cloudina/hawk)]([https://github.com/cloudina/hawk](https://github.com/cloudina/hawk))
 
 **Author:** cloudina
-
-**Last Updated:** 2024-07-06
-
-**Description:** Multi Cloud antivirus scanning API based on CLAMAV and YARA for AWS S3, AZURE Blob Storage, GCP Cloud Storage.
 
 ---
 
 ## headscale
 
-**Repository:** [https://github.com/juanfont/headscale](https://github.com/juanfont/headscale)
+**Repository:** [[https://github.com/juanfont/headscale](https://github.com/juanfont/headscale)]([https://github.com/juanfont/headscale](https://github.com/juanfont/headscale))
 
 **Author:** juanfont
 
-**Last Updated:** 2026-02-09
+---
 
-**Description:** An open source, self-hosted implementation of the Tailscale control server.
+## HELK
+
+**Repository:** [[https://github.com/Cyb3rWard0g/HELK](https://github.com/Cyb3rWard0g/HELK)]([https://github.com/Cyb3rWard0g/HELK](https://github.com/Cyb3rWard0g/HELK))
+
+**Author:** Cyb3rWard0g
+
+---
+
+## HellPot
+
+**Repository:** [[https://github.com/yunginnanet/HellPot](https://github.com/yunginnanet/HellPot)]([https://github.com/yunginnanet/HellPot](https://github.com/yunginnanet/HellPot))
+
+**Author:** yunginnanet
+
+---
+
+## helm-gpg
+
+**Repository:** [[https://github.com/technosophos/helm-gpg](https://github.com/technosophos/helm-gpg)]([https://github.com/technosophos/helm-gpg](https://github.com/technosophos/helm-gpg))
+
+**Author:** technosophos
 
 ---
 
 ## helm-secrets
 
-**Repository:** [https://github.com/jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets)
+**Repository:** [[https://github.com/jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets)]([https://github.com/jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets))
 
 **Author:** jkroepke
-
-**Last Updated:** 2026-02-06
-
-**Description:** ⭐ Don't forget to star this repository! ⭐
 
 ---
 
 ## heralding
 
-**Repository:** [https://github.com/johnnykv/heralding](https://github.com/johnnykv/heralding)
+**Repository:** [[https://github.com/johnnykv/heralding](https://github.com/johnnykv/heralding)]([https://github.com/johnnykv/heralding](https://github.com/johnnykv/heralding))
 
 **Author:** johnnykv
-
-**Last Updated:** 2024-02-28
-
-**Description:** Heralding |travis badge| |version badge| |codacy badge|
 
 ---
 
 ## hexedit
 
-**Repository:** [https://github.com/pixel/hexedit](https://github.com/pixel/hexedit)
+**Repository:** [[https://github.com/pixel/hexedit](https://github.com/pixel/hexedit)]([https://github.com/pixel/hexedit](https://github.com/pixel/hexedit))
 
 **Author:** pixel
 
-**Last Updated:** 2025-10-18
-
-**Description:** To build from git:
-
 ---
 
-## hindsight
+## hived
 
-**Repository:** [https://github.com/obsidianforensics/hindsight](https://github.com/obsidianforensics/hindsight)
+**Repository:** [[https://github.com/sahilm/hived](https://github.com/sahilm/hived)]([https://github.com/sahilm/hived](https://github.com/sahilm/hived))
 
-**Author:** obsidianforensics
-
-**Last Updated:** 2026-02-02
-
-**Description:**  Hindsight
-
----
-
-## hnypots-agent
-
-**Repository:** [https://github.com/joshrendek/hnypots-agent](https://github.com/joshrendek/hnypots-agent)
-
-**Author:** joshrendek
-
-**Last Updated:** 2024-12-08
-
-**Description:** This is the honeypot agent for running honeypots. Service and data is at https://threatwar.com
-
----
-
-## holehe
-
-**Repository:** [https://github.com/megadose/holehe](https://github.com/megadose/holehe)
-
-**Author:** megadose
-
-**Last Updated:** 2024-09-10
-
-**Description:** 👋 Hi there! For any professional inquiries or collaborations, please reach out to me at: megadose@protonmail.com
-
----
-
-## honeybits
-
-**Repository:** [https://github.com/0x4D31/honeybits](https://github.com/0x4D31/honeybits)
-
-**Author:** 0x4D31
-
-**Last Updated:** 2019-03-20
-
-**Description:** A simple PoC tool designed to enhance the effectiveness of your traps by spreading breadcrumbs & honeytokens across your production servers and workstations to lure the attacker toward your honeypots.
+**Author:** sahilm
 
 ---
 
 ## honeycomb_plugins
 
-**Repository:** [https://github.com/Cymmetria/honeycomb_plugins](https://github.com/Cymmetria/honeycomb_plugins)
+**Repository:** [[https://github.com/Cymmetria/honeycomb_plugins](https://github.com/Cymmetria/honeycomb_plugins)]([https://github.com/Cymmetria/honeycomb_plugins](https://github.com/Cymmetria/honeycomb_plugins))
 
 **Author:** Cymmetria
-
-**Last Updated:** 2019-02-15
-
-**Description:** |GitHub license| |Read the Docs| |Travis| |Updates| |Codecov| |Gitter|
 
 ---
 
 ## Honeyd
 
-**Repository:** [https://github.com/DataSoft/Honeyd](https://github.com/DataSoft/Honeyd)
+**Repository:** [[https://github.com/DataSoft/Honeyd](https://github.com/DataSoft/Honeyd)]([https://github.com/DataSoft/Honeyd](https://github.com/DataSoft/Honeyd))
 
 **Author:** DataSoft
 
-**Last Updated:** 2013-12-20
+---
 
-**Description:** Honeyd 1.6d Copyright (c) 2002 - 2007 Niels Provos 
+## honeydet
+
+**Repository:** [[https://github.com/referefref/honeydet](https://github.com/referefref/honeydet)]([https://github.com/referefref/honeydet](https://github.com/referefref/honeydet))
+
+**Author:** referefref
+
+---
+
+## honeygrove
+
+**Repository:** [[https://github.com/UHH-ISS/honeygrove](https://github.com/UHH-ISS/honeygrove)]([https://github.com/UHH-ISS/honeygrove](https://github.com/UHH-ISS/honeygrove))
+
+**Author:** UHH-ISS
 
 ---
 
 ## honeyhttpd
 
-**Repository:** [https://github.com/bocajspear1/honeyhttpd](https://github.com/bocajspear1/honeyhttpd)
+**Repository:** [[https://github.com/bocajspear1/honeyhttpd](https://github.com/bocajspear1/honeyhttpd)]([https://github.com/bocajspear1/honeyhttpd](https://github.com/bocajspear1/honeyhttpd))
 
 **Author:** bocajspear1
 
-**Last Updated:** 2024-06-29
-
-**Description:** HoneyHTTPD is a Python-based web server framework. It makes it easy to set up fake web servers and web services, respond with the precise data you want, and record the requests given to it. HoneyHTTPD allows you to build your responses with Python at the HTTP protocol level to imitate almost any ...
-
----
-
-## honeyku
-
-**Repository:** [https://github.com/0x4D31/honeyku](https://github.com/0x4D31/honeyku)
-
-**Author:** 0x4D31
-
-**Last Updated:** 2019-04-24
-
-**Description:** (No description available)
 ---
 
 ## honeylambda
 
-**Repository:** [https://github.com/0x4D31/honeylambda](https://github.com/0x4D31/honeylambda)
+**Repository:** [[https://github.com/0x4D31/honeylambda](https://github.com/0x4D31/honeylambda)]([https://github.com/0x4D31/honeylambda](https://github.com/0x4D31/honeylambda))
 
 **Author:** 0x4D31
 
-**Last Updated:** 2018-10-20
-
-**Description:** (No description available)
 ---
 
-## honeymap
+## honeymail
 
-**Repository:** [https://github.com/fw42/honeymap](https://github.com/fw42/honeymap)
+**Repository:** [[https://github.com/sec51/honeymail](https://github.com/sec51/honeymail)]([https://github.com/sec51/honeymail](https://github.com/sec51/honeymail))
 
-**Author:** fw42
+**Author:** sec51
 
-**Last Updated:** 2013-09-17
+---
 
-**Description:** HoneyMap is a web application which visualizes a live stream of GPS locations on a SVG world map. In principle, it can be used with any stream of GPS data. For our application, we use honeypot captures, provided by several [hpfeeds](https://github.com/rep/hpfeeds)
+## HoneyMalt
+
+**Repository:** [[https://github.com/SneakersInc/HoneyMalt](https://github.com/SneakersInc/HoneyMalt)]([https://github.com/SneakersInc/HoneyMalt](https://github.com/SneakersInc/HoneyMalt))
+
+**Author:** SneakersInc
 
 ---
 
 ## honeyntp
 
-**Repository:** [https://github.com/fygrave/honeyntp](https://github.com/fygrave/honeyntp)
+**Repository:** [[https://github.com/fygrave/honeyntp](https://github.com/fygrave/honeyntp)]([https://github.com/fygrave/honeyntp](https://github.com/fygrave/honeyntp))
 
 **Author:** fygrave
 
-**Last Updated:** 2014-03-27
+---
 
-**Description:** Honeyntp is an ntp-scan logger/honeypot. The code is based on https://github.com/limifly/ntpserver by limifly. Original ReadME follows.
+## Honeyport
+
+**Repository:** [[https://github.com/securitygeneration/Honeyport](https://github.com/securitygeneration/Honeyport)]([https://github.com/securitygeneration/Honeyport](https://github.com/securitygeneration/Honeyport))
+
+**Author:** securitygeneration
+
+---
+
+## Honeypot
+
+**Repository:** [[https://github.com/msurguy/Honeypot](https://github.com/msurguy/Honeypot)]([https://github.com/msurguy/Honeypot](https://github.com/msurguy/Honeypot))
+
+**Author:** msurguy
+
+---
+
+## honeypot
+
+**Repository:** [[https://github.com/jadb/honeypot](https://github.com/jadb/honeypot)]([https://github.com/jadb/honeypot](https://github.com/jadb/honeypot))
+
+**Author:** jadb
+
+---
+
+## honeypot-camera
+
+**Repository:** [[https://github.com/alexbredo/honeypot-camera](https://github.com/alexbredo/honeypot-camera)]([https://github.com/alexbredo/honeypot-camera](https://github.com/alexbredo/honeypot-camera))
+
+**Author:** alexbredo
+
+---
+
+## honeypot-for-tcp-32764
+
+**Repository:** [[https://github.com/knalli/honeypot-for-tcp-32764](https://github.com/knalli/honeypot-for-tcp-32764)]([https://github.com/knalli/honeypot-for-tcp-32764](https://github.com/knalli/honeypot-for-tcp-32764))
+
+**Author:** knalli
+
+---
+
+## honeypot-ftp
+
+**Repository:** [[https://github.com/alexbredo/honeypot-ftp](https://github.com/alexbredo/honeypot-ftp)]([https://github.com/alexbredo/honeypot-ftp](https://github.com/alexbredo/honeypot-ftp))
+
+**Author:** alexbredo
+
+---
+
+## honeypot-setup-script
+
+**Repository:** [[https://github.com/andrewmichaelsmith/honeypot-setup-script](https://github.com/andrewmichaelsmith/honeypot-setup-script)]([https://github.com/andrewmichaelsmith/honeypot-setup-script](https://github.com/andrewmichaelsmith/honeypot-setup-script))
+
+**Author:** andrewmichaelsmith
+
+---
+
+## honeypot.go
+
+**Repository:** [[https://github.com/mdp/honeypot.go](https://github.com/mdp/honeypot.go)]([https://github.com/mdp/honeypot.go](https://github.com/mdp/honeypot.go))
+
+**Author:** mdp
+
+---
+
+## honeypotpi
+
+**Repository:** [[https://github.com/free5ty1e/honeypotpi](https://github.com/free5ty1e/honeypotpi)]([https://github.com/free5ty1e/honeypotpi](https://github.com/free5ty1e/honeypotpi))
+
+**Author:** free5ty1e
 
 ---
 
 ## HoneyPress
 
-**Repository:** [https://github.com/kungfuguapo/HoneyPress](https://github.com/kungfuguapo/HoneyPress)
+**Repository:** [[https://github.com/kungfuguapo/HoneyPress](https://github.com/kungfuguapo/HoneyPress)]([https://github.com/kungfuguapo/HoneyPress](https://github.com/kungfuguapo/HoneyPress))
 
 **Author:** kungfuguapo
-
-**Last Updated:** 2016-06-07
-
-**Description:** WordPress honeypot in a docker container
-
----
-
-## honeyprint
-
-**Repository:** [https://github.com/glaslos/honeyprint](https://github.com/glaslos/honeyprint)
-
-**Author:** glaslos
-
-**Last Updated:** 2016-01-28
-
-**Description:** Honeyprint
 
 ---
 
 ## HoneyPy
 
-**Repository:** [https://github.com/foospidy/HoneyPy](https://github.com/foospidy/HoneyPy)
+**Repository:** [[https://github.com/foospidy/HoneyPy](https://github.com/foospidy/HoneyPy)]([https://github.com/foospidy/HoneyPy](https://github.com/foospidy/HoneyPy))
 
 **Author:** foospidy
 
-**Last Updated:** 2024-03-21
+---
 
-**Description:** A low interaction honeypot with the capability to be more of a medium interaction honeypot.
+## HoneySMB
+
+**Repository:** [[https://github.com/r0hi7/HoneySMB](https://github.com/r0hi7/HoneySMB)]([https://github.com/r0hi7/HoneySMB](https://github.com/r0hi7/HoneySMB))
+
+**Author:** r0hi7
 
 ---
 
 ## honeything
 
-**Repository:** [https://github.com/omererdem/honeything](https://github.com/omererdem/honeything)
+**Repository:** [[https://github.com/omererdem/honeything](https://github.com/omererdem/honeything)]([https://github.com/omererdem/honeything](https://github.com/omererdem/honeything))
 
 **Author:** omererdem
-
-**Last Updated:** 2016-03-16
-
-**Description:** HoneyThing is a honeypot for Internet of TR-069 things. It's designed to act as completely a modem/router that has RomPager embedded web server and supports [TR-069 (CWMP)](https://www.broadband-forum.org/technical/download/TR-069_Amendment-5.pdf) protocol.
 
 ---
 
 ## honeyup
 
-**Repository:** [https://github.com/LogoiLab/honeyup](https://github.com/LogoiLab/honeyup)
+**Repository:** [[https://github.com/LogoiLab/honeyup](https://github.com/LogoiLab/honeyup)]([https://github.com/LogoiLab/honeyup](https://github.com/LogoiLab/honeyup))
 
 **Author:** LogoiLab
-
-**Last Updated:** 2025-04-19
-
-**Description:** - Linux server
 
 ---
 
 ## honeywrt
 
-**Repository:** [https://github.com/CanadianJeff/honeywrt](https://github.com/CanadianJeff/honeywrt)
+**Repository:** [[https://github.com/CanadianJeff/honeywrt](https://github.com/CanadianJeff/honeywrt)]([https://github.com/CanadianJeff/honeywrt](https://github.com/CanadianJeff/honeywrt))
 
 **Author:** CanadianJeff
-
-**Last Updated:** 2015-04-14
-
-**Description:** HoneyWRT is a low interaction Python honeypot that is designed to mimic services or ports that might get targeted by attackers.
 
 ---
 
 ## honggfuzz
 
-**Repository:** [https://github.com/google/honggfuzz](https://github.com/google/honggfuzz)
+**Repository:** [[https://github.com/google/honggfuzz](https://github.com/google/honggfuzz)]([https://github.com/google/honggfuzz](https://github.com/google/honggfuzz))
 
 **Author:** google
 
-**Last Updated:** 2026-01-04
-
-**Description:** **A security-oriented, feedback-driven, evolutionary fuzzer.**
-
 ---
 
-## HonnyPotter
+## honssh
 
-**Repository:** [https://github.com/MartinIngesen/HonnyPotter](https://github.com/MartinIngesen/HonnyPotter)
+**Repository:** [[https://github.com/tnich/honssh](https://github.com/tnich/honssh)]([https://github.com/tnich/honssh](https://github.com/tnich/honssh))
 
-**Author:** MartinIngesen
-
-**Last Updated:** 2015-12-13
-
-**Description:** Available at [https://wordpress.org/plugins/honnypotter/](https://wordpress.org/plugins/honnypotter/).
+**Author:** tnich
 
 ---
 
 ## hooker
 
-**Repository:** [https://github.com/AndroidHooker/hooker](https://github.com/AndroidHooker/hooker)
+**Repository:** [[https://github.com/AndroidHooker/hooker](https://github.com/AndroidHooker/hooker)]([https://github.com/AndroidHooker/hooker](https://github.com/AndroidHooker/hooker))
 
 **Author:** AndroidHooker
-
-**Last Updated:** 2016-08-09
-
-**Description:** Hooker: Automated Dynamic Analysis of Android Applications
 
 ---
 
 ## hornet
 
-**Repository:** [https://github.com/czardoz/hornet](https://github.com/czardoz/hornet)
+**Repository:** [[https://github.com/czardoz/hornet](https://github.com/czardoz/hornet)]([https://github.com/czardoz/hornet](https://github.com/czardoz/hornet))
 
 **Author:** czardoz
-
-**Last Updated:** 2018-04-30
-
-**Description:** |travis| |coverage|
-
----
-
-## hostintel
-
-**Repository:** [https://github.com/keithjjones/hostintel](https://github.com/keithjjones/hostintel)
-
-**Author:** keithjjones
-
-**Last Updated:** 2021-04-13
-
-**Description:** This tool is used to collect various intelligence sources for hosts. Hostintel is written in a modular fashion so new intelligence sources can be easily added.
 
 ---
 
 ## house
 
-**Repository:** [https://github.com/nccgroup/house](https://github.com/nccgroup/house)
+**Repository:** [[https://github.com/nccgroup/house](https://github.com/nccgroup/house)]([https://github.com/nccgroup/house](https://github.com/nccgroup/house))
 
 **Author:** nccgroup
 
-**Last Updated:** 2020-12-27
+---
 
-**Description:** /   |   \  ____  __ __  ______ ____ /    ~    \/  _ \|  |  \/  ___// __ \ \    Y    (  <_> )  |  /\___ \  ___/ \___|_  / \____/|____//____  >\___  > \/      House        \/     \/
+## hpfeeds
+
+**Repository:** [[https://github.com/rep/hpfeeds](https://github.com/rep/hpfeeds)]([https://github.com/rep/hpfeeds](https://github.com/rep/hpfeeds))
+
+**Author:** rep
 
 ---
 
-## hping
+## HpfeedsHoneyGraph
 
-**Repository:** [https://github.com/antirez/hping](https://github.com/antirez/hping)
+**Repository:** [[https://github.com/yuchincheng/HpfeedsHoneyGraph](https://github.com/yuchincheng/HpfeedsHoneyGraph)]([https://github.com/yuchincheng/HpfeedsHoneyGraph](https://github.com/yuchincheng/HpfeedsHoneyGraph))
 
-**Author:** antirez
-
-**Last Updated:** 2014-12-26
-
-**Description:** hping3 README file antirez@invece.org
+**Author:** yuchincheng
 
 ---
 
-## hsn2-bundle
+## Hyara
 
-**Repository:** [https://github.com/CERT-Polska/hsn2-bundle](https://github.com/CERT-Polska/hsn2-bundle)
+**Repository:** [[https://github.com/hyuunnn/Hyara](https://github.com/hyuunnn/Hyara)]([https://github.com/hyuunnn/Hyara](https://github.com/hyuunnn/Hyara))
 
-**Author:** CERT-Polska
+**Author:** hyuunnn
 
-**Last Updated:** 2016-05-04
-
-**Description:** Honeyspider Network 2.1
-
----
-
-## http-sniffer
-
-**Repository:** [https://github.com/caesar0301/http-sniffer](https://github.com/caesar0301/http-sniffer)
-
-**Author:** caesar0301
-
-**Last Updated:** 2025-07-10
-
-**Description:** A multi-threading tool to sniff HTTP header records beyond TCP flow statistics.
-
----
-
-## httpreplay
-
-**Repository:** [https://github.com/jbremer/httpreplay](https://github.com/jbremer/httpreplay)
-
-**Author:** jbremer
-
-**Last Updated:** 2021-12-08
-
-**Description:** Replay HTTP and HTTPS requests from a PCAP based on TLS Master Secrets. The TLS Master Secrets can be extracted through mitmproxy, Cuckoo Sandbox, some browsers, and probably some other tools as well.
-
----
-
-## HUDINX
-
-**Repository:** [https://github.com/Cryptix720/HUDINX](https://github.com/Cryptix720/HUDINX)
-
-**Author:** Cryptix720
-
-**Last Updated:** 2019-04-30
-
-**Description:** Hudinx is a medium interaction SSH honeypot designed to log brute force attacks and, most importantly, the entire shell interaction performed by the attacker.
-
----
-
-## HVAC_Traces
-
-**Repository:** [https://github.com/gkabasele/HVAC_Traces](https://github.com/gkabasele/HVAC_Traces)
-
-**Author:** gkabasele
-
-**Last Updated:** 2019-08-08
-
-**Description:** This repository contains pcap traces of the HVAC system of a university. Its goal is to provide the research community interested in automation system security with real network traffic to evaluate, validate Network Intrustion Detection System. A detailed description of the system is presented [h...
-
----
-
-## Hwacha
-
-**Repository:** [https://github.com/n00py/Hwacha](https://github.com/n00py/Hwacha)
-
-**Author:** n00py
-
-**Last Updated:** 2020-04-24
-
-**Description:** https://www.n00py.io/2017/12/raining-shells-on-linux-environments-with-hwacha/
-
----
-
-## HydraDragonAntivirus
-
-**Repository:** [https://github.com/HydraDragonAntivirus/HydraDragonAntivirus](https://github.com/HydraDragonAntivirus/HydraDragonAntivirus)
-
-**Author:** HydraDragonAntivirus
-
-**Last Updated:** 2026-02-12
-
-**Description:** (No description available)
 ---
 
 ## I-ISMS
 
-**Repository:** [https://github.com/nathanpocock/I-ISMS](https://github.com/nathanpocock/I-ISMS)
+**Repository:** [[https://github.com/nathanpocock/I-ISMS](https://github.com/nathanpocock/I-ISMS)]([https://github.com/nathanpocock/I-ISMS](https://github.com/nathanpocock/I-ISMS))
 
 **Author:** nathanpocock
-
-**Last Updated:** 2017-04-11
-
-**Description:** Please review the official site page [https://nathanpocock.github.io/I-ISMS](https://nathanpocock.github.io/I-ISMS)
 
 ---
 
 ## iCepa
 
-**Repository:** [https://github.com/iCepa/iCepa](https://github.com/iCepa/iCepa)
+**Repository:** [[https://github.com/iCepa/iCepa](https://github.com/iCepa/iCepa)]([https://github.com/iCepa/iCepa](https://github.com/iCepa/iCepa))
 
 **Author:** iCepa
-
-**Last Updated:** 2021-10-21
-
-**Description:** This is a completely fresh implementation of the iCepa app.
-
----
-
-## ICS-pcap
-
-**Repository:** [https://github.com/automayt/ICS-pcap](https://github.com/automayt/ICS-pcap)
-
-**Author:** automayt
-
-**Last Updated:** 2020-01-03
-
-**Description:** This is a collection of PCAPs (or additional notes where PCAPs are still needed) for ICS/SCADA utilities and protocols.
-
----
-
-## ics_mem_collect
-
-**Repository:** [https://github.com/fireeye/ics_mem_collect](https://github.com/fireeye/ics_mem_collect)
-
-**Author:** fireeye
-
-**Last Updated:** 2017-02-15
-
-**Description:** For many industrial control system devices, there is not a simple solution for programmatically accessing memory. Without an API, an incident responder or digital forensics analyst may be required to manually probe memory looking for anomalies or malicious activity. This project is intended to de...
 
 ---
 
 ## ICSFuzz
 
-**Repository:** [https://github.com/momalab/ICSFuzz](https://github.com/momalab/ICSFuzz)
+**Repository:** [[https://github.com/momalab/ICSFuzz](https://github.com/momalab/ICSFuzz)]([https://github.com/momalab/ICSFuzz](https://github.com/momalab/ICSFuzz))
 
 **Author:** momalab
-
-**Last Updated:** 2021-12-04
-
-**Description:** ****************************************************** ICSFuzz: Fuzzing Tool for ICS Control Applications ******************************************************
 
 ---
 
 ## ICSREF
 
-**Repository:** [https://github.com/momalab/ICSREF](https://github.com/momalab/ICSREF)
+**Repository:** [[https://github.com/momalab/ICSREF](https://github.com/momalab/ICSREF)]([https://github.com/momalab/ICSREF](https://github.com/momalab/ICSREF))
 
 **Author:** momalab
 
-**Last Updated:** 2023-05-10
+---
 
-**Description:** ***************************************** ICSREF: ICS Reverse Engineering Framework *****************************************
+## ida-yara-processor
+
+**Repository:** [[https://github.com/bnbdr/ida-yara-processor](https://github.com/bnbdr/ida-yara-processor)]([https://github.com/bnbdr/ida-yara-processor](https://github.com/bnbdr/ida-yara-processor))
+
+**Author:** bnbdr
 
 ---
 
 ## idaplugins-list
 
-**Repository:** [https://github.com/onethawt/idaplugins-list](https://github.com/onethawt/idaplugins-list)
+**Repository:** [[https://github.com/onethawt/idaplugins-list](https://github.com/onethawt/idaplugins-list)]([https://github.com/onethawt/idaplugins-list](https://github.com/onethawt/idaplugins-list))
 
 **Author:** onethawt
 
-**Last Updated:** 2023-05-01
+---
 
-**Description:** This repository is quite popular and spans all versions of IDA. If you can help categorize plugins based on version, it would be much appreciated. Submit a PR!!!
+## Idisagree
+
+**Repository:** [[https://github.com/UndeadSec/Idisagree](https://github.com/UndeadSec/Idisagree)]([https://github.com/UndeadSec/Idisagree](https://github.com/UndeadSec/Idisagree))
+
+**Author:** UndeadSec
 
 ---
 
 ## IDR
 
-**Repository:** [https://github.com/crypto2011/IDR](https://github.com/crypto2011/IDR)
+**Repository:** [[https://github.com/crypto2011/IDR](https://github.com/crypto2011/IDR)]([https://github.com/crypto2011/IDR](https://github.com/crypto2011/IDR))
 
 **Author:** crypto2011
-
-**Last Updated:** 2023-08-09
-
-**Description:** Interactive Delphi Reconstructor IDR (Interactive Delphi Reconstructor) – a decompiler of executable files (EXE) and dynamic libraries (DLL), written in Delphi and executed in Windows32 environment.
-
----
-
-## IE10Analyzer
-
-**Repository:** [https://github.com/moaistory/IE10Analyzer](https://github.com/moaistory/IE10Analyzer)
-
-**Author:** moaistory
-
-**Last Updated:** 2021-03-09
-
-**Description:** http://moaistory.blogspot.com/2016/08/ie10analyzer.html
-
----
-
-## ikeforce
-
-**Repository:** [https://github.com/SpiderLabs/ikeforce](https://github.com/SpiderLabs/ikeforce)
-
-**Author:** SpiderLabs
-
-**Last Updated:** 2019-09-18
-
-**Description:** **This project is no longer maintained**
-
----
-
-## iLEAPP
-
-**Repository:** [https://github.com/abrignoni/iLEAPP](https://github.com/abrignoni/iLEAPP)
-
-**Author:** abrignoni
-
-**Last Updated:** 2026-02-12
-
-**Description:** Details in blog post here: https://abrignoni.blogspot.com/2019/12/ileapp-ios-logs-events-and-properties.html
-
----
-
-## ILSpy
-
-**Repository:** [https://github.com/icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)
-
-**Author:** icsharpcode
-
-**Last Updated:** 2026-01-30
-
-**Description:** ILSpy is the open-source .NET assembly browser and decompiler.
 
 ---
 
 ## image-match
 
-**Repository:** [https://github.com/ascribe/image-match](https://github.com/ascribe/image-match)
+**Repository:** [[https://github.com/ascribe/image-match](https://github.com/ascribe/image-match)]([https://github.com/ascribe/image-match](https://github.com/ascribe/image-match))
 
 **Author:** ascribe
 
-**Last Updated:** 2022-12-06
+---
 
-**Description:** image-match is a simple (now Python 3!) package for finding approximate image matches from a corpus.  It is similar, for instance, to [pHash](http://www.phash.org/), but includes a database backend that easily scales to billions of images and
+## imagemounter
+
+**Repository:** [[https://github.com/ralphje/imagemounter](https://github.com/ralphje/imagemounter)]([https://github.com/ralphje/imagemounter](https://github.com/ralphje/imagemounter))
+
+**Author:** ralphje
 
 ---
 
-## imalse
+## imap-honey
 
-**Repository:** [https://github.com/hbhzwj/imalse](https://github.com/hbhzwj/imalse)
+**Repository:** [[https://github.com/yvesago/imap-honey](https://github.com/yvesago/imap-honey)]([https://github.com/yvesago/imap-honey](https://github.com/yvesago/imap-honey))
 
-**Author:** hbhzwj
-
-**Last Updated:** 2013-07-12
-
-**Description:** DESCRIPTION: Imalse (Integrated MALware Simulator and Emulator) is a framework to help researchers to implement prototype of botnet based network malware. Researchers just need to implement the malware behaviour once and then it can run the
+**Author:** yvesago
 
 ---
 
-## in-mob-prefix
+## imhoneypot
 
-**Repository:** [https://github.com/hstsethi/in-mob-prefix](https://github.com/hstsethi/in-mob-prefix)
+**Repository:** [[https://github.com/mushorg/imhoneypot](https://github.com/mushorg/imhoneypot)]([https://github.com/mushorg/imhoneypot](https://github.com/mushorg/imhoneypot))
 
-**Author:** hstsethi
-
-**Last Updated:** 2025-11-08
-
-**Description:** Phone numbers in India are a set of unique 10 digit numbers. Out of which, first 4 are network operator/circle code. These prefixes range from 6xxx - 9xxx. Last six are random. This is a dataset, charts, model of first four numbers with their respective circle, operator name.
+**Author:** mushorg
 
 ---
 
 ## incubator-metron
 
-**Repository:** [https://github.com/apache/incubator-metron](https://github.com/apache/incubator-metron)
+**Repository:** [[https://github.com/apache/incubator-metron](https://github.com/apache/incubator-metron)]([https://github.com/apache/incubator-metron](https://github.com/apache/incubator-metron))
 
 **Author:** apache
-
-**Last Updated:** 2020-05-22
-
-**Description:** Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements.  See the NOTICE file distributed with this work for additional information regarding copyright ownership.  The ASF licenses this file
-
----
-
-## incubator-spot
-
-**Repository:** [https://github.com/apache/incubator-spot](https://github.com/apache/incubator-spot)
-
-**Author:** apache
-
-**Last Updated:** 2023-04-21
-
-**Description:** Apache Spot is open source software for leveraging insights from flow and packet analysis. It helps enterprises and service providers gain insight on their computing environments through transparency of service delivery and identification of potential security threats or attacks happening among r...
 
 ---
 
 ## infernal-twin
 
-**Repository:** [https://github.com/entropy1337/infernal-twin](https://github.com/entropy1337/infernal-twin)
+**Repository:** [[https://github.com/entropy1337/infernal-twin](https://github.com/entropy1337/infernal-twin)]([https://github.com/entropy1337/infernal-twin](https://github.com/entropy1337/infernal-twin))
 
 **Author:** entropy1337
 
-**Last Updated:** 2018-11-26
-
-**Description:** - Improved and Compatibility on Kali Linux 2018 - Added Visual Representation of Wireless Scan - Added Visual Representation of Probe Requests and Map per SSID requested by Devices - Updated MAC address mapping
-
 ---
 
-## insecureshop
+## innernet
 
-**Repository:** [https://github.com/optiv/insecureshop](https://github.com/optiv/insecureshop)
+**Repository:** [[https://github.com/tonarino/innernet](https://github.com/tonarino/innernet)]([https://github.com/tonarino/innernet](https://github.com/tonarino/innernet))
 
-**Author:** optiv
-
-**Last Updated:** 2022-03-02
-
-**Description:** Please note, any further releases and development of InsecureShop will now take place at https://github.com/hax0rgb/InsecureShop
+**Author:** tonarino
 
 ---
 
 ## InsecureShop
 
-**Repository:** [https://github.com/optiv/InsecureShop](https://github.com/optiv/InsecureShop)
+**Repository:** [[https://github.com/optiv/InsecureShop](https://github.com/optiv/InsecureShop)]([https://github.com/optiv/InsecureShop](https://github.com/optiv/InsecureShop))
 
 **Author:** optiv
 
-**Last Updated:** 2022-03-02
-
-**Description:** Please note, any further releases and development of InsecureShop will now take place at https://github.com/hax0rgb/InsecureShop
-
 ---
 
-## insider
+## insecureshop
 
-**Repository:** [https://github.com/insidersec/insider](https://github.com/insidersec/insider)
+**Repository:** [[https://github.com/optiv/insecureshop](https://github.com/optiv/insecureshop)]([https://github.com/optiv/insecureshop](https://github.com/optiv/insecureshop))
 
-**Author:** insidersec
-
-**Last Updated:** 2021-01-26
-
-**Description:**    <a href="https://github.com/insidersec/insider/actions?query=workflow%3ACI"> 
+**Author:** optiv
 
 ---
 
 ## Inspeckage
 
-**Repository:** [https://github.com/ac-pm/Inspeckage](https://github.com/ac-pm/Inspeckage)
+**Repository:** [[https://github.com/ac-pm/Inspeckage](https://github.com/ac-pm/Inspeckage)]([https://github.com/ac-pm/Inspeckage](https://github.com/ac-pm/Inspeckage))
 
 **Author:** ac-pm
 
-**Last Updated:** 2018-08-23
-
-**Description:** Inspeckage is a tool developed to offer dynamic analysis of Android applications. By applying hooks to functions of the Android API, Inspeckage will help you understand what an Android application is doing at runtime.
-
----
-
-## InstagramPrivSniffer
-
-**Repository:** [https://github.com/obitouka/InstagramPrivSniffer](https://github.com/obitouka/InstagramPrivSniffer)
-
-**Author:** obitouka
-
-**Last Updated:** 2026-02-07
-
-**Description:** (No description available)
 ---
 
 ## IntelligentHoneyNet
 
-**Repository:** [https://github.com/jpyorre/IntelligentHoneyNet](https://github.com/jpyorre/IntelligentHoneyNet)
+**Repository:** [[https://github.com/jpyorre/IntelligentHoneyNet](https://github.com/jpyorre/IntelligentHoneyNet)]([https://github.com/jpyorre/IntelligentHoneyNet](https://github.com/jpyorre/IntelligentHoneyNet))
 
 **Author:** jpyorre
 
-**Last Updated:** 2015-11-05
+---
 
-**Description:** * Dashboard: (http://imgur.com/Sfk9Az4) * Intel page: (http://imgur.com/13V78fz)
+## intellyweave
+
+**Repository:** [[https://github.com/vericle/intellyweave](https://github.com/vericle/intellyweave)]([https://github.com/vericle/intellyweave](https://github.com/vericle/intellyweave))
+
+**Author:** vericle
 
 ---
 
-## intelmq
+## Introspy-Android
 
-**Repository:** [https://github.com/certtools/intelmq](https://github.com/certtools/intelmq)
+**Repository:** [[https://github.com/iSECPartners/Introspy-Android](https://github.com/iSECPartners/Introspy-Android)]([https://github.com/iSECPartners/Introspy-Android](https://github.com/iSECPartners/Introspy-Android))
 
-**Author:** certtools
-
-**Last Updated:** 2025-12-02
-
-**Description:** <!-- comment SPDX-FileCopyrightText: 2015-2023 Sebastian Wagner, Filip Pokorný SPDX-License-Identifier: AGPL-3.0-or-later
+**Author:** iSECPartners
 
 ---
 
-## Inveigh
+## inVtero.net
 
-**Repository:** [https://github.com/Kevin-Robertson/Inveigh](https://github.com/Kevin-Robertson/Inveigh)
+**Repository:** [[https://github.com/ShaneK2/inVtero.net](https://github.com/ShaneK2/inVtero.net)]([https://github.com/ShaneK2/inVtero.net](https://github.com/ShaneK2/inVtero.net))
 
-**Author:** Kevin-Robertson
-
-**Last Updated:** 2025-11-18
-
-**Description:** Inveigh is a cross-platform .NET IPv4/IPv6 machine-in-the-middle tool for penetration testers. This repo contains the primary C# version as well as the legacy PowerShell version.
+**Author:** ShaneK2
 
 ---
 
-## IPinfo
+## iOS-Frequent-Locations-Dumper
 
-**Repository:** [https://github.com/hiddenillusion/IPinfo](https://github.com/hiddenillusion/IPinfo)
+**Repository:** [[https://github.com/mac4n6/iOS-Frequent-Locations-Dumper](https://github.com/mac4n6/iOS-Frequent-Locations-Dumper)]([https://github.com/mac4n6/iOS-Frequent-Locations-Dumper](https://github.com/mac4n6/iOS-Frequent-Locations-Dumper))
 
-**Author:** hiddenillusion
-
-**Last Updated:** 2014-01-15
-
-**Description:** No README found
+**Author:** mac4n6
 
 ---
 
-## ironbee
+## iOSAppReverseEngineering
 
-**Repository:** [https://github.com/ironbee/ironbee](https://github.com/ironbee/ironbee)
+**Repository:** [[https://github.com/iosre/iOSAppReverseEngineering](https://github.com/iosre/iOSAppReverseEngineering)]([https://github.com/iosre/iOSAppReverseEngineering](https://github.com/iosre/iOSAppReverseEngineering))
 
-**Author:** ironbee
-
-**Last Updated:** 2016-01-06
-
-**Description:** No README found
+**Author:** iosre
 
 ---
 
-## isf
+## IPED
 
-**Repository:** [https://github.com/dark-lbp/isf](https://github.com/dark-lbp/isf)
+**Repository:** [[https://github.com/sepinf-inc/IPED](https://github.com/sepinf-inc/IPED)]([https://github.com/sepinf-inc/IPED](https://github.com/sepinf-inc/IPED))
 
-**Author:** dark-lbp
+**Author:** sepinf-inc
 
-**Last Updated:** 2020-05-08
+---
 
-**Description:** ISF(Industrial Exploitation Framework) is a exploitation framework based on Python, it's similar to metasploit framework.
+## is-website-vulnerable
+
+**Repository:** [[https://github.com/lirantal/is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable)]([https://github.com/lirantal/is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable))
+
+**Author:** lirantal
 
 ---
 
 ## ivre
 
-**Repository:** [https://github.com/ivre/ivre](https://github.com/ivre/ivre)
+**Repository:** [[https://github.com/ivre/ivre](https://github.com/ivre/ivre)]([https://github.com/ivre/ivre](https://github.com/ivre/ivre))
 
 **Author:** ivre
-
-**Last Updated:** 2026-01-27
-
-**Description:**  IVRE (Instrument de veille sur les réseaux extérieurs) or DRUNK (Dynamic Recon of UNKnown networks) is a network recon framework, including
 
 ---
 
 ## IWA-DotNet
 
-**Repository:** [https://github.com/fortify/IWA-DotNet](https://github.com/fortify/IWA-DotNet)
+**Repository:** [[https://github.com/fortify/IWA-DotNet](https://github.com/fortify/IWA-DotNet)]([https://github.com/fortify/IWA-DotNet](https://github.com/fortify/IWA-DotNet))
 
 **Author:** fortify
-
-**Last Updated:** 2024-12-04
-
-**Description:** *   [Overview](#overview) *   [Forking the Repository](#forking-the-repository) *   [Pre-Requisites](#pre-requisites) *   [Building the Application](#building-the-application) *   [Running the Application](#running-the-application)
-
----
-
-## IWA-Java
-
-**Repository:** [https://github.com/fortify/IWA-Java](https://github.com/fortify/IWA-Java)
-
-**Author:** fortify
-
-**Last Updated:** 2025-11-04
-
-**Description:** _IWA (Insecure Web App) Java Edition_ is an example Java/Spring Web Application for use in **DevSecOps** scenarios and demonstrations. It includes some examples of bad and insecure code - which can be found using static and dynamic application
 
 ---
 
 ## JAADAS
 
-**Repository:** [https://github.com/flankerhqd/JAADAS](https://github.com/flankerhqd/JAADAS)
+**Repository:** [[https://github.com/flankerhqd/JAADAS](https://github.com/flankerhqd/JAADAS)]([https://github.com/flankerhqd/JAADAS](https://github.com/flankerhqd/JAADAS))
 
 **Author:** flankerhqd
 
-**Last Updated:** 2017-04-12
+---
 
-**Description:** This is Joint Advanced Defect Assessment framework for android applications (JAADS, original name JADE renamed to avoid potential trademark issue), written in 2014. JAADAS is a tool written in Java and Scala with the power of Soot to provide
+## jadx
+
+**Repository:** [[https://github.com/skylot/jadx](https://github.com/skylot/jadx)]([https://github.com/skylot/jadx](https://github.com/skylot/jadx))
+
+**Author:** skylot
+
+---
+
+## java2yara
+
+**Repository:** [[https://github.com/fxb-cocacoding/java2yara](https://github.com/fxb-cocacoding/java2yara)]([https://github.com/fxb-cocacoding/java2yara](https://github.com/fxb-cocacoding/java2yara))
+
+**Author:** fxb-cocacoding
+
+---
+
+## Java_IDX_Parser
+
+**Repository:** [[https://github.com/Rurik/Java_IDX_Parser](https://github.com/Rurik/Java_IDX_Parser)]([https://github.com/Rurik/Java_IDX_Parser](https://github.com/Rurik/Java_IDX_Parser))
+
+**Author:** Rurik
 
 ---
 
 ## javascript-in-one-pic
 
-**Repository:** [https://github.com/coodict/javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic)
+**Repository:** [[https://github.com/coodict/javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic)]([https://github.com/coodict/javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic))
 
 **Author:** coodict
-
-**Last Updated:** 2021-04-28
-
-**Description:** [ Languages: [English](README.md), [中文](README-zh.md), [正體中文](README-zh_TW.md), [Português](README-pt_BR.md), [Español](README-es_MX.md) ]
-
----
-
-## JCS
-
-**Repository:** [https://github.com/TheM4hd1/JCS](https://github.com/TheM4hd1/JCS)
-
-**Author:** TheM4hd1
-
-**Last Updated:** 2018-09-28
-
-**Description:** JCS (Joomla Component Scanner) made for penetration testing purpose on Joomla CMS
 
 ---
 
 ## jd-gui
 
-**Repository:** [https://github.com/java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui)
+**Repository:** [[https://github.com/java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui)]([https://github.com/java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui))
 
 **Author:** java-decompiler
-
-**Last Updated:** 2019-12-25
-
-**Description:** JD-GUI, a standalone graphical utility that displays Java sources from CLASS files.
-
----
-
-## JobDorking
-
-**Repository:** [https://github.com/Fizzsh/JobDorking](https://github.com/Fizzsh/JobDorking)
-
-**Author:** Fizzsh
-
-**Last Updated:** 2025-12-19
-
-**Description:** JobDorking is a simple Python OSINT script that helps you discover company career pages by generating targeted Google search queries using 'site:' and 'inurl:' operators.
 
 ---
 
 ## JohnTheRipper
 
-**Repository:** [https://github.com/magnumripper/JohnTheRipper](https://github.com/magnumripper/JohnTheRipper)
+**Repository:** [[https://github.com/magnumripper/JohnTheRipper](https://github.com/magnumripper/JohnTheRipper)]([https://github.com/magnumripper/JohnTheRipper](https://github.com/magnumripper/JohnTheRipper))
 
 **Author:** magnumripper
-
-**Last Updated:** 2026-01-18
-
-**Description:** John the Ripper
-
----
-
-## joy
-
-**Repository:** [https://github.com/cisco/joy](https://github.com/cisco/joy)
-
-**Author:** cisco
-
-**Last Updated:** 2019-11-08
-
-**Description:** (_) ___  _   _ | |/ _ \| | | | | | (_) | |_| | _/ |\___/ \__, | |__/       |___/
 
 ---
 
 ## js-beautify
 
-**Repository:** [https://github.com/beautify-web/js-beautify](https://github.com/beautify-web/js-beautify)
+**Repository:** [[https://github.com/beautify-web/js-beautify](https://github.com/beautify-web/js-beautify)]([https://github.com/beautify-web/js-beautify](https://github.com/beautify-web/js-beautify))
 
 **Author:** beautify-web
-
-**Last Updated:** 2026-01-23
-
-**Description:** (No description available)
----
-
-## juice-shop
-
-**Repository:** [https://github.com/juice-shop/juice-shop](https://github.com/juice-shop/juice-shop)
-
-**Author:** juice-shop
-
-**Last Updated:** 2026-02-04
-
-**Description:** > [The most trustworthy online shop out there.](https://twitter.com/dschadow/status/706781693504589824) > ([@dschadow](https://github.com/dschadow)) — > [The best juice shop on the whole internet!](https://twitter.com/shehackspurple/status/907335357775085568)
 
 ---
 
 ## jwt-cracker
 
-**Repository:** [https://github.com/lmammino/jwt-cracker](https://github.com/lmammino/jwt-cracker)
+**Repository:** [[https://github.com/lmammino/jwt-cracker](https://github.com/lmammino/jwt-cracker)]([https://github.com/lmammino/jwt-cracker](https://github.com/lmammino/jwt-cracker))
 
 **Author:** lmammino
-
-**Last Updated:** 2023-11-14
-
-**Description:** Simple HS256, HS384 & HS512 JWT token brute force cracker.
 
 ---
 
 ## k-rail
 
-**Repository:** [https://github.com/cruise-automation/k-rail](https://github.com/cruise-automation/k-rail)
+**Repository:** [[https://github.com/cruise-automation/k-rail](https://github.com/cruise-automation/k-rail)]([https://github.com/cruise-automation/k-rail](https://github.com/cruise-automation/k-rail))
 
 **Author:** cruise-automation
-
-**Last Updated:** 2023-01-12
-
-**Description:** > The k-rail project has been deprecated and will receive no new features or bugfixes except in the case of critical security vulnerabilities. We recommend migrating to an actively developed tool like [OPA Gatekeeper](https://github.com/open-policy-agent/gatekeeper) that provides similar function...
 
 ---
 
 ## Kadimus
 
-**Repository:** [https://github.com/P0cL4bs/Kadimus](https://github.com/P0cL4bs/Kadimus)
+**Repository:** [[https://github.com/P0cL4bs/Kadimus](https://github.com/P0cL4bs/Kadimus)]([https://github.com/P0cL4bs/Kadimus](https://github.com/P0cL4bs/Kadimus))
 
 **Author:** P0cL4bs
-
-**Last Updated:** 2020-08-17
-
-**Description:** LFI Scan &amp; Exploit Tool
 
 ---
 
 ## kaitai_struct
 
-**Repository:** [https://github.com/kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct)
+**Repository:** [[https://github.com/kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct)]([https://github.com/kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct))
 
 **Author:** kaitai-io
-
-**Last Updated:** 2026-01-28
-
-**Description:** > **Note:** if you want to make changes to the project, do **not** fork this repository *kaitai_struct*. Instead, choose the component you want to modify in the file tree above and fork **that** individual component instead.
-
----
-
-## kako
-
-**Repository:** [https://github.com/darkarnium/kako](https://github.com/darkarnium/kako)
-
-**Author:** darkarnium
-
-**Last Updated:** 2020-08-26
-
-**Description:** This project provides honeypots for a number of well known and deployed embedded device vulnerabilities.
 
 ---
 
 ## kalitorify
 
-**Repository:** [https://github.com/brainfuckSec/kalitorify](https://github.com/brainfuckSec/kalitorify)
+**Repository:** [[https://github.com/brainfuckSec/kalitorify](https://github.com/brainfuckSec/kalitorify)]([https://github.com/brainfuckSec/kalitorify](https://github.com/brainfuckSec/kalitorify))
 
 **Author:** brainfuckSec
 
-**Last Updated:** 2022-05-31
+---
 
-**Description:** (No description available)
+## Kamerka-GUI
+
+**Repository:** [[https://github.com/woj-ciech/Kamerka-GUI](https://github.com/woj-ciech/Kamerka-GUI)]([https://github.com/woj-ciech/Kamerka-GUI](https://github.com/woj-ciech/Kamerka-GUI))
+
+**Author:** woj-ciech
+
 ---
 
 ## KeeFarce
 
-**Repository:** [https://github.com/denandz/KeeFarce](https://github.com/denandz/KeeFarce)
+**Repository:** [[https://github.com/denandz/KeeFarce](https://github.com/denandz/KeeFarce)]([https://github.com/denandz/KeeFarce](https://github.com/denandz/KeeFarce))
 
 **Author:** denandz
 
-**Last Updated:** 2015-11-17
-
-**Description:** (No description available)
----
-
-## keyscope
-
-**Repository:** [https://github.com/SpectralOps/keyscope](https://github.com/SpectralOps/keyscope)
-
-**Author:** SpectralOps
-
-**Last Updated:** 2025-07-24
-
-**Description:** (No description available)
 ---
 
 ## kics
 
-**Repository:** [https://github.com/Checkmarx/kics](https://github.com/Checkmarx/kics)
+**Repository:** [[https://github.com/Checkmarx/kics](https://github.com/Checkmarx/kics)]([https://github.com/Checkmarx/kics](https://github.com/Checkmarx/kics))
 
 **Author:** Checkmarx
 
-**Last Updated:** 2026-02-12
-
-**Description:** (No description available)
 ---
 
 ## king-phisher
 
-**Repository:** [https://github.com/securestate/king-phisher](https://github.com/securestate/king-phisher)
+**Repository:** [[https://github.com/securestate/king-phisher](https://github.com/securestate/king-phisher)]([https://github.com/securestate/king-phisher](https://github.com/securestate/king-phisher))
 
 **Author:** securestate
-
-**Last Updated:** 2022-11-07
-
-**Description:** *Phishing Campaign Toolkit*
-
----
-
-## kippo
-
-**Repository:** [https://github.com/desaster/kippo](https://github.com/desaster/kippo)
-
-**Author:** desaster
-
-**Last Updated:** 2023-08-26
-
-**Description:** NOTE: For more recent development, check out [Michel Oosterhof's fork](https://github.com/micheloosterhof/cowrie)
-
----
-
-## kippo-stats
-
-**Repository:** [https://github.com/mfontani/kippo-stats](https://github.com/mfontani/kippo-stats)
-
-**Author:** mfontani
-
-**Last Updated:** 2011-02-18
-
-**Description:** No README found
 
 ---
 
 ## kippo_detect
 
-**Repository:** [https://github.com/andrew-morris/kippo_detect](https://github.com/andrew-morris/kippo_detect)
+**Repository:** [[https://github.com/andrew-morris/kippo_detect](https://github.com/andrew-morris/kippo_detect)]([https://github.com/andrew-morris/kippo_detect](https://github.com/andrew-morris/kippo_detect))
 
 **Author:** andrew-morris
-
-**Last Updated:** 2014-12-10
-
-**Description:** kippo_detect
-
----
-
-## Kippo_JunOS
-
-**Repository:** [https://github.com/gregcmartin/Kippo_JunOS](https://github.com/gregcmartin/Kippo_JunOS)
-
-**Author:** gregcmartin
-
-**Last Updated:** 2015-12-22
-
-**Description:** NOTE: For more recent development, check out [Michel Oosterhof's fork](https://github.com/micheloosterhof/cowrie)
 
 ---
 
 ## kismet
 
-**Repository:** [https://github.com/kismetwireless/kismet](https://github.com/kismetwireless/kismet)
+**Repository:** [[https://github.com/kismetwireless/kismet](https://github.com/kismetwireless/kismet)]([https://github.com/kismetwireless/kismet](https://github.com/kismetwireless/kismet))
 
 **Author:** kismetwireless
-
-**Last Updated:** 2026-02-11
-
-**Description:** https://www.kismetwireless.net
-
----
-
-## klara
-
-**Repository:** [https://github.com/KasperskyLab/klara](https://github.com/KasperskyLab/klara)
-
-**Author:** KasperskyLab
-
-**Last Updated:** 2023-04-05
-
-**Description:** KLara project is aimed at helping Threat Intelligence researchers hunt for new malware using [Yara](https://github.com/VirusTotal/yara).
 
 ---
 
 ## kojoney2
 
-**Repository:** [https://github.com/madirish/kojoney2](https://github.com/madirish/kojoney2)
+**Repository:** [[https://github.com/madirish/kojoney2](https://github.com/madirish/kojoney2)]([https://github.com/madirish/kojoney2](https://github.com/madirish/kojoney2))
 
 **Author:** madirish
 
-**Last Updated:** 2015-01-06
-
-**Description:** Kojoney2 is a medium interaction SSH honeypot written in Python using the Twisted Conch libraries. As a medium interaction honeypot, Kojoney2 simulates a real SSH environment. As with sshd(8), Kojoney2 will listen on port
-
 ---
 
-## krackdetector
+## Krakatau
 
-**Repository:** [https://github.com/securingsam/krackdetector](https://github.com/securingsam/krackdetector)
+**Repository:** [[https://github.com/Storyyeller/Krakatau](https://github.com/Storyyeller/Krakatau)]([https://github.com/Storyyeller/Krakatau](https://github.com/Storyyeller/Krakatau))
 
-**Author:** securingsam
-
-**Last Updated:** 2017-10-20
-
-**Description:** For more details see: https://krackattacks.securingsam.com
+**Author:** Storyyeller
 
 ---
 
 ## kubepwn
 
-**Repository:** [https://github.com/alexivkin/kubepwn](https://github.com/alexivkin/kubepwn)
+**Repository:** [[https://github.com/alexivkin/kubepwn](https://github.com/alexivkin/kubepwn)]([https://github.com/alexivkin/kubepwn](https://github.com/alexivkin/kubepwn))
 
 **Author:** alexivkin
-
-**Last Updated:** 2020-11-14
-
-**Description:** Check out the folders here:
 
 ---
 
 ## kubernetes-event-exporter
 
-**Repository:** [https://github.com/opsgenie/kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter)
+**Repository:** [[https://github.com/opsgenie/kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter)]([https://github.com/opsgenie/kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter))
 
 **Author:** opsgenie
-
-**Last Updated:** 2022-08-31
-
-**Description:** This repository has been deprecated. Please visit https://github.com/resmoio/kubernetes-event-exporter
-
----
-
-## kubernetes-goat
-
-**Repository:** [https://github.com/madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat)
-
-**Author:** madhuakula
-
-**Last Updated:** 2025-11-18
-
-**Description:**  <a href="https://madhuakula.com/kubernetes-goat"> 
 
 ---
 
 ## Kuiper
 
-**Repository:** [https://github.com/DFIRKuiper/Kuiper](https://github.com/DFIRKuiper/Kuiper)
+**Repository:** [[https://github.com/DFIRKuiper/Kuiper](https://github.com/DFIRKuiper/Kuiper)]([https://github.com/DFIRKuiper/Kuiper](https://github.com/DFIRKuiper/Kuiper))
 
 **Author:** DFIRKuiper
 
-**Last Updated:** 2024-10-12
-
-**Description:** <!-- TOC depthFrom:2 -->
-
 ---
 
-## laikaboss
+## language-yara
 
-**Repository:** [https://github.com/lmco/laikaboss](https://github.com/lmco/laikaboss)
+**Repository:** [[https://github.com/blacktop/language-yara](https://github.com/blacktop/language-yara)]([https://github.com/blacktop/language-yara](https://github.com/blacktop/language-yara))
 
-**Author:** lmco
-
-**Last Updated:** 2018-09-11
-
-**Description:** Laika is an object scanner and intrusion detection system that strives to achieve the following goals:
-
----
-
-## lambda-proxy
-
-**Repository:** [https://github.com/puresec/lambda-proxy](https://github.com/puresec/lambda-proxy)
-
-**Author:** puresec
-
-**Last Updated:** 2019-01-11
-
-**Description:** More details in the following blog post: https://www.puresec.io/blog/automated-sql-injection-testing-of-serverless-functions-on-a-shoestring-budget-and-some-good-music
+**Author:** blacktop
 
 ---
 
 ## LaZagne
 
-**Repository:** [https://github.com/AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne)
+**Repository:** [[https://github.com/AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne)]([https://github.com/AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne))
 
 **Author:** AlessandroZ
-
-**Last Updated:** 2025-09-18
-
-**Description:** __The LaZagne Project !!!__
 
 ---
 
 ## lazykali
 
-**Repository:** [https://github.com/jlevitsk/lazykali](https://github.com/jlevitsk/lazykali)
+**Repository:** [[https://github.com/jlevitsk/lazykali](https://github.com/jlevitsk/lazykali)]([https://github.com/jlevitsk/lazykali](https://github.com/jlevitsk/lazykali))
 
 **Author:** jlevitsk
-
-**Last Updated:** 2016-09-04
-
-**Description:** A refresh of LazyKali which simplifies install of tools and configuration. Original author appears missing. I have emailed him at the last known address in an attempt to verify that there is no current version of this script since 2013.
 
 ---
 
 ## legion
 
-**Repository:** [https://github.com/GoVanguard/legion](https://github.com/GoVanguard/legion)
+**Repository:** [[https://github.com/GoVanguard/legion](https://github.com/GoVanguard/legion)]([https://github.com/GoVanguard/legion](https://github.com/GoVanguard/legion))
 
 **Author:** GoVanguard
-
-**Last Updated:** 2024-10-23
-
-**Description:** The Legion repository is moving to https://github.com/hackman238/legion. All future releases, updates, etc will occur from there. Big improvements on the way! This repo under this organiztion will no longer be maintained.
 
 ---
 
 ## LFISuite
 
-**Repository:** [https://github.com/D35m0nd142/LFISuite](https://github.com/D35m0nd142/LFISuite)
+**Repository:** [[https://github.com/D35m0nd142/LFISuite](https://github.com/D35m0nd142/LFISuite)]([https://github.com/D35m0nd142/LFISuite](https://github.com/D35m0nd142/LFISuite))
 
 **Author:** D35m0nd142
-
-**Last Updated:** 2018-04-08
-
-**Description:**  What is LFI Suite? 
 
 ---
 
 ## libagdb
 
-**Repository:** [https://github.com/libyal/libagdb](https://github.com/libyal/libagdb)
+**Repository:** [[https://github.com/libyal/libagdb](https://github.com/libyal/libagdb)]([https://github.com/libyal/libagdb](https://github.com/libyal/libagdb))
 
 **Author:** libyal
-
-**Last Updated:** 2025-11-29
-
-**Description:** libagdb is a library to access the SuperFetch database format.
 
 ---
 
 ## libbde
 
-**Repository:** [https://github.com/libyal/libbde](https://github.com/libyal/libbde)
+**Repository:** [[https://github.com/libyal/libbde](https://github.com/libyal/libbde)]([https://github.com/libyal/libbde](https://github.com/libyal/libbde))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-19
-
-**Description:** libbde is a library to access the BitLocker Drive Encryption (BDE) format. BitLocker Drive Encryption (BDE) is a volume-based encryption method used by Microsoft Windows, as of Vista, to encrypt data on a storage media volume.
 
 ---
 
 ## libbfio
 
-**Repository:** [https://github.com/libyal/libbfio](https://github.com/libyal/libbfio)
+**Repository:** [[https://github.com/libyal/libbfio](https://github.com/libyal/libbfio)]([https://github.com/libyal/libbfio](https://github.com/libyal/libbfio))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-09
-
-**Description:** libbfio is a library to provide basic file input/output abstraction.
 
 ---
 
 ## libcaes
 
-**Repository:** [https://github.com/libyal/libcaes](https://github.com/libyal/libcaes)
+**Repository:** [[https://github.com/libyal/libcaes](https://github.com/libyal/libcaes)]([https://github.com/libyal/libcaes](https://github.com/libyal/libcaes))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-14
-
-**Description:** libcaes is a library to support cross-platform AES encryption.
 
 ---
 
 ## libcdata
 
-**Repository:** [https://github.com/libyal/libcdata](https://github.com/libyal/libcdata)
+**Repository:** [[https://github.com/libyal/libcdata](https://github.com/libyal/libcdata)]([https://github.com/libyal/libcdata](https://github.com/libyal/libcdata))
 
 **Author:** libyal
-
-**Last Updated:** 2025-11-26
-
-**Description:** libcdata is a for cross-platform C generic data functions.
 
 ---
 
 ## libcdatetime
 
-**Repository:** [https://github.com/libyal/libcdatetime](https://github.com/libyal/libcdatetime)
+**Repository:** [[https://github.com/libyal/libcdatetime](https://github.com/libyal/libcdatetime)]([https://github.com/libyal/libcdatetime](https://github.com/libyal/libcdatetime))
 
 **Author:** libyal
-
-**Last Updated:** 2025-11-26
-
-**Description:** libcdatetime is a library for cross-platform C date and time functions.
 
 ---
 
 ## libcdirectory
 
-**Repository:** [https://github.com/libyal/libcdirectory](https://github.com/libyal/libcdirectory)
+**Repository:** [[https://github.com/libyal/libcdirectory](https://github.com/libyal/libcdirectory)]([https://github.com/libyal/libcdirectory](https://github.com/libyal/libcdirectory))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-19
-
-**Description:** libcdirectory is a library for cross-platform C directory functions.
 
 ---
 
 ## libcerror
 
-**Repository:** [https://github.com/libyal/libcerror](https://github.com/libyal/libcerror)
+**Repository:** [[https://github.com/libyal/libcerror](https://github.com/libyal/libcerror)]([https://github.com/libyal/libcerror](https://github.com/libyal/libcerror))
 
 **Author:** libyal
-
-**Last Updated:** 2025-11-26
-
-**Description:** libcerror is a library for cross-platform C error functions.
 
 ---
 
 ## libcfile
 
-**Repository:** [https://github.com/libyal/libcfile](https://github.com/libyal/libcfile)
+**Repository:** [[https://github.com/libyal/libcfile](https://github.com/libyal/libcfile)]([https://github.com/libyal/libcfile](https://github.com/libyal/libcfile))
 
 **Author:** libyal
-
-**Last Updated:** 2025-11-26
-
-**Description:** libcfile is a library for cross-platform C file functions.
 
 ---
 
 ## libclocale
 
-**Repository:** [https://github.com/libyal/libclocale](https://github.com/libyal/libclocale)
+**Repository:** [[https://github.com/libyal/libclocale](https://github.com/libyal/libclocale)]([https://github.com/libyal/libclocale](https://github.com/libyal/libclocale))
 
 **Author:** libyal
-
-**Last Updated:** 2025-11-26
-
-**Description:** libclocale is a library for cross-platform C locale functions.
 
 ---
 
 ## libcnotify
 
-**Repository:** [https://github.com/libyal/libcnotify](https://github.com/libyal/libcnotify)
+**Repository:** [[https://github.com/libyal/libcnotify](https://github.com/libyal/libcnotify)]([https://github.com/libyal/libcnotify](https://github.com/libyal/libcnotify))
 
 **Author:** libyal
-
-**Last Updated:** 2025-11-26
-
-**Description:** libcnotify is a library for cross-platform C notification functions.
 
 ---
 
 ## libcpath
 
-**Repository:** [https://github.com/libyal/libcpath](https://github.com/libyal/libcpath)
+**Repository:** [[https://github.com/libyal/libcpath](https://github.com/libyal/libcpath)]([https://github.com/libyal/libcpath](https://github.com/libyal/libcpath))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-24
-
-**Description:** libcpath is a library for cross-platform C path functions.
 
 ---
 
 ## libcreg
 
-**Repository:** [https://github.com/libyal/libcreg](https://github.com/libyal/libcreg)
+**Repository:** [[https://github.com/libyal/libcreg](https://github.com/libyal/libcreg)]([https://github.com/libyal/libcreg](https://github.com/libyal/libcreg))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-20
-
-**Description:** libcreg is a library to access the Windows 9x/Me Registry File (CREG) format.
 
 ---
 
 ## libcsplit
 
-**Repository:** [https://github.com/libyal/libcsplit](https://github.com/libyal/libcsplit)
+**Repository:** [[https://github.com/libyal/libcsplit](https://github.com/libyal/libcsplit)]([https://github.com/libyal/libcsplit](https://github.com/libyal/libcsplit))
 
 **Author:** libyal
-
-**Last Updated:** 2025-11-26
-
-**Description:** libcsplit is a library for cross-platform C split string functions.
 
 ---
 
 ## libcthreads
 
-**Repository:** [https://github.com/libyal/libcthreads](https://github.com/libyal/libcthreads)
+**Repository:** [[https://github.com/libyal/libcthreads](https://github.com/libyal/libcthreads)]([https://github.com/libyal/libcthreads](https://github.com/libyal/libcthreads))
 
 **Author:** libyal
-
-**Last Updated:** 2025-11-26
-
-**Description:** libcthreads is a library for cross-platform C threads functions.
 
 ---
 
 ## libemu
 
-**Repository:** [https://github.com/buffer/libemu](https://github.com/buffer/libemu)
+**Repository:** [[https://github.com/buffer/libemu](https://github.com/buffer/libemu)]([https://github.com/buffer/libemu](https://github.com/buffer/libemu))
 
 **Author:** buffer
-
-**Last Updated:** 2024-03-27
-
-**Description:** _______________ |               | |               | |    libemu     | | x86 emulation | |               | |               | |               | \ O             | \______________|
 
 ---
 
 ## libesedb
 
-**Repository:** [https://github.com/libyal/libesedb](https://github.com/libyal/libesedb)
+**Repository:** [[https://github.com/libyal/libesedb](https://github.com/libyal/libesedb)]([https://github.com/libyal/libesedb](https://github.com/libyal/libesedb))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-16
-
-**Description:** libesedb is a library to access the Extensible Storage Engine (ESE) Database File (EDB) format.
 
 ---
 
 ## libevt
 
-**Repository:** [https://github.com/libyal/libevt](https://github.com/libyal/libevt)
+**Repository:** [[https://github.com/libyal/libevt](https://github.com/libyal/libevt)]([https://github.com/libyal/libevt](https://github.com/libyal/libevt))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-15
-
-**Description:** libevt is a library to access the Windows Event Log (EVT) format.
 
 ---
 
 ## libevtx
 
-**Repository:** [https://github.com/libyal/libevtx](https://github.com/libyal/libevtx)
+**Repository:** [[https://github.com/libyal/libevtx](https://github.com/libyal/libevtx)]([https://github.com/libyal/libevtx](https://github.com/libyal/libevtx))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-15
-
-**Description:** libevtx is a library to access the Windows XML Event Log (EVTX) format.
 
 ---
 
 ## libewf
 
-**Repository:** [https://github.com/libyal/libewf](https://github.com/libyal/libewf)
+**Repository:** [[https://github.com/libyal/libewf](https://github.com/libyal/libewf)]([https://github.com/libyal/libewf](https://github.com/libyal/libewf))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-20
-
-**Description:** libewf is a library to access the Expert Witness Compression Format (EWF).
 
 ---
 
 ## libexe
 
-**Repository:** [https://github.com/libyal/libexe](https://github.com/libyal/libexe)
+**Repository:** [[https://github.com/libyal/libexe](https://github.com/libyal/libexe)]([https://github.com/libyal/libexe](https://github.com/libyal/libexe))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-15
-
-**Description:** libexe is a library to access the executable (EXE) format.
 
 ---
 
 ## libfcache
 
-**Repository:** [https://github.com/libyal/libfcache](https://github.com/libyal/libfcache)
+**Repository:** [[https://github.com/libyal/libfcache](https://github.com/libyal/libfcache)]([https://github.com/libyal/libfcache](https://github.com/libyal/libfcache))
 
 **Author:** libyal
-
-**Last Updated:** 2025-11-27
-
-**Description:** libfcache is a library to provide generic file data cache functions.
 
 ---
 
 ## libfcrypto
 
-**Repository:** [https://github.com/libyal/libfcrypto](https://github.com/libyal/libfcrypto)
+**Repository:** [[https://github.com/libyal/libfcrypto](https://github.com/libyal/libfcrypto)]([https://github.com/libyal/libfcrypto](https://github.com/libyal/libfcrypto))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-15
-
-**Description:** libfcrypto is a library for encryption formats.
 
 ---
 
 ## libfdata
 
-**Repository:** [https://github.com/libyal/libfdata](https://github.com/libyal/libfdata)
+**Repository:** [[https://github.com/libyal/libfdata](https://github.com/libyal/libfdata)]([https://github.com/libyal/libfdata](https://github.com/libyal/libfdata))
 
 **Author:** libyal
-
-**Last Updated:** 2025-11-27
-
-**Description:** libfdata is a library to provide generic file data functions.
 
 ---
 
 ## libfdatetime
 
-**Repository:** [https://github.com/libyal/libfdatetime](https://github.com/libyal/libfdatetime)
+**Repository:** [[https://github.com/libyal/libfdatetime](https://github.com/libyal/libfdatetime)]([https://github.com/libyal/libfdatetime](https://github.com/libyal/libfdatetime))
 
 **Author:** libyal
-
-**Last Updated:** 2025-11-27
-
-**Description:** libfdatetime is a library for date and time data types.
 
 ---
 
 ## libfguid
 
-**Repository:** [https://github.com/libyal/libfguid](https://github.com/libyal/libfguid)
+**Repository:** [[https://github.com/libyal/libfguid](https://github.com/libyal/libfguid)]([https://github.com/libyal/libfguid](https://github.com/libyal/libfguid))
 
 **Author:** libyal
 
-**Last Updated:** 2025-11-27
+---
 
-**Description:** libfguid is a library for the GUID/UUID format.
+## libfmapi
+
+**Repository:** [[https://github.com/libyal/libfmapi](https://github.com/libyal/libfmapi)]([https://github.com/libyal/libfmapi](https://github.com/libyal/libfmapi))
+
+**Author:** libyal
 
 ---
 
 ## libfole
 
-**Repository:** [https://github.com/libyal/libfole](https://github.com/libyal/libfole)
+**Repository:** [[https://github.com/libyal/libfole](https://github.com/libyal/libfole)]([https://github.com/libyal/libfole](https://github.com/libyal/libfole))
 
 **Author:** libyal
-
-**Last Updated:** 2025-11-27
-
-**Description:** libfole is a library for Object Linking and Embedding (OLE) data types.
-
----
-
-## libformatstr
-
-**Repository:** [https://github.com/hellman/libformatstr](https://github.com/hellman/libformatstr)
-
-**Author:** hellman
-
-**Last Updated:** 2017-07-10
-
-**Description:** libformatstr.py
 
 ---
 
 ## libfplist
 
-**Repository:** [https://github.com/libyal/libfplist](https://github.com/libyal/libfplist)
+**Repository:** [[https://github.com/libyal/libfplist](https://github.com/libyal/libfplist)]([https://github.com/libyal/libfplist](https://github.com/libyal/libfplist))
 
 **Author:** libyal
-
-**Last Updated:** 2025-11-27
-
-**Description:** libfplist is a library for plist formats.
 
 ---
 
 ## libfsapfs
 
-**Repository:** [https://github.com/libyal/libfsapfs](https://github.com/libyal/libfsapfs)
+**Repository:** [[https://github.com/libyal/libfsapfs](https://github.com/libyal/libfsapfs)]([https://github.com/libyal/libfsapfs](https://github.com/libyal/libfsapfs))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-16
-
-**Description:** libfsapfs is a library to access the Apple File System (APFS).
 
 ---
 
 ## libfsclfs
 
-**Repository:** [https://github.com/libyal/libfsclfs](https://github.com/libyal/libfsclfs)
+**Repository:** [[https://github.com/libyal/libfsclfs](https://github.com/libyal/libfsclfs)]([https://github.com/libyal/libfsclfs](https://github.com/libyal/libfsclfs))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-04
-
-**Description:** libfsclfs is a library to access the Common Log File System (CLFS).
 
 ---
 
 ## libfsext
 
-**Repository:** [https://github.com/libyal/libfsext](https://github.com/libyal/libfsext)
+**Repository:** [[https://github.com/libyal/libfsext](https://github.com/libyal/libfsext)]([https://github.com/libyal/libfsext](https://github.com/libyal/libfsext))
 
 **Author:** libyal
-
-**Last Updated:** 2026-02-01
-
-**Description:** libfsext is a library to access the Extended File System (ext).
 
 ---
 
 ## libfshfs
 
-**Repository:** [https://github.com/libyal/libfshfs](https://github.com/libyal/libfshfs)
+**Repository:** [[https://github.com/libyal/libfshfs](https://github.com/libyal/libfshfs)]([https://github.com/libyal/libfshfs](https://github.com/libyal/libfshfs))
 
 **Author:** libyal
-
-**Last Updated:** 2026-01-30
-
-**Description:** libfshfs is a library to access the Mac OS Hierarchical File System (HFS).
 
 ---
 
 ## libfsntfs
 
-**Repository:** [https://github.com/libyal/libfsntfs](https://github.com/libyal/libfsntfs)
+**Repository:** [[https://github.com/libyal/libfsntfs](https://github.com/libyal/libfsntfs)]([https://github.com/libyal/libfsntfs](https://github.com/libyal/libfsntfs))
 
 **Author:** libyal
-
-**Last Updated:** 2026-02-08
-
-**Description:** libfsntfs is a library to access the New Technology File System (NTFS) format.
 
 ---
 
 ## libfsrefs
 
-**Repository:** [https://github.com/libyal/libfsrefs](https://github.com/libyal/libfsrefs)
+**Repository:** [[https://github.com/libyal/libfsrefs](https://github.com/libyal/libfsrefs)]([https://github.com/libyal/libfsrefs](https://github.com/libyal/libfsrefs))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-05
-
-**Description:** libfsrefs is a library to access the Resilient File System (ReFS).
 
 ---
 
 ## libftxf
 
-**Repository:** [https://github.com/libyal/libftxf](https://github.com/libyal/libftxf)
+**Repository:** [[https://github.com/libyal/libftxf](https://github.com/libyal/libftxf)]([https://github.com/libyal/libftxf](https://github.com/libyal/libftxf))
 
 **Author:** libyal
-
-**Last Updated:** 2025-11-27
-
-**Description:** libftxf is a library for Transactional NTFS (TxF) data types.
 
 ---
 
 ## libftxr
 
-**Repository:** [https://github.com/libyal/libftxr](https://github.com/libyal/libftxr)
+**Repository:** [[https://github.com/libyal/libftxr](https://github.com/libyal/libftxr)]([https://github.com/libyal/libftxr](https://github.com/libyal/libftxr))
 
 **Author:** libyal
-
-**Last Updated:** 2025-11-27
-
-**Description:** libftxr is a library for Transactional Registry (TxR) data types.
 
 ---
 
 ## libfusn
 
-**Repository:** [https://github.com/libyal/libfusn](https://github.com/libyal/libfusn)
+**Repository:** [[https://github.com/libyal/libfusn](https://github.com/libyal/libfusn)]([https://github.com/libyal/libfusn](https://github.com/libyal/libfusn))
 
 **Author:** libyal
-
-**Last Updated:** 2025-11-27
-
-**Description:** libfusn is a library for Update Sequence Number (USN) Journal data types.
 
 ---
 
 ## libfvalue
 
-**Repository:** [https://github.com/libyal/libfvalue](https://github.com/libyal/libfvalue)
+**Repository:** [[https://github.com/libyal/libfvalue](https://github.com/libyal/libfvalue)]([https://github.com/libyal/libfvalue](https://github.com/libyal/libfvalue))
 
 **Author:** libyal
-
-**Last Updated:** 2025-11-27
-
-**Description:** libfvalue is a library for generic file value functions.
 
 ---
 
 ## libfvde
 
-**Repository:** [https://github.com/libyal/libfvde](https://github.com/libyal/libfvde)
+**Repository:** [[https://github.com/libyal/libfvde](https://github.com/libyal/libfvde)]([https://github.com/libyal/libfvde](https://github.com/libyal/libfvde))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-16
-
-**Description:** libfvde is a library to access FileVault Drive Encryption (FVDE) (or FileVault2) encrypted volumes.
 
 ---
 
 ## libfwevt
 
-**Repository:** [https://github.com/libyal/libfwevt](https://github.com/libyal/libfwevt)
+**Repository:** [[https://github.com/libyal/libfwevt](https://github.com/libyal/libfwevt)]([https://github.com/libyal/libfwevt](https://github.com/libyal/libfwevt))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-17
-
-**Description:** libfwevt is a library for Windows XML Event Log (EVTX) data types.
 
 ---
 
 ## libfwnt
 
-**Repository:** [https://github.com/libyal/libfwnt](https://github.com/libyal/libfwnt)
+**Repository:** [[https://github.com/libyal/libfwnt](https://github.com/libyal/libfwnt)]([https://github.com/libyal/libfwnt](https://github.com/libyal/libfwnt))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-14
-
-**Description:** libfwnt is a library for Windows NT data types.
 
 ---
 
 ## libfwps
 
-**Repository:** [https://github.com/libyal/libfwps](https://github.com/libyal/libfwps)
+**Repository:** [[https://github.com/libyal/libfwps](https://github.com/libyal/libfwps)]([https://github.com/libyal/libfwps](https://github.com/libyal/libfwps))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-17
-
-**Description:** libfwps is a library for Windows Property Store data types.
 
 ---
 
 ## libfwsi
 
-**Repository:** [https://github.com/libyal/libfwsi](https://github.com/libyal/libfwsi)
+**Repository:** [[https://github.com/libyal/libfwsi](https://github.com/libyal/libfwsi)]([https://github.com/libyal/libfwsi](https://github.com/libyal/libfwsi))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-17
-
-**Description:** libfwsi is a library to access the Windows Shell Item format.
 
 ---
 
 ## libgzipf
 
-**Repository:** [https://github.com/libyal/libgzipf](https://github.com/libyal/libgzipf)
+**Repository:** [[https://github.com/libyal/libgzipf](https://github.com/libyal/libgzipf)]([https://github.com/libyal/libgzipf](https://github.com/libyal/libgzipf))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-17
-
-**Description:** libgzipf is a library to access the GZIP file format.
 
 ---
 
 ## libhibr
 
-**Repository:** [https://github.com/libyal/libhibr](https://github.com/libyal/libhibr)
+**Repository:** [[https://github.com/libyal/libhibr](https://github.com/libyal/libhibr)]([https://github.com/libyal/libhibr](https://github.com/libyal/libhibr))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-20
-
-**Description:** libhibr is a library to access the Windows Hibernation File (hiberfil.sys) format.
 
 ---
 
 ## libhmac
 
-**Repository:** [https://github.com/libyal/libhmac](https://github.com/libyal/libhmac)
+**Repository:** [[https://github.com/libyal/libhmac](https://github.com/libyal/libhmac)]([https://github.com/libyal/libhmac](https://github.com/libyal/libhmac))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-18
-
-**Description:** libhmac is a library to support various Hash-based Message Authentication Codes (HMAC).
 
 ---
 
 ## liblnk
 
-**Repository:** [https://github.com/libyal/liblnk](https://github.com/libyal/liblnk)
+**Repository:** [[https://github.com/libyal/liblnk](https://github.com/libyal/liblnk)]([https://github.com/libyal/liblnk](https://github.com/libyal/liblnk))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-18
-
-**Description:** liblnk is a library to access the Windows Shortcut File (LNK) format.
 
 ---
 
 ## libluksde
 
-**Repository:** [https://github.com/libyal/libluksde](https://github.com/libyal/libluksde)
+**Repository:** [[https://github.com/libyal/libluksde](https://github.com/libyal/libluksde)]([https://github.com/libyal/libluksde](https://github.com/libyal/libluksde))
 
 **Author:** libyal
 
-**Last Updated:** 2025-12-19
+---
 
-**Description:** libluksde is a library to access LUKS Disk Encryption encrypted volumes.
+## libmapidb
+
+**Repository:** [[https://github.com/libyal/libmapidb](https://github.com/libyal/libmapidb)]([https://github.com/libyal/libmapidb](https://github.com/libyal/libmapidb))
+
+**Author:** libyal
 
 ---
 
 ## libmdmp
 
-**Repository:** [https://github.com/libyal/libmdmp](https://github.com/libyal/libmdmp)
+**Repository:** [[https://github.com/libyal/libmdmp](https://github.com/libyal/libmdmp)]([https://github.com/libyal/libmdmp](https://github.com/libyal/libmdmp))
 
 **Author:** libyal
-
-**Last Updated:** 2025-11-30
-
-**Description:** libmdmp is a library to access the Windows Minidump (MDMP) format.
 
 ---
 
 ## libmodi
 
-**Repository:** [https://github.com/libyal/libmodi](https://github.com/libyal/libmodi)
+**Repository:** [[https://github.com/libyal/libmodi](https://github.com/libyal/libmodi)]([https://github.com/libyal/libmodi](https://github.com/libyal/libmodi))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-18
-
-**Description:** libmodi is a library to access the Mac OS disk image format.
 
 ---
 
 ## libmsiecf
 
-**Repository:** [https://github.com/libyal/libmsiecf](https://github.com/libyal/libmsiecf)
+**Repository:** [[https://github.com/libyal/libmsiecf](https://github.com/libyal/libmsiecf)]([https://github.com/libyal/libmsiecf](https://github.com/libyal/libmsiecf))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-19
-
-**Description:** libmsiecf is a library to access the Microsoft Internet Explorer (MSIE) Cache File (index.dat) file format.
-
----
-
-## libnet
-
-**Repository:** [https://github.com/libnet/libnet](https://github.com/libnet/libnet)
-
-**Author:** libnet
-
-**Last Updated:** 2025-02-19
-
-**Description:** Packet Construction and Injection
 
 ---
 
 ## libnk2
 
-**Repository:** [https://github.com/libyal/libnk2](https://github.com/libyal/libnk2)
+**Repository:** [[https://github.com/libyal/libnk2](https://github.com/libyal/libnk2)]([https://github.com/libyal/libnk2](https://github.com/libyal/libnk2))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-18
-
-**Description:** libnk2 is a library to access the Microsoft Outlook Nickfile (NK2) format.
 
 ---
 
 ## libnsfdb
 
-**Repository:** [https://github.com/libyal/libnsfdb](https://github.com/libyal/libnsfdb)
+**Repository:** [[https://github.com/libyal/libnsfdb](https://github.com/libyal/libnsfdb)]([https://github.com/libyal/libnsfdb](https://github.com/libyal/libnsfdb))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-02
-
-**Description:** libnsfdb is a library to access the Notes Storage Facility (NSF) database file format.
 
 ---
 
 ## libodraw
 
-**Repository:** [https://github.com/libyal/libodraw](https://github.com/libyal/libodraw)
+**Repository:** [[https://github.com/libyal/libodraw](https://github.com/libyal/libodraw)]([https://github.com/libyal/libodraw](https://github.com/libyal/libodraw))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-24
-
-**Description:** libodraw is a library to access to optical disc (split) RAW image files (bin/cue, iso/cue).
 
 ---
 
 ## libolecf
 
-**Repository:** [https://github.com/libyal/libolecf](https://github.com/libyal/libolecf)
+**Repository:** [[https://github.com/libyal/libolecf](https://github.com/libyal/libolecf)]([https://github.com/libyal/libolecf](https://github.com/libyal/libolecf))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-21
-
-**Description:** libolecf is a library to access the OLE 2 Compound File (OLECF) format.
 
 ---
 
 ## libpff
 
-**Repository:** [https://github.com/libyal/libpff](https://github.com/libyal/libpff)
+**Repository:** [[https://github.com/libyal/libpff](https://github.com/libyal/libpff)]([https://github.com/libyal/libpff](https://github.com/libyal/libpff))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-18
-
-**Description:** libpff is a library to access the Personal Folder File (PFF) and the Offline Folder File (OFF) format.
 
 ---
 
 ## libphdi
 
-**Repository:** [https://github.com/libyal/libphdi](https://github.com/libyal/libphdi)
+**Repository:** [[https://github.com/libyal/libphdi](https://github.com/libyal/libphdi)]([https://github.com/libyal/libphdi](https://github.com/libyal/libphdi))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-24
-
-**Description:** libphdi is a library to access the Parallels Hard Disk image (PHDI) format.
 
 ---
 
 ## libqcow
 
-**Repository:** [https://github.com/libyal/libqcow](https://github.com/libyal/libqcow)
+**Repository:** [[https://github.com/libyal/libqcow](https://github.com/libyal/libqcow)]([https://github.com/libyal/libqcow](https://github.com/libyal/libqcow))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-19
-
-**Description:** libqcow is a library to access the QEMU Copy-On-Write (QCOW) image file format.
 
 ---
 
 ## libregf
 
-**Repository:** [https://github.com/libyal/libregf](https://github.com/libyal/libregf)
+**Repository:** [[https://github.com/libyal/libregf](https://github.com/libyal/libregf)]([https://github.com/libyal/libregf](https://github.com/libyal/libregf))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-19
-
-**Description:** libregf is a library to access the Windows NT Registry File (REGF) format.
 
 ---
 
 ## libscca
 
-**Repository:** [https://github.com/libyal/libscca](https://github.com/libyal/libscca)
+**Repository:** [[https://github.com/libyal/libscca](https://github.com/libyal/libscca)]([https://github.com/libyal/libscca](https://github.com/libyal/libscca))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-19
-
-**Description:** libscca is a library to access the Windows Prefetch File (SCCA) format.
 
 ---
 
 ## libsigscan
 
-**Repository:** [https://github.com/libyal/libsigscan](https://github.com/libyal/libsigscan)
+**Repository:** [[https://github.com/libyal/libsigscan](https://github.com/libyal/libsigscan)]([https://github.com/libyal/libsigscan](https://github.com/libyal/libsigscan))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-20
-
-**Description:** libsigscan is a library for binary signature scanning.
 
 ---
 
 ## libsmdev
 
-**Repository:** [https://github.com/libyal/libsmdev](https://github.com/libyal/libsmdev)
+**Repository:** [[https://github.com/libyal/libsmdev](https://github.com/libyal/libsmdev)]([https://github.com/libyal/libsmdev](https://github.com/libyal/libsmdev))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-20
-
-**Description:** libsmdev is a library to access to storage media devices.
 
 ---
 
 ## libsmraw
 
-**Repository:** [https://github.com/libyal/libsmraw](https://github.com/libyal/libsmraw)
+**Repository:** [[https://github.com/libyal/libsmraw](https://github.com/libyal/libsmraw)]([https://github.com/libyal/libsmraw](https://github.com/libyal/libsmraw))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-20
-
-**Description:** libsmraw is a library to access the (split) RAW image format.
 
 ---
 
 ## libtableau
 
-**Repository:** [https://github.com/libyal/libtableau](https://github.com/libyal/libtableau)
+**Repository:** [[https://github.com/libyal/libtableau](https://github.com/libyal/libtableau)]([https://github.com/libyal/libtableau](https://github.com/libyal/libtableau))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-10
-
-**Description:** libtableau is a library to support the Tableau(TM) forensic bridge (write blocker).
 
 ---
 
 ## libuna
 
-**Repository:** [https://github.com/libyal/libuna](https://github.com/libyal/libuna)
+**Repository:** [[https://github.com/libyal/libuna](https://github.com/libyal/libuna)]([https://github.com/libyal/libuna](https://github.com/libyal/libuna))
 
 **Author:** libyal
-
-**Last Updated:** 2025-11-28
-
-**Description:** libuna is a library to support Unicode and ASCII (byte string) conversions.
 
 ---
 
 ## libvhdi
 
-**Repository:** [https://github.com/libyal/libvhdi](https://github.com/libyal/libvhdi)
+**Repository:** [[https://github.com/libyal/libvhdi](https://github.com/libyal/libvhdi)]([https://github.com/libyal/libvhdi](https://github.com/libyal/libvhdi))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-20
-
-**Description:** libvhdi is a library to access the Virtual Hard Disk image format.
 
 ---
 
 ## libvmdk
 
-**Repository:** [https://github.com/libyal/libvmdk](https://github.com/libyal/libvmdk)
+**Repository:** [[https://github.com/libyal/libvmdk](https://github.com/libyal/libvmdk)]([https://github.com/libyal/libvmdk](https://github.com/libyal/libvmdk))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-20
-
-**Description:** libvmdk is a library to access the VMware Virtual Disk (VMDK) format.
 
 ---
 
 ## libvsgpt
 
-**Repository:** [https://github.com/libyal/libvsgpt](https://github.com/libyal/libvsgpt)
+**Repository:** [[https://github.com/libyal/libvsgpt](https://github.com/libyal/libvsgpt)]([https://github.com/libyal/libvsgpt](https://github.com/libyal/libvsgpt))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-20
-
-**Description:** libvsgpt is a library to access the GUID Partition Table (GPT) volume system.
-
----
-
-## libvshadow
-
-**Repository:** [https://github.com/libyal/libvshadow](https://github.com/libyal/libvshadow)
-
-**Author:** libyal
-
-**Last Updated:** 2025-12-20
-
-**Description:** libvshadow is a library to access the Volume Shadow Snapshot (VSS) format. The VSS format is used by Windows, as of Vista, to maintain copies of data on a storage media volume.
 
 ---
 
 ## libvslvm
 
-**Repository:** [https://github.com/libyal/libvslvm](https://github.com/libyal/libvslvm)
+**Repository:** [[https://github.com/libyal/libvslvm](https://github.com/libyal/libvslvm)]([https://github.com/libyal/libvslvm](https://github.com/libyal/libvslvm))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-20
-
-**Description:** libvslvm is a library to access the Linux Logical Volume Manager (LVM) format.
 
 ---
 
 ## libvsmbr
 
-**Repository:** [https://github.com/libyal/libvsmbr](https://github.com/libyal/libvsmbr)
+**Repository:** [[https://github.com/libyal/libvsmbr](https://github.com/libyal/libvsmbr)]([https://github.com/libyal/libvsmbr](https://github.com/libyal/libvsmbr))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-21
-
-**Description:** libvsmbr is a library to access the Master Boot Record (MBR) volume system.
 
 ---
 
 ## libwrc
 
-**Repository:** [https://github.com/libyal/libwrc](https://github.com/libyal/libwrc)
+**Repository:** [[https://github.com/libyal/libwrc](https://github.com/libyal/libwrc)]([https://github.com/libyal/libwrc](https://github.com/libyal/libwrc))
 
 **Author:** libyal
-
-**Last Updated:** 2025-12-20
-
-**Description:** libwrc is a library to access the Windows Resource Compiler (WRC) format.
 
 ---
 
 ## libwtcdb
 
-**Repository:** [https://github.com/libyal/libwtcdb](https://github.com/libyal/libwtcdb)
+**Repository:** [[https://github.com/libyal/libwtcdb](https://github.com/libyal/libwtcdb)]([https://github.com/libyal/libwtcdb](https://github.com/libyal/libwtcdb))
 
 **Author:** libyal
 
-**Last Updated:** 2025-12-03
-
-**Description:** libwtcdb is a library to access the Windows Explorer thumbnail cache database (WTCDB) format (thumbcache.db).
-
 ---
 
-## libyal
+## libyara.NET
 
-**Repository:** [https://github.com/libyal/libyal](https://github.com/libyal/libyal)
+**Repository:** [[https://github.com/microsoft/libyara.NET](https://github.com/microsoft/libyara.NET)]([https://github.com/microsoft/libyara.NET](https://github.com/microsoft/libyara.NET))
 
-**Author:** libyal
-
-**Last Updated:** 2025-12-21
-
-**Description:** The name libyal was initially a pun on the naming theme of the various library projects. Now it serves the purpose of providing an overview of the available projects in a single location and as a home for scripts to help maintain the
-
----
-
-## LICSTER
-
-**Repository:** [https://github.com/hsainnos/LICSTER](https://github.com/hsainnos/LICSTER)
-
-**Author:** hsainnos
-
-**Last Updated:** 2024-03-16
-
-**Description:** The project aims to help setup a minimal, low-cost *Industrial Control System (ICS)* testbest for students, researchers, or anyone with an interest in industrial security. The project contains a list of affordable hardware to build the minimalistic ICS with, instructions,
-
----
-
-## liffy
-
-**Repository:** [https://github.com/hvqzao/liffy](https://github.com/hvqzao/liffy)
-
-**Author:** hvqzao
-
-**Last Updated:** 2016-03-20
-
-**Description:** Liffy is a Local File Inclusion Exploitation tool.
+**Author:** microsoft
 
 ---
 
 ## LiME
 
-**Repository:** [https://github.com/504ensicsLabs/LiME](https://github.com/504ensicsLabs/LiME)
+**Repository:** [[https://github.com/504ensicsLabs/LiME](https://github.com/504ensicsLabs/LiME)]([https://github.com/504ensicsLabs/LiME](https://github.com/504ensicsLabs/LiME))
 
 **Author:** 504ensicsLabs
-
-**Last Updated:** 2025-11-08
-
-**Description:** This project is no longer being actively maintained.  If you are interested in maintaining it, please reach out to joe.sylve@gmail.com.  I would like to thank Daryl Bennett for his years of work in taking over maintenance of this project.
-
----
-
-## Limon
-
-**Repository:** [https://github.com/monnappa22/Limon](https://github.com/monnappa22/Limon)
-
-**Author:** monnappa22
-
-**Last Updated:** 2016-03-25
-
-**Description:** Limon is a sandbox developed as a research project written in python, which automatically collects, analyzes, and reports on the run time indicators of Linux malware. It allows one to inspect the Linux malware before execution, during execution, and after execution (post-mortem analysis) by perfo...
 
 ---
 
 ## LinEnum
 
-**Repository:** [https://github.com/rebootuser/LinEnum](https://github.com/rebootuser/LinEnum)
+**Repository:** [[https://github.com/rebootuser/LinEnum](https://github.com/rebootuser/LinEnum)]([https://github.com/rebootuser/LinEnum](https://github.com/rebootuser/LinEnum))
 
 **Author:** rebootuser
-
-**Last Updated:** 2020-01-07
-
-**Description:** For more information visit www.rebootuser.com
-
----
-
-## LinkedInDumper
-
-**Repository:** [https://github.com/l4rm4nd/LinkedInDumper](https://github.com/l4rm4nd/LinkedInDumper)
-
-**Author:** l4rm4nd
-
-**Last Updated:** 2026-02-12
-
-**Description:**  LinkedInDumper Python 3 script to dump company employees from LinkedIn API <a target="_blank" href="https://hub.docker.com/r/l4rm4nd/linkedindumper"></...
 
 ---
 
 ## LinkScope_Client
 
-**Repository:** [https://github.com/AccentuSoft/LinkScope_Client](https://github.com/AccentuSoft/LinkScope_Client)
+**Repository:** [[https://github.com/AccentuSoft/LinkScope_Client](https://github.com/AccentuSoft/LinkScope_Client)]([https://github.com/AccentuSoft/LinkScope_Client](https://github.com/AccentuSoft/LinkScope_Client))
 
 **Author:** AccentuSoft
-
-**Last Updated:** 2025-02-06
-
-**Description:** (No description available)
----
-
-## linux-explorer
-
-**Repository:** [https://github.com/intezer/linux-explorer](https://github.com/intezer/linux-explorer)
-
-**Author:** intezer
-
-**Last Updated:** 2024-03-03
-
-**Description:** Easy-to-use live forensics toolbox for Linux endpoints written in Python & Flask.
-
----
-
-## lists
-
-**Repository:** [https://github.com/jnv/lists](https://github.com/jnv/lists)
-
-**Author:** jnv
-
-**Last Updated:** 2025-05-20
-
-**Description:** List of useful, silly and [awesome](#awesome-) lists curated on GitHub. Contributions welcome!
 
 ---
 
 ## logdissect
 
-**Repository:** [https://github.com/dogoncouch/logdissect](https://github.com/dogoncouch/logdissect)
+**Repository:** [[https://github.com/dogoncouch/logdissect](https://github.com/dogoncouch/logdissect)]([https://github.com/dogoncouch/logdissect](https://github.com/dogoncouch/logdissect))
 
 **Author:** dogoncouch
-
-**Last Updated:** 2024-08-07
-
-**Description:** - [Introduction](#introduction) - [Description](#description) - [Installing](#installing) - [Usage](#usage) - [Options](#options) - [Parsers](#parsers) - [Examples](#examples) - [Notes](#notes) - [Community](#community)
 
 ---
 
 ## LogESP
 
-**Repository:** [https://github.com/dogoncouch/LogESP](https://github.com/dogoncouch/LogESP)
+**Repository:** [[https://github.com/dogoncouch/LogESP](https://github.com/dogoncouch/LogESP)]([https://github.com/dogoncouch/LogESP](https://github.com/dogoncouch/LogESP))
 
 **Author:** dogoncouch
-
-**Last Updated:** 2022-05-17
-
-**Description:** LogESP (c) 2018 Dan Persons | [MIT License](LICENSE)
 
 ---
 
 ## LogonTracer
 
-**Repository:** [https://github.com/JPCERTCC/LogonTracer](https://github.com/JPCERTCC/LogonTracer)
+**Repository:** [[https://github.com/JPCERTCC/LogonTracer](https://github.com/JPCERTCC/LogonTracer)]([https://github.com/JPCERTCC/LogonTracer](https://github.com/JPCERTCC/LogonTracer))
 
 **Author:** JPCERTCC
-
-**Last Updated:** 2025-10-19
-
-**Description:** (No description available)
----
-
-## LOIC
-
-**Repository:** [https://github.com/NewEraCracker/LOIC](https://github.com/NewEraCracker/LOIC)
-
-**Author:** NewEraCracker
-
-**Last Updated:** 2022-05-03
-
-**Description:** Low Orbit Ion Cannon (**LOIC**) is an open source network stress tool, written in C#. LOIC is based on Praetox's LOIC project at https://sourceforge.net/projects/loic/ .
 
 ---
 
 ## Loki
 
-**Repository:** [https://github.com/Neo23x0/Loki](https://github.com/Neo23x0/Loki)
+**Repository:** [[https://github.com/Neo23x0/Loki](https://github.com/Neo23x0/Loki)]([https://github.com/Neo23x0/Loki](https://github.com/Neo23x0/Loki))
 
 **Author:** Neo23x0
-
-**Last Updated:** 2026-01-09
-
-**Description:** I wrote a new Open Source YARA scanner called [LOKI RS](https://github.com/Neo23x0/Loki-RS) (Rust). LOKI (Python) is now officially deprecated.
 
 ---
 
 ## longitudinal-analysis-cowrie
 
-**Repository:** [https://github.com/deroux/longitudinal-analysis-cowrie](https://github.com/deroux/longitudinal-analysis-cowrie)
+**Repository:** [[https://github.com/deroux/longitudinal-analysis-cowrie](https://github.com/deroux/longitudinal-analysis-cowrie)]([https://github.com/deroux/longitudinal-analysis-cowrie](https://github.com/deroux/longitudinal-analysis-cowrie))
 
 **Author:** deroux
 
-**Last Updated:** 2022-11-14
+---
 
-**Description:** This project is about a Command Line Map-Reduce tool to analyze cowrie log files on remote servers / local folders over time and create a visualization and statistics of the data.
+## lw-yara
+
+**Repository:** [[https://github.com/Hestat/lw-yara](https://github.com/Hestat/lw-yara)]([https://github.com/Hestat/lw-yara](https://github.com/Hestat/lw-yara))
+
+**Author:** Hestat
 
 ---
 
-## lonkero
+## mac-a-mal
 
-**Repository:** [https://github.com/bountyyfi/lonkero](https://github.com/bountyyfi/lonkero)
+**Repository:** [[https://github.com/phdphuc/mac-a-mal](https://github.com/phdphuc/mac-a-mal)]([https://github.com/phdphuc/mac-a-mal](https://github.com/phdphuc/mac-a-mal))
 
-**Author:** bountyyfi
-
-**Last Updated:** 2026-02-11
-
-**Description:** (No description available)
----
-
-## lophiid
-
-**Repository:** [https://github.com/mrheinen/lophiid](https://github.com/mrheinen/lophiid)
-
-**Author:** mrheinen
-
-**Last Updated:** 2026-02-08
-
-**Description:** (No description available)
----
-
-## lunasec
-
-**Repository:** [https://github.com/lunasec-io/lunasec](https://github.com/lunasec-io/lunasec)
-
-**Author:** lunasec-io
-
-**Last Updated:** 2024-05-02
-
-**Description:** ~ Copyright by LunaSec (owned by Refinery Labs, Inc)
-
----
-
-## Luyten
-
-**Repository:** [https://github.com/deathmarine/Luyten](https://github.com/deathmarine/Luyten)
-
-**Author:** deathmarine
-
-**Last Updated:** 2021-03-17
-
-**Description:** No README found
+**Author:** phdphuc
 
 ---
 
 ## Mac-Locations-Scraper
 
-**Repository:** [https://github.com/mac4n6/Mac-Locations-Scraper](https://github.com/mac4n6/Mac-Locations-Scraper)
+**Repository:** [[https://github.com/mac4n6/Mac-Locations-Scraper](https://github.com/mac4n6/Mac-Locations-Scraper)]([https://github.com/mac4n6/Mac-Locations-Scraper](https://github.com/mac4n6/Mac-Locations-Scraper))
 
 **Author:** mac4n6
 
-**Last Updated:** 2018-09-07
-
-**Description:** Dump the contents of the location database files on iOS and macOS.
-
 ---
 
-## machinae
+## machine
 
-**Repository:** [https://github.com/hurricanelabs/machinae](https://github.com/hurricanelabs/machinae)
+**Repository:** [[https://github.com/docker/machine](https://github.com/docker/machine)]([https://github.com/docker/machine](https://github.com/docker/machine))
 
-**Author:** hurricanelabs
-
-**Last Updated:** 2024-05-15
-
-**Description:** Machinae Security Intelligence Collector
+**Author:** docker
 
 ---
 
 ## MachOView
 
-**Repository:** [https://github.com/gdbinit/MachOView](https://github.com/gdbinit/MachOView)
+**Repository:** [[https://github.com/gdbinit/MachOView](https://github.com/gdbinit/MachOView)]([https://github.com/gdbinit/MachOView](https://github.com/gdbinit/MachOView))
 
 **Author:** gdbinit
-
-**Last Updated:** 2023-05-18
-
-**Description:** _____                .__     ____________   ____.__ /     \ _____    ____ |  |__  \_____  \   \ /   /|__| ______  _  __ /  \ /  \\__  \ _/ ___\|  |  \  /   |   \   Y   / |  |/ __ \ \/ \/ / /    Y    \/ __ \\  \___|   Y  \/    |    \     /  |  \  ___/\     /
 
 ---
 
 ## macMRU-Parser
 
-**Repository:** [https://github.com/mac4n6/macMRU-Parser](https://github.com/mac4n6/macMRU-Parser)
+**Repository:** [[https://github.com/mac4n6/macMRU-Parser](https://github.com/mac4n6/macMRU-Parser)]([https://github.com/mac4n6/macMRU-Parser](https://github.com/mac4n6/macMRU-Parser))
 
 **Author:** mac4n6
 
-**Last Updated:** 2017-12-10
+---
 
-**Description:** Python script to parse the Most Recently Used (MRU) plist files on macOS into a more human friendly format.
+## macOS-Security-and-Privacy-Guide
+
+**Repository:** [[https://github.com/drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)]([https://github.com/drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide))
+
+**Author:** drduh
 
 ---
 
-## macOS-Fortress
+## magspoof
 
-**Repository:** [https://github.com/essandess/macOS-Fortress](https://github.com/essandess/macOS-Fortress)
+**Repository:** [[https://github.com/samyk/magspoof](https://github.com/samyk/magspoof)]([https://github.com/samyk/magspoof](https://github.com/samyk/magspoof))
 
-**Author:** essandess
-
-**Last Updated:** 2021-11-23
-
-**Description:** macOS-Fortress
+**Author:** samyk
 
 ---
 
 ## mailchecker
 
-**Repository:** [https://github.com/FGRibreau/mailchecker](https://github.com/FGRibreau/mailchecker)
+**Repository:** [[https://github.com/FGRibreau/mailchecker](https://github.com/FGRibreau/mailchecker)]([https://github.com/FGRibreau/mailchecker](https://github.com/FGRibreau/mailchecker))
 
 **Author:** FGRibreau
 
-**Last Updated:** 2026-02-10
-
-**Description:** Cross-language email validation. Backed by a [database](./list.txt) of **over 55 000 throwable email domains**.
-
 ---
 
-## mailoney
+## mailspoof
 
-**Repository:** [https://github.com/awhitehatter/mailoney](https://github.com/awhitehatter/mailoney)
+**Repository:** [[https://github.com/serain/mailspoof](https://github.com/serain/mailspoof)]([https://github.com/serain/mailspoof](https://github.com/serain/mailspoof))
 
-**Author:** awhitehatter
-
-**Last Updated:** 2025-12-29
-
-**Description:** A modern SMTP honeypot designed to capture and log email-based attacks with database integration.
-
----
-
-## MailSniper
-
-**Repository:** [https://github.com/dafthack/MailSniper](https://github.com/dafthack/MailSniper)
-
-**Author:** dafthack
-
-**Last Updated:** 2025-08-07
-
-**Description:** MailSniper is a penetration testing tool for searching through email in a Microsoft Exchange environment for specific terms (passwords, insider intel, network architecture information, etc.). It can be used as a non-administrative user to search their own email or by an Exchange administrator to ...
+**Author:** serain
 
 ---
 
 ## Malbait
 
-**Repository:** [https://github.com/batchmcnulty/Malbait](https://github.com/batchmcnulty/Malbait)
+**Repository:** [[https://github.com/batchmcnulty/Malbait](https://github.com/batchmcnulty/Malbait)]([https://github.com/batchmcnulty/Malbait](https://github.com/batchmcnulty/Malbait))
 
 **Author:** batchmcnulty
 
-**Last Updated:** 2024-04-27
-
-**Description:** TCP/UDP Honeypot program implemented in Perl
-
 ---
 
-## Malcolm
+## malcom
 
-**Repository:** [https://github.com/idaholab/Malcolm](https://github.com/idaholab/Malcolm)
+**Repository:** [[https://github.com/tomchop/malcom](https://github.com/tomchop/malcom)]([https://github.com/tomchop/malcom](https://github.com/tomchop/malcom))
 
-**Author:** idaholab
-
-**Last Updated:** 2026-01-30
-
-**Description:** Malcolm is a powerful network traffic analysis tool suite designed with the following goals in mind:
-
----
-
-## MalConfScan
-
-**Repository:** [https://github.com/JPCERTCC/MalConfScan](https://github.com/JPCERTCC/MalConfScan)
-
-**Author:** JPCERTCC
-
-**Last Updated:** 2023-12-22
-
-**Description:** (No description available)
----
-
-## maldrolyzer
-
-**Repository:** [https://github.com/maldroid/maldrolyzer](https://github.com/maldroid/maldrolyzer)
-
-**Author:** maldroid
-
-**Last Updated:** 2015-05-07
-
-**Description:** Simple framework to extract "actionable" data from Android malware (C&amp;Cs, phone numbers etc.)
+**Author:** tomchop
 
 ---
 
 ## Malfunction
 
-**Repository:** [https://github.com/Dynetics/Malfunction](https://github.com/Dynetics/Malfunction)
+**Repository:** [[https://github.com/Dynetics/Malfunction](https://github.com/Dynetics/Malfunction)]([https://github.com/Dynetics/Malfunction](https://github.com/Dynetics/Malfunction))
 
 **Author:** Dynetics
 
-**Last Updated:** 2015-12-15
+---
 
-**Description:** Malfunction is a set of tools for cataloging and comparing malware at a function level. Uses Radare2 internally for finding function locations. Written in Python 3. Currently only works on Linux based systems.
+## malheur
+
+**Repository:** [[https://github.com/rieck/malheur](https://github.com/rieck/malheur)]([https://github.com/rieck/malheur](https://github.com/rieck/malheur))
+
+**Author:** rieck
 
 ---
 
 ## malice
 
-**Repository:** [https://github.com/maliceio/malice](https://github.com/maliceio/malice)
+**Repository:** [[https://github.com/maliceio/malice](https://github.com/maliceio/malice)]([https://github.com/maliceio/malice](https://github.com/maliceio/malice))
 
 **Author:** maliceio
-
-**Last Updated:** 2023-04-03
-
-**Description:** > Malice's mission is to be a free open source version of VirusTotal that anyone can use at any scale from an independent researcher to a fortune 500 company.
 
 ---
 
 ## mallory
 
-**Repository:** [https://github.com/justmao945/mallory](https://github.com/justmao945/mallory)
+**Repository:** [[https://github.com/justmao945/mallory](https://github.com/justmao945/mallory)]([https://github.com/justmao945/mallory](https://github.com/justmao945/mallory))
 
 **Author:** justmao945
 
-**Last Updated:** 2023-12-20
+---
 
-**Description:** HTTP/HTTPS proxy over SSH.
+## MalPipe
+
+**Repository:** [[https://github.com/silascutler/MalPipe](https://github.com/silascutler/MalPipe)]([https://github.com/silascutler/MalPipe](https://github.com/silascutler/MalPipe))
+
+**Author:** silascutler
 
 ---
 
-## malpdfobj
+## malscan
 
-**Repository:** [https://github.com/9b/malpdfobj](https://github.com/9b/malpdfobj)
+**Repository:** [[https://github.com/usualsuspect/malscan](https://github.com/usualsuspect/malscan)]([https://github.com/usualsuspect/malscan](https://github.com/usualsuspect/malscan))
 
-**Author:** 9b
-
-**Last Updated:** 2011-04-10
-
-**Description:** == Purpose == This is a bunch of tools chained together to provide a JSON object that represents various pieces of a malicious PDF file.
-
----
-
-## malSploitBase
-
-**Repository:** [https://github.com/misterch0c/malSploitBase](https://github.com/misterch0c/malSploitBase)
-
-**Author:** misterch0c
-
-**Last Updated:** 2025-08-22
-
-**Description:** Public exploits targetting malware infrastructure.
+**Author:** usualsuspect
 
 ---
 
 ## malsub
 
-**Repository:** [https://github.com/diogo-fernan/malsub](https://github.com/diogo-fernan/malsub)
+**Repository:** [[https://github.com/diogo-fernan/malsub](https://github.com/diogo-fernan/malsub)]([https://github.com/diogo-fernan/malsub](https://github.com/diogo-fernan/malsub))
 
 **Author:** diogo-fernan
 
-**Last Updated:** 2023-06-20
+---
 
-**Description:** _           _ | |         | | _ __ ___   __ _| |___ _   _| |__     +--+ | '_ ` _ \ / _` | / __| | | | '_ \   +--+| | | | | | | (_| | \__ \ |_| | |_) |  |  |+ |_| |_| |_|\__,_|_|___/\__,_|_.__/   +--+
+## maltego-telegram
+
+**Repository:** [[https://github.com/vognik/maltego-telegram](https://github.com/vognik/maltego-telegram)]([https://github.com/vognik/maltego-telegram](https://github.com/vognik/maltego-telegram))
+
+**Author:** vognik
 
 ---
 
 ## MaltegoVT
 
-**Repository:** [https://github.com/michael-yip/MaltegoVT](https://github.com/michael-yip/MaltegoVT)
+**Repository:** [[https://github.com/michael-yip/MaltegoVT](https://github.com/michael-yip/MaltegoVT)]([https://github.com/michael-yip/MaltegoVT](https://github.com/michael-yip/MaltegoVT))
 
 **Author:** michael-yip
 
-**Last Updated:** 2015-11-29
+---
 
-**Description:** A set of Maltego transforms for Virustotal Public API v2.0.
+## maltrail
+
+**Repository:** [[https://github.com/stamparm/maltrail](https://github.com/stamparm/maltrail)]([https://github.com/stamparm/maltrail](https://github.com/stamparm/maltrail))
+
+**Author:** stamparm
+
+---
+
+## malware-organiser
+
+**Repository:** [[https://github.com/uppusaikiran/malware-organiser](https://github.com/uppusaikiran/malware-organiser)]([https://github.com/uppusaikiran/malware-organiser](https://github.com/uppusaikiran/malware-organiser))
+
+**Author:** uppusaikiran
+
+---
+
+## malware-persistence
+
+**Repository:** [[https://github.com/Karneades/malware-persistence](https://github.com/Karneades/malware-persistence)]([https://github.com/Karneades/malware-persistence](https://github.com/Karneades/malware-persistence))
+
+**Author:** Karneades
 
 ---
 
 ## malwatch
 
-**Repository:** [https://github.com/defended-net/malwatch](https://github.com/defended-net/malwatch)
+**Repository:** [[https://github.com/defended-net/malwatch](https://github.com/defended-net/malwatch)]([https://github.com/defended-net/malwatch](https://github.com/defended-net/malwatch))
 
 **Author:** defended-net
-
-**Last Updated:** 2026-02-07
-
-**Description:**  <a href="https://defended.net">
 
 ---
 
 ## Manalyze
 
-**Repository:** [https://github.com/JusticeRage/Manalyze](https://github.com/JusticeRage/Manalyze)
+**Repository:** [[https://github.com/JusticeRage/Manalyze](https://github.com/JusticeRage/Manalyze)]([https://github.com/JusticeRage/Manalyze](https://github.com/JusticeRage/Manalyze))
 
 **Author:** JusticeRage
-
-**Last Updated:** 2026-01-30
-
-**Description:** Manalyze is a static analysis tool for PE files that you can use to conduct primary assessment on an executable (or set of executables). It collects weak signals that could indicate malicious behavior and displays information that can help a subsequent manual analysis.
 
 ---
 
 ## mangle
 
-**Repository:** [https://github.com/google/mangle](https://github.com/google/mangle)
+**Repository:** [[https://github.com/google/mangle](https://github.com/google/mangle)]([https://github.com/google/mangle](https://github.com/google/mangle))
 
 **Author:** google
 
-**Last Updated:** 2026-02-11
-
-**Description:** (No description available)
 ---
 
 ## manuka
 
-**Repository:** [https://github.com/andrewmichaelsmith/manuka](https://github.com/andrewmichaelsmith/manuka)
+**Repository:** [[https://github.com/andrewmichaelsmith/manuka](https://github.com/andrewmichaelsmith/manuka)]([https://github.com/andrewmichaelsmith/manuka](https://github.com/andrewmichaelsmith/manuka))
 
 **Author:** andrewmichaelsmith
-
-**Last Updated:** 2015-03-21
-
-**Description:** manuka - docker honeypot setup script
 
 ---
 
 ## masscan
 
-**Repository:** [https://github.com/robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan)
+**Repository:** [[https://github.com/robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan)]([https://github.com/robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan))
 
 **Author:** robertdavidgraham
-
-**Last Updated:** 2025-06-06
-
-**Description:** This is an Internet-scale port scanner. It can scan the entire Internet in under 5 minutes, transmitting 10 million packets per second, from a single machine.
-
----
-
-## masscanned
-
-**Repository:** [https://github.com/ivre/masscanned](https://github.com/ivre/masscanned)
-
-**Author:** ivre
-
-**Last Updated:** 2025-12-11
-
-**Description:** **Masscanned** (name inspired, of course, by [masscan](https://github.com/robertdavidgraham/masscan)) is a network responder. Its purpose is to provide generic answers to as many protocols as possible,
 
 ---
 
 ## massive-octo-spice
 
-**Repository:** [https://github.com/csirtgadgets/massive-octo-spice](https://github.com/csirtgadgets/massive-octo-spice)
+**Repository:** [[https://github.com/csirtgadgets/massive-octo-spice](https://github.com/csirtgadgets/massive-octo-spice)]([https://github.com/csirtgadgets/massive-octo-spice](https://github.com/csirtgadgets/massive-octo-spice))
 
 **Author:** csirtgadgets
-
-**Last Updated:** 2018-01-16
-
-**Description:** CIFv2 was developed around Ubuntu14, CIFv3 has been developed against Ubuntu16. If you're just starting out, you should be test driving CIFv3:
 
 ---
 
 ## mastiff
 
-**Repository:** [https://github.com/KoreLogicSecurity/mastiff](https://github.com/KoreLogicSecurity/mastiff)
+**Repository:** [[https://github.com/KoreLogicSecurity/mastiff](https://github.com/KoreLogicSecurity/mastiff)]([https://github.com/KoreLogicSecurity/mastiff](https://github.com/KoreLogicSecurity/mastiff))
 
 **Author:** KoreLogicSecurity
-
-**Last Updated:** 2015-09-22
-
-**Description:** $Id: 17f09461545f9d0409f9480a417c3831ae34539d $
-
----
-
-## matano
-
-**Repository:** [https://github.com/matanolabs/matano](https://github.com/matanolabs/matano)
-
-**Author:** matanolabs
-
-**Last Updated:** 2025-01-07
-
-**Description:**  <a href="https://www.matano.dev">
 
 ---
 
 ## mcafee-xpass
 
-**Repository:** [https://github.com/SujalMeghwal/mcafee-xpass](https://github.com/SujalMeghwal/mcafee-xpass)
+**Repository:** [[https://github.com/SujalMeghwal/mcafee-xpass](https://github.com/SujalMeghwal/mcafee-xpass)]([https://github.com/SujalMeghwal/mcafee-xpass](https://github.com/SujalMeghwal/mcafee-xpass))
 
 **Author:** SujalMeghwal
-
-**Last Updated:** 2025-05-13
-
-**Description:** `mcafee-xpass` is a lightweight Python tool for extracting and decrypting administrator passwords from McAfee's `Sitelist.xml` configuration files. It decodes base64-encoded, XOR-obfuscated, and 3DES-encrypted password fields using a known static key and decryption scheme.
 
 ---
 
 ## MEAT
 
-**Repository:** [https://github.com/jfarley248/MEAT](https://github.com/jfarley248/MEAT)
+**Repository:** [[https://github.com/jfarley248/MEAT](https://github.com/jfarley248/MEAT)]([https://github.com/jfarley248/MEAT](https://github.com/jfarley248/MEAT))
 
 **Author:** jfarley248
 
-**Last Updated:** 2020-05-20
+---
 
-**Description:** Meet M.E.A.T!
+## medpot
+
+**Repository:** [[https://github.com/schmalle/medpot](https://github.com/schmalle/medpot)]([https://github.com/schmalle/medpot](https://github.com/schmalle/medpot))
+
+**Author:** schmalle
 
 ---
 
 ## medusa
 
-**Repository:** [https://github.com/wisk/medusa](https://github.com/wisk/medusa)
+**Repository:** [[https://github.com/wisk/medusa](https://github.com/wisk/medusa)]([https://github.com/wisk/medusa](https://github.com/wisk/medusa))
 
 **Author:** wisk
 
-**Last Updated:** 2019-02-03
+---
 
-**Description:** Medusa is a disassembler designed to be both modular and interactive. It runs on Windows and Linux, it should be the same on OSX. This project is organized as a library. To disassemble a file you have to use
+## melkor-android
+
+**Repository:** [[https://github.com/anestisb/melkor-android](https://github.com/anestisb/melkor-android)]([https://github.com/anestisb/melkor-android](https://github.com/anestisb/melkor-android))
+
+**Author:** anestisb
 
 ---
 
-## mellivora
+## MemProcFS
 
-**Repository:** [https://github.com/Nakiami/mellivora](https://github.com/Nakiami/mellivora)
+**Repository:** [[https://github.com/ufrisk/MemProcFS](https://github.com/ufrisk/MemProcFS)]([https://github.com/ufrisk/MemProcFS](https://github.com/ufrisk/MemProcFS))
 
-**Author:** Nakiami
+**Author:** ufrisk
 
-**Last Updated:** 2023-09-06
-
-**Description:** Mellivora is a CTF engine written in PHP. Want a quick overview? Check out a [screenshot gallery on imgur](https://imgur.com/user/mellivora/posts). Want a quick start? Use [Mellivora with Docker](install/docker/README.md).
-
----
-
-## mem
-
-**Repository:** [https://github.com/MobileForensicsResearch/mem](https://github.com/MobileForensicsResearch/mem)
-
-**Author:** MobileForensicsResearch
-
-**Last Updated:** 2015-06-12
-
-**Description:** Tool used for dumping memory from Android devices. Root access is required.
-
----
-
-## merlin
-
-**Repository:** [https://github.com/Ne0nd0g/merlin](https://github.com/Ne0nd0g/merlin)
-
-**Author:** Ne0nd0g
-
-**Last Updated:** 2025-04-17
-
-**Description:** (No description available)
 ---
 
 ## metagoofil
 
-**Repository:** [https://github.com/laramies/metagoofil](https://github.com/laramies/metagoofil)
+**Repository:** [[https://github.com/laramies/metagoofil](https://github.com/laramies/metagoofil)]([https://github.com/laramies/metagoofil](https://github.com/laramies/metagoofil))
 
 **Author:** laramies
 
-**Last Updated:** 2015-08-13
-
-**Description:** ************************************* *Metagoofil  2.2                    * *Coded by Christian Martorella      * *www.edge-security.com              * *cmartorella@edge-security.com      * *************************************
-
 ---
 
-## MFFA
+## metasploit-framework
 
-**Repository:** [https://github.com/fuzzing/MFFA](https://github.com/fuzzing/MFFA)
+**Repository:** [[https://github.com/rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)]([https://github.com/rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework))
 
-**Author:** fuzzing
-
-**Last Updated:** 2016-04-01
-
-**Description:** The main idea behind this project  is  to create corrupt  but structurally valid media files, direct them to the appropriate software components in Android to  be  decoded  and/or  played  and  monitor  the  system  for  potential  issues  (i.e  system crashes) that may lead to exploitable vulner...
+**Author:** rapid7
 
 ---
 
 ## mftmactime
 
-**Repository:** [https://github.com/kero99/mftmactime](https://github.com/kero99/mftmactime)
+**Repository:** [[https://github.com/kero99/mftmactime](https://github.com/kero99/mftmactime)]([https://github.com/kero99/mftmactime](https://github.com/kero99/mftmactime))
 
 **Author:** kero99
-
-**Last Updated:** 2023-05-10
-
-**Description:** This is an MFT and USN parser that allows direct extraction in filesystem timeline format (mactime), dump all resident files in the MFT in their original folder structure and run yara rules over them all.
-
----
-
-## mhn-core-docker
-
-**Repository:** [https://github.com/MattCarothers/mhn-core-docker](https://github.com/MattCarothers/mhn-core-docker)
-
-**Author:** MattCarothers
-
-**Last Updated:** 2022-03-28
-
-**Description:** 1. It's a subset of the [Modern Honey Network project](https://github.com/threatstream/mhn) that's set up to run in docker. 2. The "broker" image runs an hpfeeds broker.  The broker allows clients to publish to channels or subscribe to channels.
 
 ---
 
 ## mig
 
-**Repository:** [https://github.com/mozilla/mig](https://github.com/mozilla/mig)
+**Repository:** [[https://github.com/mozilla/mig](https://github.com/mozilla/mig)]([https://github.com/mozilla/mig](https://github.com/mozilla/mig))
 
 **Author:** mozilla
-
-**Last Updated:** 2019-09-13
-
-**Description:** MIG: Mozilla InvestiGator 
 
 ---
 
 ## mimikatz
 
-**Repository:** [https://github.com/gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz)
+**Repository:** [[https://github.com/gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz)]([https://github.com/gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz))
 
 **Author:** gentilkiwi
 
-**Last Updated:** 2025-05-12
-
-**Description:** **`mimikatz`** is a tool I've made to learn `C` and make somes experiments with Windows security.
-
 ---
 
-## mimipenguin
+## minicps
 
-**Repository:** [https://github.com/huntergregal/mimipenguin](https://github.com/huntergregal/mimipenguin)
+**Repository:** [[https://github.com/scy-phy/minicps](https://github.com/scy-phy/minicps)]([https://github.com/scy-phy/minicps](https://github.com/scy-phy/minicps))
 
-**Author:** huntergregal
-
-**Last Updated:** 2025-09-05
-
-**Description:** A tool to dump the login password from the current linux desktop user. Adapted from the idea behind the popular Windows tool mimikatz. This was assigned *CVE-2018-20781* (https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-20781). Fun fact it's still not fixed after GNOME Keyring 3.27.2 and s...
-
----
-
-## MISP
-
-**Repository:** [https://github.com/MISP/MISP](https://github.com/MISP/MISP)
-
-**Author:** MISP
-
-**Last Updated:** 2026-02-10
-
-**Description:** MISP - Threat Intelligence Sharing Platform 
-
----
-
-## mitmengine
-
-**Repository:** [https://github.com/cloudflare/mitmengine](https://github.com/cloudflare/mitmengine)
-
-**Author:** cloudflare
-
-**Last Updated:** 2024-04-17
-
-**Description:** The goal of this project is to allow for accurate detection of HTTPS interception and robust TLS fingerprinting. This project is based off of [The Security Impact of HTTPS Interception](https://zakird.com/papers/https_interception.pdf), and started as a port to Go of [their processing scripts and...
+**Author:** scy-phy
 
 ---
 
 ## MITMf
 
-**Repository:** [https://github.com/byt3bl33d3r/MITMf](https://github.com/byt3bl33d3r/MITMf)
+**Repository:** [[https://github.com/byt3bl33d3r/MITMf](https://github.com/byt3bl33d3r/MITMf)]([https://github.com/byt3bl33d3r/MITMf](https://github.com/byt3bl33d3r/MITMf))
 
 **Author:** byt3bl33d3r
-
-**Last Updated:** 2018-08-28
-
-**Description:** Framework for Man-In-The-Middle attacks
 
 ---
 
 ## mitmproxy
 
-**Repository:** [https://github.com/mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)
+**Repository:** [[https://github.com/mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)]([https://github.com/mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy))
 
 **Author:** mitmproxy
-
-**Last Updated:** 2026-02-11
-
-**Description:** ``mitmproxy`` is an interactive, SSL/TLS-capable intercepting proxy with a console interface for HTTP/1, HTTP/2, and WebSockets.
 
 ---
 
 ## mkit
 
-**Repository:** [https://github.com/darkbitio/mkit](https://github.com/darkbitio/mkit)
+**Repository:** [[https://github.com/darkbitio/mkit](https://github.com/darkbitio/mkit)]([https://github.com/darkbitio/mkit](https://github.com/darkbitio/mkit))
 
 **Author:** darkbitio
 
-**Last Updated:** 2020-06-19
+---
 
-**Description:** (No description available)
+## mkYARA
+
+**Repository:** [[https://github.com/fox-it/mkYARA](https://github.com/fox-it/mkYARA)]([https://github.com/fox-it/mkYARA](https://github.com/fox-it/mkYARA))
+
+**Author:** fox-it
+
 ---
 
 ## mnemosyne
 
-**Repository:** [https://github.com/johnnykv/mnemosyne](https://github.com/johnnykv/mnemosyne)
+**Repository:** [[https://github.com/johnnykv/mnemosyne](https://github.com/johnnykv/mnemosyne)]([https://github.com/johnnykv/mnemosyne](https://github.com/johnnykv/mnemosyne))
 
 **Author:** johnnykv
-
-**Last Updated:** 2014-05-02
-
-**Description:** Mnemosyne has three main objectives:
 
 ---
 
 ## MockSSH
 
-**Repository:** [https://github.com/ncouture/MockSSH](https://github.com/ncouture/MockSSH)
+**Repository:** [[https://github.com/ncouture/MockSSH](https://github.com/ncouture/MockSSH)]([https://github.com/ncouture/MockSSH](https://github.com/ncouture/MockSSH))
 
 **Author:** ncouture
 
-**Last Updated:** 2017-01-15
-
-**Description:** Mock an SSH server and all commands it supports.
-
 ---
 
-## Modlishka
+## modpot
 
-**Repository:** [https://github.com/drk1wi/Modlishka](https://github.com/drk1wi/Modlishka)
+**Repository:** [[https://github.com/referefref/modpot](https://github.com/referefref/modpot)]([https://github.com/referefref/modpot](https://github.com/referefref/modpot))
 
-**Author:** drk1wi
-
-**Last Updated:** 2026-01-06
-
-**Description:** Modlishka is an open-source penetration testing tool that acts as a man-in-the-middle proxy. It introduced a new technical approach to handling browser-based HTTP traffic flow, which allows it to transparently proxy multi-domain destination traffic, both TLS and non-TLS, over a single domain, wit...
-
----
-
-## modscan
-
-**Repository:** [https://github.com/moki-ics/modscan](https://github.com/moki-ics/modscan)
-
-**Author:** moki-ics
-
-**Last Updated:** 2008-08-09
-
-**Description:** No README found
-
----
-
-## moki
-
-**Repository:** [https://github.com/moki-ics/moki](https://github.com/moki-ics/moki)
-
-**Author:** moki-ics
-
-**Last Updated:** 2017-07-18
-
-**Description:** Moki Linux
-
----
-
-## moloch
-
-**Repository:** [https://github.com/aol/moloch](https://github.com/aol/moloch)
-
-**Author:** aol
-
-**Last Updated:** 2026-02-12
-
-**Description:** > Arkime is a large scale, open-source network analysis and packet capture system.
+**Author:** referefref
 
 ---
 
 ## mongo-express
 
-**Repository:** [https://github.com/mongo-express/mongo-express](https://github.com/mongo-express/mongo-express)
+**Repository:** [[https://github.com/mongo-express/mongo-express](https://github.com/mongo-express/mongo-express)]([https://github.com/mongo-express/mongo-express](https://github.com/mongo-express/mongo-express))
 
 **Author:** mongo-express
-
-**Last Updated:** 2025-11-23
-
-**Description:** A web-based admin interface for MongoDB or compatible services (FerretDB, Amazon DocumentDB). Built with Node.js, Express, and Bootstrap 5.
 
 ---
 
 ## monkey
 
-**Repository:** [https://github.com/guardicore/monkey](https://github.com/guardicore/monkey)
+**Repository:** [[https://github.com/guardicore/monkey](https://github.com/guardicore/monkey)]([https://github.com/guardicore/monkey](https://github.com/guardicore/monkey))
 
 **Author:** guardicore
-
-**Last Updated:** 2025-02-28
-
-**Description:** Welcome to Infection Monkey!  We're glad you could swing by.🐒 Here's all the info you'll need to start monkeying around.
 
 ---
 
 ## morpheus
 
-**Repository:** [https://github.com/r00t-3xp10it/morpheus](https://github.com/r00t-3xp10it/morpheus)
+**Repository:** [[https://github.com/r00t-3xp10it/morpheus](https://github.com/r00t-3xp10it/morpheus)]([https://github.com/r00t-3xp10it/morpheus](https://github.com/r00t-3xp10it/morpheus))
 
 **Author:** r00t-3xp10it
-
-**Last Updated:** 2018-12-28
-
-**Description:** Version release: v2.2 - STABLE Author: pedro ubuntu  [ r00t-3xp10it ] Codename: oneiroi phobetor (The mithologic dream greek god) Distros Supported: Linux Ubuntu, Kali, Debian, BackBox, Parrot OS Suspicious-Shell-Activity© (SSA) RedTeam develop @2018
-
----
-
-## movies-for-hackers
-
-**Repository:** [https://github.com/k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
-
-**Author:** k4m4
-
-**Last Updated:** 2020-12-02
-
-**Description:** > A curated list of movies every hacker & cyberpunk must watch. Ratings are from [IMDb](https://www.imdb.com/).
 
 ---
 
 ## MozDef
 
-**Repository:** [https://github.com/mozilla/MozDef](https://github.com/mozilla/MozDef)
+**Repository:** [[https://github.com/mozilla/MozDef](https://github.com/mozilla/MozDef)]([https://github.com/mozilla/MozDef](https://github.com/mozilla/MozDef))
 
 **Author:** mozilla
-
-**Last Updated:** 2021-11-02
-
-**Description:** ⚠️ Deprecation Notice ⚠️
 
 ---
 
 ## mquery
 
-**Repository:** [https://github.com/CERT-Polska/mquery](https://github.com/CERT-Polska/mquery)
+**Repository:** [[https://github.com/CERT-Polska/mquery](https://github.com/CERT-Polska/mquery)]([https://github.com/CERT-Polska/mquery](https://github.com/CERT-Polska/mquery))
 
 **Author:** CERT-Polska
-
-**Last Updated:** 2026-02-03
-
-**Description:** Ever had trouble searching for malware samples? Mquery is an analyst-friendly web GUI to look through your digital warehouse.
 
 ---
 
 ## ms-teams-rce
 
-**Repository:** [https://github.com/oskarsve/ms-teams-rce](https://github.com/oskarsve/ms-teams-rce)
+**Repository:** [[https://github.com/oskarsve/ms-teams-rce](https://github.com/oskarsve/ms-teams-rce)]([https://github.com/oskarsve/ms-teams-rce](https://github.com/oskarsve/ms-teams-rce))
 
 **Author:** oskarsve
 
-**Last Updated:** 2020-12-07
+---
 
-**Description:** * ["During an earnings call with investors today, Microsoft CEO Satya Nadella reveled Microsoft Teams now has 115 million daily active users" 2020-10-27](https://www.theverge.com/2020/10/27/21537286/microsoft-teams-115-million-daily-active-users-stats)
+## msitools
+
+**Repository:** [[https://github.com/GNOME/msitools](https://github.com/GNOME/msitools)]([https://github.com/GNOME/msitools](https://github.com/GNOME/msitools))
+
+**Author:** GNOME
 
 ---
 
-## MSTG-Hacking-Playground
+## multiscanner
 
-**Repository:** [https://github.com/OWASP/MSTG-Hacking-Playground](https://github.com/OWASP/MSTG-Hacking-Playground)
+**Repository:** [[https://github.com/mitre/multiscanner](https://github.com/mitre/multiscanner)]([https://github.com/mitre/multiscanner](https://github.com/mitre/multiscanner))
 
-**Author:** OWASP
-
-**Last Updated:** 2022-10-31
-
-**Description:** Welcome to the MASTG Hacking Playground which is part of the [OWASP Mobile Application Security (MAS) project](https://mas.owasp.org/).
+**Author:** mitre
 
 ---
 
-## MTPot
+## multitor
 
-**Repository:** [https://github.com/Cymmetria/MTPot](https://github.com/Cymmetria/MTPot)
+**Repository:** [[https://github.com/trimstray/multitor](https://github.com/trimstray/multitor)]([https://github.com/trimstray/multitor](https://github.com/trimstray/multitor))
 
-**Author:** Cymmetria
-
-**Last Updated:** 2017-03-21
-
-**Description:** MTPot is a simple open source honeypot, released under the MIT license for the use of the community. Cymmetria Research, 2016. http://www.cymmetria.com/ Please consider trying out the MazeRunner Community Edition, the free version of our cyber deception platform.
+**Author:** trimstray
 
 ---
 
 ## mutablesecurity
 
-**Repository:** [https://github.com/MutableSecurity/mutablesecurity](https://github.com/MutableSecurity/mutablesecurity)
+**Repository:** [[https://github.com/MutableSecurity/mutablesecurity](https://github.com/MutableSecurity/mutablesecurity)]([https://github.com/MutableSecurity/mutablesecurity](https://github.com/MutableSecurity/mutablesecurity))
 
 **Author:** MutableSecurity
-
-**Last Updated:** 2023-02-12
-
-**Description:**   <br/><br/>
 
 ---
 
 ## mvt
 
-**Repository:** [https://github.com/mvt-project/mvt](https://github.com/mvt-project/mvt)
+**Repository:** [[https://github.com/mvt-project/mvt](https://github.com/mvt-project/mvt)]([https://github.com/mvt-project/mvt](https://github.com/mvt-project/mvt))
 
 **Author:** mvt-project
 
-**Last Updated:** 2026-02-04
-
-**Description:** (No description available)
 ---
 
-## my-arsenal-of-aws-security-tools
+## mysql-honeypotd
 
-**Repository:** [https://github.com/toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
+**Repository:** [[https://github.com/sjinks/mysql-honeypotd](https://github.com/sjinks/mysql-honeypotd)]([https://github.com/sjinks/mysql-honeypotd](https://github.com/sjinks/mysql-honeypotd))
 
-**Author:** toniblyx
+**Author:** sjinks
 
-**Last Updated:** 2025-10-16
+---
 
-**Description:** - [Contribute](#contribute) - [Defensive](#defensive-hardening-security-assessment-and-inventory) - [Offensive](#offensive) - [Purple Teaming & Adversary Emulation](#purple-teaming--adversary-emulation)
+## MysqlPot
+
+**Repository:** [[https://github.com/schmalle/MysqlPot](https://github.com/schmalle/MysqlPot)]([https://github.com/schmalle/MysqlPot](https://github.com/schmalle/MysqlPot))
+
+**Author:** schmalle
 
 ---
 
 ## Mythic
 
-**Repository:** [https://github.com/its-a-feature/Mythic](https://github.com/its-a-feature/Mythic)
+**Repository:** [[https://github.com/its-a-feature/Mythic](https://github.com/its-a-feature/Mythic)]([https://github.com/its-a-feature/Mythic](https://github.com/its-a-feature/Mythic))
 
 **Author:** its-a-feature
 
-**Last Updated:** 2026-02-10
+---
 
-**Description:**  <a href="https://github.com/its-a-feature/Mythic/pulse"> alt="Activity"/> alt="commits since last release"/> <a href="https://twitter.com/its_a_feature_"> alt="@its_a_feature_ on Twitter"/>
+## mythweb
+
+**Repository:** [[https://github.com/MythTV/mythweb](https://github.com/MythTV/mythweb)]([https://github.com/MythTV/mythweb](https://github.com/MythTV/mythweb))
+
+**Author:** MythTV
 
 ---
 
 ## Nauz-File-Detector
 
-**Repository:** [https://github.com/horsicq/Nauz-File-Detector](https://github.com/horsicq/Nauz-File-Detector)
+**Repository:** [[https://github.com/horsicq/Nauz-File-Detector](https://github.com/horsicq/Nauz-File-Detector)]([https://github.com/horsicq/Nauz-File-Detector](https://github.com/horsicq/Nauz-File-Detector))
 
 **Author:** horsicq
-
-**Last Updated:** 2026-02-12
-
-**Description:** * [Beta Release](https://github.com/horsicq/Nauz-File-Detector/releases/tag/Beta)
 
 ---
 
 ## naxsi
 
-**Repository:** [https://github.com/nbs-system/naxsi](https://github.com/nbs-system/naxsi)
+**Repository:** [[https://github.com/nbs-system/naxsi](https://github.com/nbs-system/naxsi)]([https://github.com/nbs-system/naxsi](https://github.com/nbs-system/naxsi))
 
 **Author:** nbs-system
-
-**Last Updated:** 2023-11-08
-
-**Description:** This is a project status update regarding Naxsi.
 
 ---
 
 ## netdiscover
 
-**Repository:** [https://github.com/netdiscover-scanner/netdiscover](https://github.com/netdiscover-scanner/netdiscover)
+**Repository:** [[https://github.com/netdiscover-scanner/netdiscover](https://github.com/netdiscover-scanner/netdiscover)]([https://github.com/netdiscover-scanner/netdiscover](https://github.com/netdiscover-scanner/netdiscover))
 
 **Author:** netdiscover-scanner
 
-**Last Updated:** 2025-08-14
-
-**Description:** by Jaime Penalba <jpenalbae@gmail.com>
-
 ---
 
-## netsniff-ng
+## netz
 
-**Repository:** [https://github.com/netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng)
+**Repository:** [[https://github.com/spectralops/netz](https://github.com/spectralops/netz)]([https://github.com/spectralops/netz](https://github.com/spectralops/netz))
 
-**Author:** netsniff-ng
-
-**Last Updated:** 2025-06-11
-
-**Description:** //////////////////////////////////////////////////////////////////////////////
+**Author:** spectralops
 
 ---
 
 ## netzob
 
-**Repository:** [https://github.com/netzob/netzob](https://github.com/netzob/netzob)
+**Repository:** [[https://github.com/netzob/netzob](https://github.com/netzob/netzob)]([https://github.com/netzob/netzob](https://github.com/netzob/netzob))
 
 **Author:** netzob
 
-**Last Updated:** 2023-01-08
+---
 
-**Description:** Netzob : Protocol Reverse Engineering, Modeling and Fuzzing
+## nexfil
+
+**Repository:** [[https://github.com/thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil)]([https://github.com/thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil))
+
+**Author:** thewhiteh4t
 
 ---
 
 ## nfstream
 
-**Repository:** [https://github.com/nfstream/nfstream](https://github.com/nfstream/nfstream)
+**Repository:** [[https://github.com/nfstream/nfstream](https://github.com/nfstream/nfstream)]([https://github.com/nfstream/nfstream](https://github.com/nfstream/nfstream))
 
 **Author:** nfstream
-
-**Last Updated:** 2025-11-25
-
-**Description:** [**NFStream**][repo] is a multiplatform Python framework providing fast, flexible, and expressive data structures designed to make working with **online** or **offline** network data easy and intuitive. It aims to be Python's fundamental high-level
-
----
-
-## ngrep
-
-**Repository:** [https://github.com/jpr5/ngrep](https://github.com/jpr5/ngrep)
-
-**Author:** jpr5
-
-**Last Updated:** 2026-02-07
-
-**Description:** ngrep is like GNU grep applied to the network layer.  It's a PCAP-based tool that allows you to specify an extended regular or hexadecimal expression to match against data payloads of packets.  It understands many kinds of protocols,
 
 ---
 
 ## nikto
 
-**Repository:** [https://github.com/sullo/nikto](https://github.com/sullo/nikto)
+**Repository:** [[https://github.com/sullo/nikto](https://github.com/sullo/nikto)]([https://github.com/sullo/nikto](https://github.com/sullo/nikto))
 
 **Author:** sullo
-
-**Last Updated:** 2026-02-11
-
-**Description:** Nikto web server scanner  - https://cirt.net/Nikto2
-
----
-
-## NimPlant
-
-**Repository:** [https://github.com/chvancooten/NimPlant](https://github.com/chvancooten/NimPlant)
-
-**Author:** chvancooten
-
-**Last Updated:** 2025-03-09
-
-**Description:**  <a href="https://github.com/chvancooten/NimPlant"> 
-
----
-
-## nipe
-
-**Repository:** [https://github.com/GouveaHeitor/nipe](https://github.com/GouveaHeitor/nipe)
-
-**Author:** GouveaHeitor
-
-**Last Updated:** 2026-02-07
-
-**Description:**   An engine to make Tor Network your default gateway.  <a href="/LICENSE.md">
 
 ---
 
 ## node-appland
 
-**Repository:** [https://github.com/dweinstein/node-appland](https://github.com/dweinstein/node-appland)
+**Repository:** [[https://github.com/dweinstein/node-appland](https://github.com/dweinstein/node-appland)]([https://github.com/dweinstein/node-appland](https://github.com/dweinstein/node-appland))
 
 **Author:** dweinstein
 
-**Last Updated:** 2015-07-29
+---
 
-**Description:** Download APKs from [appland](http://www.appland.se/);
+## node-ftp-honeypot
+
+**Repository:** [[https://github.com/christophe77/node-ftp-honeypot](https://github.com/christophe77/node-ftp-honeypot)]([https://github.com/christophe77/node-ftp-honeypot](https://github.com/christophe77/node-ftp-honeypot))
+
+**Author:** christophe77
 
 ---
 
 ## node-google-play
 
-**Repository:** [https://github.com/dweinstein/node-google-play](https://github.com/dweinstein/node-google-play)
+**Repository:** [[https://github.com/dweinstein/node-google-play](https://github.com/dweinstein/node-google-play)]([https://github.com/dweinstein/node-google-play](https://github.com/dweinstein/node-google-play))
 
 **Author:** dweinstein
 
-**Last Updated:** 2019-12-13
+---
 
-**Description:** For a rust version of this library check out [rs-gpapi](https://github.com/dweinstein/rs-google-play).
+## node-yara
+
+**Repository:** [[https://github.com/nospaceships/node-yara](https://github.com/nospaceships/node-yara)]([https://github.com/nospaceships/node-yara](https://github.com/nospaceships/node-yara))
+
+**Author:** nospaceships
 
 ---
 
-## node-Tor
+## Nodepot
 
-**Repository:** [https://github.com/Ayms/node-Tor](https://github.com/Ayms/node-Tor)
+**Repository:** [[https://github.com/schmalle/Nodepot](https://github.com/schmalle/Nodepot)]([https://github.com/schmalle/Nodepot](https://github.com/schmalle/Nodepot))
 
-**Author:** Ayms
-
-**Last Updated:** 2022-05-07
-
-**Description:** Javascript open source implementation of the Tor protocol (The Onion Router https://www.torproject.org/) on server side and inside browsers
-
----
-
-## nodegoat
-
-**Repository:** [https://github.com/owasp/nodegoat](https://github.com/owasp/nodegoat)
-
-**Author:** owasp
-
-**Last Updated:** 2023-06-21
-
-**Description:** Being lightweight, fast, and scalable, Node.js is becoming a widely adopted platform for developing web applications. This project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
-
----
-
-## NodeGoat
-
-**Repository:** [https://github.com/OWASP/NodeGoat](https://github.com/OWASP/NodeGoat)
-
-**Author:** OWASP
-
-**Last Updated:** 2023-06-21
-
-**Description:** Being lightweight, fast, and scalable, Node.js is becoming a widely adopted platform for developing web applications. This project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
-
----
-
-## nogotofail
-
-**Repository:** [https://github.com/google/nogotofail](https://github.com/google/nogotofail)
-
-**Author:** google
-
-**Last Updated:** 2020-01-16
-
-**Description:** Nogotofail is a network security testing tool designed to help developers and security researchers spot and fix weak TLS/SSL connections and sensitive cleartext traffic on devices and applications in a flexible, scalable, powerful way.
-
----
-
-## noia
-
-**Repository:** [https://github.com/0x742/noia](https://github.com/0x742/noia)
-
-**Author:** 0x742
-
-**Last Updated:** 2020-11-27
-
-**Description:** Noia is a web-based tool whose main aim is to ease the process of browsing mobile applications sandbox and directly previewing SQLite databases, images, and more. Powered by [frida.re](https://www.frida.re).
-
----
-
-## NoMoreXOR
-
-**Repository:** [https://github.com/hiddenillusion/NoMoreXOR](https://github.com/hiddenillusion/NoMoreXOR)
-
-**Author:** hiddenillusion
-
-**Last Updated:** 2018-06-11
-
-**Description:** No README found
+**Author:** schmalle
 
 ---
 
 ## NoSQLMap
 
-**Repository:** [https://github.com/codingo/NoSQLMap](https://github.com/codingo/NoSQLMap)
+**Repository:** [[https://github.com/codingo/NoSQLMap](https://github.com/codingo/NoSQLMap)]([https://github.com/codingo/NoSQLMap](https://github.com/codingo/NoSQLMap))
 
 **Author:** codingo
 
-**Last Updated:** 2025-08-27
+---
 
-**Description:** NoSQLMap is an open source Python tool designed to audit for as well as automate injection attacks and exploit default configuration weaknesses in NoSQL databases and web applications using NoSQL in order to disclose or clone data from the database.
+## notary
+
+**Repository:** [[https://github.com/theupdateframework/notary](https://github.com/theupdateframework/notary)]([https://github.com/theupdateframework/notary](https://github.com/theupdateframework/notary))
+
+**Author:** theupdateframework
 
 ---
 
-## NotifySecurity
+## ntfstool
 
-**Repository:** [https://github.com/certsocietegenerale/NotifySecurity](https://github.com/certsocietegenerale/NotifySecurity)
+**Repository:** [[https://github.com/thewhiteninja/ntfstool](https://github.com/thewhiteninja/ntfstool)]([https://github.com/thewhiteninja/ntfstool](https://github.com/thewhiteninja/ntfstool))
 
-**Author:** certsocietegenerale
+**Author:** thewhiteninja
 
-**Last Updated:** 2018-11-08
-
-**Description:** NotifySecurity is an Outlook add-in used to help your users to report suspicious e-mails to security teams.
-
----
-
-## Nova
-
-**Repository:** [https://github.com/DataSoft/Nova](https://github.com/DataSoft/Nova)
-
-**Author:** DataSoft
-
-**Last Updated:** 2015-02-09
-
-**Description:** ﻿=============================== What is Nova?
-
----
-
-## nozzlr
-
-**Repository:** [https://github.com/intrd/nozzlr](https://github.com/intrd/nozzlr)
-
-**Author:** intrd
-
-**Last Updated:** 2017-12-08
-
-**Description:** Nozzlr is a multithread bruteforcer, trully modular and script-friendly - **author**: intrd@dann.com.br & github collaborators
-
----
-
-## nuclei
-
-**Repository:** [https://github.com/projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
-
-**Author:** projectdiscovery
-
-**Last Updated:** 2026-02-11
-
-**Description:** (No description available)
 ---
 
 ## nudge4j
 
-**Repository:** [https://github.com/lorenzoongithub/nudge4j](https://github.com/lorenzoongithub/nudge4j)
+**Repository:** [[https://github.com/lorenzoongithub/nudge4j](https://github.com/lorenzoongithub/nudge4j)]([https://github.com/lorenzoongithub/nudge4j](https://github.com/lorenzoongithub/nudge4j))
 
 **Author:** lorenzoongithub
 
-**Last Updated:** 2020-04-12
-
-**Description:** nudge4j is a tiny piece of code to help great developers understand code better, debug less, have more fun.
-
 ---
 
-## nullkia
+## oauth2-server
 
-**Repository:** [https://github.com/bad-antics/nullkia](https://github.com/bad-antics/nullkia)
+**Repository:** [[https://github.com/thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server)]([https://github.com/thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server))
 
-**Author:** bad-antics
-
-**Last Updated:** 2026-02-10
-
-**Description:** SEO Keywords: NullKia, mobile security, phone hacking, Android exploitation, iOS jailbreak, Samsung Knox bypass, bootloader unlock, firmware hacking, baseband exploitation, checkm8, checkra1n, iPhone exploit, Pixel rooting, Titan M, OnePlus unbrick,
+**Author:** thephpleague
 
 ---
 
 ## Obfuscapk
 
-**Repository:** [https://github.com/ClaudiuGeorgiu/Obfuscapk](https://github.com/ClaudiuGeorgiu/Obfuscapk)
+**Repository:** [[https://github.com/ClaudiuGeorgiu/Obfuscapk](https://github.com/ClaudiuGeorgiu/Obfuscapk)]([https://github.com/ClaudiuGeorgiu/Obfuscapk](https://github.com/ClaudiuGeorgiu/Obfuscapk))
 
 **Author:** ClaudiuGeorgiu
 
-**Last Updated:** 2024-07-27
+---
 
-**Description:** > [!IMPORTANT] > This project is archived and no longer maintained.
+## objection
+
+**Repository:** [[https://github.com/sensepost/objection](https://github.com/sensepost/objection)]([https://github.com/sensepost/objection](https://github.com/sensepost/objection))
+
+**Author:** sensepost
 
 ---
 
 ## Oblivion
 
-**Repository:** [https://github.com/loseys/Oblivion](https://github.com/loseys/Oblivion)
+**Repository:** [[https://github.com/loseys/Oblivion](https://github.com/loseys/Oblivion)]([https://github.com/loseys/Oblivion](https://github.com/loseys/Oblivion))
 
 **Author:** loseys
 
-**Last Updated:** 2021-01-22
+---
 
-**Description:**  <a href="https://github.com/loseys/Oblivion//">
+## OCyara
+
+**Repository:** [[https://github.com/bandrel/OCyara](https://github.com/bandrel/OCyara)]([https://github.com/bandrel/OCyara](https://github.com/bandrel/OCyara))
+
+**Author:** bandrel
 
 ---
 
 ## odex-patcher
 
-**Repository:** [https://github.com/giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
+**Repository:** [[https://github.com/giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)]([https://github.com/giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher))
 
 **Author:** giacomoferretti
 
-**Last Updated:** 2024-01-13
+---
 
-**Description:** ODEX Patcher allows you to execute arbitrary code while maintaining the original signature of the target app. It does this by patching the OAT (Ahead-of-Time) files that the ART runtime creates when an app is installed.
+## ofpot
+
+**Repository:** [[https://github.com/upa/ofpot](https://github.com/upa/ofpot)]([https://github.com/upa/ofpot](https://github.com/upa/ofpot))
+
+**Author:** upa
 
 ---
 
 ## one_gadget
 
-**Repository:** [https://github.com/david942j/one_gadget](https://github.com/david942j/one_gadget)
+**Repository:** [[https://github.com/david942j/one_gadget](https://github.com/david942j/one_gadget)]([https://github.com/david942j/one_gadget](https://github.com/david942j/one_gadget))
 
 **Author:** david942j
-
-**Last Updated:** 2025-12-12
-
-**Description:** When playing ctf pwn challenges we usually need the one-gadget RCE (remote code execution), which leads to call `execve('/bin/sh', NULL, NULL)`.
 
 ---
 
 ## onefuzz
 
-**Repository:** [https://github.com/microsoft/onefuzz](https://github.com/microsoft/onefuzz)
+**Repository:** [[https://github.com/microsoft/onefuzz](https://github.com/microsoft/onefuzz)]([https://github.com/microsoft/onefuzz](https://github.com/microsoft/onefuzz))
 
 **Author:** microsoft
 
-**Last Updated:** 2023-10-31
+---
 
-**Description:** **_August 31, 2023_**.
+## onion-grater
+
+**Repository:** [[https://github.com/Whonix/onion-grater](https://github.com/Whonix/onion-grater)]([https://github.com/Whonix/onion-grater](https://github.com/Whonix/onion-grater))
+
+**Author:** Whonix
 
 ---
 
-## onionbalance
+## onionscan
 
-**Repository:** [https://github.com/DonnchaC/onionbalance](https://github.com/DonnchaC/onionbalance)
+**Repository:** [[https://github.com/s-rah/onionscan](https://github.com/s-rah/onionscan)]([https://github.com/s-rah/onionscan](https://github.com/s-rah/onionscan))
 
-**Author:** DonnchaC
-
-**Last Updated:** 2020-04-06
-
-**Description:** **This repository is out-of-date and no longer maintained.**
+**Author:** s-rah
 
 ---
 
-## oniontip
+## OpenBackupExtractor
 
-**Repository:** [https://github.com/DonnchaC/oniontip](https://github.com/DonnchaC/oniontip)
+**Repository:** [[https://github.com/vgmoose/OpenBackupExtractor](https://github.com/vgmoose/OpenBackupExtractor)]([https://github.com/vgmoose/OpenBackupExtractor](https://github.com/vgmoose/OpenBackupExtractor))
 
-**Author:** DonnchaC
-
-**Last Updated:** 2016-12-07
-
-**Description:** Allows users to send tips with Bitcoin to volunteers who run Tor relays and provide Bitcoin addresses in their torrc file/router descriptor (contact and X-bitcoin fields). OnionTip uses router bandwidth measurements to allow users to donate to volunteers in a way that is proportional to the bandw...
+**Author:** vgmoose
 
 ---
 
-## OpenFPC
+## opencanary
 
-**Repository:** [https://github.com/leonward/OpenFPC](https://github.com/leonward/OpenFPC)
+**Repository:** [[https://github.com/thinkst/opencanary](https://github.com/thinkst/opencanary)]([https://github.com/thinkst/opencanary](https://github.com/thinkst/opencanary))
 
-**Author:** leonward
-
-**Last Updated:** 2015-12-03
-
-**Description:** Full Packet Capture: Open Source and on your own commodity hardware.
+**Author:** thinkst
 
 ---
 
 ## openrasp
 
-**Repository:** [https://github.com/baidu/openrasp](https://github.com/baidu/openrasp)
+**Repository:** [[https://github.com/baidu/openrasp](https://github.com/baidu/openrasp)]([https://github.com/baidu/openrasp](https://github.com/baidu/openrasp))
 
 **Author:** baidu
 
-**Last Updated:** 2025-10-02
-
-**Description:** Unlike perimeter control solutions like WAF, OpenRASP directly integrates its protection engine into the application server by instrumentation. It can monitor various events including database queries, file operations and network requests etc.
-
 ---
 
-## opensnitch
+## Orbit
 
-**Repository:** [https://github.com/evilsocket/opensnitch](https://github.com/evilsocket/opensnitch)
+**Repository:** [[https://github.com/s0md3v/Orbit](https://github.com/s0md3v/Orbit)]([https://github.com/s0md3v/Orbit](https://github.com/s0md3v/Orbit))
 
-**Author:** evilsocket
-
-**Last Updated:** 2026-02-11
-
-**Description:**  <small>Join the project community on our server!</small> <br/><br/> <a href="https://discord.gg/btZpkp45gQ" target="_blank" title="Join our community!"> 
-
----
-
-## oregano
-
-**Repository:** [https://github.com/nametoolong/oregano](https://github.com/nametoolong/oregano)
-
-**Author:** nametoolong
-
-**Last Updated:** 2020-02-09
-
-**Description:** MITM proxy for Tor, with GnuTLS's length hiding capability.
+**Author:** s0md3v
 
 ---
 
 ## origami-pdf
 
-**Repository:** [https://github.com/cogent/origami-pdf](https://github.com/cogent/origami-pdf)
+**Repository:** [[https://github.com/cogent/origami-pdf](https://github.com/cogent/origami-pdf)]([https://github.com/cogent/origami-pdf](https://github.com/cogent/origami-pdf))
 
 **Author:** cogent
-
-**Last Updated:** 2013-06-11
-
-**Description:** DESCRIPTION
 
 ---
 
 ## orochi
 
-**Repository:** [https://github.com/LDO-CERT/orochi](https://github.com/LDO-CERT/orochi)
+**Repository:** [[https://github.com/LDO-CERT/orochi](https://github.com/LDO-CERT/orochi)]([https://github.com/LDO-CERT/orochi](https://github.com/LDO-CERT/orochi))
 
 **Author:** LDO-CERT
-
-**Last Updated:** 2025-10-20
-
-**Description:** > 🧠 **Orochi** — A modern, distributed web interface for collaborative memory forensics built on **Volatility 3**, **Django**, and **Dask**.
 
 ---
 
 ## OSCP-2022
 
-**Repository:** [https://github.com/brianlam38/OSCP-2022](https://github.com/brianlam38/OSCP-2022)
+**Repository:** [[https://github.com/brianlam38/OSCP-2022](https://github.com/brianlam38/OSCP-2022)]([https://github.com/brianlam38/OSCP-2022](https://github.com/brianlam38/OSCP-2022))
 
 **Author:** brianlam38
 
-**Last Updated:** 2022-02-16
-
-**Description:** Notes compiled for the OSCP exam, 2022.
-
 ---
 
-## OSINT-steam
+## oscp-enumeration-cheat-sheet
 
-**Repository:** [https://github.com/Berchez/OSINT-steam](https://github.com/Berchez/OSINT-steam)
+**Repository:** [[https://github.com/oncybersec/oscp-enumeration-cheat-sheet](https://github.com/oncybersec/oscp-enumeration-cheat-sheet)]([https://github.com/oncybersec/oscp-enumeration-cheat-sheet](https://github.com/oncybersec/oscp-enumeration-cheat-sheet))
 
-**Author:** Berchez
-
-**Last Updated:** 2026-01-07
-
-**Description:** This repository contains the code for **SteamReveal**, a website developed in TypeScript using React and **Next.js**. SteamReveal is an OSINT (Open Source Intelligence) tool designed for the Steam gaming community. With it, you can
-
----
-
-## OsintEye
-
-**Repository:** [https://github.com/atiilla/OsintEye](https://github.com/atiilla/OsintEye)
-
-**Author:** atiilla
-
-**Last Updated:** 2024-11-24
-
-**Description:** OSINT Eye is a desktop application built using WPF (Windows Presentation Foundation) in C#. The application provides functionality for querying GitHub repositories, finding user emails, social media account lookups, and subdomain enumeration. It interacts with GitHub’s API and utilizes a database...
+**Author:** oncybersec
 
 ---
 
 ## Osintgram
 
-**Repository:** [https://github.com/Datalux/Osintgram](https://github.com/Datalux/Osintgram)
+**Repository:** [[https://github.com/Datalux/Osintgram](https://github.com/Datalux/Osintgram)]([https://github.com/Datalux/Osintgram](https://github.com/Datalux/Osintgram))
 
 **Author:** Datalux
 
-**Last Updated:** 2025-08-25
-
-**Description:** Osintgram is an **OSINT** tool on Instagram to collect, analyze, and run reconnaissance.
-
----
-
-## osintstalker
-
-**Repository:** [https://github.com/milo2012/osintstalker](https://github.com/milo2012/osintstalker)
-
-**Author:** milo2012
-
-**Last Updated:** 2013-10-29
-
-**Description:** Python Scripts
-
----
-
-## osquery
-
-**Repository:** [https://github.com/facebook/osquery](https://github.com/facebook/osquery)
-
-**Author:** facebook
-
-**Last Updated:** 2026-02-11
-
-**Description:** (No description available)
 ---
 
 ## oss-oopssec-store
 
-**Repository:** [https://github.com/kOaDT/oss-oopssec-store](https://github.com/kOaDT/oss-oopssec-store)
+**Repository:** [[https://github.com/kOaDT/oss-oopssec-store](https://github.com/kOaDT/oss-oopssec-store)]([https://github.com/kOaDT/oss-oopssec-store](https://github.com/kOaDT/oss-oopssec-store))
 
 **Author:** kOaDT
-
-**Last Updated:** 2026-02-12
-
-**Description:**  OSS - OopsSec Store
 
 ---
 
 ## osx-security-awesome
 
-**Repository:** [https://github.com/kai5263499/osx-security-awesome](https://github.com/kai5263499/osx-security-awesome)
+**Repository:** [[https://github.com/kai5263499/osx-security-awesome](https://github.com/kai5263499/osx-security-awesome)]([https://github.com/kai5263499/osx-security-awesome](https://github.com/kai5263499/osx-security-awesome))
 
 **Author:** kai5263499
 
-**Last Updated:** 2025-07-23
+---
 
-**Description:** A collection of OSX/iOS security related resources
+## osxcollector
+
+**Repository:** [[https://github.com/Yelp/osxcollector](https://github.com/Yelp/osxcollector)]([https://github.com/Yelp/osxcollector](https://github.com/Yelp/osxcollector))
+
+**Author:** Yelp
 
 ---
 
-## ovaa
+## owa-honeypot
 
-**Repository:** [https://github.com/oversecured/ovaa](https://github.com/oversecured/ovaa)
+**Repository:** [[https://github.com/joda32/owa-honeypot](https://github.com/joda32/owa-honeypot)]([https://github.com/joda32/owa-honeypot](https://github.com/joda32/owa-honeypot))
 
-**Author:** oversecured
-
-**Last Updated:** 2024-07-18
-
-**Description:** OVAA (Oversecured Vulnerable Android App) is an Android app that aggregates all the platform's known and popular security vulnerabilities.
+**Author:** joda32
 
 ---
 
-## ovizart
+## packerid
 
-**Repository:** [https://github.com/oguzy/ovizart](https://github.com/oguzy/ovizart)
+**Repository:** [[https://github.com/sooshie/packerid](https://github.com/sooshie/packerid)]([https://github.com/sooshie/packerid](https://github.com/sooshie/packerid))
 
-**Author:** oguzy
+**Author:** sooshie
 
-**Last Updated:** 2013-04-22
-
-**Description:** OVIZART =  Open VİZual Analsis foR network Traffic
-
----
-
-## packemon
-
-**Repository:** [https://github.com/ddddddO/packemon](https://github.com/ddddddO/packemon)
-
-**Author:** ddddddO
-
-**Last Updated:** 2026-02-01
-
-**Description:** Packet monster, or `Packémon` for short! (っ‘-’)╮=͟͟͞͞◒ ヽ( '-'ヽ) <br>
-
----
-
-## pafish
-
-**Repository:** [https://github.com/a0rtega/pafish](https://github.com/a0rtega/pafish)
-
-**Author:** a0rtega
-
-**Last Updated:** 2021-11-09
-
-**Description:** (No description available)
 ---
 
 ## pagodo
 
-**Repository:** [https://github.com/opsdisk/pagodo](https://github.com/opsdisk/pagodo)
+**Repository:** [[https://github.com/opsdisk/pagodo](https://github.com/opsdisk/pagodo)]([https://github.com/opsdisk/pagodo](https://github.com/opsdisk/pagodo))
 
 **Author:** opsdisk
-
-**Last Updated:** 2025-08-30
-
-**Description:** `pagodo` automates Google searching for potentially vulnerable web pages and applications on the Internet. It replaces manually performing Google dork searches with a web GUI browser.
 
 ---
 
 ## PancakeViewer
 
-**Repository:** [https://github.com/forensicmatt/PancakeViewer](https://github.com/forensicmatt/PancakeViewer)
+**Repository:** [[https://github.com/forensicmatt/PancakeViewer](https://github.com/forensicmatt/PancakeViewer)]([https://github.com/forensicmatt/PancakeViewer](https://github.com/forensicmatt/PancakeViewer))
 
 **Author:** forensicmatt
-
-**Last Updated:** 2016-09-05
-
-**Description:** A DFVFS backed viewer project with a WxPython GUI.
 
 ---
 
 ## panda
 
-**Repository:** [https://github.com/moyix/panda](https://github.com/moyix/panda)
+**Repository:** [[https://github.com/moyix/panda](https://github.com/moyix/panda)]([https://github.com/moyix/panda](https://github.com/moyix/panda))
 
 **Author:** moyix
-
-**Last Updated:** 2016-12-17
-
-**Description:** PANDA is an open-source Platform for Architecture-Neutral Dynamic Analysis. It is built upon the QEMU whole system emulator, and so analyses have access to all code executing in the guest and all data. PANDA adds the ability to record and
-
----
-
-## passivedns
-
-**Repository:** [https://github.com/gamelinux/passivedns](https://github.com/gamelinux/passivedns)
-
-**Author:** gamelinux
-
-**Last Updated:** 2024-05-28
-
-**Description:** A tool to collect DNS records passively to aid Incident handling, Network Security Monitoring (NSM) and general digital forensics.
 
 ---
 
 ## passivedns-client
 
-**Repository:** [https://github.com/chrislee35/passivedns-client](https://github.com/chrislee35/passivedns-client)
+**Repository:** [[https://github.com/chrislee35/passivedns-client](https://github.com/chrislee35/passivedns-client)]([https://github.com/chrislee35/passivedns-client](https://github.com/chrislee35/passivedns-client))
 
 **Author:** chrislee35
-
-**Last Updated:** 2021-12-19
-
-**Description:** This rubygem queries the following Passive DNS databases:
 
 ---
 
 ## passpie
 
-**Repository:** [https://github.com/marcwebbie/passpie](https://github.com/marcwebbie/passpie)
+**Repository:** [[https://github.com/marcwebbie/passpie](https://github.com/marcwebbie/passpie)]([https://github.com/marcwebbie/passpie](https://github.com/marcwebbie/passpie))
 
 **Author:** marcwebbie
-
-**Last Updated:** 2024-03-28
-
-**Description:** :code:`passpie`: Command-line password manager *******************************************************
 
 ---
 
 ## password_compat
 
-**Repository:** [https://github.com/ircmaxell/password_compat](https://github.com/ircmaxell/password_compat)
+**Repository:** [[https://github.com/ircmaxell/password_compat](https://github.com/ircmaxell/password_compat)]([https://github.com/ircmaxell/password_compat](https://github.com/ircmaxell/password_compat))
 
 **Author:** ircmaxell
-
-**Last Updated:** 2017-03-20
-
-**Description:** password_compat
 
 ---
 
 ## PasteHunter
 
-**Repository:** [https://github.com/kevthehermit/PasteHunter](https://github.com/kevthehermit/PasteHunter)
+**Repository:** [[https://github.com/kevthehermit/PasteHunter](https://github.com/kevthehermit/PasteHunter)]([https://github.com/kevthehermit/PasteHunter](https://github.com/kevthehermit/PasteHunter))
 
 **Author:** kevthehermit
 
-**Last Updated:** 2021-02-04
-
-**Description:** PasteHunter is a python3 application that is designed to query a collection of sites that host publicly pasted data. For all the pastes it finds it scans the raw contents against a series of Yara rules looking for information that can be used
-
 ---
 
-## patator
+## pcc
 
-**Repository:** [https://github.com/lanjelot/patator](https://github.com/lanjelot/patator)
+**Repository:** [[https://github.com/sektioneins/pcc](https://github.com/sektioneins/pcc)]([https://github.com/sektioneins/pcc](https://github.com/sektioneins/pcc))
 
-**Author:** lanjelot
-
-**Last Updated:** 2025-05-20
-
-**Description:** Patator was written out of frustration from using Hydra, Medusa, Ncrack, Metasploit modules and Nmap NSE scripts for password guessing attacks. I opted for a different approach in order to not create yet another brute-forcing tool and avoid repeating the same shortcomings. Patator is a multi-thre...
-
----
-
-## pcap2har
-
-**Repository:** [https://github.com/andrewf/pcap2har](https://github.com/andrewf/pcap2har)
-
-**Author:** andrewf
-
-**Last Updated:** 2013-10-25
-
-**Description:** pcap2har: converts .pcap network capture files to HTTP Archive files.
-
----
-
-## PCAPdroid
-
-**Repository:** [https://github.com/emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid)
-
-**Author:** emanuele-f
-
-**Last Updated:** 2026-02-12
-
-**Description:** PCAPdroid is a privacy-friendly open source app which lets you track, analyze and block the connections made by the other apps in your device. It also allows you to export a PCAP dump of the traffic, inspect HTTP, decrypt TLS traffic and much more!
-
----
-
-## PcapViz
-
-**Repository:** [https://github.com/mateuszk87/PcapViz](https://github.com/mateuszk87/PcapViz)
-
-**Author:** mateuszk87
-
-**Last Updated:** 2023-02-17
-
-**Description:** PcapViz draws networks as device topologies and as information flows using the packet information in pcap files captured from a network device using tcpcap or other capture software. It filters and optionally displays the captured packets at any one of 3 "layers". These are:
-
----
-
-## PCS7-Hardening-Tool
-
-**Repository:** [https://github.com/otoriocyber/PCS7-Hardening-Tool](https://github.com/otoriocyber/PCS7-Hardening-Tool)
-
-**Author:** otoriocyber
-
-**Last Updated:** 2020-11-30
-
-**Description:** Version 1.0 Powershell script for assessing the security configurations of Siemens - SIMATIC PCS 7 OS client, OS Server or Engineering station
+**Author:** sektioneins
 
 ---
 
 ## pdfxray_lite
 
-**Repository:** [https://github.com/9b/pdfxray_lite](https://github.com/9b/pdfxray_lite)
+**Repository:** [[https://github.com/9b/pdfxray_lite](https://github.com/9b/pdfxray_lite)]([https://github.com/9b/pdfxray_lite](https://github.com/9b/pdfxray_lite))
 
 **Author:** 9b
-
-**Last Updated:** 2011-11-11
-
-**Description:** PDF X-RAY is great, but there are times when all you have access to is a system you can't mess with, but need to do analysis on. PDF X-RAY Lite solves this by removing the backend and keeping it straight command line. For extra convenience a new reporting method is built into the malobjclass. Thi...
 
 ---
 
 ## peCloakCapstone
 
-**Repository:** [https://github.com/v-p-b/peCloakCapstone](https://github.com/v-p-b/peCloakCapstone)
+**Repository:** [[https://github.com/v-p-b/peCloakCapstone](https://github.com/v-p-b/peCloakCapstone)]([https://github.com/v-p-b/peCloakCapstone](https://github.com/v-p-b/peCloakCapstone))
 
 **Author:** v-p-b
-
-**Last Updated:** 2015-08-19
-
-**Description:** peCloak - Capstone
-
----
-
-## peda
-
-**Repository:** [https://github.com/longld/peda](https://github.com/longld/peda)
-
-**Author:** longld
-
-**Last Updated:** 2021-01-03
-
-**Description:** PEDA - Python Exploit Development Assistance for GDB
-
----
-
-## peepdf
-
-**Repository:** [https://github.com/jesparza/peepdf](https://github.com/jesparza/peepdf)
-
-**Author:** jesparza
-
-**Last Updated:** 2016-11-17
-
-**Description:** peepdf is a **Python tool to explore PDF files** in order to find out if the file can be harmful or not. The aim of this tool is to provide all the necessary components that a security researcher could need in a PDF analysis without using 3 or 4 tools to make
 
 ---
 
 ## pefile
 
-**Repository:** [https://github.com/erocarrera/pefile](https://github.com/erocarrera/pefile)
+**Repository:** [[https://github.com/erocarrera/pefile](https://github.com/erocarrera/pefile)]([https://github.com/erocarrera/pefile](https://github.com/erocarrera/pefile))
 
 **Author:** erocarrera
-
-**Last Updated:** 2026-02-10
-
-**Description:** _pefile_ is a multi-platform Python module to parse and work with [Portable Executable (PE) files](https://en.wikipedia.org/wiki/Portable_Executable). Most of the information contained in the PE file headers is accessible, as well as all the sections' details and data.
-
----
-
-## peframe
-
-**Repository:** [https://github.com/guelfoweb/peframe](https://github.com/guelfoweb/peframe)
-
-**Author:** guelfoweb
-
-**Last Updated:** 2021-07-25
-
-**Description:** peframe is a open source tool to perform static analysis on `Portable Executable <http://en.wikipedia.org/wiki/Portable_Executable>`_ malware and generic suspicious file. It can help malware researchers to detect packer, xor, digital signature, mutex, anti debug, anti virtual machine, suspicious ...
-
----
-
-## personal-security-checklist
-
-**Repository:** [https://github.com/Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
-
-**Author:** Lissy93
-
-**Last Updated:** 2025-06-28
-
-**Description:** No README found
 
 ---
 
 ## perspective
 
-**Repository:** [https://github.com/finos/perspective](https://github.com/finos/perspective)
+**Repository:** [[https://github.com/finos/perspective](https://github.com/finos/perspective)]([https://github.com/finos/perspective](https://github.com/finos/perspective))
 
 **Author:** finos
 
-**Last Updated:** 2026-02-06
-
-**Description:** <a href="https://perspective-dev.github.io">
-
 ---
 
-## petep
+## PFQ
 
-**Repository:** [https://github.com/Warxim/petep](https://github.com/Warxim/petep)
+**Repository:** [[https://github.com/pfq/PFQ](https://github.com/pfq/PFQ)]([https://github.com/pfq/PFQ](https://github.com/pfq/PFQ))
 
-**Author:** Warxim
-
-**Last Updated:** 2023-12-01
-
-**Description:** **PETEP** (**PEnetration TEsting Proxy**) is an open-source Java application for creating proxies for traffic analysis & modification. Main goal of PETEP is to provide a useful tool for performing penetration tests of applications with various protocols (on TCP/UDP)
+**Author:** pfq
 
 ---
 
 ## pghoney
 
-**Repository:** [https://github.com/betheroot/pghoney](https://github.com/betheroot/pghoney)
+**Repository:** [[https://github.com/betheroot/pghoney](https://github.com/betheroot/pghoney)]([https://github.com/betheroot/pghoney](https://github.com/betheroot/pghoney))
 
 **Author:** betheroot
-
-**Last Updated:** 2018-02-25
-
-**Description:** A simple Postgres honey pot inspired by [Elastichoney](https://github.com/jordan-wright/elastichoney)
 
 ---
 
 ## pharos
 
-**Repository:** [https://github.com/cmu-sei/pharos](https://github.com/cmu-sei/pharos)
+**Repository:** [[https://github.com/cmu-sei/pharos](https://github.com/cmu-sei/pharos)]([https://github.com/cmu-sei/pharos](https://github.com/cmu-sei/pharos))
 
 **Author:** cmu-sei
-
-**Last Updated:** 2025-12-18
-
-**Description:** The Pharos static binary analysis framework is a project of the Software Engineering Institute at Carnegie Mellon University.  The framework is designed to facilitate the automated analysis of binary programs.  It uses the ROSE compiler infrastructure developed by
 
 ---
 
 ## phishery
 
-**Repository:** [https://github.com/ryhanson/phishery](https://github.com/ryhanson/phishery)
+**Repository:** [[https://github.com/ryhanson/phishery](https://github.com/ryhanson/phishery)]([https://github.com/ryhanson/phishery](https://github.com/ryhanson/phishery))
 
 **Author:** ryhanson
 
-**Last Updated:** 2016-11-16
+---
 
-**Description:** Phishery is a Simple SSL Enabled HTTP server with the primary purpose of phishing credentials via Basic Authentication. Phishery also provides the ability easily to inject the URL into a .docx Word document.
+## phishing_catcher
+
+**Repository:** [[https://github.com/x0rz/phishing_catcher](https://github.com/x0rz/phishing_catcher)]([https://github.com/x0rz/phishing_catcher](https://github.com/x0rz/phishing_catcher))
+
+**Author:** x0rz
 
 ---
 
-## PhoneSploit-Pro
+## PhishingKit-Yara-Rules
 
-**Repository:** [https://github.com/AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro)
+**Repository:** [[https://github.com/t4d/PhishingKit-Yara-Rules](https://github.com/t4d/PhishingKit-Yara-Rules)]([https://github.com/t4d/PhishingKit-Yara-Rules](https://github.com/t4d/PhishingKit-Yara-Rules))
 
-**Author:** AzeemIdrisi
+**Author:** t4d
 
-**Last Updated:** 2024-04-19
+---
 
-**Description:** (No description available)
+## PhoneInfoga
+
+**Repository:** [[https://github.com/sundowndev/PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)]([https://github.com/sundowndev/PhoneInfoga](https://github.com/sundowndev/PhoneInfoga))
+
+**Author:** sundowndev
+
 ---
 
 ## phoneyc
 
-**Repository:** [https://github.com/honeynet/phoneyc](https://github.com/honeynet/phoneyc)
+**Repository:** [[https://github.com/honeynet/phoneyc](https://github.com/honeynet/phoneyc)]([https://github.com/honeynet/phoneyc](https://github.com/honeynet/phoneyc))
 
 **Author:** honeynet
 
-**Last Updated:** 2015-05-22
-
-**Description:** Requirements:
-
 ---
 
-## PHP-backdoors
+## Photon
 
-**Repository:** [https://github.com/bartblaze/PHP-backdoors](https://github.com/bartblaze/PHP-backdoors)
+**Repository:** [[https://github.com/s0md3v/Photon](https://github.com/s0md3v/Photon)]([https://github.com/s0md3v/Photon](https://github.com/s0md3v/Photon))
 
-**Author:** bartblaze
-
-**Last Updated:** 2024-03-09
-
-**Description:** A collection of PHP backdoors. For educational and/or testing purposes only.
+**Author:** s0md3v
 
 ---
 
 ## php-encryption
 
-**Repository:** [https://github.com/defuse/php-encryption](https://github.com/defuse/php-encryption)
+**Repository:** [[https://github.com/defuse/php-encryption](https://github.com/defuse/php-encryption)]([https://github.com/defuse/php-encryption](https://github.com/defuse/php-encryption))
 
 **Author:** defuse
-
-**Last Updated:** 2023-06-19
-
-**Description:** php-encryption
 
 ---
 
 ## php-torcontrol
 
-**Repository:** [https://github.com/dunglas/php-torcontrol](https://github.com/dunglas/php-torcontrol)
+**Repository:** [[https://github.com/dunglas/php-torcontrol](https://github.com/dunglas/php-torcontrol)]([https://github.com/dunglas/php-torcontrol](https://github.com/dunglas/php-torcontrol))
 
 **Author:** dunglas
 
-**Last Updated:** 2016-01-22
+---
 
-**Description:** PHP TorControl, a library to control TOR
+## php-webshells
+
+**Repository:** [[https://github.com/JohnTroony/php-webshells](https://github.com/JohnTroony/php-webshells)]([https://github.com/JohnTroony/php-webshells](https://github.com/JohnTroony/php-webshells))
+
+**Author:** JohnTroony
 
 ---
 
-## phpsploit
+## phpmyadmin_honeypot
 
-**Repository:** [https://github.com/nil0x42/phpsploit](https://github.com/nil0x42/phpsploit)
+**Repository:** [[https://github.com/gfoss/phpmyadmin_honeypot](https://github.com/gfoss/phpmyadmin_honeypot)]([https://github.com/gfoss/phpmyadmin_honeypot](https://github.com/gfoss/phpmyadmin_honeypot))
 
-**Author:** nil0x42
-
-**Last Updated:** 2024-03-29
-
-**Description:**  <a href="https://github.com/nil0x42/phpsploit" alt="master"> 
-
----
-
-## pics
-
-**Repository:** [https://github.com/corkami/pics](https://github.com/corkami/pics)
-
-**Author:** corkami
-
-**Last Updated:** 2024-02-18
-
-**Description:** (No description available)
----
-
-## PIE
-
-**Repository:** [https://github.com/LogRhythm-Labs/PIE](https://github.com/LogRhythm-Labs/PIE)
-
-**Author:** LogRhythm-Labs
-
-**Last Updated:** 2019-04-08
-
-**Description:** (No description available)
----
-
-## pig
-
-**Repository:** [https://github.com/rafael-santiago/pig](https://github.com/rafael-santiago/pig)
-
-**Author:** rafael-santiago
-
-**Last Updated:** 2020-11-02
-
-**Description:** ``Pig`` (which can be understood as ``P``acket ``i``ntruder ``g``enerator) is a ``Linux`` packet crafting tool. You can use ``Pig`` to test your ``IDS``/``IPS`` among other stuff.
+**Author:** gfoss
 
 ---
 
 ## PINCE
 
-**Repository:** [https://github.com/korcankaraokcu/PINCE](https://github.com/korcankaraokcu/PINCE)
+**Repository:** [[https://github.com/korcankaraokcu/PINCE](https://github.com/korcankaraokcu/PINCE)]([https://github.com/korcankaraokcu/PINCE](https://github.com/korcankaraokcu/PINCE))
 
 **Author:** korcankaraokcu
-
-**Last Updated:** 2026-02-12
-
-**Description:** TODO: Include build status with the title when test coverage increases and Travis is maintained
 
 ---
 
 ## pint
 
-**Repository:** [https://github.com/hexgolems/pint](https://github.com/hexgolems/pint)
+**Repository:** [[https://github.com/hexgolems/pint](https://github.com/hexgolems/pint)]([https://github.com/hexgolems/pint](https://github.com/hexgolems/pint))
 
 **Author:** hexgolems
-
-**Last Updated:** 2013-11-06
-
-**Description:** Pint is a PIN tool that exposes the PIN API to lua scripts.  Pint runs on 64 bit Ubuntu and 32 bit Windows XP, it should run on 32 bit Ubuntu and 64 bit XP as well but this is yet untested.
-
----
-
-## PivotSuite
-
-**Repository:** [https://github.com/RedTeamOperations/PivotSuite](https://github.com/RedTeamOperations/PivotSuite)
-
-**Author:** RedTeamOperations
-
-**Last Updated:** 2023-08-26
-
-**Description:** PivotSuite is a portable, platform independent and powerful network pivoting toolkit, Which helps Red Teamers / Penetration Testers to use a compromised system to move around inside a network. It is a Standalone Utility, Which can use as a Server or as a Client.
 
 ---
 
 ## pkt2flow
 
-**Repository:** [https://github.com/caesar0301/pkt2flow](https://github.com/caesar0301/pkt2flow)
+**Repository:** [[https://github.com/caesar0301/pkt2flow](https://github.com/caesar0301/pkt2flow)]([https://github.com/caesar0301/pkt2flow](https://github.com/caesar0301/pkt2flow))
 
 **Author:** caesar0301
-
-**Last Updated:** 2025-08-12
-
-**Description:** A simple, cross-platform utility to classify packets into flows using only the essential 4-tuple (src_ip, dst_ip, src_port, dst_port). Each flow is saved as a separate pcap file, named with its 4-tuple and the timestamp of its first packet. No payload reassembly or extra processing is performed—j...
 
 ---
 
 ## plasma
 
-**Repository:** [https://github.com/joelpx/plasma](https://github.com/joelpx/plasma)
+**Repository:** [[https://github.com/joelpx/plasma](https://github.com/joelpx/plasma)]([https://github.com/joelpx/plasma](https://github.com/joelpx/plasma))
 
 **Author:** joelpx
 
-**Last Updated:** 2019-03-04
+---
 
-**Description:** The old project name was **Reverse**.
+## plaso
+
+**Repository:** [[https://github.com/log2timeline/plaso](https://github.com/log2timeline/plaso)]([https://github.com/log2timeline/plaso](https://github.com/log2timeline/plaso))
+
+**Author:** log2timeline
 
 ---
 
 ## PlaystoreDownloader
 
-**Repository:** [https://github.com/ClaudiuGeorgiu/PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader)
+**Repository:** [[https://github.com/ClaudiuGeorgiu/PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader)]([https://github.com/ClaudiuGeorgiu/PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader))
 
 **Author:** ClaudiuGeorgiu
 
-**Last Updated:** 2024-07-27
+---
 
-**Description:** > [!IMPORTANT] > This project is archived and no longer maintained.
+## PLCinject
+
+**Repository:** [[https://github.com/SCADACS/PLCinject](https://github.com/SCADACS/PLCinject)]([https://github.com/SCADACS/PLCinject](https://github.com/SCADACS/PLCinject))
+
+**Author:** SCADACS
 
 ---
 
-## PMapper
+## PlumHound
 
-**Repository:** [https://github.com/nccgroup/PMapper](https://github.com/nccgroup/PMapper)
+**Repository:** [[https://github.com/PlumHound/PlumHound](https://github.com/PlumHound/PlumHound)]([https://github.com/PlumHound/PlumHound](https://github.com/PlumHound/PlumHound))
 
-**Author:** nccgroup
+**Author:** PlumHound
 
-**Last Updated:** 2022-02-03
+---
 
-**Description:** Principal Mapper (PMapper) is a script and library for identifying risks in the configuration of AWS Identity and Access Management (IAM) for an AWS account or an AWS organization. It models the different IAM Users and Roles in an
+## pmacct
+
+**Repository:** [[https://github.com/pmacct/pmacct](https://github.com/pmacct/pmacct)]([https://github.com/pmacct/pmacct](https://github.com/pmacct/pmacct))
+
+**Author:** pmacct
 
 ---
 
 ## pnaf
 
-**Repository:** [https://github.com/jusafing/pnaf](https://github.com/jusafing/pnaf)
+**Repository:** [[https://github.com/jusafing/pnaf](https://github.com/jusafing/pnaf)]([https://github.com/jusafing/pnaf](https://github.com/jusafing/pnaf))
 
 **Author:** jusafing
-
-**Last Updated:** 2018-05-17
-
-**Description:** Copyright (C) 2014 Javier Santillan
-
----
-
-## pofr
-
-**Repository:** [https://github.com/gmagklaras/pofr](https://github.com/gmagklaras/pofr)
-
-**Author:** gmagklaras
-
-**Last Updated:** 2024-01-07
-
-**Description:** The Penguin OS Forensic (or Flight) Recorder (POFR) collects, stores and organizes for further analysis in a relational layer: * process execution * file access * network/socket endpoint creation data
 
 ---
 
 ## polichombr
 
-**Repository:** [https://github.com/ANSSI-FR/polichombr](https://github.com/ANSSI-FR/polichombr)
+**Repository:** [[https://github.com/ANSSI-FR/polichombr](https://github.com/ANSSI-FR/polichombr)]([https://github.com/ANSSI-FR/polichombr](https://github.com/ANSSI-FR/polichombr))
 
 **Author:** ANSSI-FR
 
-**Last Updated:** 2018-03-30
-
-**Description:** This tool aim to provide a collaborative malware analysis framework.
-
 ---
 
-## PortEx
+## pompelmi
 
-**Repository:** [https://github.com/katjahahn/PortEx](https://github.com/katjahahn/PortEx)
+**Repository:** [[https://github.com/pompelmi/pompelmi](https://github.com/pompelmi/pompelmi)]([https://github.com/pompelmi/pompelmi](https://github.com/pompelmi/pompelmi))
 
-**Author:** katjahahn
-
-**Last Updated:** 2025-06-22
-
-**Description:** PortEx is a Java library for static malware analysis of Portable Executable files. Its focus is on PE malformation robustness, and anomaly detection. PortEx is written in Java and Scala, and targeted at Java applications.
-
----
-
-## portlurker
-
-**Repository:** [https://github.com/bartnv/portlurker](https://github.com/bartnv/portlurker)
-
-**Author:** bartnv
-
-**Last Updated:** 2026-02-04
-
-**Description:** Port listener / honeypot in Rust with protocol guessing, safe string display and rudimentary SQLite logging
+**Author:** pompelmi
 
 ---
 
 ## Posh-VirusTotal
 
-**Repository:** [https://github.com/darkoperator/Posh-VirusTotal](https://github.com/darkoperator/Posh-VirusTotal)
+**Repository:** [[https://github.com/darkoperator/Posh-VirusTotal](https://github.com/darkoperator/Posh-VirusTotal)]([https://github.com/darkoperator/Posh-VirusTotal](https://github.com/darkoperator/Posh-VirusTotal))
 
 **Author:** darkoperator
-
-**Last Updated:** 2016-08-10
-
-**Description:** Posh-VirusTotal
 
 ---
 
 ## post-o-llama
 
-**Repository:** [https://github.com/BerserkiKun/post-o-llama](https://github.com/BerserkiKun/post-o-llama)
+**Repository:** [[https://github.com/BerserkiKun/post-o-llama](https://github.com/BerserkiKun/post-o-llama)]([https://github.com/BerserkiKun/post-o-llama](https://github.com/BerserkiKun/post-o-llama))
 
 **Author:** BerserkiKun
-
-**Last Updated:** 2026-02-06
-
-**Description:** - [Overview](#overview) - [Features](#features) - [Installation](#installation) - [Project Structure](#project-structure) - [What It Analyzes](#what-it-analyzes) - [AI Test Case Generation](#ai-test-case-generation)
-
----
-
-## postenum
-
-**Repository:** [https://github.com/mbahadou/postenum](https://github.com/mbahadou/postenum)
-
-**Author:** mbahadou
-
-**Last Updated:** 2026-01-05
-
-**Description:** Postenum makes life easier for security professionals by automating the process of gathering critical system information after gaining a foothold. It helps quickly spot misconfigurations and privilege escalation opportunities, streamlining the path to deeper access.
-
----
-
-## potd
-
-**Repository:** [https://github.com/lnslbrty/potd](https://github.com/lnslbrty/potd)
-
-**Author:** lnslbrty
-
-**Last Updated:** 2020-07-12
-
-**Description:** This project is part of a BA thesis. It is currently in a pre-alpha state.
-
----
-
-## potiron
-
-**Repository:** [https://github.com/CIRCL/potiron](https://github.com/CIRCL/potiron)
-
-**Author:** CIRCL
-
-**Last Updated:** 2019-03-01
-
-**Description:** potiron -  Normalize, Index, Enrich and Visualize Network Capture
 
 ---
 
 ## PowerSploit
 
-**Repository:** [https://github.com/PowerShellMafia/PowerSploit](https://github.com/PowerShellMafia/PowerSploit)
+**Repository:** [[https://github.com/PowerShellMafia/PowerSploit](https://github.com/PowerShellMafia/PowerSploit)]([https://github.com/PowerShellMafia/PowerSploit](https://github.com/PowerShellMafia/PowerSploit))
 
 **Author:** PowerShellMafia
-
-**Last Updated:** 2020-08-17
-
-**Description:** **Execute code on a target machine.**
-
----
-
-## PRET
-
-**Repository:** [https://github.com/RUB-NDS/PRET](https://github.com/RUB-NDS/PRET)
-
-**Author:** RUB-NDS
-
-**Last Updated:** 2023-07-13
-
-**Description:** **Is your printer secure? Check before someone else does...**
 
 ---
 
 ## ProbeDroid
 
-**Repository:** [https://github.com/ZSShen/ProbeDroid](https://github.com/ZSShen/ProbeDroid)
+**Repository:** [[https://github.com/ZSShen/ProbeDroid](https://github.com/ZSShen/ProbeDroid)]([https://github.com/ZSShen/ProbeDroid](https://github.com/ZSShen/ProbeDroid))
 
 **Author:** ZSShen
-
-**Last Updated:** 2018-12-16
-
-**Description:** ProbeDroid is a ***dynamic Java code instrumentation kit for Android application***, which provides APIs for users to craft their own instrumentation tools. As a result, users can trace, profile, or change the runtime behavior of an interested application. Essentially, ***Java method*** is the **...
 
 ---
 
 ## procfilter
 
-**Repository:** [https://github.com/godaddy/procfilter](https://github.com/godaddy/procfilter)
+**Repository:** [[https://github.com/godaddy/procfilter](https://github.com/godaddy/procfilter)]([https://github.com/godaddy/procfilter](https://github.com/godaddy/procfilter))
 
 **Author:** godaddy
-
-**Last Updated:** 2020-02-14
-
-**Description:** ProcFilter is a process filtering system for Windows with built-in [YARA](https://github.com/virustotal/yara) integration. YARA rules can be instrumented with custom meta tags that tailor its response to rule matches. It runs as a Windows service and is integrated with [Microsoft's ETW API](https...
-
----
-
-## progpilot
-
-**Repository:** [https://github.com/designsecurity/progpilot](https://github.com/designsecurity/progpilot)
-
-**Author:** designsecurity
-
-**Last Updated:** 2025-08-17
-
-**Description:** > A static application security testing (SAST) for PHP
 
 ---
 
 ## protobuf-inspector
 
-**Repository:** [https://github.com/jmendeth/protobuf-inspector](https://github.com/jmendeth/protobuf-inspector)
+**Repository:** [[https://github.com/jmendeth/protobuf-inspector](https://github.com/jmendeth/protobuf-inspector)]([https://github.com/jmendeth/protobuf-inspector](https://github.com/jmendeth/protobuf-inspector))
 
 **Author:** jmendeth
-
-**Last Updated:** 2020-11-24
-
-**Description:** Simple program that can parse [Google Protobuf][] encoded blobs (version 2 or 3) without knowing their accompanying definition. It will print a nice, colored representation of their contents. Example:
-
----
-
-## PSHunt
-
-**Repository:** [https://github.com/Infocyte/PSHunt](https://github.com/Infocyte/PSHunt)
-
-**Author:** Infocyte
-
-**Last Updated:** 2016-09-20
-
-**Description:** PSHunt is a Powershell Threat Hunting Module designed to scan remote endpoints* for indicators of compromise or survey them for more comprehensive information related to state of those systems (active processes, autostarts, configurations, and/or logs).
 
 ---
 
 ## PSKracker
 
-**Repository:** [https://github.com/soxrok2212/PSKracker](https://github.com/soxrok2212/PSKracker)
+**Repository:** [[https://github.com/soxrok2212/PSKracker](https://github.com/soxrok2212/PSKracker)]([https://github.com/soxrok2212/PSKracker](https://github.com/soxrok2212/PSKracker))
 
 **Author:** soxrok2212
-
-**Last Updated:** 2023-08-31
-
-**Description:** **PSKracker** is a collection of WPA/WPA2/WPS default algorithms/password generators/pingens written in C.
-
----
-
-## psn_monitor
-
-**Repository:** [https://github.com/misiektoja/psn_monitor](https://github.com/misiektoja/psn_monitor)
-
-**Author:** misiektoja
-
-**Last Updated:** 2026-02-06
-
-**Description:** (No description available)
----
-
-## PSRecon
-
-**Repository:** [https://github.com/gfoss/PSRecon](https://github.com/gfoss/PSRecon)
-
-**Author:** gfoss
-
-**Last Updated:** 2017-07-29
-
-**Description:** PowerShell Incident Response - Live Forensic Data Acquisition Greg Foss | @heinzarelli | greg.foss@logrhythm.com Released at BlackHat 2015 v0.2 -- October 2015
-
----
-
-## ptf
-
-**Repository:** [https://github.com/trustedsec/ptf](https://github.com/trustedsec/ptf)
-
-**Author:** trustedsec
-
-**Last Updated:** 2024-09-22
-
-**Description:** The PenTesters Framework (PTF)
 
 ---
 
 ## pupy
 
-**Repository:** [https://github.com/n1nj4sec/pupy](https://github.com/n1nj4sec/pupy)
+**Repository:** [[https://github.com/n1nj4sec/pupy](https://github.com/n1nj4sec/pupy)]([https://github.com/n1nj4sec/pupy](https://github.com/n1nj4sec/pupy))
 
 **Author:** n1nj4sec
-
-**Last Updated:** 2024-02-06
-
-**Description:** pip3 install pipx pipx ensurepath pipx install git+https://github.com/n1nj4sec/pupy@nextgen
-
----
-
-## pwnagotchi
-
-**Repository:** [https://github.com/evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi)
-
-**Author:** evilsocket
-
-**Last Updated:** 2025-08-23
-
-**Description:**  <small>Join the project community on our server!</small> <br/><br/> <a href="https://discord.gg/https://discord.gg/btZpkp45gQ" target="_blank" title="Join our community!"> 
 
 ---
 
 ## pwnat
 
-**Repository:** [https://github.com/samyk/pwnat](https://github.com/samyk/pwnat)
+**Repository:** [[https://github.com/samyk/pwnat](https://github.com/samyk/pwnat)]([https://github.com/samyk/pwnat](https://github.com/samyk/pwnat))
 
 **Author:** samyk
-
-**Last Updated:** 2025-12-26
-
-**Description:** `pwnat`, by Samy Kamkar, is a tool that allows any client behind a NAT to communicate with a server behind a separate NAT with **no** port forwarding and **no** DMZ setup on any routers in order to directly communicate
 
 ---
 
 ## pwndbg
 
-**Repository:** [https://github.com/pwndbg/pwndbg](https://github.com/pwndbg/pwndbg)
+**Repository:** [[https://github.com/pwndbg/pwndbg](https://github.com/pwndbg/pwndbg)]([https://github.com/pwndbg/pwndbg](https://github.com/pwndbg/pwndbg))
 
 **Author:** pwndbg
-
-**Last Updated:** 2026-02-11
-
-**Description:** `pwndbg` (/paʊnˈdiˌbʌɡ/) is a GDB and LLDB plug-in that makes debugging suck less, with a focus on features needed by low-level software developers, hardware hackers, reverse-engineers and exploit developers.
 
 ---
 
 ## pwntools
 
-**Repository:** [https://github.com/Gallopsled/pwntools](https://github.com/Gallopsled/pwntools)
+**Repository:** [[https://github.com/Gallopsled/pwntools](https://github.com/Gallopsled/pwntools)]([https://github.com/Gallopsled/pwntools](https://github.com/Gallopsled/pwntools))
 
 **Author:** Gallopsled
 
-**Last Updated:** 2026-01-23
-
-**Description:** Pwntools is a CTF framework and exploit development library. Written in Python, it is designed for rapid prototyping and development, and intended to make exploit writing as simple as possible.
-
 ---
 
-## pwntools-write-ups
+## PyBrowserAutomation
 
-**Repository:** [https://github.com/Gallopsled/pwntools-write-ups](https://github.com/Gallopsled/pwntools-write-ups)
+**Repository:** [[https://github.com/fauvidoTechnologies/PyBrowserAutomation](https://github.com/fauvidoTechnologies/PyBrowserAutomation)]([https://github.com/fauvidoTechnologies/PyBrowserAutomation](https://github.com/fauvidoTechnologies/PyBrowserAutomation))
 
-**Author:** Gallopsled
-
-**Last Updated:** 2016-06-21
-
-**Description:** A collection of CTF write-ups all using pwntools
-
----
-
-## pyaff4
-
-**Repository:** [https://github.com/aff4/pyaff4](https://github.com/aff4/pyaff4)
-
-**Author:** aff4
-
-**Last Updated:** 2025-11-14
-
-**Description:** The Advanced Forensics File Format 4 (AFF4) is an open source format used for the storage of digital evidence and data.
-
----
-
-## pyew
-
-**Repository:** [https://github.com/joxeankoret/pyew](https://github.com/joxeankoret/pyew)
-
-**Author:** joxeankoret
-
-**Last Updated:** 2019-09-06
-
-**Description:** Pyew is a (command line) python tool to analyse malware. It does have support for hexadecimal viewing, disassembly (Intel 16, 32 and 64 bits), PE and ELF file formats (it performs code analysis and let you write scripts using an API to perform many types of analysis), follows direct call/jmp inst...
-
----
-
-## pygreynoise
-
-**Repository:** [https://github.com/GreyNoise-Intelligence/pygreynoise](https://github.com/GreyNoise-Intelligence/pygreynoise)
-
-**Author:** GreyNoise-Intelligence
-
-**Last Updated:** 2025-06-18
-
-**Description:** Python GreyNoise
+**Author:** fauvidoTechnologies
 
 ---
 
 ## pyinstxtractor
 
-**Repository:** [https://github.com/extremecoders-re/pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor)
+**Repository:** [[https://github.com/extremecoders-re/pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor)]([https://github.com/extremecoders-re/pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor))
 
 **Author:** extremecoders-re
-
-**Last Updated:** 2025-10-20
-
-**Description:** PyInstaller Extractor is a Python script to extract the contents of a PyInstaller generated executable file.
 
 ---
 
 ## pylibemu
 
-**Repository:** [https://github.com/buffer/pylibemu](https://github.com/buffer/pylibemu)
+**Repository:** [[https://github.com/buffer/pylibemu](https://github.com/buffer/pylibemu)]([https://github.com/buffer/pylibemu](https://github.com/buffer/pylibemu))
 
 **Author:** buffer
 
-**Last Updated:** 2023-11-29
+---
 
-**Description:** Pylibemu  |version badge| |downloads badge|
+## PyPhishing
+
+**Repository:** [[https://github.com/redteamsecurity/PyPhishing](https://github.com/redteamsecurity/PyPhishing)]([https://github.com/redteamsecurity/PyPhishing](https://github.com/redteamsecurity/PyPhishing))
+
+**Author:** redteamsecurity
 
 ---
 
 ## pyrdp
 
-**Repository:** [https://github.com/gosecure/pyrdp](https://github.com/gosecure/pyrdp)
+**Repository:** [[https://github.com/gosecure/pyrdp](https://github.com/gosecure/pyrdp)]([https://github.com/gosecure/pyrdp](https://github.com/gosecure/pyrdp))
 
 **Author:** gosecure
-
-**Last Updated:** 2025-07-27
-
-**Description:** PyRDP is a Python Remote Desktop Protocol (RDP) Monster-in-the-Middle (MITM) tool and library.
 
 ---
 
 ## pyrebox
 
-**Repository:** [https://github.com/Cisco-Talos/pyrebox](https://github.com/Cisco-Talos/pyrebox)
+**Repository:** [[https://github.com/Cisco-Talos/pyrebox](https://github.com/Cisco-Talos/pyrebox)]([https://github.com/Cisco-Talos/pyrebox](https://github.com/Cisco-Talos/pyrebox))
 
 **Author:** Cisco-Talos
 
-**Last Updated:** 2024-02-14
+---
 
-**Description:** ARCHIVED PROJECT
+## python-dshield
+
+**Repository:** [[https://github.com/rshipp/python-dshield](https://github.com/rshipp/python-dshield)]([https://github.com/rshipp/python-dshield](https://github.com/rshipp/python-dshield))
+
+**Author:** rshipp
 
 ---
 
-## pyshadow
+## python-evt
 
-**Repository:** [https://github.com/alicangnll/pyshadow](https://github.com/alicangnll/pyshadow)
+**Repository:** [[https://github.com/williballenthin/python-evt](https://github.com/williballenthin/python-evt)]([https://github.com/williballenthin/python-evt](https://github.com/williballenthin/python-evt))
 
-**Author:** alicangnll
+**Author:** williballenthin
 
-**Last Updated:** 2025-06-11
+---
 
-**Description:** (No description available)
+## python-evtx
+
+**Repository:** [[https://github.com/williballenthin/python-evtx](https://github.com/williballenthin/python-evtx)]([https://github.com/williballenthin/python-evtx](https://github.com/williballenthin/python-evtx))
+
+**Author:** williballenthin
+
+---
+
+## python-icap-yara
+
+**Repository:** [[https://github.com/RamadhanAmizudin/python-icap-yara](https://github.com/RamadhanAmizudin/python-icap-yara)]([https://github.com/RamadhanAmizudin/python-icap-yara](https://github.com/RamadhanAmizudin/python-icap-yara))
+
+**Author:** RamadhanAmizudin
+
+---
+
+## python-ntfs
+
+**Repository:** [[https://github.com/williballenthin/python-ntfs](https://github.com/williballenthin/python-ntfs)]([https://github.com/williballenthin/python-ntfs](https://github.com/williballenthin/python-ntfs))
+
+**Author:** williballenthin
+
+---
+
+## python-sdb
+
+**Repository:** [[https://github.com/williballenthin/python-sdb](https://github.com/williballenthin/python-sdb)]([https://github.com/williballenthin/python-sdb](https://github.com/williballenthin/python-sdb))
+
+**Author:** williballenthin
+
+---
+
+## python-uncompyle6
+
+**Repository:** [[https://github.com/rocky/python-uncompyle6](https://github.com/rocky/python-uncompyle6)]([https://github.com/rocky/python-uncompyle6](https://github.com/rocky/python-uncompyle6))
+
+**Author:** rocky
+
 ---
 
 ## python3-in-one-pic
 
-**Repository:** [https://github.com/coodict/python3-in-one-pic](https://github.com/coodict/python3-in-one-pic)
+**Repository:** [[https://github.com/coodict/python3-in-one-pic](https://github.com/coodict/python3-in-one-pic)]([https://github.com/coodict/python3-in-one-pic](https://github.com/coodict/python3-in-one-pic))
 
 **Author:** coodict
-
-**Last Updated:** 2020-07-05
-
-**Description:** [ Languages: [English](README.md) ]
 
 ---
 
 ## pythonidae
 
-**Repository:** [https://github.com/svaksha/pythonidae](https://github.com/svaksha/pythonidae)
+**Repository:** [[https://github.com/svaksha/pythonidae](https://github.com/svaksha/pythonidae)]([https://github.com/svaksha/pythonidae](https://github.com/svaksha/pythonidae))
 
 **Author:** svaksha
 
-**Last Updated:** 2021-10-14
+---
 
-**Description:** [Pythonidae](http://svaksha.github.io/pythonidae) curates decibans of Python libraries and resources for scientific programming and mathematical and statistical computing. Some resources listed here may also use other languages like Go, Java, Julia, R-language, etc.. in their codebase.
+## pytsk
+
+**Repository:** [[https://github.com/py4n6/pytsk](https://github.com/py4n6/pytsk)]([https://github.com/py4n6/pytsk](https://github.com/py4n6/pytsk))
+
+**Author:** py4n6
 
 ---
 
-## qark
+## qemu
 
-**Repository:** [https://github.com/linkedin/qark](https://github.com/linkedin/qark)
+**Repository:** [[https://github.com/ispras/qemu](https://github.com/ispras/qemu)]([https://github.com/ispras/qemu](https://github.com/ispras/qemu))
 
-**Author:** linkedin
-
-**Last Updated:** 2019-04-04
-
-**Description:** Quick Android Review Kit This tool is designed to look for several security related Android application vulnerabilities, either in source code or packaged APKs. The tool is also capable of creating "Proof-of-Concept" deployable APKs and/or ADB commands, capable of exploiting many of the vulnerabi...
+**Author:** ispras
 
 ---
 
 ## qira
 
-**Repository:** [https://github.com/BinaryAnalysisPlatform/qira](https://github.com/BinaryAnalysisPlatform/qira)
+**Repository:** [[https://github.com/BinaryAnalysisPlatform/qira](https://github.com/BinaryAnalysisPlatform/qira)]([https://github.com/BinaryAnalysisPlatform/qira](https://github.com/BinaryAnalysisPlatform/qira))
 
 **Author:** BinaryAnalysisPlatform
 
-**Last Updated:** 2022-07-02
-
-**Description:** * QIRA is a competitor to strace and gdb * See http://qira.me/ for high level usage information * All QIRA code is released under MIT license * Other code in this repo released under its respective license
-
 ---
 
-## QueenSono
+## quark-engine
 
-**Repository:** [https://github.com/ariary/QueenSono](https://github.com/ariary/QueenSono)
+**Repository:** [[https://github.com/quark-engine/quark-engine](https://github.com/quark-engine/quark-engine)]([https://github.com/quark-engine/quark-engine](https://github.com/quark-engine/quark-engine))
 
-**Author:** ariary
-
-**Last Updated:** 2021-12-10
-
-**Description:** QueenSono <i> ICMP Data Exfiltration </i>
+**Author:** quark-engine
 
 ---
 
 ## RABCDAsm
 
-**Repository:** [https://github.com/CyberShadow/RABCDAsm](https://github.com/CyberShadow/RABCDAsm)
+**Repository:** [[https://github.com/CyberShadow/RABCDAsm](https://github.com/CyberShadow/RABCDAsm)]([https://github.com/CyberShadow/RABCDAsm](https://github.com/CyberShadow/RABCDAsm))
 
 **Author:** CyberShadow
-
-**Last Updated:** 2023-03-11
-
-**Description:** Robust ABC (ActionScript Bytecode) [Dis-]Assembler
 
 ---
 
 ## Raccoon
 
-**Repository:** [https://github.com/evyatarmeged/Raccoon](https://github.com/evyatarmeged/Raccoon)
+**Repository:** [[https://github.com/evyatarmeged/Raccoon](https://github.com/evyatarmeged/Raccoon)]([https://github.com/evyatarmeged/Raccoon](https://github.com/evyatarmeged/Raccoon))
 
 **Author:** evyatarmeged
 
-**Last Updated:** 2025-06-10
+---
 
-**Description:** - [x] DNS details - [x] DNS visual mapping using DNS dumpster - [x] WHOIS information - [x] TLS Data - supported ciphers, TLS versions, certificate details and SANs - [x] Port Scan - [x] Services and scripts scan
+## radamsa-android
+
+**Repository:** [[https://github.com/anestisb/radamsa-android](https://github.com/anestisb/radamsa-android)]([https://github.com/anestisb/radamsa-android](https://github.com/anestisb/radamsa-android))
+
+**Author:** anestisb
+
+---
+
+## radare2
+
+**Repository:** [[https://github.com/radare/radare2](https://github.com/radare/radare2)]([https://github.com/radare/radare2](https://github.com/radare/radare2))
+
+**Author:** radare
 
 ---
 
 ## RamScraper
 
-**Repository:** [https://github.com/joren485/RamScraper](https://github.com/joren485/RamScraper)
+**Repository:** [[https://github.com/joren485/RamScraper](https://github.com/joren485/RamScraper)]([https://github.com/joren485/RamScraper](https://github.com/joren485/RamScraper))
 
 **Author:** joren485
 
-**Last Updated:** 2015-01-11
+---
 
-**Description:** RamScraper
+## random_compat
+
+**Repository:** [[https://github.com/paragonie/random_compat](https://github.com/paragonie/random_compat)]([https://github.com/paragonie/random_compat](https://github.com/paragonie/random_compat))
+
+**Author:** paragonie
 
 ---
 
 ## RandomLib
 
-**Repository:** [https://github.com/ircmaxell/RandomLib](https://github.com/ircmaxell/RandomLib)
+**Repository:** [[https://github.com/ircmaxell/RandomLib](https://github.com/ircmaxell/RandomLib)]([https://github.com/ircmaxell/RandomLib](https://github.com/ircmaxell/RandomLib))
 
 **Author:** ircmaxell
 
-**Last Updated:** 2016-09-07
-
-**Description:** A library for generating random numbers and strings of various strengths.
-
 ---
 
-## rdppot
+## rastrea2r
 
-**Repository:** [https://github.com/kryptoslogic/rdppot](https://github.com/kryptoslogic/rdppot)
+**Repository:** [[https://github.com/rastrea2r/rastrea2r](https://github.com/rastrea2r/rastrea2r)]([https://github.com/rastrea2r/rastrea2r](https://github.com/rastrea2r/rastrea2r))
 
-**Author:** kryptoslogic
-
-**Last Updated:** 2019-06-06
-
-**Description:** RDP based Honeypot
-
----
-
-## rdpy
-
-**Repository:** [https://github.com/citronneur/rdpy](https://github.com/citronneur/rdpy)
-
-**Author:** citronneur
-
-**Last Updated:** 2020-04-10
-
-**Description:** Remote Desktop Protocol in twisted python.
+**Author:** rastrea2r
 
 ---
 
 ## readmem
 
-**Repository:** [https://github.com/gdbinit/readmem](https://github.com/gdbinit/readmem)
+**Repository:** [[https://github.com/gdbinit/readmem](https://github.com/gdbinit/readmem)]([https://github.com/gdbinit/readmem](https://github.com/gdbinit/readmem))
 
 **Author:** gdbinit
-
-**Last Updated:** 2013-10-06
-
-**Description:** _____           _ _____ | __  |___ ___ _| |     |___ _____ |    -| -_| .'| . | | | | -_|     | |__|__|___|__,|___|_|_|_|___|_|_|_|
 
 ---
 
 ## reasonably-secure-electron
 
-**Repository:** [https://github.com/moloch--/reasonably-secure-electron](https://github.com/moloch--/reasonably-secure-electron)
+**Repository:** [[https://github.com/moloch--/reasonably-secure-electron](https://github.com/moloch--/reasonably-secure-electron)]([https://github.com/moloch--/reasonably-secure-electron](https://github.com/moloch--/reasonably-secure-electron))
 
 **Author:** moloch--
 
-**Last Updated:** 2022-06-17
+---
 
-**Description:** Author: [Joe](https://twitter.com/LittleJoeTables) from [Bishop Fox](https://bishopfox.com)
+## recomposer
+
+**Repository:** [[https://github.com/secretsquirrel/recomposer](https://github.com/secretsquirrel/recomposer)]([https://github.com/secretsquirrel/recomposer](https://github.com/secretsquirrel/recomposer))
+
+**Author:** secretsquirrel
 
 ---
 
-## recon-ng
+## recon
 
-**Repository:** [https://github.com/lanmaster53/recon-ng](https://github.com/lanmaster53/recon-ng)
+**Repository:** [[https://github.com/rusty-ferris-club/recon](https://github.com/rusty-ferris-club/recon)]([https://github.com/rusty-ferris-club/recon](https://github.com/rusty-ferris-club/recon))
 
-**Author:** lanmaster53
-
-**Last Updated:** 2024-11-01
-
-**Description:** [Recon-ng content now available on Pluralsight!](https://app.pluralsight.com/library/courses/technical-information-gathering-recon-ng)
+**Author:** rusty-ferris-club
 
 ---
 
 ## RecuperaBit
 
-**Repository:** [https://github.com/Lazza/RecuperaBit](https://github.com/Lazza/RecuperaBit)
+**Repository:** [[https://github.com/Lazza/RecuperaBit](https://github.com/Lazza/RecuperaBit)]([https://github.com/Lazza/RecuperaBit](https://github.com/Lazza/RecuperaBit))
 
 **Author:** Lazza
 
-**Last Updated:** 2025-11-02
+---
 
-**Description:**   **Warning**
+## recursebuster
+
+**Repository:** [[https://github.com/c-sto/recursebuster](https://github.com/c-sto/recursebuster)]([https://github.com/c-sto/recursebuster](https://github.com/c-sto/recursebuster))
+
+**Author:** c-sto
 
 ---
 
-## reverse-shell-generator
+## Redcloud
 
-**Repository:** [https://github.com/0dayCTF/reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator)
+**Repository:** [[https://github.com/khast3x/Redcloud](https://github.com/khast3x/Redcloud)]([https://github.com/khast3x/Redcloud](https://github.com/khast3x/Redcloud))
 
-**Author:** 0dayCTF
+**Author:** khast3x
 
-**Last Updated:** 2025-06-14
+---
 
-**Description:** <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section --> <!-- ALL-CONTRIBUTORS-BADGE:END --> Hosted Reverse Shell generator with a ton of functionality -- (great for CTFs)
+## RedELK
+
+**Repository:** [[https://github.com/outflanknl/RedELK](https://github.com/outflanknl/RedELK)]([https://github.com/outflanknl/RedELK](https://github.com/outflanknl/RedELK))
+
+**Author:** outflanknl
+
+---
+
+## redexer
+
+**Repository:** [[https://github.com/plum-umd/redexer](https://github.com/plum-umd/redexer)]([https://github.com/plum-umd/redexer](https://github.com/plum-umd/redexer))
+
+**Author:** plum-umd
+
+---
+
+## RedGuard
+
+**Repository:** [[https://github.com/wikiZ/RedGuard](https://github.com/wikiZ/RedGuard)]([https://github.com/wikiZ/RedGuard](https://github.com/wikiZ/RedGuard))
+
+**Author:** wikiZ
+
+---
+
+## RedisHoneyPot
+
+**Repository:** [[https://github.com/cypwnpwnsocute/RedisHoneyPot](https://github.com/cypwnpwnsocute/RedisHoneyPot)]([https://github.com/cypwnpwnsocute/RedisHoneyPot](https://github.com/cypwnpwnsocute/RedisHoneyPot))
+
+**Author:** cypwnpwnsocute
+
+---
+
+## redoctober
+
+**Repository:** [[https://github.com/cloudflare/redoctober](https://github.com/cloudflare/redoctober)]([https://github.com/cloudflare/redoctober](https://github.com/cloudflare/redoctober))
+
+**Author:** cloudflare
+
+---
+
+## RedPeanut
+
+**Repository:** [[https://github.com/b4rtik/RedPeanut](https://github.com/b4rtik/RedPeanut)]([https://github.com/b4rtik/RedPeanut](https://github.com/b4rtik/RedPeanut))
+
+**Author:** b4rtik
+
+---
+
+## refinery
+
+**Repository:** [[https://github.com/binref/refinery](https://github.com/binref/refinery)]([https://github.com/binref/refinery](https://github.com/binref/refinery))
+
+**Author:** binref
+
+---
+
+## reFlutter
+
+**Repository:** [[https://github.com/ptswarm/reFlutter](https://github.com/ptswarm/reFlutter)]([https://github.com/ptswarm/reFlutter](https://github.com/ptswarm/reFlutter))
+
+**Author:** ptswarm
+
+---
+
+## RegRipper3.0
+
+**Repository:** [[https://github.com/keydet89/RegRipper3.0](https://github.com/keydet89/RegRipper3.0)]([https://github.com/keydet89/RegRipper3.0](https://github.com/keydet89/RegRipper3.0))
+
+**Author:** keydet89
+
+---
+
+## regrippy
+
+**Repository:** [[https://github.com/airbus-cert/regrippy](https://github.com/airbus-cert/regrippy)]([https://github.com/airbus-cert/regrippy](https://github.com/airbus-cert/regrippy))
+
+**Author:** airbus-cert
+
+---
+
+## retdec
+
+**Repository:** [[https://github.com/avast-tl/retdec](https://github.com/avast-tl/retdec)]([https://github.com/avast-tl/retdec](https://github.com/avast-tl/retdec))
+
+**Author:** avast-tl
+
+---
+
+## reyara
+
+**Repository:** [[https://github.com/VectraThreatLab/reyara](https://github.com/VectraThreatLab/reyara)]([https://github.com/VectraThreatLab/reyara](https://github.com/VectraThreatLab/reyara))
+
+**Author:** VectraThreatLab
 
 ---
 
 ## ridenum
 
-**Repository:** [https://github.com/trustedsec/ridenum](https://github.com/trustedsec/ridenum)
+**Repository:** [[https://github.com/trustedsec/ridenum](https://github.com/trustedsec/ridenum)]([https://github.com/trustedsec/ridenum](https://github.com/trustedsec/ridenum))
 
 **Author:** trustedsec
 
-**Last Updated:** 2020-03-11
+---
 
-**Description:** Copyright 2018 TrustedSec
+## ripgrep
+
+**Repository:** [[https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)]([https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep))
+
+**Author:** BurntSushi
 
 ---
 
 ## rita
 
-**Repository:** [https://github.com/activecm/rita](https://github.com/activecm/rita)
+**Repository:** [[https://github.com/activecm/rita](https://github.com/activecm/rita)]([https://github.com/activecm/rita](https://github.com/activecm/rita))
 
 **Author:** activecm
 
-**Last Updated:** 2026-01-20
+---
 
-**Description:** If you get value out of RITA and would like to go a step further with hunting automation, futuristic visualizations, and data enrichment, then take a look at [AC-Hunter](https://www.activecountermeasures.com/).
+## RMS-Runtime-Mobile-Security
+
+**Repository:** [[https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)]([https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security))
+
+**Author:** m0bilesecurity
 
 ---
 
 ## RootTheBox
 
-**Repository:** [https://github.com/moloch--/RootTheBox](https://github.com/moloch--/RootTheBox)
+**Repository:** [[https://github.com/moloch--/RootTheBox](https://github.com/moloch--/RootTheBox)]([https://github.com/moloch--/RootTheBox](https://github.com/moloch--/RootTheBox))
 
 **Author:** moloch--
-
-**Last Updated:** 2025-02-06
-
-**Description:** Root the Box is a real-time capture the flag (CTF) scoring engine for computer wargames where hackers can practice and learn. The application can be easily configured and modified for any CTF style game. The platform allows you to engage novice and experienced players alike by combining a fun gam...
-
----
-
-## ROPgadget
-
-**Repository:** [https://github.com/JonathanSalwan/ROPgadget](https://github.com/JonathanSalwan/ROPgadget)
-
-**Author:** JonathanSalwan
-
-**Last Updated:** 2025-12-16
-
-**Description:** ROPgadget Tool
-
----
-
-## ROPMEMU
-
-**Repository:** [https://github.com/Cisco-Talos/ROPMEMU](https://github.com/Cisco-Talos/ROPMEMU)
-
-**Author:** Cisco-Talos
-
-**Last Updated:** 2016-05-25
-
-**Description:** ROPMEMU is a framework to analyze, dissect and decompile complex code-reuse attacks. It adopts a set of different techniques to analyze ROP chains and reconstruct their equivalent code in a form that can be
-
----
-
-## routersploit
-
-**Repository:** [https://github.com/reverse-shell/routersploit](https://github.com/reverse-shell/routersploit)
-
-**Author:** reverse-shell
-
-**Last Updated:** 2025-04-24
-
-**Description:** Join community on [Embedded Exploitation Discord](https://discord.gg/UCXARN2vBx).
 
 ---
 
 ## rsatool
 
-**Repository:** [https://github.com/ius/rsatool](https://github.com/ius/rsatool)
+**Repository:** [[https://github.com/ius/rsatool](https://github.com/ius/rsatool)]([https://github.com/ius/rsatool](https://github.com/ius/rsatool))
 
 **Author:** ius
-
-**Last Updated:** 2025-01-12
-
-**Description:** Description rsatool calculates RSA (p, q, n, d, e) and RSA-CRT (dP, dQ, qInv) parameters given either two primes (p, q) or modulus and private exponent (n, d).
 
 ---
 
 ## rshijack
 
-**Repository:** [https://github.com/kpcyrd/rshijack](https://github.com/kpcyrd/rshijack)
+**Repository:** [[https://github.com/kpcyrd/rshijack](https://github.com/kpcyrd/rshijack)]([https://github.com/kpcyrd/rshijack](https://github.com/kpcyrd/rshijack))
 
 **Author:** kpcyrd
 
-**Last Updated:** 2024-10-30
+---
 
-**Description:** [crates]:       https://crates.io/crates/rshijack
+## rspamd
+
+**Repository:** [[https://github.com/rspamd/rspamd](https://github.com/rspamd/rspamd)]([https://github.com/rspamd/rspamd](https://github.com/rspamd/rspamd))
+
+**Author:** rspamd
 
 ---
 
-## Rubeus
+## rtfsig
 
-**Repository:** [https://github.com/GhostPack/Rubeus](https://github.com/GhostPack/Rubeus)
+**Repository:** [[https://github.com/PwCUK-CTO/rtfsig](https://github.com/PwCUK-CTO/rtfsig)]([https://github.com/PwCUK-CTO/rtfsig](https://github.com/PwCUK-CTO/rtfsig))
 
-**Author:** GhostPack
-
-**Last Updated:** 2025-11-14
-
-**Description:** Rubeus is a C# toolset for raw Kerberos interaction and abuses. It is **heavily** adapted from [Benjamin Delpy](https://twitter.com/gentilkiwi)'s [Kekeo](https://github.com/gentilkiwi/kekeo/) project (CC BY-NC-SA 4.0 license) and [Vincent LE TOUX](https://twitter.com/mysmartlogon)'s [MakeMeEnterp...
+**Author:** PwCUK-CTO
 
 ---
 
 ## ruby-bookmarks
 
-**Repository:** [https://github.com/dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks)
+**Repository:** [[https://github.com/dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks)]([https://github.com/dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks))
 
 **Author:** dreikanter
-
-**Last Updated:** 2025-08-22
-
-**Description:** This is a curated collection of essential Ruby and Ruby on Rails resources. The project aims to maintain a well-structured reference that is equally useful for both beginners and advanced web developers.
 
 ---
 
 ## ruler
 
-**Repository:** [https://github.com/sensepost/ruler](https://github.com/sensepost/ruler)
+**Repository:** [[https://github.com/sensepost/ruler](https://github.com/sensepost/ruler)]([https://github.com/sensepost/ruler](https://github.com/sensepost/ruler))
 
 **Author:** sensepost
-
-**Last Updated:** 2024-06-10
-
-**Description:** Ruler is a tool that allows you to interact with Exchange servers remotely, through either the MAPI/HTTP or RPC/HTTP protocol. The main aim is abuse the client-side Outlook features and gain a shell remotely.
 
 ---
 
 ## rustnet
 
-**Repository:** [https://github.com/domcyrus/rustnet](https://github.com/domcyrus/rustnet)
+**Repository:** [[https://github.com/domcyrus/rustnet](https://github.com/domcyrus/rustnet)]([https://github.com/domcyrus/rustnet](https://github.com/domcyrus/rustnet))
 
 **Author:** domcyrus
 
-**Last Updated:** 2026-02-10
-
-**Description:** A cross-platform network monitoring tool built with Rust. RustNet provides real-time visibility into network connections with detailed state information, connection lifecycle management, deep packet inspection, and a terminal user interface.
-
 ---
 
-## rustscan
+## safe
 
-**Repository:** [https://github.com/rustscan/rustscan](https://github.com/rustscan/rustscan)
+**Repository:** [[https://github.com/starkandwayne/safe](https://github.com/starkandwayne/safe)]([https://github.com/starkandwayne/safe](https://github.com/starkandwayne/safe))
 
-**Author:** rustscan
-
-**Last Updated:** 2026-02-10
-
-**Description:** (No description available)
----
-
-## rVMI
-
-**Repository:** [https://github.com/fireeye/rVMI](https://github.com/fireeye/rVMI)
-
-**Author:** fireeye
-
-**Last Updated:** 2017-10-04
-
-**Description:** rVMI is a debugger on steroids. It leverages Virtual Machine Introspection (VMI) and memory forensics to provide full system analysis. This means that an analyst can inspect userspace processes, kernel drivers, and pre-boot environments in a
-
----
-
-## S7Comm-Analyzer
-
-**Repository:** [https://github.com/dw2102/S7Comm-Analyzer](https://github.com/dw2102/S7Comm-Analyzer)
-
-**Author:** dw2102
-
-**Last Updated:** 2023-06-23
-
-**Description:** ISO over TCP / S7Comm protocol analyzer.
-
----
-
-## s7scan
-
-**Repository:** [https://github.com/klsecservices/s7scan](https://github.com/klsecservices/s7scan)
-
-**Author:** klsecservices
-
-**Last Updated:** 2018-12-28
-
-**Description:** **s7scan** is a tool that scans networks, enumerates Siemens PLCs and gathers basic information about them, such as PLC firmware and hardwaare version, network configuration and security parameters. It is completely written on Python.
+**Author:** starkandwayne
 
 ---
 
 ## santa
 
-**Repository:** [https://github.com/google/santa](https://github.com/google/santa)
+**Repository:** [[https://github.com/google/santa](https://github.com/google/santa)]([https://github.com/google/santa](https://github.com/google/santa))
 
 **Author:** google
-
-**Last Updated:** 2025-02-05
-
-**Description:** > **As of 2025, Santa is no longer maintained by Google.**  We encourage > existing users to migrate to an actively maintained fork of Santa, such as > https://github.com/northpolesec/santa.
 
 ---
 
 ## SatIntel
 
-**Repository:** [https://github.com/ANG13T/SatIntel](https://github.com/ANG13T/SatIntel)
+**Repository:** [[https://github.com/ANG13T/SatIntel](https://github.com/ANG13T/SatIntel)]([https://github.com/ANG13T/SatIntel](https://github.com/ANG13T/SatIntel))
 
 **Author:** ANG13T
-
-**Last Updated:** 2023-07-10
-
-**Description:** .       .                   .       .      .     .      .                      .              . .           .            .     ________ .               /////////                .         .      .       .       .          .
-
----
-
-## SCADAShutdownTool
-
-**Repository:** [https://github.com/0xICF/SCADAShutdownTool](https://github.com/0xICF/SCADAShutdownTool)
-
-**Author:** 0xICF
-
-**Last Updated:** 2015-11-29
-
-**Description:** SCADA Shutdown Tool
-
----
-
-## ScanCannon
-
-**Repository:** [https://github.com/johnnyxmas/ScanCannon](https://github.com/johnnyxmas/ScanCannon)
-
-**Author:** johnnyxmas
-
-**Last Updated:** 2025-06-19
-
-**Description:** **A Bash script for efficient credential attack surface enumeration and general reconnaissance of massive network ranges.**
-
----
-
-## scanless
-
-**Repository:** [https://github.com/vesche/scanless](https://github.com/vesche/scanless)
-
-**Author:** vesche
-
-**Last Updated:** 2023-08-07
-
-**Description:** ⚠️ I am no longer maintaining scanless as of August 2023. ⚠️
 
 ---
 
 ## scapy
 
-**Repository:** [https://github.com/secdev/scapy](https://github.com/secdev/scapy)
+**Repository:** [[https://github.com/secdev/scapy](https://github.com/secdev/scapy)]([https://github.com/secdev/scapy](https://github.com/secdev/scapy))
 
 **Author:** secdev
-
-**Last Updated:** 2026-02-09
-
-**Description:** <!-- start_ppi_description -->
 
 ---
 
 ## schem
 
-**Repository:** [https://github.com/hexgolems/schem](https://github.com/hexgolems/schem)
+**Repository:** [[https://github.com/hexgolems/schem](https://github.com/hexgolems/schem)]([https://github.com/hexgolems/schem](https://github.com/hexgolems/schem))
 
 **Author:** hexgolems
-
-**Last Updated:** 2015-11-11
-
-**Description:** + [SchemDBG](#schem) + [Vision](#vision) + [Features](#features) + [Installation](#installation) + [Known Issues](#issues) + [Contributing](#contributing) + [Contact](#contact)
-
----
-
-## SCOMDecrypt
-
-**Repository:** [https://github.com/nccgroup/SCOMDecrypt](https://github.com/nccgroup/SCOMDecrypt)
-
-**Author:** nccgroup
-
-**Last Updated:** 2022-10-06
-
-**Description:** No README found
-
----
-
-## scorebot
-
-**Repository:** [https://github.com/legitbs/scorebot](https://github.com/legitbs/scorebot)
-
-**Author:** legitbs
-
-**Last Updated:** 2017-07-30
-
-**Description:** No README found
 
 ---
 
 ## ScoutSuite
 
-**Repository:** [https://github.com/nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite)
+**Repository:** [[https://github.com/nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite)]([https://github.com/nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite))
 
 **Author:** nccgroup
 
-**Last Updated:** 2024-05-10
+---
 
-**Description:** (No description available)
+## ScratchABit
+
+**Repository:** [[https://github.com/pfalcon/ScratchABit](https://github.com/pfalcon/ScratchABit)]([https://github.com/pfalcon/ScratchABit](https://github.com/pfalcon/ScratchABit))
+
+**Author:** pfalcon
+
 ---
 
 ## Scylla
 
-**Repository:** [https://github.com/NtQuery/Scylla](https://github.com/NtQuery/Scylla)
+**Repository:** [[https://github.com/NtQuery/Scylla](https://github.com/NtQuery/Scylla)]([https://github.com/NtQuery/Scylla](https://github.com/NtQuery/Scylla))
 
 **Author:** NtQuery
 
-**Last Updated:** 2019-01-05
+---
 
-**Description:** Scylla - x64/x86 Imports Reconstruction
+## ScyllaHide
+
+**Repository:** [[https://github.com/x64dbg/ScyllaHide](https://github.com/x64dbg/ScyllaHide)]([https://github.com/x64dbg/ScyllaHide](https://github.com/x64dbg/ScyllaHide))
+
+**Author:** x64dbg
 
 ---
 
 ## sdc
 
-**Repository:** [https://github.com/joyent/sdc](https://github.com/joyent/sdc)
+**Repository:** [[https://github.com/joyent/sdc](https://github.com/joyent/sdc)]([https://github.com/joyent/sdc](https://github.com/joyent/sdc))
 
 **Author:** joyent
 
-**Last Updated:** 2025-06-18
-
-**Description:** This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
 ---
 
-## sealed-secrets
+## SecretScanner
 
-**Repository:** [https://github.com/bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets)
+**Repository:** [[https://github.com/deepfence/SecretScanner](https://github.com/deepfence/SecretScanner)]([https://github.com/deepfence/SecretScanner](https://github.com/deepfence/SecretScanner))
 
-**Author:** bitnami-labs
-
-**Last Updated:** 2026-02-12
-
-**Description:** **Problem:** "I can manage all my K8s config in git, except Secrets."
-
----
-
-## search-abuseipdb
-
-**Repository:** [https://github.com/oseasfr/search-abuseipdb](https://github.com/oseasfr/search-abuseipdb)
-
-**Author:** oseasfr
-
-**Last Updated:** 2025-05-18
-
-**Description:** (No description available)
----
-
-## SecGen
-
-**Repository:** [https://github.com/cliffe/SecGen](https://github.com/cliffe/SecGen)
-
-**Author:** cliffe
-
-**Last Updated:** 2026-02-08
-
-**Description:** SecGen creates vulnerable virtual machines, lab environments, and hacking challenges, so students can learn security penetration testing techniques.
-
----
-
-## SecLists
-
-**Repository:** [https://github.com/danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
-
-**Author:** danielmiessler
-
-**Last Updated:** 2026-02-11
-
-**Description:**  <a href="https://go.warp.dev/seclists" target="_blank"> <sup>Special thanks to:</sup>
+**Author:** deepfence
 
 ---
 
 ## securedrop
 
-**Repository:** [https://github.com/freedomofpress/securedrop](https://github.com/freedomofpress/securedrop)
+**Repository:** [[https://github.com/freedomofpress/securedrop](https://github.com/freedomofpress/securedrop)]([https://github.com/freedomofpress/securedrop](https://github.com/freedomofpress/securedrop))
 
 **Author:** freedomofpress
 
-**Last Updated:** 2026-02-11
-
-**Description:** (No description available)
 ---
 
-## security-acronyms
+## security-cheatsheets
 
-**Repository:** [https://github.com/cloudsecurelab/security-acronyms](https://github.com/cloudsecurelab/security-acronyms)
+**Repository:** [[https://github.com/teamghsoftware/security-cheatsheets](https://github.com/teamghsoftware/security-cheatsheets)]([https://github.com/teamghsoftware/security-cheatsheets](https://github.com/teamghsoftware/security-cheatsheets))
 
-**Author:** cloudsecurelab
-
-**Last Updated:** 2026-01-19
-
-**Description:** No README found
+**Author:** teamghsoftware
 
 ---
 
-## see
+## Security_list
 
-**Repository:** [https://github.com/F-Secure/see](https://github.com/F-Secure/see)
+**Repository:** [[https://github.com/zbetcheckin/Security_list](https://github.com/zbetcheckin/Security_list)]([https://github.com/zbetcheckin/Security_list](https://github.com/zbetcheckin/Security_list))
 
-**Author:** F-Secure
-
-**Last Updated:** 2020-10-05
-
-**Description:** Sandboxed Execution Environment
+**Author:** zbetcheckin
 
 ---
 
-## SentinelTestbed
+## SentryPeer
 
-**Repository:** [https://github.com/dobin/SentinelTestbed](https://github.com/dobin/SentinelTestbed)
+**Repository:** [[https://github.com/SentryPeer/SentryPeer](https://github.com/SentryPeer/SentryPeer)]([https://github.com/SentryPeer/SentryPeer](https://github.com/SentryPeer/SentryPeer))
 
-**Author:** dobin
-
-**Last Updated:** 2016-11-18
-
-**Description:** SentinelTestbed
+**Author:** SentryPeer
 
 ---
 
 ## SerpScan
 
-**Repository:** [https://github.com/Alaa-abdulridha/SerpScan](https://github.com/Alaa-abdulridha/SerpScan)
+**Repository:** [[https://github.com/Alaa-abdulridha/SerpScan](https://github.com/Alaa-abdulridha/SerpScan)]([https://github.com/Alaa-abdulridha/SerpScan](https://github.com/Alaa-abdulridha/SerpScan))
 
 **Author:** Alaa-abdulridha
-
-**Last Updated:** 2021-06-14
-
-**Description:**  <a href="https://serpapi.com/">
 
 ---
 
 ## serviceradar
 
-**Repository:** [https://github.com/carverauto/serviceradar](https://github.com/carverauto/serviceradar)
+**Repository:** [[https://github.com/carverauto/serviceradar](https://github.com/carverauto/serviceradar)]([https://github.com/carverauto/serviceradar](https://github.com/carverauto/serviceradar))
 
 **Author:** carverauto
 
-**Last Updated:** 2026-02-12
+---
 
-**Description:** (No description available)
+## setup-tor
+
+**Repository:** [[https://github.com/tor-actions/setup-tor](https://github.com/tor-actions/setup-tor)]([https://github.com/tor-actions/setup-tor](https://github.com/tor-actions/setup-tor))
+
+**Author:** tor-actions
+
 ---
 
 ## sflock
 
-**Repository:** [https://github.com/jbremer/sflock](https://github.com/jbremer/sflock)
+**Repository:** [[https://github.com/jbremer/sflock](https://github.com/jbremer/sflock)]([https://github.com/jbremer/sflock](https://github.com/jbremer/sflock))
 
 **Author:** jbremer
 
-**Last Updated:** 2021-12-08
-
-**Description:** Sample staging &amp; detonation utility to be used as unpacking engine for other analysis tools. Since version 0.3 sflock is compatible with both Python 2 and Python 3 (to be precise, Python 2.7, 3.5, and 3.6).
-
 ---
 
-## sgx-step
+## shellclear
 
-**Repository:** [https://github.com/jovanbulck/sgx-step](https://github.com/jovanbulck/sgx-step)
+**Repository:** [[https://github.com/rusty-ferris-club/shellclear](https://github.com/rusty-ferris-club/shellclear)]([https://github.com/rusty-ferris-club/shellclear](https://github.com/rusty-ferris-club/shellclear))
 
-**Author:** jovanbulck
+**Author:** rusty-ferris-club
 
-**Last Updated:** 2026-01-16
-
-**Description:** (No description available)
----
-
-## sharppcap
-
-**Repository:** [https://github.com/dotpcap/sharppcap](https://github.com/dotpcap/sharppcap)
-
-**Author:** dotpcap
-
-**Last Updated:** 2026-01-14
-
-**Description:** Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets from live and file based devices
-
----
-
-## SharPyShell
-
-**Repository:** [https://github.com/antonioCoco/SharPyShell](https://github.com/antonioCoco/SharPyShell)
-
-**Author:** antonioCoco
-
-**Last Updated:** 2023-11-26
-
-**Description:** (No description available)
 ---
 
 ## shellfirm
 
-**Repository:** [https://github.com/kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm)
+**Repository:** [[https://github.com/kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm)]([https://github.com/kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm))
 
 **Author:** kaplanelad
-
-**Last Updated:** 2025-03-25
-
-**Description:** (No description available)
----
-
-## shellpop
-
-**Repository:** [https://github.com/0x00-0x00/shellpop](https://github.com/0x00-0x00/shellpop)
-
-**Author:** 0x00-0x00
-
-**Last Updated:** 2019-04-02
-
-**Description:** Shellpop is all about popping shells. With this tool you can generate easy and sophisticated reverse or bind shell commands to help you during penetration tests.
 
 ---
 
 ## sherloq
 
-**Repository:** [https://github.com/GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq)
+**Repository:** [[https://github.com/GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq)]([https://github.com/GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq))
 
 **Author:** GuidoBartoli
-
-**Last Updated:** 2025-07-14
-
-**Description:**   <br><b>An open source image forensic toolset</b>
 
 ---
 
 ## Shockpot-Frontend
 
-**Repository:** [https://github.com/GovCERT-CZ/Shockpot-Frontend](https://github.com/GovCERT-CZ/Shockpot-Frontend)
+**Repository:** [[https://github.com/GovCERT-CZ/Shockpot-Frontend](https://github.com/GovCERT-CZ/Shockpot-Frontend)]([https://github.com/GovCERT-CZ/Shockpot-Frontend](https://github.com/GovCERT-CZ/Shockpot-Frontend))
 
 **Author:** GovCERT-CZ
 
-**Last Updated:** 2015-11-03
+---
 
-**Description:** Shockpot-Frontend is a full featured script to visualize statistics from a Shockpot honeypot.
+## shotgunyara
+
+**Repository:** [[https://github.com/darienhuss/shotgunyara](https://github.com/darienhuss/shotgunyara)]([https://github.com/darienhuss/shotgunyara](https://github.com/darienhuss/shotgunyara))
+
+**Author:** darienhuss
+
+---
+
+## shotstars
+
+**Repository:** [[https://github.com/snooppr/shotstars](https://github.com/snooppr/shotstars)]([https://github.com/snooppr/shotstars](https://github.com/snooppr/shotstars))
+
+**Author:** snooppr
 
 ---
 
 ## SIET
 
-**Repository:** [https://github.com/Sab0tag3d/SIET](https://github.com/Sab0tag3d/SIET)
+**Repository:** [[https://github.com/Sab0tag3d/SIET](https://github.com/Sab0tag3d/SIET)]([https://github.com/Sab0tag3d/SIET](https://github.com/Sab0tag3d/SIET))
 
 **Author:** Sab0tag3d
 
-**Last Updated:** 2021-12-21
+---
 
-**Description:** Cisco Smart Install is a plug-and-play configuration and image-management feature that provides zero-touch deployment for new switches. You can ship a switch to a location, place it in the network and power it on with no configuration required on the device.
+## Sigma2SPL
+
+**Repository:** [[https://github.com/Khadinxc/Sigma2SPL](https://github.com/Khadinxc/Sigma2SPL)]([https://github.com/Khadinxc/Sigma2SPL](https://github.com/Khadinxc/Sigma2SPL))
+
+**Author:** Khadinxc
 
 ---
 
-## signator-rules
+## signature-base
 
-**Repository:** [https://github.com/malpedia/signator-rules](https://github.com/malpedia/signator-rules)
+**Repository:** [[https://github.com/Neo23x0/signature-base](https://github.com/Neo23x0/signature-base)]([https://github.com/Neo23x0/signature-base](https://github.com/Neo23x0/signature-base))
 
-**Author:** malpedia
+**Author:** Neo23x0
 
-**Last Updated:** 2026-01-06
-
-**Description:** This repository intends to simplify access to and synchronization of [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)'s automatically generated, code-based YARA rules.
-
----
-
-## SigPloit
-
-**Repository:** [https://github.com/SigPloiter/SigPloit](https://github.com/SigPloiter/SigPloit)
-
-**Author:** SigPloiter
-
-**Last Updated:** 2019-06-27
-
-**Description:** - Rosalia D'Alessandro - Ilario Dal Grande
-
----
-
-## SILENTTRINITY
-
-**Repository:** [https://github.com/byt3bl33d3r/SILENTTRINITY](https://github.com/byt3bl33d3r/SILENTTRINITY)
-
-**Author:** byt3bl33d3r
-
-**Last Updated:** 2023-12-06
-
-**Description:** (No description available)
 ---
 
 ## simplify
 
-**Repository:** [https://github.com/CalebFenton/simplify](https://github.com/CalebFenton/simplify)
+**Repository:** [[https://github.com/CalebFenton/simplify](https://github.com/CalebFenton/simplify)]([https://github.com/CalebFenton/simplify](https://github.com/CalebFenton/simplify))
 
 **Author:** CalebFenton
-
-**Last Updated:** 2021-05-23
-
-**Description:** Simplify virtually executes an app to understand its behavior and then tries to optimize the code so that it behaves identically but is easier for a human to understand. Each optimization type is simple and generic, so it doesn't matter what the specific type of obfuscation is used.
 
 ---
 
 ## SimplyEmail
 
-**Repository:** [https://github.com/SimplySecurity/SimplyEmail](https://github.com/SimplySecurity/SimplyEmail)
+**Repository:** [[https://github.com/SimplySecurity/SimplyEmail](https://github.com/SimplySecurity/SimplyEmail)]([https://github.com/SimplySecurity/SimplyEmail](https://github.com/SimplySecurity/SimplyEmail))
 
 **Author:** SimplySecurity
 
-**Last Updated:** 2018-08-31
-
-**Description:** SimplyEmail was built arround the concept that tools should do somthing, and do that somthing well, hence 'Simply'. Full documentation can be found at:
-
 ---
 
-## SIREN
+## sleuthkit
 
-**Repository:** [https://github.com/blaverick62/SIREN](https://github.com/blaverick62/SIREN)
+**Repository:** [[https://github.com/sleuthkit/sleuthkit](https://github.com/sleuthkit/sleuthkit)]([https://github.com/sleuthkit/sleuthkit](https://github.com/sleuthkit/sleuthkit))
 
-**Author:** blaverick62
-
-**Last Updated:** 2018-03-16
-
-**Description:** No README found
-
----
-
-## sixnet-tools
-
-**Repository:** [https://github.com/mssabr01/sixnet-tools](https://github.com/mssabr01/sixnet-tools)
-
-**Author:** mssabr01
-
-**Last Updated:** 2018-03-15
-
-**Description:** Tool for exploiting sixnet RTUs
-
----
-
-## skiptracer
-
-**Repository:** [https://github.com/xillwillx/skiptracer](https://github.com/xillwillx/skiptracer)
-
-**Author:** xillwillx
-
-**Last Updated:** 2020-12-19
-
-**Description:** Project moved to https://gitlab.com/illwill/skiptracer
-
----
-
-## Slackor
-
-**Repository:** [https://github.com/Coalfire-Research/Slackor](https://github.com/Coalfire-Research/Slackor)
-
-**Author:** Coalfire-Research
-
-**Last Updated:** 2019-10-10
-
-**Description:** Maintained at [https://github.com/n00py/Slackor](https://github.com/n00py/Slackor)
-
----
-
-## sliver
-
-**Repository:** [https://github.com/BishopFox/sliver](https://github.com/BishopFox/sliver)
-
-**Author:** BishopFox
-
-**Last Updated:** 2026-02-10
-
-**Description:** Sliver is an open source cross-platform adversary emulation/red team framework, it can be used by organizations of all sizes to perform security testing. Sliver's implants support C2 over Mutual TLS (mTLS), WireGuard, HTTP(S), and DNS and are dynamically compiled with per-binary asymmetric encryp...
-
----
-
-## slowloris
-
-**Repository:** [https://github.com/gkbrk/slowloris](https://github.com/gkbrk/slowloris)
-
-**Author:** gkbrk
-
-**Last Updated:** 2023-04-30
-
-**Description:** Slowloris is basically an HTTP Denial of Service attack that affects threaded servers. It works like this:
+**Author:** sleuthkit
 
 ---
 
 ## smali
 
-**Repository:** [https://github.com/JesusFreke/smali](https://github.com/JesusFreke/smali)
+**Repository:** [[https://github.com/JesusFreke/smali](https://github.com/JesusFreke/smali)]([https://github.com/JesusFreke/smali](https://github.com/JesusFreke/smali))
 
 **Author:** JesusFreke
 
-**Last Updated:** 2022-03-08
+---
 
-**Description:** smali/baksmali is an assembler/disassembler for the dex format used by dalvik, Android's Java VM implementation. The syntax is loosely based on Jasmin's/dedexer's syntax, and supports the full functionality of the dex format (annotations, debug info, line info, etc.)
+## smart-honeypot
+
+**Repository:** [[https://github.com/freak3dot/smart-honeypot](https://github.com/freak3dot/smart-honeypot)]([https://github.com/freak3dot/smart-honeypot](https://github.com/freak3dot/smart-honeypot))
+
+**Author:** freak3dot
 
 ---
 
-## smalisca
+## SmartDeblur
 
-**Repository:** [https://github.com/dorneanu/smalisca](https://github.com/dorneanu/smalisca)
+**Repository:** [[https://github.com/Y-Vladimir/SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur)]([https://github.com/Y-Vladimir/SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur))
 
-**Author:** dorneanu
-
-**Last Updated:** 2017-03-08
-
-**Description:** Static Code Analysis for Smali
+**Author:** Y-Vladimir
 
 ---
 
 ## smbmap
 
-**Repository:** [https://github.com/ShawnDEvans/smbmap](https://github.com/ShawnDEvans/smbmap)
+**Repository:** [[https://github.com/ShawnDEvans/smbmap](https://github.com/ShawnDEvans/smbmap)]([https://github.com/ShawnDEvans/smbmap](https://github.com/ShawnDEvans/smbmap))
 
 **Author:** ShawnDEvans
-
-**Last Updated:** 2026-01-06
-
-**Description:** SMBMap allows users to enumerate samba share drives across an entire domain. List share drives, drive permissions, share contents, upload/download functionality, file name auto-download pattern matching, and even execute remote commands. This tool was designed with pen testing in mind, and is int...
-
----
-
-## smod
-
-**Repository:** [https://github.com/0x0mar/smod](https://github.com/0x0mar/smod)
-
-**Author:** 0x0mar
-
-**Last Updated:** 2016-01-14
-
-**Description:** smod is a modular framework with every kind of diagnostic and offensive feature you could need in order to pentest modbus protocol. It is a full Modbus protocol implementation using Python and Scapy. This software could be run on Linux/OSX under python 2.7.x.
 
 ---
 
 ## sn0int
 
-**Repository:** [https://github.com/kpcyrd/sn0int](https://github.com/kpcyrd/sn0int)
+**Repository:** [[https://github.com/kpcyrd/sn0int](https://github.com/kpcyrd/sn0int)]([https://github.com/kpcyrd/sn0int](https://github.com/kpcyrd/sn0int))
 
 **Author:** kpcyrd
-
-**Last Updated:** 2025-01-31
-
-**Description:** [crates]:       https://crates.io/crates/sn0int [docs-img]:     https://readthedocs.org/projects/sn0int/badge/?version=latest [docs]:         https://sn0int.readthedocs.io/en/latest/?badge=latest [irc]:          https://webirc.hackint.org/#irc://irc.hackint.org/#sn0int
-
----
-
-## Sn1per
-
-**Repository:** [https://github.com/1N3/Sn1per](https://github.com/1N3/Sn1per)
-
-**Author:** 1N3
-
-**Last Updated:** 2026-01-12
-
-**Description:** [[Website](https://sn1persecurity.com/wordpress/)] [[Blog](https://sn1persecurity.com/wordpress/blog/)] [[Shop](https://sn1persecurity.com/wordpress/shop)] [[Documentation](https://sn1persecurity.com/wordpress/documentation/)] [[Demo](https://www.youtube.com/c/Sn1perSecurity/videos)] [[Find Out M...
-
----
-
-## Snake_Apple
-
-**Repository:** [https://github.com/Karmaz95/Snake_Apple](https://github.com/Karmaz95/Snake_Apple)
-
-**Author:** Karmaz95
-
-**Last Updated:** 2026-01-09
-
-**Description:** This is the code repository for the "[Snake & Apple](https://karol-mazurek.medium.com/list/snakeapple-50baea541374)" article series, which documents my research on macOS security. The primary tool developed during the creation of the series is called `CrimsonUroboros`. You can find its descriptio...
 
 ---
 
 ## snare
 
-**Repository:** [https://github.com/mushorg/snare](https://github.com/mushorg/snare)
+**Repository:** [[https://github.com/mushorg/snare](https://github.com/mushorg/snare)]([https://github.com/mushorg/snare](https://github.com/mushorg/snare))
 
 **Author:** mushorg
-
-**Last Updated:** 2024-06-10
-
-**Description:** _**Super Next generation Advanced Reactive honEypot**_
 
 ---
 
 ## sniffglue
 
-**Repository:** [https://github.com/kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue)
+**Repository:** [[https://github.com/kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue)]([https://github.com/kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue))
 
 **Author:** kpcyrd
 
-**Last Updated:** 2025-01-24
-
-**Description:** [travis-img]:   https://travis-ci.org/kpcyrd/sniffglue.svg?branch=master [travis]:       https://travis-ci.org/kpcyrd/sniffglue [crates]:       https://crates.io/crates/sniffglue
-
 ---
 
-## snitch
+## snoop
 
-**Repository:** [https://github.com/Smaash/snitch](https://github.com/Smaash/snitch)
+**Repository:** [[https://github.com/snooppr/snoop](https://github.com/snooppr/snoop)]([https://github.com/snooppr/snoop](https://github.com/snooppr/snoop))
 
-**Author:** Smaash
-
-**Last Updated:** 2015-07-23
-
-**Description:** Snitch is a tool which automate information gathering process for specified domain. Using build-in dork categories, this tool helps gather specified informations domain which can be found using web search engines. It can be quite useful in early phases of pentest.
+**Author:** snooppr
 
 ---
 
 ## sobelow
 
-**Repository:** [https://github.com/nccgroup/sobelow](https://github.com/nccgroup/sobelow)
+**Repository:** [[https://github.com/nccgroup/sobelow](https://github.com/nccgroup/sobelow)]([https://github.com/nccgroup/sobelow](https://github.com/nccgroup/sobelow))
 
 **Author:** nccgroup
-
-**Last Updated:** 2024-05-19
-
-**Description:** Sobelow is a security-focused static analysis tool for Elixir & the Phoenix framework. For security researchers, it is a useful tool for getting a quick view of points-of-interest. For project maintainers, it can be used to prevent the introduction
-
----
-
-## softflowd
-
-**Repository:** [https://github.com/irino/softflowd](https://github.com/irino/softflowd)
-
-**Author:** irino
-
-**Last Updated:** 2025-02-21
-
-**Description:** Welcome to softflowd, a flow-based network monitor.
 
 ---
 
 ## sops
 
-**Repository:** [https://github.com/mozilla/sops](https://github.com/mozilla/sops)
+**Repository:** [[https://github.com/mozilla/sops](https://github.com/mozilla/sops)]([https://github.com/mozilla/sops](https://github.com/mozilla/sops))
 
 **Author:** mozilla
 
-**Last Updated:** 2026-02-09
-
-**Description:** SOPS: Secrets OPerationS
-
 ---
 
-## spamhat
+## spiderfoot
 
-**Repository:** [https://github.com/miguelraulb/spamhat](https://github.com/miguelraulb/spamhat)
+**Repository:** [[https://github.com/smicallef/spiderfoot](https://github.com/smicallef/spiderfoot)]([https://github.com/smicallef/spiderfoot](https://github.com/smicallef/spiderfoot))
 
-**Author:** miguelraulb
+**Author:** smicallef
 
-**Last Updated:** 2015-06-22
-
-**Description:** Spam Honeypot Tool
-
----
-
-## SPECTR3
-
-**Repository:** [https://github.com/alpine-sec/SPECTR3](https://github.com/alpine-sec/SPECTR3)
-
-**Author:** alpine-sec
-
-**Last Updated:** 2024-10-25
-
-**Description:** <a name="readme-top"> <!-- PROJECT LOGO -->
-
----
-
-## SpiderSuite
-
-**Repository:** [https://github.com/3nock/SpiderSuite](https://github.com/3nock/SpiderSuite)
-
-**Author:** 3nock
-
-**Last Updated:** 2023-07-25
-
-**Description:** (No description available)
 ---
 
 ## SpoofSpotter
 
-**Repository:** [https://github.com/NetSPI/SpoofSpotter](https://github.com/NetSPI/SpoofSpotter)
+**Repository:** [[https://github.com/NetSPI/SpoofSpotter](https://github.com/NetSPI/SpoofSpotter)]([https://github.com/NetSPI/SpoofSpotter](https://github.com/NetSPI/SpoofSpotter))
 
 **Author:** NetSPI
-
-**Last Updated:** 2018-06-12
-
-**Description:** usage: sudo python spoofspotter.py [-h] -i 192.168.1.110 -b 192.168.1.255 [-f /home/nbns.log] [-S true] [-e you@example.com] [-s 192.168.1.109] [-n EXAMPLEDOMAIN] [-R 5] [-c true] [-d 5]
 
 ---
 
 ## spotify_monitor
 
-**Repository:** [https://github.com/misiektoja/spotify_monitor](https://github.com/misiektoja/spotify_monitor)
+**Repository:** [[https://github.com/misiektoja/spotify_monitor](https://github.com/misiektoja/spotify_monitor)]([https://github.com/misiektoja/spotify_monitor](https://github.com/misiektoja/spotify_monitor))
 
 **Author:** misiektoja
 
-**Last Updated:** 2026-02-07
-
-**Description:** (No description available)
----
-
-## spotify_profile_monitor
-
-**Repository:** [https://github.com/misiektoja/spotify_profile_monitor](https://github.com/misiektoja/spotify_profile_monitor)
-
-**Author:** misiektoja
-
-**Last Updated:** 2026-02-07
-
-**Description:** (No description available)
 ---
 
 ## SprayingToolkit
 
-**Repository:** [https://github.com/byt3bl33d3r/SprayingToolkit](https://github.com/byt3bl33d3r/SprayingToolkit)
+**Repository:** [[https://github.com/byt3bl33d3r/SprayingToolkit](https://github.com/byt3bl33d3r/SprayingToolkit)]([https://github.com/byt3bl33d3r/SprayingToolkit](https://github.com/byt3bl33d3r/SprayingToolkit))
 
 **Author:** byt3bl33d3r
 
-**Last Updated:** 2022-10-16
-
-**Description:** This project is no longer maintained. The following alternative projects are better and actively maintained:
-
 ---
 
-## sqlmate
+## sqlmap
 
-**Repository:** [https://github.com/UltimateHackers/sqlmate](https://github.com/UltimateHackers/sqlmate)
+**Repository:** [[https://github.com/sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap)]([https://github.com/sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap))
 
-**Author:** UltimateHackers
-
-**Last Updated:** 2019-05-05
-
-**Description:**  There are some features that we think SQLMap should have. Like finding admin panel of the target, better hash cracking etc. If you think the same, SQLMate is for you.
-
----
-
-## squatm3gator
-
-**Repository:** [https://github.com/david3107/squatm3gator](https://github.com/david3107/squatm3gator)
-
-**Author:** david3107
-
-**Last Updated:** 2020-05-29
-
-**Description:**  <br><br> Squatm3gator is a complete web solution based on the python tool squatm3, designed to enumerate available domains generated modifying the original domain name through different techniques:
-
----
-
-## squidmagic
-
-**Repository:** [https://github.com/ch3k1/squidmagic](https://github.com/ch3k1/squidmagic)
-
-**Author:** ch3k1
-
-**Last Updated:** 2018-07-01
-
-**Description:** Squidmagic is a tool designed to analyze a web-based network traffic to detect central command and control (C&C) servers and Malicious site, using Squid proxy server and Spamhaus.
+**Author:** sqlmapproject
 
 ---
 
 ## src
 
-**Repository:** [https://github.com/idapython/src](https://github.com/idapython/src)
+**Repository:** [[https://github.com/idapython/src](https://github.com/idapython/src)]([https://github.com/idapython/src](https://github.com/idapython/src))
 
 **Author:** idapython
 
-**Last Updated:** 2025-12-24
+---
 
-**Description:** **IDAPython** has moved into the official IDA SDK repo here: [http://github.com/hexrayssa/ida-sdk](http://github.com/hexrayssa/ida-sdk).
+## ssh-honeypot
+
+**Repository:** [[https://github.com/droberson/ssh-honeypot](https://github.com/droberson/ssh-honeypot)]([https://github.com/droberson/ssh-honeypot](https://github.com/droberson/ssh-honeypot))
+
+**Author:** droberson
 
 ---
 
-## ssh-auth-logger
+## ssh-honeypotd
 
-**Repository:** [https://github.com/JustinAzoff/ssh-auth-logger](https://github.com/JustinAzoff/ssh-auth-logger)
+**Repository:** [[https://github.com/sjinks/ssh-honeypotd](https://github.com/sjinks/ssh-honeypotd)]([https://github.com/sjinks/ssh-honeypotd](https://github.com/sjinks/ssh-honeypotd))
 
-**Author:** JustinAzoff
-
-**Last Updated:** 2026-02-04
-
-**Description:** A low/zero interaction ssh authentication logging honeypot
-
----
-
-## ssh-mitm
-
-**Repository:** [https://github.com/jtesta/ssh-mitm](https://github.com/jtesta/ssh-mitm)
-
-**Author:** jtesta
-
-**Last Updated:** 2021-06-12
-
-**Description:** Author: [Joe Testa](https://www.positronsecurity.com/company/) ([@therealjoetesta](https://twitter.com/therealjoetesta))
+**Author:** sjinks
 
 ---
 
 ## sshesame
 
-**Repository:** [https://github.com/jaksi/sshesame](https://github.com/jaksi/sshesame)
+**Repository:** [[https://github.com/jaksi/sshesame](https://github.com/jaksi/sshesame)]([https://github.com/jaksi/sshesame](https://github.com/jaksi/sshesame))
 
 **Author:** jaksi
 
-**Last Updated:** 2024-08-03
+---
 
-**Description:** An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity
+## sshForShits
+
+**Repository:** [[https://github.com/traetox/sshForShits](https://github.com/traetox/sshForShits)]([https://github.com/traetox/sshForShits](https://github.com/traetox/sshForShits))
+
+**Author:** traetox
 
 ---
 
 ## sshhipot
 
-**Repository:** [https://github.com/magisterquis/sshhipot](https://github.com/magisterquis/sshhipot)
+**Repository:** [[https://github.com/magisterquis/sshhipot](https://github.com/magisterquis/sshhipot)]([https://github.com/magisterquis/sshhipot](https://github.com/magisterquis/sshhipot))
 
 **Author:** magisterquis
-
-**Last Updated:** 2018-05-13
-
-**Description:** Version 2 is under development.  Please switch to the `v2` branch, build, and run with `-h`.
 
 ---
 
 ## sshlowpot
 
-**Repository:** [https://github.com/magisterquis/sshlowpot](https://github.com/magisterquis/sshlowpot)
+**Repository:** [[https://github.com/magisterquis/sshlowpot](https://github.com/magisterquis/sshlowpot)]([https://github.com/magisterquis/sshlowpot](https://github.com/magisterquis/sshlowpot))
 
 **Author:** magisterquis
-
-**Last Updated:** 2020-02-02
-
-**Description:** Yet another no-frills low-interaction ssh honeypot in Go.
 
 ---
 
 ## sshsyrup
 
-**Repository:** [https://github.com/mkishere/sshsyrup](https://github.com/mkishere/sshsyrup)
+**Repository:** [[https://github.com/mkishere/sshsyrup](https://github.com/mkishere/sshsyrup)]([https://github.com/mkishere/sshsyrup](https://github.com/mkishere/sshsyrup))
 
 **Author:** mkishere
-
-**Last Updated:** 2019-02-25
-
-**Description:** A SSH honeypot with rich features written in Go
-
----
-
-## sshwatch
-
-**Repository:** [https://github.com/marshyski/sshwatch](https://github.com/marshyski/sshwatch)
-
-**Author:** marshyski
-
-**Last Updated:** 2013-07-21
-
-**Description:** SSHWATCH ``v2.0`` Intrusion Prevention System ( **IPS** ) for Secure Shell ( **SSH** ) sourced from https://code.google.com/p/sshwatch/ - krink@csun.edu THANKS HOMIE!
-
----
-
-## sslstrip2
-
-**Repository:** [https://github.com/LeonardoNve/sslstrip2](https://github.com/LeonardoNve/sslstrip2)
-
-**Author:** LeonardoNve
-
-**Last Updated:** 2015-04-01
-
-**Description:** This is a new version of [Moxie´s SSLstrip] (http://www.thoughtcrime.org/software/sslstrip/) with the new feature to avoid HTTP Strict Transport Security (HSTS) protection mechanism.
 
 ---
 
 ## sslyze
 
-**Repository:** [https://github.com/nabla-c0d3/sslyze](https://github.com/nabla-c0d3/sslyze)
+**Repository:** [[https://github.com/nabla-c0d3/sslyze](https://github.com/nabla-c0d3/sslyze)]([https://github.com/nabla-c0d3/sslyze](https://github.com/nabla-c0d3/sslyze))
 
 **Author:** nabla-c0d3
-
-**Last Updated:** 2025-12-30
-
-**Description:** SSLyze is a fast and powerful SSL/TLS scanning tool and Python library.
-
----
-
-## starbase
-
-**Repository:** [https://github.com/JupiterOne/starbase](https://github.com/JupiterOne/starbase)
-
-**Author:** JupiterOne
-
-**Last Updated:** 2025-12-09
-
-**Description:**  </br></br> <strong style="font-size:75px;">Democratizing graph-based security analysis 🚀</strong> </br>
 
 ---
 
 ## static-analysis
 
-**Repository:** [https://github.com/analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)
+**Repository:** [[https://github.com/analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)]([https://github.com/analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis))
 
 **Author:** analysis-tools-dev
 
-**Last Updated:** 2026-02-11
-
-**Description:** <!-- 🚨🚨 DON'T EDIT THIS FILE DIRECTLY. Edit `data/tools.yml` instead. 🚨🚨 -->
-
 ---
 
-## static_file_analysis
+## statiStrings
 
-**Repository:** [https://github.com/lprat/static_file_analysis](https://github.com/lprat/static_file_analysis)
+**Repository:** [[https://github.com/Sh3llyR/statiStrings](https://github.com/Sh3llyR/statiStrings)]([https://github.com/Sh3llyR/statiStrings](https://github.com/Sh3llyR/statiStrings))
 
-**Author:** lprat
+**Author:** Sh3llyR
 
-**Last Updated:** 2023-09-06
-
-**Description:** *Analysis malicious files in deep with clamscan and yara rules.*
-
----
-
-## steam-osint
-
-**Repository:** [https://github.com/matiash26/steam-osint](https://github.com/matiash26/steam-osint)
-
-**Author:** matiash26
-
-**Last Updated:** 2026-01-14
-
-**Description:** **Steam OSINT** is an **open source intelligence (OSINT) tool for Steam** designed to analyze **mutual friends**, map relationship patterns, and identify **potential connections outside the Steam platform**.
-
----
-
-## steam_monitor
-
-**Repository:** [https://github.com/misiektoja/steam_monitor](https://github.com/misiektoja/steam_monitor)
-
-**Author:** misiektoja
-
-**Last Updated:** 2026-02-06
-
-**Description:** (No description available)
----
-
-## stegcloak
-
-**Repository:** [https://github.com/kurolabs/stegcloak](https://github.com/kurolabs/stegcloak)
-
-**Author:** kurolabs
-
-**Last Updated:** 2024-10-02
-
-**Description:** (No description available)
 ---
 
 ## StegCracker
 
-**Repository:** [https://github.com/Paradoxis/StegCracker](https://github.com/Paradoxis/StegCracker)
+**Repository:** [[https://github.com/Paradoxis/StegCracker](https://github.com/Paradoxis/StegCracker)]([https://github.com/Paradoxis/StegCracker](https://github.com/Paradoxis/StegCracker))
 
 **Author:** Paradoxis
 
-**Last Updated:** 2020-12-26
-
-**Description:** Steganography brute-force utility to uncover hidden data inside files. <br> Looking for the Docker repository? You can find it [here](https://hub.docker.com/r/paradoxis/stegcracker)
-
 ---
 
-## stegextract
+## steghide
 
-**Repository:** [https://github.com/evyatarmeged/stegextract](https://github.com/evyatarmeged/stegextract)
+**Repository:** [[https://github.com/StegHigh/steghide](https://github.com/StegHigh/steghide)]([https://github.com/StegHigh/steghide](https://github.com/StegHigh/steghide))
 
-**Author:** evyatarmeged
-
-**Last Updated:** 2023-05-21
-
-**Description:** Bash script to extract hidden files and strings from images.
-
----
-
-## stenographer
-
-**Repository:** [https://github.com/google/stenographer](https://github.com/google/stenographer)
-
-**Author:** google
-
-**Last Updated:** 2020-11-30
-
-**Description:** Stenographer
+**Author:** StegHigh
 
 ---
 
 ## Sticky-Keys-Slayer
 
-**Repository:** [https://github.com/linuz/Sticky-Keys-Slayer](https://github.com/linuz/Sticky-Keys-Slayer)
+**Repository:** [[https://github.com/linuz/Sticky-Keys-Slayer](https://github.com/linuz/Sticky-Keys-Slayer)]([https://github.com/linuz/Sticky-Keys-Slayer](https://github.com/linuz/Sticky-Keys-Slayer))
 
 **Author:** linuz
-
-**Last Updated:** 2018-03-16
-
-**Description:** Scans for accessibility tools backdoors via RDP
 
 ---
 
 ## sticky_elephant
 
-**Repository:** [https://github.com/betheroot/sticky_elephant](https://github.com/betheroot/sticky_elephant)
+**Repository:** [[https://github.com/betheroot/sticky_elephant](https://github.com/betheroot/sticky_elephant)]([https://github.com/betheroot/sticky_elephant](https://github.com/betheroot/sticky_elephant))
 
 **Author:** betheroot
 
-**Last Updated:** 2024-08-06
+---
 
-**Description:** Sticky Elephant is a [medium-interaction](https://pdfs.semanticscholar.org/9d46/8fa983b844c76a07b1e3ea63d6f7a9cae294.pdf) PostgreSQL honeypot.
+## stoq
+
+**Repository:** [[https://github.com/PUNCH-Cyber/stoq](https://github.com/PUNCH-Cyber/stoq)]([https://github.com/PUNCH-Cyber/stoq](https://github.com/PUNCH-Cyber/stoq))
+
+**Author:** PUNCH-Cyber
 
 ---
 
-## stormy
+## strelka
 
-**Repository:** [https://github.com/glamrock/stormy](https://github.com/glamrock/stormy)
+**Repository:** [[https://github.com/target/strelka](https://github.com/target/strelka)]([https://github.com/target/strelka](https://github.com/target/strelka))
 
-**Author:** glamrock
+**Author:** target
 
-**Last Updated:** 2015-06-03
-
-**Description:** Stormy is currently under heavy development, and only usable by developers.
-
----
-
-## stringsifter
-
-**Repository:** [https://github.com/fireeye/stringsifter](https://github.com/fireeye/stringsifter)
-
-**Author:** fireeye
-
-**Last Updated:** 2023-07-12
-
-**Description:** (No description available)
 ---
 
 ## strong-node
 
-**Repository:** [https://github.com/jesusprubio/strong-node](https://github.com/jesusprubio/strong-node)
+**Repository:** [[https://github.com/jesusprubio/strong-node](https://github.com/jesusprubio/strong-node)]([https://github.com/jesusprubio/strong-node](https://github.com/jesusprubio/strong-node))
 
 **Author:** jesusprubio
-
-**Last Updated:** 2021-06-19
-
-**Description:** :muscle: Exhaustive checklist to assist in a security review of a [Node.js](https://nodejs.org) web service code. Focused on **[Express](http://expressjs.com)** and **[Hapi](http://hapijs.com)** environments.
 
 ---
 
 ## stronghold
 
-**Repository:** [https://github.com/alichtman/stronghold](https://github.com/alichtman/stronghold)
+**Repository:** [[https://github.com/alichtman/stronghold](https://github.com/alichtman/stronghold)]([https://github.com/alichtman/stronghold](https://github.com/alichtman/stronghold))
 
 **Author:** alichtman
 
-**Last Updated:** 2019-10-06
-
-**Description:** `stronghold` is the easiest way to securely configure your Mac.
-
 ---
 
-## sub3suite
+## subfinder
 
-**Repository:** [https://github.com/3nock/sub3suite](https://github.com/3nock/sub3suite)
+**Repository:** [[https://github.com/subfinder/subfinder](https://github.com/subfinder/subfinder)]([https://github.com/subfinder/subfinder](https://github.com/subfinder/subfinder))
 
-**Author:** 3nock
-
-**Last Updated:** 2023-07-20
-
-**Description:** (No description available)
----
-
-## subbrute
-
-**Repository:** [https://github.com/TheRook/subbrute](https://github.com/TheRook/subbrute)
-
-**Author:** TheRook
-
-**Last Updated:** 2017-02-12
-
-**Description:** subdomain-bruteforcer (SubBrute) SubBrute is a community driven project with the goal of creating the fastest, and most accurate subdomain enumeration tool.  Some of the magic behind SubBrute is that it uses open resolvers as a kind of proxy to circumvent DNS rate-limiting (https://www.us-cert.go...
-
----
-
-## Sublist3r
-
-**Repository:** [https://github.com/aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r)
-
-**Author:** aboul3la
-
-**Last Updated:** 2020-07-29
-
-**Description:** Sublist3r is a python tool designed to enumerate subdomains of websites using OSINT. It helps penetration testers and bug hunters collect and gather subdomains for the domain they are targeting. Sublist3r enumerates subdomains using many search engines such as Google, Yahoo, Bing, Baidu and Ask. ...
+**Author:** subfinder
 
 ---
 
 ## substation
 
-**Repository:** [https://github.com/brexhq/substation](https://github.com/brexhq/substation)
+**Repository:** [[https://github.com/brexhq/substation](https://github.com/brexhq/substation)]([https://github.com/brexhq/substation](https://github.com/brexhq/substation))
 
 **Author:** brexhq
 
-**Last Updated:** 2026-01-20
-
-**Description:** <b>Substation is a toolkit for routing, normalizing, and enriching security event and audit logs.</b>
-
 ---
 
-## suite-o-llama
+## super
 
-**Repository:** [https://github.com/BerserkiKun/suite-o-llama](https://github.com/BerserkiKun/suite-o-llama)
+**Repository:** [[https://github.com/SUPERAndroidAnalyzer/super](https://github.com/SUPERAndroidAnalyzer/super)]([https://github.com/SUPERAndroidAnalyzer/super](https://github.com/SUPERAndroidAnalyzer/super))
 
-**Author:** BerserkiKun
-
-**Last Updated:** 2026-02-06
-
-**Description:** - [Overview](#overview) - [Key Highlights](#key-highlights) - [Deep Burp Suite Integration](#deep-burp-suite-integration) - [Multi-Tab Integration](#multi-tab-integration) - [Tab Management Features](#tab-management-features)
-
----
-
-## sunburst_countermeasures
-
-**Repository:** [https://github.com/fireeye/sunburst_countermeasures](https://github.com/fireeye/sunburst_countermeasures)
-
-**Author:** fireeye
-
-**Last Updated:** 2023-06-01
-
-**Description:** These rules are provided freely to the community without warranty.
+**Author:** SUPERAndroidAnalyzer
 
 ---
 
 ## surfraw
 
-**Repository:** [https://github.com/kisom/surfraw](https://github.com/kisom/surfraw)
+**Repository:** [[https://github.com/kisom/surfraw](https://github.com/kisom/surfraw)]([https://github.com/kisom/surfraw](https://github.com/kisom/surfraw))
 
 **Author:** kisom
-
-**Last Updated:** 2015-09-13
-
-**Description:** Surfraw - Shell Users' Revolutionary Front Rage Against the Web
-
----
-
-## SwishDbgExt
-
-**Repository:** [https://github.com/comaeio/SwishDbgExt](https://github.com/comaeio/SwishDbgExt)
-
-**Author:** comaeio
-
-**Last Updated:** 2018-12-11
-
-**Description:** SwishDbgExt is a Microsoft WinDbg debugging extension that expands the set of available commands by Microsoft WinDbg, but also fixes and improves existing commands. This extension has been developed by Matt Suiche (@msuiche) – feel free to reach out on support@comae.io ask for more features, offe...
 
 ---
 
 ## swordphish-awareness
 
-**Repository:** [https://github.com/certsocietegenerale/swordphish-awareness](https://github.com/certsocietegenerale/swordphish-awareness)
+**Repository:** [[https://github.com/certsocietegenerale/swordphish-awareness](https://github.com/certsocietegenerale/swordphish-awareness)]([https://github.com/certsocietegenerale/swordphish-awareness](https://github.com/certsocietegenerale/swordphish-awareness))
 
 **Author:** certsocietegenerale
-
-**Last Updated:** 2024-09-22
-
-**Description:** Swordphish is a platform allowing to create and manage fake phishing campaigns.
-
----
-
-## sysmon-edr
-
-**Repository:** [https://github.com/ion-storm/sysmon-edr](https://github.com/ion-storm/sysmon-edr)
-
-**Author:** ion-storm
-
-**Last Updated:** 2021-04-30
-
-**Description:** * Mitre ATT&CK Desktop Alerts * Yara Scanning * Ransomware/File Delete Auto-Restore of Files to original directories. * Malicious Process Killing * Injected Thread Killer/uninjector * Killing of Malicious process connections
 
 ---
 
 ## tang
 
-**Repository:** [https://github.com/latchset/tang](https://github.com/latchset/tang)
+**Repository:** [[https://github.com/latchset/tang](https://github.com/latchset/tang)]([https://github.com/latchset/tang](https://github.com/latchset/tang))
 
 **Author:** latchset
 
-**Last Updated:** 2025-03-06
-
-**Description:** Tang is a server for binding data to network presence.
-
----
-
-## Tango
-
-**Repository:** [https://github.com/aplura/Tango](https://github.com/aplura/Tango)
-
-**Author:** aplura
-
-**Last Updated:** 2018-10-18
-
-**Description:** (No description available)
 ---
 
 ## tanner
 
-**Repository:** [https://github.com/mushorg/tanner](https://github.com/mushorg/tanner)
+**Repository:** [[https://github.com/mushorg/tanner](https://github.com/mushorg/tanner)]([https://github.com/mushorg/tanner](https://github.com/mushorg/tanner))
 
 **Author:** mushorg
 
-**Last Updated:** 2024-06-10
+---
 
-**Description:** <b><i>He who flays the hide</b></i>
+## tcpflow
+
+**Repository:** [[https://github.com/simsong/tcpflow](https://github.com/simsong/tcpflow)]([https://github.com/simsong/tcpflow](https://github.com/simsong/tcpflow))
+
+**Author:** simsong
+
+---
+
+## tcpreplay
+
+**Repository:** [[https://github.com/appneta/tcpreplay](https://github.com/appneta/tcpreplay)]([https://github.com/appneta/tcpreplay](https://github.com/appneta/tcpreplay))
+
+**Author:** appneta
+
+---
+
+## tcpsplice
+
+**Repository:** [[https://github.com/pyke369/tcpsplice](https://github.com/pyke369/tcpsplice)]([https://github.com/pyke369/tcpsplice](https://github.com/pyke369/tcpsplice))
+
+**Author:** pyke369
 
 ---
 
 ## tcptrace
 
-**Repository:** [https://github.com/blitz/tcptrace](https://github.com/blitz/tcptrace)
+**Repository:** [[https://github.com/blitz/tcptrace](https://github.com/blitz/tcptrace)]([https://github.com/blitz/tcptrace](https://github.com/blitz/tcptrace))
 
 **Author:** blitz
 
-**Last Updated:** 2013-07-01
+---
 
-**Description:** Fri May 25, 2001
+## technowlogger
+
+**Repository:** [[https://github.com/Technowlogy-Pushpender/technowlogger](https://github.com/Technowlogy-Pushpender/technowlogger)]([https://github.com/Technowlogy-Pushpender/technowlogger](https://github.com/Technowlogy-Pushpender/technowlogger))
+
+**Author:** Technowlogy-Pushpender
+
+---
+
+## telegram-nearby-map
+
+**Repository:** [[https://github.com/tejado/telegram-nearby-map](https://github.com/tejado/telegram-nearby-map)]([https://github.com/tejado/telegram-nearby-map](https://github.com/tejado/telegram-nearby-map))
+
+**Author:** tejado
 
 ---
 
 ## telegram-scraper-TeleGraphite
 
-**Repository:** [https://github.com/hamodywe/telegram-scraper-TeleGraphite](https://github.com/hamodywe/telegram-scraper-TeleGraphite)
+**Repository:** [[https://github.com/hamodywe/telegram-scraper-TeleGraphite](https://github.com/hamodywe/telegram-scraper-TeleGraphite)]([https://github.com/hamodywe/telegram-scraper-TeleGraphite](https://github.com/hamodywe/telegram-scraper-TeleGraphite))
 
 **Author:** hamodywe
 
-**Last Updated:** 2025-04-15
+---
 
-**Description:** A tool to fetch and save posts from public Telegram channels.
+## telnetlogger
+
+**Repository:** [[https://github.com/robertdavidgraham/telnetlogger](https://github.com/robertdavidgraham/telnetlogger)]([https://github.com/robertdavidgraham/telnetlogger](https://github.com/robertdavidgraham/telnetlogger))
+
+**Author:** robertdavidgraham
 
 ---
 
-## TelnetHoney
+## tfsec
 
-**Repository:** [https://github.com/balte/TelnetHoney](https://github.com/balte/TelnetHoney)
+**Repository:** [[https://github.com/tfsec/tfsec](https://github.com/tfsec/tfsec)]([https://github.com/tfsec/tfsec](https://github.com/tfsec/tfsec))
 
-**Author:** balte
-
-**Last Updated:** 2016-01-20
-
-**Description:** No README found
-
----
-
-## testssl.sh
-
-**Repository:** [https://github.com/drwetter/testssl.sh](https://github.com/drwetter/testssl.sh)
-
-**Author:** drwetter
-
-**Last Updated:** 2026-02-11
-
-**Description:** No README found
-
----
-
-## tfox
-
-**Repository:** [https://github.com/andpalmier/tfox](https://github.com/andpalmier/tfox)
-
-**Author:** andpalmier
-
-**Last Updated:** 2026-01-19
-
-**Description:** A command-line tool for interacting with the [ThreatFox API](https://threatfox.abuse.ch/api/).
-
----
-
-## thc-hydra
-
-**Repository:** [https://github.com/vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra)
-
-**Author:** vanhauser-thc
-
-**Last Updated:** 2026-02-07
-
-**Description:** (c) 2001-2023 by van Hauser / THC <vh@thc.org> https://github.com/vanhauser-thc/thc-hydra Many modules were written by David (dot) Maciejak @ gmail (dot) com BFG code by Jan Dlabal <dlabaljan@gmail.com>
-
----
-
-## the-endorser
-
-**Repository:** [https://github.com/eth0izzle/the-endorser](https://github.com/eth0izzle/the-endorser)
-
-**Author:** eth0izzle
-
-**Last Updated:** 2025-02-28
-
-**Description:** An OSINT tool that allows you to draw out relationships between people on LinkedIn via endorsements/skills.
+**Author:** tfsec
 
 ---
 
 ## theHarvester
 
-**Repository:** [https://github.com/laramies/theHarvester](https://github.com/laramies/theHarvester)
+**Repository:** [[https://github.com/laramies/theHarvester](https://github.com/laramies/theHarvester)]([https://github.com/laramies/theHarvester](https://github.com/laramies/theHarvester))
 
 **Author:** laramies
-
-**Last Updated:** 2026-02-08
-
-**Description:** theHarvester is a simple to use, yet powerful tool designed to be used during the reconnaissance stage of a red team assessment or penetration test. It performs open source intelligence (OSINT) gathering to help determine
 
 ---
 
 ## themis
 
-**Repository:** [https://github.com/cossacklabs/themis](https://github.com/cossacklabs/themis)
+**Repository:** [[https://github.com/cossacklabs/themis](https://github.com/cossacklabs/themis)]([https://github.com/cossacklabs/themis](https://github.com/cossacklabs/themis))
 
 **Author:** cossacklabs
 
-**Last Updated:** 2024-09-12
+---
 
-**Description:**  <a href="https://www.cossacklabs.com/themis/">
+## theZoo
+
+**Repository:** [[https://github.com/ytisf/theZoo](https://github.com/ytisf/theZoo)]([https://github.com/ytisf/theZoo](https://github.com/ytisf/theZoo))
+
+**Author:** ytisf
 
 ---
 
-## thug
+## timeliner
 
-**Repository:** [https://github.com/buffer/thug](https://github.com/buffer/thug)
+**Repository:** [[https://github.com/airbus-cert/timeliner](https://github.com/airbus-cert/timeliner)]([https://github.com/airbus-cert/timeliner](https://github.com/airbus-cert/timeliner))
 
-**Author:** buffer
-
-**Last Updated:** 2026-01-13
-
-**Description:** |version badge| |github badge| |codefactor badge| |codecov badge| |bandit badge|
-
----
-
-## timesketch
-
-**Repository:** [https://github.com/google/timesketch](https://github.com/google/timesketch)
-
-**Author:** google
-
-**Last Updated:** 2026-02-12
-
-**Description:** 1. [About Timesketch](#about-timesketch) 2. [Getting started](#getting-started) 3. [Community](#community) 4. [Contributing](#contributing)
-
----
-
-## tiq-test
-
-**Repository:** [https://github.com/mlsecproject/tiq-test](https://github.com/mlsecproject/tiq-test)
-
-**Author:** mlsecproject
-
-**Last Updated:** 2015-10-18
-
-**Description:** tiq-test - Threat Intelligence Quotient Test Dataviz and Statistical Analysis of Threat Intelligence Indicator feeds
+**Author:** airbus-cert
 
 ---
 
 ## tls_prober
 
-**Repository:** [https://github.com/WestpointLtd/tls_prober](https://github.com/WestpointLtd/tls_prober)
+**Repository:** [[https://github.com/WestpointLtd/tls_prober](https://github.com/WestpointLtd/tls_prober)]([https://github.com/WestpointLtd/tls_prober](https://github.com/WestpointLtd/tls_prober))
 
 **Author:** WestpointLtd
-
-**Last Updated:** 2021-11-13
-
-**Description:** TLS Prober is a tool for identifying the implementation in use by SSL/TLS servers. It analyses the behaviour of a server by sending a range of probes then comparing the responses with a database of known signatures. Key features
 
 ---
 
 ## toolkit
 
-**Repository:** [https://github.com/docker-forensics-toolkit/toolkit](https://github.com/docker-forensics-toolkit/toolkit)
+**Repository:** [[https://github.com/docker-forensics-toolkit/toolkit](https://github.com/docker-forensics-toolkit/toolkit)]([https://github.com/docker-forensics-toolkit/toolkit](https://github.com/docker-forensics-toolkit/toolkit))
 
 **Author:** docker-forensics-toolkit
-
-**Last Updated:** 2024-02-18
-
-**Description:** This repo contains a toolkit for performing post-mortem analysis of Docker runtime environments based on forensic HDD copies of the docker host system.
 
 ---
 
 ## tor-controller
 
-**Repository:** [https://github.com/kragniz/tor-controller](https://github.com/kragniz/tor-controller)
+**Repository:** [[https://github.com/kragniz/tor-controller](https://github.com/kragniz/tor-controller)]([https://github.com/kragniz/tor-controller](https://github.com/kragniz/tor-controller))
 
 **Author:** kragniz
 
-**Last Updated:** 2018-09-17
-
-**Description:** (No description available)
 ---
 
 ## tor-relay-bootstrap
 
-**Repository:** [https://github.com/micahflee/tor-relay-bootstrap](https://github.com/micahflee/tor-relay-bootstrap)
+**Repository:** [[https://github.com/micahflee/tor-relay-bootstrap](https://github.com/micahflee/tor-relay-bootstrap)]([https://github.com/micahflee/tor-relay-bootstrap](https://github.com/micahflee/tor-relay-bootstrap))
 
 **Author:** micahflee
-
-**Last Updated:** 2017-12-20
-
-**Description:** tor-relay-bootstrap
 
 ---
 
 ## Tor.framework
 
-**Repository:** [https://github.com/iCepa/Tor.framework](https://github.com/iCepa/Tor.framework)
+**Repository:** [[https://github.com/iCepa/Tor.framework](https://github.com/iCepa/Tor.framework)]([https://github.com/iCepa/Tor.framework](https://github.com/iCepa/Tor.framework))
 
 **Author:** iCepa
-
-**Last Updated:** 2026-02-04
-
-**Description:** Tor.framework is the easiest way to embed Tor in your iOS application. The API is *not* stable yet, and subject to change.
 
 ---
 
 ## tor.rb
 
-**Repository:** [https://github.com/dryruby/tor.rb](https://github.com/dryruby/tor.rb)
+**Repository:** [[https://github.com/dryruby/tor.rb](https://github.com/dryruby/tor.rb)]([https://github.com/dryruby/tor.rb](https://github.com/dryruby/tor.rb))
 
 **Author:** dryruby
 
-**Last Updated:** 2024-03-16
-
-**Description:** Tor.rb: Onion Routing for Ruby
-
 ---
 
-## tor_box
+## Tor_Onion_Proxy_Library
 
-**Repository:** [https://github.com/CMoncur/tor_box](https://github.com/CMoncur/tor_box)
+**Repository:** [[https://github.com/thaliproject/Tor_Onion_Proxy_Library](https://github.com/thaliproject/Tor_Onion_Proxy_Library)]([https://github.com/thaliproject/Tor_Onion_Proxy_Library](https://github.com/thaliproject/Tor_Onion_Proxy_Library))
 
-**Author:** CMoncur
-
-**Last Updated:** 2018-04-17
-
-**Description:** tor-box is a Raspberry Pi based personal anonymizing Tor network, combined with relay functionality in order to support the volunteer-based Tor network. Upon completion of configuration, tor-box will supply a secure wireless network that one can simply connect to, and instantly anonymously browse...
+**Author:** thaliproject
 
 ---
 
 ## ToRat
 
-**Repository:** [https://github.com/lu4p/ToRat](https://github.com/lu4p/ToRat)
+**Repository:** [[https://github.com/lu4p/ToRat](https://github.com/lu4p/ToRat)]([https://github.com/lu4p/ToRat](https://github.com/lu4p/ToRat))
 
 **Author:** lu4p
-
-**Last Updated:** 2021-12-09
-
-**Description:** A Cross Platform Remote Administration tool written in Go using Tor as its transport mechanism currently supporting Windows, Linux, MacOS clients.
 
 ---
 
 ## TorBot
 
-**Repository:** [https://github.com/DedSecInside/TorBot](https://github.com/DedSecInside/TorBot)
+**Repository:** [[https://github.com/DedSecInside/TorBot](https://github.com/DedSecInside/TorBot)]([https://github.com/DedSecInside/TorBot](https://github.com/DedSecInside/TorBot))
 
 **Author:** DedSecInside
-
-**Last Updated:** 2025-10-29
-
-**Description:** ████████╗ ██████╗ ██████╗     ██████╗  ██████╗ ████████╗ ╚══██╔══╝██╔═══██╗██╔══██╗    ██╔══██╗██╔═████╗╚══██╔══╝ ██║   ██║   ██║██████╔╝    ██████╔╝██║██╔██║   ██║ ██║   ██║   ██║██╔══██╗    ██╔══██╗████╔╝██║   ██║
 
 ---
 
 ## torforge
 
-**Repository:** [https://github.com/jery0843/torforge](https://github.com/jery0843/torforge)
+**Repository:** [[https://github.com/jery0843/torforge](https://github.com/jery0843/torforge)]([https://github.com/jery0843/torforge](https://github.com/jery0843/torforge))
 
 **Author:** jery0843
 
-**Last Updated:** 2026-01-30
-
-**Description:** (No description available)
 ---
 
-## tosint
+## traefik
 
-**Repository:** [https://github.com/drego85/tosint](https://github.com/drego85/tosint)
+**Repository:** [[https://github.com/traefik/traefik](https://github.com/traefik/traefik)]([https://github.com/traefik/traefik](https://github.com/traefik/traefik))
 
-**Author:** drego85
-
-**Last Updated:** 2026-02-11
-
-**Description:** Tosint (Telegram OSINT) is a Python tool to analyze a Telegram bot token and a target chat ID (group/channel) using Telegram Bot API.
-
----
-
-## toutatis
-
-**Repository:** [https://github.com/megadose/toutatis](https://github.com/megadose/toutatis)
-
-**Author:** megadose
-
-**Last Updated:** 2024-12-05
-
-**Description:** 👋 Hi there! For any professional inquiries or collaborations, please reach out to me at: megadose@protonmail.com
-
----
-
-## tplmap
-
-**Repository:** [https://github.com/epinna/tplmap](https://github.com/epinna/tplmap)
-
-**Author:** epinna
-
-**Last Updated:** 2022-02-06
-
-**Description:** > This project is no longer maintained. I'm happy to merge new PRs as long they don't break the [test suite](https://github.com/epinna/tplmap/wiki/Run-the-test-suite).
-
----
-
-## tpotce
-
-**Repository:** [https://github.com/dtag-dev-sec/tpotce](https://github.com/dtag-dev-sec/tpotce)
-
-**Author:** dtag-dev-sec
-
-**Last Updated:** 2026-01-29
-
-**Description:** T-Pot is the all in one, optionally distributed, multiarch (amd64, arm64) honeypot plattform, supporting 20+ honeypots and countless visualization options using the Elastic Stack, animated live attack maps and lots of security tools to further improve the deception experience.
-
----
-
-## trapster-community
-
-**Repository:** [https://github.com/0xBallpoint/trapster-community](https://github.com/0xBallpoint/trapster-community)
-
-**Author:** 0xBallpoint
-
-**Last Updated:** 2025-12-02
-
-**Description:**  <a href="https://trapster.cloud"> 
-
----
-
-## TRISIS-TRITON-HATMAN
-
-**Repository:** [https://github.com/ICSrepo/TRISIS-TRITON-HATMAN](https://github.com/ICSrepo/TRISIS-TRITON-HATMAN)
-
-**Author:** ICSrepo
-
-**Last Updated:** 2021-05-04
-
-**Description:** This repository contains original samples and decompiled sources of malware attacking commonly used in Industrial Control Systems (ICS) *Triconex* Safety Instrumented System (SIS) controllers. For more information scroll to "*Learn More*".
+**Author:** traefik
 
 ---
 
 ## Triton
 
-**Repository:** [https://github.com/JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton)
+**Repository:** [[https://github.com/JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton)]([https://github.com/JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton))
 
 **Author:** JonathanSalwan
 
-**Last Updated:** 2025-10-05
-
-**Description:** (No description available)
 ---
 
 ## trivy
 
-**Repository:** [https://github.com/aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+**Repository:** [[https://github.com/aquasecurity/trivy](https://github.com/aquasecurity/trivy)]([https://github.com/aquasecurity/trivy](https://github.com/aquasecurity/trivy))
 
 **Author:** aquasecurity
 
-**Last Updated:** 2026-02-10
-
-**Description:** (No description available)
 ---
 
-## troje
+## trufflehog
 
-**Repository:** [https://github.com/dutchcoders/troje](https://github.com/dutchcoders/troje)
+**Repository:** [[https://github.com/trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)]([https://github.com/trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog))
 
-**Author:** dutchcoders
-
-**Last Updated:** 2014-08-12
-
-**Description:** Troje is a honeypot that creates a real environment within a physical of virtual machine using lxc containers. These containers will be created on the first connection with the desired service. For example ssh service. At the first connection the 'attacker' will get its own attack vector, where T...
+**Author:** trufflesecurity
 
 ---
 
-## trrespass
+## trust-scan
 
-**Repository:** [https://github.com/vusec/trrespass](https://github.com/vusec/trrespass)
+**Repository:** [[https://github.com/undeadlist/trust-scan](https://github.com/undeadlist/trust-scan)]([https://github.com/undeadlist/trust-scan](https://github.com/undeadlist/trust-scan))
 
-**Author:** vusec
-
-**Last Updated:** 2021-05-05
-
-**Description:** This is the repository for the TRRespass Rowhammer fuzzer. Recent DDR4 chips include on-chip TRR mitigations that stop bit flips using standard Rowhammer access patterns such as double-sided, single sided or one-location hammering. TRRespass automatically discovers novel Many-sided Rowhammer vari...
+**Author:** undeadlist
 
 ---
 
 ## tubeup
 
-**Repository:** [https://github.com/bibanon/tubeup](https://github.com/bibanon/tubeup)
+**Repository:** [[https://github.com/bibanon/tubeup](https://github.com/bibanon/tubeup)]([https://github.com/bibanon/tubeup](https://github.com/bibanon/tubeup))
 
 **Author:** bibanon
-
-**Last Updated:** 2026-01-29
-
-**Description:** Tubeup - a multi-VOD service to Archive.org uploader
 
 ---
 
 ## tun2tor
 
-**Repository:** [https://github.com/iCepa/tun2tor](https://github.com/iCepa/tun2tor)
+**Repository:** [[https://github.com/iCepa/tun2tor](https://github.com/iCepa/tun2tor)]([https://github.com/iCepa/tun2tor](https://github.com/iCepa/tun2tor))
 
 **Author:** iCepa
-
-**Last Updated:** 2021-11-14
-
-**Description:** **This project will most probably be discontinued.**
 
 ---
 
 ## turbinia
 
-**Repository:** [https://github.com/google/turbinia](https://github.com/google/turbinia)
+**Repository:** [[https://github.com/google/turbinia](https://github.com/google/turbinia)]([https://github.com/google/turbinia](https://github.com/google/turbinia))
 
 **Author:** google
-
-**Last Updated:** 2026-01-15
-
-**Description:** **Note: Turbinia will not develop new features anymore and is in maintenance mode. Users should have a look at [OpenRelik](https://openrelik.org/).**
 
 ---
 
 ## uBlock
 
-**Repository:** [https://github.com/gorhill/uBlock](https://github.com/gorhill/uBlock)
+**Repository:** [[https://github.com/gorhill/uBlock](https://github.com/gorhill/uBlock)]([https://github.com/gorhill/uBlock](https://github.com/gorhill/uBlock))
 
 **Author:** gorhill
 
-**Last Updated:** 2026-02-11
-
-**Description:** (No description available)
 ---
 
-## UDPot
+## udis86
 
-**Repository:** [https://github.com/jekil/UDPot](https://github.com/jekil/UDPot)
+**Repository:** [[https://github.com/vmt/udis86](https://github.com/vmt/udis86)]([https://github.com/vmt/udis86](https://github.com/vmt/udis86))
 
-**Author:** jekil
-
-**Last Updated:** 2026-01-23
-
-**Description:** (No description available)
----
-
-## UEFITool
-
-**Repository:** [https://github.com/LongSoft/UEFITool](https://github.com/LongSoft/UEFITool)
-
-**Author:** LongSoft
-
-**Last Updated:** 2026-01-30
-
-**Description:** UEFITool is a viewer and editor of firmware images conforming to UEFI Platform Interface (PI) Specifications.
+**Author:** vmt
 
 ---
 
-## ufonet
+## UglifyJS
 
-**Repository:** [https://github.com/epsylon/ufonet](https://github.com/epsylon/ufonet)
+**Repository:** [[https://github.com/mishoo/UglifyJS](https://github.com/mishoo/UglifyJS)]([https://github.com/mishoo/UglifyJS](https://github.com/mishoo/UglifyJS))
 
-**Author:** epsylon
-
-**Last Updated:** 2024-08-23
-
-**Description:** + Website:   https://ufonet.03c8.net
-
----
-
-## ukip
-
-**Repository:** [https://github.com/google/ukip](https://github.com/google/ukip)
-
-**Author:** google
-
-**Last Updated:** 2023-07-09
-
-**Description:** This tool is a daemon for blocking USB keystroke injection devices on Linux systems.
+**Author:** mishoo
 
 ---
 
 ## UltimateAppLockerByPassList
 
-**Repository:** [https://github.com/api0cradle/UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList)
+**Repository:** [[https://github.com/api0cradle/UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList)]([https://github.com/api0cradle/UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList))
 
 **Author:** api0cradle
-
-**Last Updated:** 2023-09-11
-
-**Description:** The goal of this repository is to document the most common and known techniques to bypass AppLocker. Since AppLocker can be configured in different ways I maintain a verified list of bypasses (that works against the default AppLocker rules) and a list with possible bypass technique (depending on ...
 
 ---
 
 ## uncompyle
 
-**Repository:** [https://github.com/gstarnberger/uncompyle](https://github.com/gstarnberger/uncompyle)
+**Repository:** [[https://github.com/gstarnberger/uncompyle](https://github.com/gstarnberger/uncompyle)]([https://github.com/gstarnberger/uncompyle](https://github.com/gstarnberger/uncompyle))
 
 **Author:** gstarnberger
-
-**Last Updated:** 2016-10-01
-
-**Description:** A Python 2.7 byte-code decompiler, written in Python 2.7
 
 ---
 
 ## unfurl
 
-**Repository:** [https://github.com/obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl)
+**Repository:** [[https://github.com/obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl)]([https://github.com/obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl))
 
 **Author:** obsidianforensics
-
-**Last Updated:** 2026-01-28
-
-**Description:** <source srcset="/unfurl/static/unfurl_dark.png" media="(prefers-color-scheme: dark)">  </picture>
 
 ---
 
 ## unguard
 
-**Repository:** [https://github.com/dynatrace-oss/unguard](https://github.com/dynatrace-oss/unguard)
+**Repository:** [[https://github.com/dynatrace-oss/unguard](https://github.com/dynatrace-oss/unguard)]([https://github.com/dynatrace-oss/unguard](https://github.com/dynatrace-oss/unguard))
 
 **Author:** dynatrace-oss
 
-**Last Updated:** 2026-01-30
-
-**Description:** **Unguard** (🇦🇹 [ˈʊnˌɡuːat] like disquieting, 🇫🇷 [ãˈɡard] like the fencing command) is an **insecure** cloud-native microservices demo application. It consists of eight app services, a load generator, and two databases. Unguard
-
 ---
 
-## unicorn
+## unipacker
 
-**Repository:** [https://github.com/trustedsec/unicorn](https://github.com/trustedsec/unicorn)
+**Repository:** [[https://github.com/unipacker/unipacker](https://github.com/unipacker/unipacker)]([https://github.com/unipacker/unipacker](https://github.com/unipacker/unipacker))
 
-**Author:** trustedsec
-
-**Last Updated:** 2024-01-24
-
-**Description:** Written by: Dave Kennedy (@HackingDave) Website: https://www.trustedsec.com
-
----
-
-## unix-privesc-check
-
-**Repository:** [https://github.com/pentestmonkey/unix-privesc-check](https://github.com/pentestmonkey/unix-privesc-check)
-
-**Author:** pentestmonkey
-
-**Last Updated:** 2021-02-07
-
-**Description:** Shell script to check for simple privilege escalation vectors on Unix systems
+**Author:** unipacker
 
 ---
 
 ## unix_collector
 
-**Repository:** [https://github.com/op7ic/unix_collector](https://github.com/op7ic/unix_collector)
+**Repository:** [[https://github.com/op7ic/unix_collector](https://github.com/op7ic/unix_collector)]([https://github.com/op7ic/unix_collector](https://github.com/op7ic/unix_collector))
 
 **Author:** op7ic
-
-**Last Updated:** 2025-06-10
-
-**Description:** A comprehensive live forensic collection script for UNIX-like systems, designed to gather critical system information for forensic investigations and incident response.
 
 ---
 
 ## unpacker
 
-**Repository:** [https://github.com/malwaremusings/unpacker](https://github.com/malwaremusings/unpacker)
+**Repository:** [[https://github.com/malwaremusings/unpacker](https://github.com/malwaremusings/unpacker)]([https://github.com/malwaremusings/unpacker](https://github.com/malwaremusings/unpacker))
 
 **Author:** malwaremusings
 
-**Last Updated:** 2016-03-05
+---
 
-**Description:** WinAppDbg script to automate malware unpacking.
+## unpy2exe
+
+**Repository:** [[https://github.com/matiasb/unpy2exe](https://github.com/matiasb/unpy2exe)]([https://github.com/matiasb/unpy2exe](https://github.com/matiasb/unpy2exe))
+
+**Author:** matiasb
 
 ---
 
 ## untitledgoosetool
 
-**Repository:** [https://github.com/cisagov/untitledgoosetool](https://github.com/cisagov/untitledgoosetool)
+**Repository:** [[https://github.com/cisagov/untitledgoosetool](https://github.com/cisagov/untitledgoosetool)]([https://github.com/cisagov/untitledgoosetool](https://github.com/cisagov/untitledgoosetool))
 
 **Author:** cisagov
 
-**Last Updated:** 2025-05-01
+---
 
-**Description:** (No description available)
+## unxor
+
+**Repository:** [[https://github.com/tomchop/unxor](https://github.com/tomchop/unxor)]([https://github.com/tomchop/unxor](https://github.com/tomchop/unxor))
+
+**Author:** tomchop
+
 ---
 
 ## urlhs
 
-**Repository:** [https://github.com/andpalmier/urlhs](https://github.com/andpalmier/urlhs)
+**Repository:** [[https://github.com/andpalmier/urlhs](https://github.com/andpalmier/urlhs)]([https://github.com/andpalmier/urlhs](https://github.com/andpalmier/urlhs))
 
 **Author:** andpalmier
 
-**Last Updated:** 2026-01-19
+---
 
-**Description:** A command-line tool for interacting with the [URLhaus API](https://urlhaus-api.abuse.ch/).
+## user-scanner
+
+**Repository:** [[https://github.com/kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner)]([https://github.com/kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner))
+
+**Author:** kaifcodec
 
 ---
 
-## usbpcap
+## USN-Journal-Parser
 
-**Repository:** [https://github.com/desowin/usbpcap](https://github.com/desowin/usbpcap)
+**Repository:** [[https://github.com/PoorBillionaire/USN-Journal-Parser](https://github.com/PoorBillionaire/USN-Journal-Parser)]([https://github.com/PoorBillionaire/USN-Journal-Parser](https://github.com/PoorBillionaire/USN-Journal-Parser))
 
-**Author:** desowin
-
-**Last Updated:** 2025-02-09
-
-**Description:** USBPcap - USB Packet capture for Windows
-
----
-
-## USBPcapOdinDumper
-
-**Repository:** [https://github.com/KOLANICH/USBPcapOdinDumper](https://github.com/KOLANICH/USBPcapOdinDumper)
-
-**Author:** KOLANICH
-
-**Last Updated:** 2023-10-09
-
-**Description:** No README found
+**Author:** PoorBillionaire
 
 ---
 
 ## VAmPI
 
-**Repository:** [https://github.com/erev0s/VAmPI](https://github.com/erev0s/VAmPI)
+**Repository:** [[https://github.com/erev0s/VAmPI](https://github.com/erev0s/VAmPI)]([https://github.com/erev0s/VAmPI](https://github.com/erev0s/VAmPI))
 
 **Author:** erev0s
-
-**Last Updated:** 2024-11-25
-
-**Description:** **The Vulnerable API** *(Based on OpenAPI 3)*
 
 ---
 
 ## vanguards
 
-**Repository:** [https://github.com/mikeperry-tor/vanguards](https://github.com/mikeperry-tor/vanguards)
+**Repository:** [[https://github.com/mikeperry-tor/vanguards](https://github.com/mikeperry-tor/vanguards)]([https://github.com/mikeperry-tor/vanguards](https://github.com/mikeperry-tor/vanguards))
 
 **Author:** mikeperry-tor
 
-**Last Updated:** 2023-10-31
-
-**Description:** Even after deployment of the [new v3 onion service protocol](https://gitweb.torproject.org/torspec.git/tree/proposals/224-rend-spec-ng.txt), the attacks facing onion services are wide-ranging, and still require
-
 ---
 
-## vcsmap
+## vast
 
-**Repository:** [https://github.com/melvinsh/vcsmap](https://github.com/melvinsh/vcsmap)
+**Repository:** [[https://github.com/tenzir/vast](https://github.com/tenzir/vast)]([https://github.com/tenzir/vast](https://github.com/tenzir/vast))
 
-**Author:** melvinsh
-
-**Last Updated:** 2016-11-25
-
-**Description:** vcsmap is a plugin-based tool to scan public version control systems (currently GitHub and [possibly Gitlab soon](https://gitlab.com/gitlab-org/gitlab-ee/issues/556)) for sensitive information like access tokens and credentials.
-
----
-
-## vector-edk
-
-**Repository:** [https://github.com/hackedteam/vector-edk](https://github.com/hackedteam/vector-edk)
-
-**Author:** hackedteam
-
-**Last Updated:** 2015-04-09
-
-**Description:** No README found
+**Author:** tenzir
 
 ---
 
 ## veles
 
-**Repository:** [https://github.com/codilime/veles](https://github.com/codilime/veles)
+**Repository:** [[https://github.com/codilime/veles](https://github.com/codilime/veles)]([https://github.com/codilime/veles](https://github.com/codilime/veles))
 
 **Author:** codilime
-
-**Last Updated:** 2018-05-18
-
-**Description:** It is a very difficult task for a human to notice subtle patterns in large amounts of binary data, however, us humans are very good at finding patterns in images. Statistical visualizations let you find the important bits in a sea of
 
 ---
 
 ## VHostScan
 
-**Repository:** [https://github.com/codingo/VHostScan](https://github.com/codingo/VHostScan)
+**Repository:** [[https://github.com/codingo/VHostScan](https://github.com/codingo/VHostScan)]([https://github.com/codingo/VHostScan](https://github.com/codingo/VHostScan))
 
 **Author:** codingo
 
-**Last Updated:** 2025-08-18
+---
 
-**Description:** A virtual host scanner that can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages. First presented at SecTalks BNE in September 2017 ([slidedeck](https://docs.google.com/presentation/d/1KDY7bnCpCGabJn8UpmHGSb6z_hi_WGf3ETxzykTNjWY)).
+## vim-syntax-yara
+
+**Repository:** [[https://github.com/s3rvac/vim-syntax-yara](https://github.com/s3rvac/vim-syntax-yara)]([https://github.com/s3rvac/vim-syntax-yara](https://github.com/s3rvac/vim-syntax-yara))
+
+**Author:** s3rvac
 
 ---
 
 ## VirtualDeobfuscator
 
-**Repository:** [https://github.com/jnraber/VirtualDeobfuscator](https://github.com/jnraber/VirtualDeobfuscator)
+**Repository:** [[https://github.com/jnraber/VirtualDeobfuscator](https://github.com/jnraber/VirtualDeobfuscator)]([https://github.com/jnraber/VirtualDeobfuscator](https://github.com/jnraber/VirtualDeobfuscator))
 
 **Author:** jnraber
 
-**Last Updated:** 2023-09-07
+---
 
-**Description:** VirtualDeobfuscator
+## VirusTotalTools
+
+**Repository:** [[https://github.com/silascutler/VirusTotalTools](https://github.com/silascutler/VirusTotalTools)]([https://github.com/silascutler/VirusTotalTools](https://github.com/silascutler/VirusTotalTools))
+
+**Author:** silascutler
 
 ---
 
 ## visualize_logs
 
-**Repository:** [https://github.com/keithjjones/visualize_logs](https://github.com/keithjjones/visualize_logs)
+**Repository:** [[https://github.com/keithjjones/visualize_logs](https://github.com/keithjjones/visualize_logs)]([https://github.com/keithjjones/visualize_logs](https://github.com/keithjjones/visualize_logs))
 
 **Author:** keithjjones
 
-**Last Updated:** 2016-11-12
-
-**Description:** A Python library and command line tools to provide log visualization.
-
 ---
 
-## vlany
+## vivisect
 
-**Repository:** [https://github.com/mempodippy/vlany](https://github.com/mempodippy/vlany)
+**Repository:** [[https://github.com/vivisect/vivisect](https://github.com/vivisect/vivisect)]([https://github.com/vivisect/vivisect](https://github.com/vivisect/vivisect))
 
-**Author:** mempodippy
-
-**Last Updated:** 2019-04-08
-
-**Description:** * *[List of features](https://github.com/mempodippy/vlany/wiki/Features)*</br> * *[Anti-Detection](https://github.com/mempodippy/vlany/wiki/Anti-Detection)*
-
----
-
-## vmcloak
-
-**Repository:** [https://github.com/hatching/vmcloak](https://github.com/hatching/vmcloak)
-
-**Author:** hatching
-
-**Last Updated:** 2022-01-25
-
-**Description:** Automated Virtual Machine Generation and Cloaking for Cuckoo Sandbox.
-
----
-
-## vnclowpot
-
-**Repository:** [https://github.com/magisterquis/vnclowpot](https://github.com/magisterquis/vnclowpot)
-
-**Author:** magisterquis
-
-**Last Updated:** 2019-08-10
-
-**Description:** Low-interaction VNC honeypot.  Listens on a port and logs responses to a static VNC Auth challenge.
-
----
-
-## VolDiff
-
-**Repository:** [https://github.com/aim4r/VolDiff](https://github.com/aim4r/VolDiff)
-
-**Author:** aim4r
-
-**Last Updated:** 2017-09-12
-
-**Description:** VolDiff: Malware Memory Footprint Analysis
+**Author:** vivisect
 
 ---
 
 ## voltron
 
-**Repository:** [https://github.com/snare/voltron](https://github.com/snare/voltron)
+**Repository:** [[https://github.com/snare/voltron](https://github.com/snare/voltron)]([https://github.com/snare/voltron](https://github.com/snare/voltron))
 
 **Author:** snare
 
-**Last Updated:** 2025-01-29
+---
 
-**Description:** Voltron is an extensible debugger UI toolkit written in Python. It aims to improve the user experience of various debuggers (LLDB, GDB, VDB and WinDbg) by enabling the attachment of utility views that can retrieve and display data from the debugger host. By running these views in other TTYs, you ...
+## vscode-yara
+
+**Repository:** [[https://github.com/infosec-intern/vscode-yara](https://github.com/infosec-intern/vscode-yara)]([https://github.com/infosec-intern/vscode-yara](https://github.com/infosec-intern/vscode-yara))
+
+**Author:** infosec-intern
 
 ---
 
-## VolUtility
+## VTCodeSimilarity-YaraGen
 
-**Repository:** [https://github.com/kevthehermit/VolUtility](https://github.com/kevthehermit/VolUtility)
+**Repository:** [[https://github.com/arieljt/VTCodeSimilarity-YaraGen](https://github.com/arieljt/VTCodeSimilarity-YaraGen)]([https://github.com/arieljt/VTCodeSimilarity-YaraGen](https://github.com/arieljt/VTCodeSimilarity-YaraGen))
 
-**Author:** kevthehermit
-
-**Last Updated:** 2017-01-20
-
-**Description:** Web Interface for Volatility Memory Analysis framework
+**Author:** arieljt
 
 ---
 
 ## Vuldroid
 
-**Repository:** [https://github.com/jaiswalakshansh/Vuldroid](https://github.com/jaiswalakshansh/Vuldroid)
+**Repository:** [[https://github.com/jaiswalakshansh/Vuldroid](https://github.com/jaiswalakshansh/Vuldroid)]([https://github.com/jaiswalakshansh/Vuldroid](https://github.com/jaiswalakshansh/Vuldroid))
 
 **Author:** jaiswalakshansh
 
-**Last Updated:** 2021-09-18
+---
 
-**Description:** Vuldroid is a Vulnerable Android Application made with security issues in order to demonstrate how they can occur in code.
+## vuln
+
+**Repository:** [[https://github.com/golang/vuln](https://github.com/golang/vuln)]([https://github.com/golang/vuln](https://github.com/golang/vuln))
+
+**Author:** golang
 
 ---
 
 ## VulnerableLightApp
 
-**Repository:** [https://github.com/Aif4thah/VulnerableLightApp](https://github.com/Aif4thah/VulnerableLightApp)
+**Repository:** [[https://github.com/Aif4thah/VulnerableLightApp](https://github.com/Aif4thah/VulnerableLightApp)]([https://github.com/Aif4thah/VulnerableLightApp](https://github.com/Aif4thah/VulnerableLightApp))
 
 **Author:** Aif4thah
 
-**Last Updated:** 2026-01-07
-
-**Description:** (No description available)
 ---
 
 ## vuls
 
-**Repository:** [https://github.com/future-architect/vuls](https://github.com/future-architect/vuls)
+**Repository:** [[https://github.com/future-architect/vuls](https://github.com/future-architect/vuls)]([https://github.com/future-architect/vuls](https://github.com/future-architect/vuls))
 
 **Author:** future-architect
-
-**Last Updated:** 2026-02-10
-
-**Description:** Vulnerability scanner for Linux/FreeBSD, agent-less, written in Go. We have a slack team. [Join slack team](https://join.slack.com/t/vuls-github/shared_invite/zt-1fculjwj4-6nex2JNE7DpOSiKZ1ztDFw) Twitter: [@vuls_en](https://twitter.com/vuls_en)
 
 ---
 
 ## vxsig
 
-**Repository:** [https://github.com/google/vxsig](https://github.com/google/vxsig)
+**Repository:** [[https://github.com/google/vxsig](https://github.com/google/vxsig)]([https://github.com/google/vxsig](https://github.com/google/vxsig))
 
 **Author:** google
-
-**Last Updated:** 2024-12-10
-
-**Description:** Copyright 2011-2024 Google LLC
-
----
-
-## w3af
-
-**Repository:** [https://github.com/andresriancho/w3af](https://github.com/andresriancho/w3af)
-
-**Author:** andresriancho
-
-**Last Updated:** 2020-06-16
-
-**Description:** [w3af](http://w3af.org/) is an [open source](https://www.gnu.org/licenses/gpl-2.0.txt) web application security scanner which helps developers and penetration testers identify and exploit vulnerabilities in their web applications.
-
----
-
-## WackoPicko
-
-**Repository:** [https://github.com/adamdoupe/WackoPicko](https://github.com/adamdoupe/WackoPicko)
-
-**Author:** adamdoupe
-
-**Last Updated:** 2021-11-17
-
-**Description:** No README found
 
 ---
 
 ## wafw00f
 
-**Repository:** [https://github.com/EnableSecurity/wafw00f](https://github.com/EnableSecurity/wafw00f)
+**Repository:** [[https://github.com/EnableSecurity/wafw00f](https://github.com/EnableSecurity/wafw00f)]([https://github.com/EnableSecurity/wafw00f](https://github.com/EnableSecurity/wafw00f))
 
 **Author:** EnableSecurity
-
-**Last Updated:** 2026-01-27
-
-**Description:**  <a href="https://github.com/enablesecurity/wafw00f">
 
 ---
 
 ## WAPot
 
-**Repository:** [https://github.com/lcashdol/WAPot](https://github.com/lcashdol/WAPot)
+**Repository:** [[https://github.com/lcashdol/WAPot](https://github.com/lcashdol/WAPot)]([https://github.com/lcashdol/WAPot](https://github.com/lcashdol/WAPot))
 
 **Author:** lcashdol
 
-**Last Updated:** 2018-11-14
-
-**Description:** A honeypot that can be used to observe traffic directed at wireless home routers.
-
 ---
 
-## Wargame_NcN2012
+## wavsteg
 
-**Repository:** [https://github.com/NocONName/Wargame_NcN2012](https://github.com/NocONName/Wargame_NcN2012)
+**Repository:** [[https://github.com/samolds/wavsteg](https://github.com/samolds/wavsteg)]([https://github.com/samolds/wavsteg](https://github.com/samolds/wavsteg))
 
-**Author:** NocONName
-
-**Last Updated:** 2016-04-20
-
-**Description:** Rules @ NcN_2012_Wargame.pdf (Spanish)
+**Author:** samolds
 
 ---
 
 ## waybackpack
 
-**Repository:** [https://github.com/jsvine/waybackpack](https://github.com/jsvine/waybackpack)
+**Repository:** [[https://github.com/jsvine/waybackpack](https://github.com/jsvine/waybackpack)]([https://github.com/jsvine/waybackpack](https://github.com/jsvine/waybackpack))
 
 **Author:** jsvine
-
-**Last Updated:** 2025-04-20
-
-**Description:** Waybackpack is a command-line tool that lets you download the entire Wayback Machine archive for a given URL.
 
 ---
 
 ## waybackpy
 
-**Repository:** [https://github.com/akamhy/waybackpy](https://github.com/akamhy/waybackpy)
+**Repository:** [[https://github.com/akamhy/waybackpy](https://github.com/akamhy/waybackpy)]([https://github.com/akamhy/waybackpy](https://github.com/akamhy/waybackpy))
 
 **Author:** akamhy
 
-**Last Updated:** 2022-11-17
+---
 
-**Description:** <!-- markdownlint-disable MD033 MD041 --> 
+## wazuh
+
+**Repository:** [[https://github.com/wazuh/wazuh](https://github.com/wazuh/wazuh)]([https://github.com/wazuh/wazuh](https://github.com/wazuh/wazuh))
+
+**Author:** wazuh
 
 ---
 
-## weevely3
+## WebGoat
 
-**Repository:** [https://github.com/epinna/weevely3](https://github.com/epinna/weevely3)
+**Repository:** [[https://github.com/WebGoat/WebGoat](https://github.com/WebGoat/WebGoat)]([https://github.com/WebGoat/WebGoat](https://github.com/WebGoat/WebGoat))
 
-**Author:** epinna
-
-**Last Updated:** 2025-10-01
-
-**Description:** Weevely is a web shell designed for post-exploitation purposes that can be extended over the network at runtime.
+**Author:** WebGoat
 
 ---
 
-## WhatBreach
+## webgoat
 
-**Repository:** [https://github.com/Ekultek/WhatBreach](https://github.com/Ekultek/WhatBreach)
+**Repository:** [[https://github.com/webgoat/webgoat](https://github.com/webgoat/webgoat)]([https://github.com/webgoat/webgoat](https://github.com/webgoat/webgoat))
 
-**Author:** Ekultek
+**Author:** webgoat
 
-**Last Updated:** 2025-08-14
+---
 
-**Description:** WhatBreach is an OSINT tool that simplifies the task of discovering what breaches an email address has been discovered in. WhatBreach provides a simple and effective way to search either multiple, or a single email address and discover all known breaches that this email has been seen in. From the...
+## WebGoat.NET
+
+**Repository:** [[https://github.com/jerryhoff/WebGoat.NET](https://github.com/jerryhoff/WebGoat.NET)]([https://github.com/jerryhoff/WebGoat.NET](https://github.com/jerryhoff/WebGoat.NET))
+
+**Author:** jerryhoff
+
+---
+
+## webscreenshot
+
+**Repository:** [[https://github.com/maaaaz/webscreenshot](https://github.com/maaaaz/webscreenshot)]([https://github.com/maaaaz/webscreenshot](https://github.com/maaaaz/webscreenshot))
+
+**Author:** maaaaz
+
+---
+
+## webshells
+
+**Repository:** [[https://github.com/BlackArch/webshells](https://github.com/BlackArch/webshells)]([https://github.com/BlackArch/webshells](https://github.com/BlackArch/webshells))
+
+**Author:** BlackArch
+
+---
+
+## WebsiteTechMiner-py
+
+**Repository:** [[https://github.com/cybersader/WebsiteTechMiner-py](https://github.com/cybersader/WebsiteTechMiner-py)]([https://github.com/cybersader/WebsiteTechMiner-py](https://github.com/cybersader/WebsiteTechMiner-py))
+
+**Author:** cybersader
 
 ---
 
 ## WhatWaf
 
-**Repository:** [https://github.com/Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf)
+**Repository:** [[https://github.com/Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf)]([https://github.com/Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf))
 
 **Author:** Ekultek
 
-**Last Updated:** 2023-12-09
+---
 
-**Description:** [1]: https://twitter.com/unethicalsalt [1.1]: http://i.imgur.com/tXSoThF.png
+## WhatWeb
+
+**Repository:** [[https://github.com/urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb)]([https://github.com/urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb))
+
+**Author:** urbanadventurer
+
+---
+
+## whosthere
+
+**Repository:** [[https://github.com/ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere)]([https://github.com/ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere))
+
+**Author:** ramonvermeulen
 
 ---
 
 ## wifi-arsenal
 
-**Repository:** [https://github.com/0x90/wifi-arsenal](https://github.com/0x90/wifi-arsenal)
+**Repository:** [[https://github.com/0x90/wifi-arsenal](https://github.com/0x90/wifi-arsenal)]([https://github.com/0x90/wifi-arsenal](https://github.com/0x90/wifi-arsenal))
 
 **Author:** 0x90
-
-**Last Updated:** 2020-07-06
-
-**Description:** Repo fully maintained by [0x90/wifi-arsenal](https://github.com/0x90/wifi-arsenal)
-
----
-
-## WiFi-Pumpkin
-
-**Repository:** [https://github.com/P0cL4bs/WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin)
-
-**Author:** P0cL4bs
-
-**Last Updated:** 2020-04-18
-
-**Description:** WiFi-Pumpkin - Framework for Rogue Wi-Fi Access Point Attack
 
 ---
 
 ## wifiphisher
 
-**Repository:** [https://github.com/sophron/wifiphisher](https://github.com/sophron/wifiphisher)
+**Repository:** [[https://github.com/sophron/wifiphisher](https://github.com/sophron/wifiphisher)]([https://github.com/sophron/wifiphisher](https://github.com/sophron/wifiphisher))
 
 **Author:** sophron
-
-**Last Updated:** 2025-02-04
-
-**Description:** (No description available)
----
-
-## wifite
-
-**Repository:** [https://github.com/derv82/wifite](https://github.com/derv82/wifite)
-
-**Author:** derv82
-
-**Last Updated:** 2018-04-06
-
-**Description:** THIS PROJECT IS IN LIFE-SUPPORT MODE
-
----
-
-## wifite2
-
-**Repository:** [https://github.com/coreb1t/wifite2](https://github.com/coreb1t/wifite2)
-
-**Author:** coreb1t
-
-**Last Updated:** 2016-11-29
-
-**Description:** No README found
-
----
-
-## WinDivert
-
-**Repository:** [https://github.com/basil00/WinDivert](https://github.com/basil00/WinDivert)
-
-**Author:** basil00
-
-**Last Updated:** 2022-04-10
-
-**Description:** WinDivert 2.2: Windows Packet Divert
 
 ---
 
 ## Windows-Secure-Host-Baseline
 
-**Repository:** [https://github.com/nsacyber/Windows-Secure-Host-Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline)
+**Repository:** [[https://github.com/nsacyber/Windows-Secure-Host-Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline)]([https://github.com/nsacyber/Windows-Secure-Host-Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline))
 
 **Author:** nsacyber
 
-**Last Updated:** 2018-09-12
+---
 
-**Description:** The Windows Secure Host Baseline (SHB) provides an automated and flexible approach for assisting the DoD in deploying the latest releases of Windows 10 using a framework that can be consumed by organizations of all sizes.
+## Windows-SignedBinary
+
+**Repository:** [[https://github.com/vysec/Windows-SignedBinary](https://github.com/vysec/Windows-SignedBinary)]([https://github.com/vysec/Windows-SignedBinary](https://github.com/vysec/Windows-SignedBinary))
+
+**Author:** vysec
 
 ---
 
 ## WinPwn
 
-**Repository:** [https://github.com/SecureThisShit/WinPwn](https://github.com/SecureThisShit/WinPwn)
+**Repository:** [[https://github.com/SecureThisShit/WinPwn](https://github.com/SecureThisShit/WinPwn)]([https://github.com/SecureThisShit/WinPwn](https://github.com/SecureThisShit/WinPwn))
 
 **Author:** SecureThisShit
 
-**Last Updated:** 2025-08-28
-
-**Description:** [](https://www.bluebastion.net/) &emsp; &emsp; &emsp;
-
 ---
 
-## WinSearchDBAnalyzer
+## wire-desktop
 
-**Repository:** [https://github.com/moaistory/WinSearchDBAnalyzer](https://github.com/moaistory/WinSearchDBAnalyzer)
+**Repository:** [[https://github.com/wireapp/wire-desktop](https://github.com/wireapp/wire-desktop)]([https://github.com/wireapp/wire-desktop](https://github.com/wireapp/wire-desktop))
 
-**Author:** moaistory
-
-**Last Updated:** 2021-03-09
-
-**Description:** http://moaistory.blogspot.com/2018/10/winsearchdbanalyzer.html
+**Author:** wireapp
 
 ---
 
 ## wordpot
 
-**Repository:** [https://github.com/gbrindisi/wordpot](https://github.com/gbrindisi/wordpot)
+**Repository:** [[https://github.com/gbrindisi/wordpot](https://github.com/gbrindisi/wordpot)]([https://github.com/gbrindisi/wordpot](https://github.com/gbrindisi/wordpot))
 
 **Author:** gbrindisi
-
-**Last Updated:** 2018-10-16
-
-**Description:** Wordpot is a Wordpress honeypot which detects probes for plugins, themes, timthumb and other common files used to fingerprint a wordpress installation.
 
 ---
 
 ## Wordpot-Frontend
 
-**Repository:** [https://github.com/GovCERT-CZ/Wordpot-Frontend](https://github.com/GovCERT-CZ/Wordpot-Frontend)
+**Repository:** [[https://github.com/GovCERT-CZ/Wordpot-Frontend](https://github.com/GovCERT-CZ/Wordpot-Frontend)]([https://github.com/GovCERT-CZ/Wordpot-Frontend](https://github.com/GovCERT-CZ/Wordpot-Frontend))
 
 **Author:** GovCERT-CZ
 
-**Last Updated:** 2015-11-10
-
-**Description:** Wordpot-Frontend is a full featured script to visualize statistics from a Wordpot honeypot.
-
 ---
 
-## wpsploit
+## wp-smart-honeypot
 
-**Repository:** [https://github.com/espreto/wpsploit](https://github.com/espreto/wpsploit)
+**Repository:** [[https://github.com/freak3dot/wp-smart-honeypot](https://github.com/freak3dot/wp-smart-honeypot)]([https://github.com/freak3dot/wp-smart-honeypot](https://github.com/freak3dot/wp-smart-honeypot))
 
-**Author:** espreto
-
-**Last Updated:** 2016-11-26
-
-**Description:** This repository is designed for creating and/or porting of specific exploits for WordPress using metasploit as exploitation tool.
-
----
-
-## write-ups-2013
-
-**Repository:** [https://github.com/ctfs/write-ups-2013](https://github.com/ctfs/write-ups-2013)
-
-**Author:** ctfs
-
-**Last Updated:** 2016-04-02
-
-**Description:** There are some problems with [CTF](https://ctftime.org/ctf-wtf/) write-ups in general:
-
----
-
-## write-ups-2014
-
-**Repository:** [https://github.com/ctfs/write-ups-2014](https://github.com/ctfs/write-ups-2014)
-
-**Author:** ctfs
-
-**Last Updated:** 2016-04-27
-
-**Description:** There are some problems with [CTF](https://ctftime.org/ctf-wtf/) write-ups in general:
-
----
-
-## write-ups-2015
-
-**Repository:** [https://github.com/ctfs/write-ups-2015](https://github.com/ctfs/write-ups-2015)
-
-**Author:** ctfs
-
-**Last Updated:** 2018-09-19
-
-**Description:** There are some problems with [CTF](https://ctftime.org/ctf-wtf/) write-ups in general:
-
----
-
-## write-ups-2016
-
-**Repository:** [https://github.com/ctfs/write-ups-2016](https://github.com/ctfs/write-ups-2016)
-
-**Author:** ctfs
-
-**Last Updated:** 2018-06-12
-
-**Description:** There are some problems with [CTF](https://ctftime.org/ctf-wtf/) write-ups in general:
-
----
-
-## wrongsecrets
-
-**Repository:** [https://github.com/commjoen/wrongsecrets](https://github.com/commjoen/wrongsecrets)
-
-**Author:** commjoen
-
-**Last Updated:** 2026-02-03
-
-**Description:** <!-- CRE Link: [223-780](https://www.opencre.org/cre/223-780?register=true&type=tool&tool_type=training&tags=secrets,training&description=With%20this%20app%2C%20we%20have%20packed%20various%20ways%20of%20how%20to%20not%20store%20your%20secrets.%20These%20can%20help%20you%20to%20realize%20whether%...
+**Author:** freak3dot
 
 ---
 
 ## wxHexEditor
 
-**Repository:** [https://github.com/EUA/wxHexEditor](https://github.com/EUA/wxHexEditor)
+**Repository:** [[https://github.com/EUA/wxHexEditor](https://github.com/EUA/wxHexEditor)]([https://github.com/EUA/wxHexEditor](https://github.com/EUA/wxHexEditor))
 
 **Author:** EUA
 
-**Last Updated:** 2023-11-08
-
-**Description:** wxHexEditor official GIT repo For info : http://www.wxhexeditor.org
-
 ---
 
-## xbox_monitor
+## x64dbg
 
-**Repository:** [https://github.com/misiektoja/xbox_monitor](https://github.com/misiektoja/xbox_monitor)
+**Repository:** [[https://github.com/x64dbg/x64dbg](https://github.com/x64dbg/x64dbg)]([https://github.com/x64dbg/x64dbg](https://github.com/x64dbg/x64dbg))
 
-**Author:** misiektoja
+**Author:** x64dbg
 
-**Last Updated:** 2026-02-06
-
-**Description:** (No description available)
 ---
 
 ## xortool
 
-**Repository:** [https://github.com/hellman/xortool](https://github.com/hellman/xortool)
+**Repository:** [[https://github.com/hellman/xortool](https://github.com/hellman/xortool)]([https://github.com/hellman/xortool](https://github.com/hellman/xortool))
 
 **Author:** hellman
-
-**Last Updated:** 2025-05-21
-
-**Description:** xortool.py
-
----
-
-## xray
-
-**Repository:** [https://github.com/evilsocket/xray](https://github.com/evilsocket/xray)
-
-**Author:** evilsocket
-
-**Last Updated:** 2024-07-10
-
-**Description:** **XRay has been reimplemented in Rust and expanded with more features, this repository is LEGACY code. Use https://github.com/evilsocket/legba**
 
 ---
 
 ## yabin
 
-**Repository:** [https://github.com/AlienVault-OTX/yabin](https://github.com/AlienVault-OTX/yabin)
+**Repository:** [[https://github.com/AlienVault-OTX/yabin](https://github.com/AlienVault-OTX/yabin)]([https://github.com/AlienVault-OTX/yabin](https://github.com/AlienVault-OTX/yabin))
 
 **Author:** AlienVault-OTX
 
-**Last Updated:** 2018-11-06
-
-**Description:** Yabin creates Yara signatures from executable code within malware. Given one sample of malware, you can then find other samples that share code.
-
 ---
 
-## YAFH
+## yaffs2-forensic-tool
 
-**Repository:** [https://github.com/fnzv/YAFH](https://github.com/fnzv/YAFH)
+**Repository:** [[https://github.com/hashment/yaffs2-forensic-tool](https://github.com/hashment/yaffs2-forensic-tool)]([https://github.com/hashment/yaffs2-forensic-tool](https://github.com/hashment/yaffs2-forensic-tool))
 
-**Author:** fnzv
-
-**Last Updated:** 2017-12-08
-
-**Description:** 1) Clone repo locally<br> ```git clone https://github.com/fnzv/YAFH.git && cd YAFH``` 2) Get deps<br> ```go get github.com/gliderlabs/ssh && go get github.com/kr/pty``` 3) Build and create Go binaries <br>
+**Author:** hashment
 
 ---
 
 ## yalih
 
-**Repository:** [https://github.com/Masood-M/yalih](https://github.com/Masood-M/yalih)
+**Repository:** [[https://github.com/Masood-M/yalih](https://github.com/Masood-M/yalih)]([https://github.com/Masood-M/yalih](https://github.com/Masood-M/yalih))
 
 **Author:** Masood-M
 
-**Last Updated:** 2019-06-18
+---
 
-**Description:** YALIH (Yet Another Low Interaction Honeyclient) is a low Interaction Client honeypot designed to detect malicious websites through signature, anomaly and pattern matching techniques. YALIH has the following capabilities:
+## yaml2yara
+
+**Repository:** [[https://github.com/nccgroup/yaml2yara](https://github.com/nccgroup/yaml2yara)]([https://github.com/nccgroup/yaml2yara](https://github.com/nccgroup/yaml2yara))
+
+**Author:** nccgroup
 
 ---
 
 ## yar
 
-**Repository:** [https://github.com/Furduhlutur/yar](https://github.com/Furduhlutur/yar)
+**Repository:** [[https://github.com/Furduhlutur/yar](https://github.com/Furduhlutur/yar)]([https://github.com/Furduhlutur/yar](https://github.com/Furduhlutur/yar))
 
 **Author:** Furduhlutur
 
-**Last Updated:** 2020-05-19
+---
 
-**Description:** (No description available)
+## YARA
+
+**Repository:** [[https://github.com/anyrun/YARA](https://github.com/anyrun/YARA)]([https://github.com/anyrun/YARA](https://github.com/anyrun/YARA))
+
+**Author:** anyrun
+
+---
+
+## yara
+
+**Repository:** [[https://github.com/securitymagic/yara](https://github.com/securitymagic/yara)]([https://github.com/securitymagic/yara](https://github.com/securitymagic/yara))
+
+**Author:** securitymagic
+
+---
+
+## yara-java
+
+**Repository:** [[https://github.com/p8a/yara-java](https://github.com/p8a/yara-java)]([https://github.com/p8a/yara-java](https://github.com/p8a/yara-java))
+
+**Author:** p8a
+
+---
+
+## yara-ocaml
+
+**Repository:** [[https://github.com/XVilka/yara-ocaml](https://github.com/XVilka/yara-ocaml)]([https://github.com/XVilka/yara-ocaml](https://github.com/XVilka/yara-ocaml))
+
+**Author:** XVilka
+
+---
+
+## yara-parser
+
+**Repository:** [[https://github.com/Northern-Lights/yara-parser](https://github.com/Northern-Lights/yara-parser)]([https://github.com/Northern-Lights/yara-parser](https://github.com/Northern-Lights/yara-parser))
+
+**Author:** Northern-Lights
+
+---
+
+## YARA-PE-Features
+
+**Repository:** [[https://github.com/g-les/YARA-PE-Features](https://github.com/g-les/YARA-PE-Features)]([https://github.com/g-les/YARA-PE-Features](https://github.com/g-les/YARA-PE-Features))
+
+**Author:** g-les
+
+---
+
+## yara-procdump-python
+
+**Repository:** [[https://github.com/google/yara-procdump-python](https://github.com/google/yara-procdump-python)]([https://github.com/google/yara-procdump-python](https://github.com/google/yara-procdump-python))
+
+**Author:** google
+
+---
+
+## Yara-Repo
+
+**Repository:** [[https://github.com/Fadavvi/Yara-Repo](https://github.com/Fadavvi/Yara-Repo)]([https://github.com/Fadavvi/Yara-Repo](https://github.com/Fadavvi/Yara-Repo))
+
+**Author:** Fadavvi
+
+---
+
+## YARA-rules
+
+**Repository:** [[https://github.com/fboldewin/YARA-rules](https://github.com/fboldewin/YARA-rules)]([https://github.com/fboldewin/YARA-rules](https://github.com/fboldewin/YARA-rules))
+
+**Author:** fboldewin
+
+---
+
+## yara-rules-public
+
+**Repository:** [[https://github.com/jipegit/yara-rules-public](https://github.com/jipegit/yara-rules-public)]([https://github.com/jipegit/yara-rules-public](https://github.com/jipegit/yara-rules-public))
+
+**Author:** jipegit
+
+---
+
+## yara-rust
+
+**Repository:** [[https://github.com/Hugal31/yara-rust](https://github.com/Hugal31/yara-rust)]([https://github.com/Hugal31/yara-rust](https://github.com/Hugal31/yara-rust))
+
+**Author:** Hugal31
+
+---
+
+## yara-signator
+
+**Repository:** [[https://github.com/fxb-cocacoding/yara-signator](https://github.com/fxb-cocacoding/yara-signator)]([https://github.com/fxb-cocacoding/yara-signator](https://github.com/fxb-cocacoding/yara-signator))
+
+**Author:** fxb-cocacoding
+
+---
+
+## YARA-sort
+
+**Repository:** [[https://github.com/horsicq/YARA-sort](https://github.com/horsicq/YARA-sort)]([https://github.com/horsicq/YARA-sort](https://github.com/horsicq/YARA-sort))
+
+**Author:** horsicq
+
+---
+
+## Yara-Unprotect
+
+**Repository:** [[https://github.com/fr0gger/Yara-Unprotect](https://github.com/fr0gger/Yara-Unprotect)]([https://github.com/fr0gger/Yara-Unprotect](https://github.com/fr0gger/Yara-Unprotect))
+
+**Author:** fr0gger
+
+---
+
+## yara-validator
+
+**Repository:** [[https://github.com/CIRCL/yara-validator](https://github.com/CIRCL/yara-validator)]([https://github.com/CIRCL/yara-validator](https://github.com/CIRCL/yara-validator))
+
+**Author:** CIRCL
+
+---
+
+## yara_repo
+
+**Repository:** [[https://github.com/tjnel/yara_repo](https://github.com/tjnel/yara_repo)]([https://github.com/tjnel/yara_repo](https://github.com/tjnel/yara_repo))
+
+**Author:** tjnel
+
+---
+
+## YARA_Rules
+
+**Repository:** [[https://github.com/MalGamy/YARA_Rules](https://github.com/MalGamy/YARA_Rules)]([https://github.com/MalGamy/YARA_Rules](https://github.com/MalGamy/YARA_Rules))
+
+**Author:** MalGamy
+
+---
+
+## yara_scanner
+
+**Repository:** [[https://github.com/ace-ecosystem/yara_scanner](https://github.com/ace-ecosystem/yara_scanner)]([https://github.com/ace-ecosystem/yara_scanner](https://github.com/ace-ecosystem/yara_scanner))
+
+**Author:** ace-ecosystem
+
+---
+
+## YaraFileCheckerLib
+
+**Repository:** [[https://github.com/k-sec-tools/YaraFileCheckerLib](https://github.com/k-sec-tools/YaraFileCheckerLib)]([https://github.com/k-sec-tools/YaraFileCheckerLib](https://github.com/k-sec-tools/YaraFileCheckerLib))
+
+**Author:** k-sec-tools
+
+---
+
+## YaraGen
+
+**Repository:** [[https://github.com/mrexodia/YaraGen](https://github.com/mrexodia/YaraGen)]([https://github.com/mrexodia/YaraGen](https://github.com/mrexodia/YaraGen))
+
+**Author:** mrexodia
+
+---
+
+## YaraGenerator
+
+**Repository:** [[https://github.com/Xen0ph0n/YaraGenerator](https://github.com/Xen0ph0n/YaraGenerator)]([https://github.com/Xen0ph0n/YaraGenerator](https://github.com/Xen0ph0n/YaraGenerator))
+
+**Author:** Xen0ph0n
+
+---
+
+## YaraGuardian
+
+**Repository:** [[https://github.com/PUNCH-Cyber/YaraGuardian](https://github.com/PUNCH-Cyber/YaraGuardian)]([https://github.com/PUNCH-Cyber/YaraGuardian](https://github.com/PUNCH-Cyber/YaraGuardian))
+
+**Author:** PUNCH-Cyber
+
+---
+
+## YaraHunter
+
+**Repository:** [[https://github.com/deepfence/YaraHunter](https://github.com/deepfence/YaraHunter)]([https://github.com/deepfence/YaraHunter](https://github.com/deepfence/YaraHunter))
+
+**Author:** deepfence
+
+---
+
+## yaralyzer
+
+**Repository:** [[https://github.com/michelcrypt4d4mus/yaralyzer](https://github.com/michelcrypt4d4mus/yaralyzer)]([https://github.com/michelcrypt4d4mus/yaralyzer](https://github.com/michelcrypt4d4mus/yaralyzer))
+
+**Author:** michelcrypt4d4mus
+
+---
+
+## yaraMail
+
+**Repository:** [[https://github.com/kevthehermit/yaraMail](https://github.com/kevthehermit/yaraMail)]([https://github.com/kevthehermit/yaraMail](https://github.com/kevthehermit/yaraMail))
+
+**Author:** kevthehermit
+
+---
+
+## YaraManager
+
+**Repository:** [[https://github.com/kevthehermit/YaraManager](https://github.com/kevthehermit/YaraManager)]([https://github.com/kevthehermit/YaraManager](https://github.com/kevthehermit/YaraManager))
+
+**Author:** kevthehermit
+
+---
+
+## yaramod
+
+**Repository:** [[https://github.com/avast/yaramod](https://github.com/avast/yaramod)]([https://github.com/avast/yaramod](https://github.com/avast/yaramod))
+
+**Author:** avast
+
+---
+
+## yarAnalyzer
+
+**Repository:** [[https://github.com/Neo23x0/yarAnalyzer](https://github.com/Neo23x0/yarAnalyzer)]([https://github.com/Neo23x0/yarAnalyzer](https://github.com/Neo23x0/yarAnalyzer))
+
+**Author:** Neo23x0
+
+---
+
+## yaraparser
+
+**Repository:** [[https://github.com/BitsOfBinary/yaraparser](https://github.com/BitsOfBinary/yaraparser)]([https://github.com/BitsOfBinary/yaraparser](https://github.com/BitsOfBinary/yaraparser))
+
+**Author:** BitsOfBinary
+
+---
+
+## YaraRules
+
+**Repository:** [[https://github.com/kevthehermit/YaraRules](https://github.com/kevthehermit/YaraRules)]([https://github.com/kevthehermit/YaraRules](https://github.com/kevthehermit/YaraRules))
+
+**Author:** kevthehermit
+
+---
+
+## yarasafe
+
+**Repository:** [[https://github.com/lucamassarelli/yarasafe](https://github.com/lucamassarelli/yarasafe)]([https://github.com/lucamassarelli/yarasafe](https://github.com/lucamassarelli/yarasafe))
+
+**Author:** lucamassarelli
+
+---
+
+## yaraScanParser
+
+**Repository:** [[https://github.com/Sh3llyR/yaraScanParser](https://github.com/Sh3llyR/yaraScanParser)]([https://github.com/Sh3llyR/yaraScanParser](https://github.com/Sh3llyR/yaraScanParser))
+
+**Author:** Sh3llyR
+
+---
+
+## YaraSharp
+
+**Repository:** [[https://github.com/stellarbear/YaraSharp](https://github.com/stellarbear/YaraSharp)]([https://github.com/stellarbear/YaraSharp](https://github.com/stellarbear/YaraSharp))
+
+**Author:** stellarbear
+
+---
+
+## yarasilly2
+
+**Repository:** [[https://github.com/YARA-Silly-Silly/yarasilly2](https://github.com/YARA-Silly-Silly/yarasilly2)]([https://github.com/YARA-Silly-Silly/yarasilly2](https://github.com/YARA-Silly-Silly/yarasilly2))
+
+**Author:** YARA-Silly-Silly
+
+---
+
+## yarastation
+
+**Repository:** [[https://github.com/NumLocK15/yarastation](https://github.com/NumLocK15/yarastation)]([https://github.com/NumLocK15/yarastation](https://github.com/NumLocK15/yarastation))
+
+**Author:** NumLocK15
+
+---
+
+## YaraSyntax
+
+**Repository:** [[https://github.com/nyx0/YaraSyntax](https://github.com/nyx0/YaraSyntax)]([https://github.com/nyx0/YaraSyntax](https://github.com/nyx0/YaraSyntax))
+
+**Author:** nyx0
+
+---
+
+## yaraVT
+
+**Repository:** [[https://github.com/deadbits/yaraVT](https://github.com/deadbits/yaraVT)]([https://github.com/deadbits/yaraVT](https://github.com/deadbits/yaraVT))
+
+**Author:** deadbits
+
 ---
 
 ## yarg
 
-**Repository:** [https://github.com/immortalp0ny/yarg](https://github.com/immortalp0ny/yarg)
+**Repository:** [[https://github.com/immortalp0ny/yarg](https://github.com/immortalp0ny/yarg)]([https://github.com/immortalp0ny/yarg](https://github.com/immortalp0ny/yarg))
 
 **Author:** immortalp0ny
-
-**Last Updated:** 2025-06-06
-
-**Description:** IDAPython plugin for generating whole yara rules/ patterns from x86/x86-64 code. Operation called 'parameterization' applyes to selected code/function. This operation finds alternatives for any possible operands and create pattern
 
 ---
 
 ## yarGen
 
-**Repository:** [https://github.com/Neo23x0/yarGen](https://github.com/Neo23x0/yarGen)
+**Repository:** [[https://github.com/Neo23x0/yarGen](https://github.com/Neo23x0/yarGen)]([https://github.com/Neo23x0/yarGen](https://github.com/Neo23x0/yarGen))
 
 **Author:** Neo23x0
-
-**Last Updated:** 2026-01-10
-
-**Description:** I created a new YARA rule generator named [yarGen-Go](https://github.com/Neo23x0/yarGen-Go) (Golang).
 
 ---
 
 ## yari
 
-**Repository:** [https://github.com/avast/yari](https://github.com/avast/yari)
+**Repository:** [[https://github.com/avast/yari](https://github.com/avast/yari)]([https://github.com/avast/yari](https://github.com/avast/yari))
 
 **Author:** avast
-
-**Last Updated:** 2024-04-12
-
-**Description:** Interactive debugger for the [YARA](https://yara.readthedocs.io/en/stable/) language written in Rust. Debugger directly calls `libyara` avoiding emulation to get the most accurate results.
 
 ---
 
 ## yaya
 
-**Repository:** [https://github.com/EFForg/yaya](https://github.com/EFForg/yaya)
+**Repository:** [[https://github.com/EFForg/yaya](https://github.com/EFForg/yaya)]([https://github.com/EFForg/yaya](https://github.com/EFForg/yaya))
 
 **Author:** EFForg
-
-**Last Updated:** 2021-08-04
-
-**Description:** Automatically curate open source yara rules and run scans
 
 ---
 
 ## YaYaGen
 
-**Repository:** [https://github.com/jimmy-sonny/YaYaGen](https://github.com/jimmy-sonny/YaYaGen)
+**Repository:** [[https://github.com/jimmy-sonny/YaYaGen](https://github.com/jimmy-sonny/YaYaGen)]([https://github.com/jimmy-sonny/YaYaGen](https://github.com/jimmy-sonny/YaYaGen))
 
 **Author:** jimmy-sonny
 
-**Last Updated:** 2018-10-09
+---
 
-**Description:** YaYaGen is in [Las Vegas](https://jimmy-sonny.github.io/LasVegas18/)!
+## yersinia
+
+**Repository:** [[https://github.com/tomac/yersinia](https://github.com/tomac/yersinia)]([https://github.com/tomac/yersinia](https://github.com/tomac/yersinia))
+
+**Author:** tomac
 
 ---
 
 ## yextend
 
-**Repository:** [https://github.com/BayshoreNetworks/yextend](https://github.com/BayshoreNetworks/yextend)
+**Repository:** [[https://github.com/BayshoreNetworks/yextend](https://github.com/BayshoreNetworks/yextend)]([https://github.com/BayshoreNetworks/yextend](https://github.com/BayshoreNetworks/yextend))
 
 **Author:** BayshoreNetworks
 
-**Last Updated:** 2018-03-11
-
-**Description:** <a href="https://scan.coverity.com/projects/bayshorenetworks-yextend"> 
-
----
-
-## yls
-
-**Repository:** [https://github.com/avast/yls](https://github.com/avast/yls)
-
-**Author:** avast
-
-**Last Updated:** 2026-02-03
-
-**Description:** [Language server](https://microsoft.github.io/language-server-protocol/) for [YARA](https://yara.readthedocs.io/en/stable/) language.
-
----
-
-## Yobi
-
-**Repository:** [https://github.com/imp0rtp3/Yobi](https://github.com/imp0rtp3/Yobi)
-
-**Author:** imp0rtp3
-
-**Last Updated:** 2021-09-05
-
-**Description:** (No description available)
 ---
 
 ## yrfy
 
-**Repository:** [https://github.com/andpalmier/yrfy](https://github.com/andpalmier/yrfy)
+**Repository:** [[https://github.com/andpalmier/yrfy](https://github.com/andpalmier/yrfy)]([https://github.com/andpalmier/yrfy](https://github.com/andpalmier/yrfy))
 
 **Author:** andpalmier
 
-**Last Updated:** 2026-01-19
+---
 
-**Description:** A command-line tool for interacting with the [YARAify API](https://yaraify.abuse.ch/api/).
+## zap-api-nodejs
+
+**Repository:** [[https://github.com/zaproxy/zap-api-nodejs](https://github.com/zaproxy/zap-api-nodejs)]([https://github.com/zaproxy/zap-api-nodejs](https://github.com/zaproxy/zap-api-nodejs))
+
+**Author:** zaproxy
 
 ---
 
-## zarp
+## zaproxy
 
-**Repository:** [https://github.com/hatRiot/zarp](https://github.com/hatRiot/zarp)
+**Repository:** [[https://github.com/zaproxy/zaproxy](https://github.com/zaproxy/zaproxy)]([https://github.com/zaproxy/zaproxy](https://github.com/zaproxy/zaproxy))
 
-**Author:** hatRiot
+**Author:** zaproxy
 
-**Last Updated:** 2022-03-29
+---
 
-**Description:** Introduction
+## Zen
+
+**Repository:** [[https://github.com/s0md3v/Zen](https://github.com/s0md3v/Zen)]([https://github.com/s0md3v/Zen](https://github.com/s0md3v/Zen))
+
+**Author:** s0md3v
+
+---
+
+## Zeus
+
+**Repository:** [[https://github.com/Visgean/Zeus](https://github.com/Visgean/Zeus)]([https://github.com/Visgean/Zeus](https://github.com/Visgean/Zeus))
+
+**Author:** Visgean
+
+---
+
+## zsteg
+
+**Repository:** [[https://github.com/zed-0xff/zsteg](https://github.com/zed-0xff/zsteg)]([https://github.com/zed-0xff/zsteg](https://github.com/zed-0xff/zsteg))
+
+**Author:** zed-0xff
 
 ---
 

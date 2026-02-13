@@ -16,7 +16,7 @@ https://github.com/0xd4d/de4dot
 https://github.com/0xd4d/dnSpy
 https://github.com/0xnr/awesome-analytics
 https://github.com/0xsobky/HackVault
-https://github.com/100DaysofYARA
+https://github.com/100DaysofYARA/2026
 https://github.com/1N3/Sn1per
 https://github.com/3c7/yaramanager
 https://github.com/3nock/SpiderSuite

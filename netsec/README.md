@@ -2,583 +2,567 @@
 
 Network security tools, infrastructure hardening, and security monitoring solutions.
 
-**Total Tools:** 48
+**Total Tools:** 70
 
 ---
 
-## AndroidSlides
+## AgentKB-public
 
-**Repository:** [https://github.com/jacobsoo/AndroidSlides](https://github.com/jacobsoo/AndroidSlides)
+**Repository:** [[https://github.com/j-w-code/AgentKB-public](https://github.com/j-w-code/AgentKB-public)]([https://github.com/j-w-code/AgentKB-public](https://github.com/j-w-code/AgentKB-public))
 
-**Author:** jacobsoo
-
-**Last Updated:** 2021-08-16
-
-**Description:** AndroidSlides
+**Author:** j-w-code
 
 ---
 
-## awesome-honeypots
+## amber
 
-**Repository:** [https://github.com/paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots)
+**Repository:** [[https://github.com/EgeBalci/amber](https://github.com/EgeBalci/amber)]([https://github.com/EgeBalci/amber](https://github.com/EgeBalci/amber))
 
-**Author:** paralax
-
-**Last Updated:** 2025-04-01
-
-**Description:** A curated list of awesome honeypots, plus related components and much more, divided into categories such as Web, services, and others, with a focus on free and open source projects.
+**Author:** EgeBalci
 
 ---
 
-## ciscoasa_honeypot
+## apk2gold
 
-**Repository:** [https://github.com/cymmetria/ciscoasa_honeypot](https://github.com/cymmetria/ciscoasa_honeypot)
+**Repository:** [[https://github.com/lxdvs/apk2gold](https://github.com/lxdvs/apk2gold)]([https://github.com/lxdvs/apk2gold](https://github.com/lxdvs/apk2gold))
 
-**Author:** cymmetria
-
-**Last Updated:** 2018-08-16
-
-**Description:** Cymmetria Research, 2018.
+**Author:** lxdvs
 
 ---
 
-## CitrixHoneypot
+## awesome-bugbounty-tools
 
-**Repository:** [https://github.com/MalwareTech/CitrixHoneypot](https://github.com/MalwareTech/CitrixHoneypot)
+**Repository:** [[https://github.com/vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools)]([https://github.com/vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools))
 
-**Author:** MalwareTech
-
-**Last Updated:** 2020-01-15
-
-**Description:** Detect and log CVE-2019-19781 scan and exploitation attempts.
+**Author:** vavkamil
 
 ---
 
-## codebro
+## bubblewrap
 
-**Repository:** [https://github.com/hugsy/codebro](https://github.com/hugsy/codebro)
+**Repository:** [[https://github.com/containers/bubblewrap](https://github.com/containers/bubblewrap)]([https://github.com/containers/bubblewrap](https://github.com/containers/bubblewrap))
 
-**Author:** hugsy
-
-**Last Updated:** 2017-07-20
-
-**Description:** `CodeBro` is a web based code browser, using clang AST parser to create cross-reference between function calls. For those interested, all this idea came from [Eli Bendersky's website](http://eli.thegreenplace.net/2011/07/03/parsing-c-in-python-with-clang/).
+**Author:** containers
 
 ---
 
-## csirtg-honeypot
+## clj-net-pcap
 
-**Repository:** [https://github.com/csirtgadgets/csirtg-honeypot](https://github.com/csirtgadgets/csirtg-honeypot)
+**Repository:** [[https://github.com/ruedigergad/clj-net-pcap](https://github.com/ruedigergad/clj-net-pcap)]([https://github.com/ruedigergad/clj-net-pcap](https://github.com/ruedigergad/clj-net-pcap))
 
-**Author:** csirtgadgets
-
-**Last Updated:** 2015-04-24
-
-**Description:** $ pip install twisted $ git clone https://github.com/csirtgadgets/whiteface-honeypot.git $ cd whiteface-honeypot $ sh start.sh $ sh stop.sh
+**Author:** ruedigergad
 
 ---
 
-## django-admin-honeypot
+## cset
 
-**Repository:** [https://github.com/dmpayton/django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot)
+**Repository:** [[https://github.com/cisagov/cset](https://github.com/cisagov/cset)]([https://github.com/cisagov/cset](https://github.com/cisagov/cset))
 
-**Author:** dmpayton
-
-**Last Updated:** 2022-01-01
-
-**Description:** django-admin-honeypot
+**Author:** cisagov
 
 ---
 
-## DolosHoneypot
+## DAws
 
-**Repository:** [https://github.com/Marist-Innovation-Lab/DolosHoneypot](https://github.com/Marist-Innovation-Lab/DolosHoneypot)
+**Repository:** [[https://github.com/dotcppfile/DAws](https://github.com/dotcppfile/DAws)]([https://github.com/dotcppfile/DAws](https://github.com/dotcppfile/DAws))
 
-**Author:** Marist-Innovation-Lab
-
-**Last Updated:** 2018-04-23
-
-**Description:** ﻿# Dolos: SDN Honeypot           `. `'. :;+.,. `   ` :;, '#,  ; ; ,:;;;,  '`.' `,;, `++#:`;';'.;;;. ``';  ;.. '.;.; ;#,;,   '#.+,'::'+; .,:`,,` ..'+'+:'`  ,`, ::..`': :,
+**Author:** dotcppfile
 
 ---
 
-## EoHoneypotBundle
+## drakvuf
 
-**Repository:** [https://github.com/eymengunay/EoHoneypotBundle](https://github.com/eymengunay/EoHoneypotBundle)
+**Repository:** [[https://github.com/tklengyel/drakvuf](https://github.com/tklengyel/drakvuf)]([https://github.com/tklengyel/drakvuf](https://github.com/tklengyel/drakvuf))
 
-**Author:** eymengunay
-
-**Last Updated:** 2025-06-13
-
-**Description:** Honeypot for Symfony2 forms.
+**Author:** tklengyel
 
 ---
 
-## express-honeypot
+## ExchangeFilter
 
-**Repository:** [https://github.com/christophe77/express-honeypot](https://github.com/christophe77/express-honeypot)
+**Repository:** [[https://github.com/k-sec-tools/ExchangeFilter](https://github.com/k-sec-tools/ExchangeFilter)]([https://github.com/k-sec-tools/ExchangeFilter](https://github.com/k-sec-tools/ExchangeFilter))
 
-**Author:** christophe77
-
-**Last Updated:** 2025-02-26
-
-**Description:** Express honeypot is a honeypot for remote file inclusion (RFI) and local file inclusion (LFI).<br /> The aim of this project is to catch bots and malwares that are scanning websites and try to upload remote files.<br />
+**Author:** k-sec-tools
 
 ---
 
-## ghost-usb-honeypot
+## EyeWitness
 
-**Repository:** [https://github.com/honeynet/ghost-usb-honeypot](https://github.com/honeynet/ghost-usb-honeypot)
+**Repository:** [[https://github.com/ChrisTruncer/EyeWitness](https://github.com/ChrisTruncer/EyeWitness)]([https://github.com/ChrisTruncer/EyeWitness](https://github.com/ChrisTruncer/EyeWitness))
 
-**Author:** honeynet
-
-**Last Updated:** 2015-03-24
-
-**Description:** Ghost is a honeypot for malware that spreads via USB storage devices. It detects infections with such malware without the need of any further information. If you would like to see a video introduction to the project, have a look at [this Youtube video](http://www.youtube.com/watch?v=9G9oo3b9qR4).
+**Author:** ChrisTruncer
 
 ---
 
-## go-HoneyPot
+## GRASSMARLIN
 
-**Repository:** [https://github.com/Mojachieee/go-HoneyPot](https://github.com/Mojachieee/go-HoneyPot)
+**Repository:** [[https://github.com/iadgov/GRASSMARLIN](https://github.com/iadgov/GRASSMARLIN)]([https://github.com/iadgov/GRASSMARLIN](https://github.com/iadgov/GRASSMARLIN))
 
-**Author:** Mojachieee
-
-**Last Updated:** 2017-12-28
-
-**Description:** A honeypot server written in Go.
+**Author:** iadgov
 
 ---
 
-## honeypot
+## h26forge
 
-**Repository:** [https://github.com/jadb/honeypot](https://github.com/jadb/honeypot)
+**Repository:** [[https://github.com/h26forge/h26forge](https://github.com/h26forge/h26forge)]([https://github.com/h26forge/h26forge](https://github.com/h26forge/h26forge))
 
-**Author:** jadb
-
-**Last Updated:** 2016-01-22
-
-**Description:** The [Project Honey Pot](https://www.projecthoneypot.org)'s *un-official* PHP SDK.
+**Author:** h26forge
 
 ---
 
-## Honeypot
+## hadoop-pcap
 
-**Repository:** [https://github.com/msurguy/Honeypot](https://github.com/msurguy/Honeypot)
+**Repository:** [[https://github.com/RIPE-NCC/hadoop-pcap](https://github.com/RIPE-NCC/hadoop-pcap)]([https://github.com/RIPE-NCC/hadoop-pcap](https://github.com/RIPE-NCC/hadoop-pcap))
 
-**Author:** msurguy
-
-**Last Updated:** 2025-02-19
-
-**Description:** Honeypot spam prevention for Laravel applications
+**Author:** RIPE-NCC
 
 ---
 
-## honeypot-camera
+## honey_ports
 
-**Repository:** [https://github.com/alexbredo/honeypot-camera](https://github.com/alexbredo/honeypot-camera)
+**Repository:** [[https://github.com/run41/honey_ports](https://github.com/run41/honey_ports)]([https://github.com/run41/honey_ports](https://github.com/run41/honey_ports))
 
-**Author:** alexbredo
-
-**Last Updated:** 2015-06-18
-
-**Description:** honeypot-camera
+**Author:** run41
 
 ---
 
-## honeypot-for-tcp-32764
+## hping
 
-**Repository:** [https://github.com/knalli/honeypot-for-tcp-32764](https://github.com/knalli/honeypot-for-tcp-32764)
+**Repository:** [[https://github.com/antirez/hping](https://github.com/antirez/hping)]([https://github.com/antirez/hping](https://github.com/antirez/hping))
 
-**Author:** knalli
-
-**Last Updated:** 2014-02-06
-
-**Description:** This is a first try to mock the router backdoor "TCP32764" found in several router firmwares at the end of 2013. The POC of the backdoor is located at this [repository](https://github.com/elvanderb/TCP-32764).
+**Author:** antirez
 
 ---
 
-## honeypot-ftp
+## http-sniffer
 
-**Repository:** [https://github.com/alexbredo/honeypot-ftp](https://github.com/alexbredo/honeypot-ftp)
+**Repository:** [[https://github.com/caesar0301/http-sniffer](https://github.com/caesar0301/http-sniffer)]([https://github.com/caesar0301/http-sniffer](https://github.com/caesar0301/http-sniffer))
 
-**Author:** alexbredo
-
-**Last Updated:** 2014-08-22
-
-**Description:** honeypot-ftp
+**Author:** caesar0301
 
 ---
 
-## honeypot-setup-script
+## ICS-pcap
 
-**Repository:** [https://github.com/andrewmichaelsmith/honeypot-setup-script](https://github.com/andrewmichaelsmith/honeypot-setup-script)
+**Repository:** [[https://github.com/automayt/ICS-pcap](https://github.com/automayt/ICS-pcap)]([https://github.com/automayt/ICS-pcap](https://github.com/automayt/ICS-pcap))
 
-**Author:** andrewmichaelsmith
-
-**Last Updated:** 2015-03-08
-
-**Description:** Succeeded by [manuka](https://github.com/andrewmichaelsmith/manuka)
-
----
-
-## honeypot.go
-
-**Repository:** [https://github.com/mdp/honeypot.go](https://github.com/mdp/honeypot.go)
-
-**Author:** mdp
-
-**Last Updated:** 2013-12-20
-
-**Description:** I stole most of this code from https://gist.github.com/nictuku/2338048 This is my first attempt at a Golang project, please excuse the terrible code.
-
----
-
-## honeypotDisplay
-
-**Repository:** [https://github.com/Joss-Steward/honeypotDisplay](https://github.com/Joss-Steward/honeypotDisplay)
-
-**Author:** Joss-Steward
-
-**Last Updated:** 2016-02-04
-
-**Description:** No README found
-
----
-
-## honeypotpi
-
-**Repository:** [https://github.com/free5ty1e/honeypotpi](https://github.com/free5ty1e/honeypotpi)
-
-**Author:** free5ty1e
-
-**Last Updated:** 2024-09-25
-
-**Description:** honeypotpi
-
----
-
-## imhoneypot
-
-**Repository:** [https://github.com/mushorg/imhoneypot](https://github.com/mushorg/imhoneypot)
-
-**Author:** mushorg
-
-**Last Updated:** 2016-03-22
-
-**Description:** imhoneypot
+**Author:** automayt
 
 ---
 
 ## impacket
 
-**Repository:** [https://github.com/CoreSecurity/impacket](https://github.com/CoreSecurity/impacket)
+**Repository:** [[https://github.com/CoreSecurity/impacket](https://github.com/CoreSecurity/impacket)]([https://github.com/CoreSecurity/impacket](https://github.com/CoreSecurity/impacket))
 
 **Author:** CoreSecurity
 
-**Last Updated:** 2026-02-09
+---
 
-**Description:** 
+## intelmq
+
+**Repository:** [[https://github.com/certtools/intelmq](https://github.com/certtools/intelmq)]([https://github.com/certtools/intelmq](https://github.com/certtools/intelmq))
+
+**Author:** certtools
+
+---
+
+## internalblue
+
+**Repository:** [[https://github.com/seemoo-lab/internalblue](https://github.com/seemoo-lab/internalblue)]([https://github.com/seemoo-lab/internalblue](https://github.com/seemoo-lab/internalblue))
+
+**Author:** seemoo-lab
 
 ---
 
 ## ipsumdump
 
-**Repository:** [https://github.com/kohler/ipsumdump](https://github.com/kohler/ipsumdump)
+**Repository:** [[https://github.com/kohler/ipsumdump](https://github.com/kohler/ipsumdump)]([https://github.com/kohler/ipsumdump](https://github.com/kohler/ipsumdump))
 
 **Author:** kohler
 
-**Last Updated:** 2016-12-14
+---
 
-**Description:** `ipsumdump` reads IP packets from the network (using libpcap, or packet sockets on Linux), or from a tcpdump(1) save file, and writes an ASCII summary of the packet data to the standard output. Comments
+## JobDorking
+
+**Repository:** [[https://github.com/Fizzsh/JobDorking](https://github.com/Fizzsh/JobDorking)]([https://github.com/Fizzsh/JobDorking](https://github.com/Fizzsh/JobDorking))
+
+**Author:** Fizzsh
 
 ---
 
-## micros_honeypot
+## libcrafter
 
-**Repository:** [https://github.com/Cymmetria/micros_honeypot](https://github.com/Cymmetria/micros_honeypot)
+**Repository:** [[https://github.com/pellegre/libcrafter](https://github.com/pellegre/libcrafter)]([https://github.com/pellegre/libcrafter](https://github.com/pellegre/libcrafter))
 
-**Author:** Cymmetria
-
-**Last Updated:** 2018-02-09
-
-**Description:** Cymmetria Research, 2018.
+**Author:** pellegre
 
 ---
 
-## node-ftp-honeypot
+## Malcolm
 
-**Repository:** [https://github.com/christophe77/node-ftp-honeypot](https://github.com/christophe77/node-ftp-honeypot)
+**Repository:** [[https://github.com/idaholab/Malcolm](https://github.com/idaholab/Malcolm)]([https://github.com/idaholab/Malcolm](https://github.com/idaholab/Malcolm))
 
-**Author:** christophe77
-
-**Last Updated:** 2023-10-05
-
-**Description:** node-ftp-honeypot is a ftp honepot. When the application is launched, a ftp server is launched. Everything is forbidden except file upload. When a bot or a ftp scanner tries to upload a file this file is moved into pandora-box inside a folder named with the attacker IP.
+**Author:** idaholab
 
 ---
 
-## owa-honeypot
+## maldrolyzer
 
-**Repository:** [https://github.com/joda32/owa-honeypot](https://github.com/joda32/owa-honeypot)
+**Repository:** [[https://github.com/maldroid/maldrolyzer](https://github.com/maldroid/maldrolyzer)]([https://github.com/maldroid/maldrolyzer](https://github.com/maldroid/maldrolyzer))
 
-**Author:** joda32
+**Author:** maldroid
 
-**Last Updated:** 2019-06-12
+---
 
-**Description:** A basic flask based Outlook Web Honey pot
+## netsniff-ng
+
+**Repository:** [[https://github.com/netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng)]([https://github.com/netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng))
+
+**Author:** netsniff-ng
+
+---
+
+## ngrep
+
+**Repository:** [[https://github.com/jpr5/ngrep](https://github.com/jpr5/ngrep)]([https://github.com/jpr5/ngrep](https://github.com/jpr5/ngrep))
+
+**Author:** jpr5
+
+---
+
+## nmap-unleashed
+
+**Repository:** [[https://github.com/sharkeonix/nmap-unleashed](https://github.com/sharkeonix/nmap-unleashed)]([https://github.com/sharkeonix/nmap-unleashed](https://github.com/sharkeonix/nmap-unleashed))
+
+**Author:** sharkeonix
+
+---
+
+## nogotofail
+
+**Repository:** [[https://github.com/google/nogotofail](https://github.com/google/nogotofail)]([https://github.com/google/nogotofail](https://github.com/google/nogotofail))
+
+**Author:** google
+
+---
+
+## oniontip
+
+**Repository:** [[https://github.com/DonnchaC/oniontip](https://github.com/DonnchaC/oniontip)]([https://github.com/DonnchaC/oniontip](https://github.com/DonnchaC/oniontip))
+
+**Author:** DonnchaC
 
 ---
 
 ## packet-agent
 
-**Repository:** [https://github.com/Netis/packet-agent](https://github.com/Netis/packet-agent)
+**Repository:** [[https://github.com/Netis/packet-agent](https://github.com/Netis/packet-agent)]([https://github.com/Netis/packet-agent](https://github.com/Netis/packet-agent))
 
 **Author:** Netis
-
-**Last Updated:** 2025-07-10
-
-**Description:** English  ∙  [简体中文](README-zh-Hans.md)
 
 ---
 
 ## PacketQ
 
-**Repository:** [https://github.com/dotse/PacketQ](https://github.com/dotse/PacketQ)
+**Repository:** [[https://github.com/dotse/PacketQ](https://github.com/dotse/PacketQ)]([https://github.com/dotse/PacketQ](https://github.com/dotse/PacketQ))
 
 **Author:** dotse
-
-**Last Updated:** 2026-02-04
-
-**Description:** `packetq` is a command line tool to run SQL queries directly on PCAP files, the results can be outputted as JSON (default), formatted/compact CSV and XML. It also contain a very simplistic web-server in order to inspect PCAP files
 
 ---
 
 ## PacketStreamer
 
-**Repository:** [https://github.com/deepfence/PacketStreamer](https://github.com/deepfence/PacketStreamer)
+**Repository:** [[https://github.com/deepfence/PacketStreamer](https://github.com/deepfence/PacketStreamer)]([https://github.com/deepfence/PacketStreamer](https://github.com/deepfence/PacketStreamer))
 
 **Author:** deepfence
 
-**Last Updated:** 2023-10-20
+---
 
-**Description:** Deepfence PacketStreamer is a high-performance remote packet capture and collection tool. It is used by Deepfence's [ThreatStryker](https://deepfence.io/threatstryker/) security observability platform to gather network traffic on demand from cloud
+## passivedns
+
+**Repository:** [[https://github.com/gamelinux/passivedns](https://github.com/gamelinux/passivedns)]([https://github.com/gamelinux/passivedns](https://github.com/gamelinux/passivedns))
+
+**Author:** gamelinux
 
 ---
 
-## PasitheaHoneypot
+## PCAPdroid
 
-**Repository:** [https://github.com/Marist-Innovation-Lab/PasitheaHoneypot](https://github.com/Marist-Innovation-Lab/PasitheaHoneypot)
+**Repository:** [[https://github.com/emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid)]([https://github.com/emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid))
 
-**Author:** Marist-Innovation-Lab
-
-**Last Updated:** 2018-04-24
-
-**Description:** Pasithea has a built in install script for easy installs on Ubuntu machines.
+**Author:** emanuele-f
 
 ---
 
-## phpmyadmin_honeypot
+## pcapfex
 
-**Repository:** [https://github.com/gfoss/phpmyadmin_honeypot](https://github.com/gfoss/phpmyadmin_honeypot)
+**Repository:** [[https://github.com/vikwin/pcapfex](https://github.com/vikwin/pcapfex)]([https://github.com/vikwin/pcapfex](https://github.com/vikwin/pcapfex))
 
-**Author:** gfoss
-
-**Last Updated:** 2015-07-03
-
-**Description:** version 1.5 -- 7/2/2015
+**Author:** vikwin
 
 ---
 
-## RedisHoneyPot
+## PcapPlusPlus
 
-**Repository:** [https://github.com/cypwnpwnsocute/RedisHoneyPot](https://github.com/cypwnpwnsocute/RedisHoneyPot)
+**Repository:** [[https://github.com/seladb/PcapPlusPlus](https://github.com/seladb/PcapPlusPlus)]([https://github.com/seladb/PcapPlusPlus](https://github.com/seladb/PcapPlusPlus))
 
-**Author:** cypwnpwnsocute
+**Author:** seladb
 
-**Last Updated:** 2021-04-23
+---
 
-**Description:** RedisHoneyPot是一款支持Redis协议的高交互式蜜罐系统。采用Golang语言开发。
+## PcapViz
+
+**Repository:** [[https://github.com/mateuszk87/PcapViz](https://github.com/mateuszk87/PcapViz)]([https://github.com/mateuszk87/PcapViz](https://github.com/mateuszk87/PcapViz))
+
+**Author:** mateuszk87
+
+---
+
+## pig
+
+**Repository:** [[https://github.com/rafael-santiago/pig](https://github.com/rafael-santiago/pig)]([https://github.com/rafael-santiago/pig](https://github.com/rafael-santiago/pig))
+
+**Author:** rafael-santiago
+
+---
+
+## rdppot
+
+**Repository:** [[https://github.com/kryptoslogic/rdppot](https://github.com/kryptoslogic/rdppot)]([https://github.com/kryptoslogic/rdppot](https://github.com/kryptoslogic/rdppot))
+
+**Author:** kryptoslogic
+
+---
+
+## Redpoint
+
+**Repository:** [[https://github.com/digitalbond/Redpoint](https://github.com/digitalbond/Redpoint)]([https://github.com/digitalbond/Redpoint](https://github.com/digitalbond/Redpoint))
+
+**Author:** digitalbond
+
+---
+
+## Resources-for-Beginner-Bug-Bounty-Hunters
+
+**Repository:** [[https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)]([https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters))
+
+**Author:** nahamsec
+
+---
+
+## RustScan
+
+**Repository:** [[https://github.com/RustScan/RustScan](https://github.com/RustScan/RustScan)]([https://github.com/RustScan/RustScan](https://github.com/RustScan/RustScan))
+
+**Author:** RustScan
+
+---
+
+## rustscan
+
+**Repository:** [[https://github.com/rustscan/rustscan](https://github.com/rustscan/rustscan)]([https://github.com/rustscan/rustscan](https://github.com/rustscan/rustscan))
+
+**Author:** rustscan
+
+---
+
+## S7Comm-Analyzer
+
+**Repository:** [[https://github.com/dw2102/S7Comm-Analyzer](https://github.com/dw2102/S7Comm-Analyzer)]([https://github.com/dw2102/S7Comm-Analyzer](https://github.com/dw2102/S7Comm-Analyzer))
+
+**Author:** dw2102
+
+---
+
+## ScanCannon
+
+**Repository:** [[https://github.com/johnnyxmas/ScanCannon](https://github.com/johnnyxmas/ScanCannon)]([https://github.com/johnnyxmas/ScanCannon](https://github.com/johnnyxmas/ScanCannon))
+
+**Author:** johnnyxmas
+
+---
+
+## scanless
+
+**Repository:** [[https://github.com/vesche/scanless](https://github.com/vesche/scanless)]([https://github.com/vesche/scanless](https://github.com/vesche/scanless))
+
+**Author:** vesche
+
+---
+
+## search-abuseipdb
+
+**Repository:** [[https://github.com/oseasfr/search-abuseipdb](https://github.com/oseasfr/search-abuseipdb)]([https://github.com/oseasfr/search-abuseipdb](https://github.com/oseasfr/search-abuseipdb))
+
+**Author:** oseasfr
+
+---
+
+## selefra
+
+**Repository:** [[https://github.com/selefra/selefra](https://github.com/selefra/selefra)]([https://github.com/selefra/selefra](https://github.com/selefra/selefra))
+
+**Author:** selefra
 
 ---
 
 ## setup-ipsec-vpn
 
-**Repository:** [https://github.com/hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
+**Repository:** [[https://github.com/hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)]([https://github.com/hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn))
 
 **Author:** hwdsl2
 
-**Last Updated:** 2026-02-02
-
-**Description:** [English](README.md) | [中文](README-zh.md) | [日本語](README-ja.md)
-
 ---
 
-## smart-honeypot
+## sharppcap
 
-**Repository:** [https://github.com/freak3dot/smart-honeypot](https://github.com/freak3dot/smart-honeypot)
+**Repository:** [[https://github.com/dotpcap/sharppcap](https://github.com/dotpcap/sharppcap)]([https://github.com/dotpcap/sharppcap](https://github.com/dotpcap/sharppcap))
 
-**Author:** freak3dot
-
-**Last Updated:** 2014-04-18
-
-**Description:** smart-honeypot
+**Author:** dotpcap
 
 ---
 
 ## snort3
 
-**Repository:** [https://github.com/snort3/snort3](https://github.com/snort3/snort3)
+**Repository:** [[https://github.com/snort3/snort3](https://github.com/snort3/snort3)]([https://github.com/snort3/snort3](https://github.com/snort3/snort3))
 
 **Author:** snort3
 
-**Last Updated:** 2026-01-22
+---
 
-**Description:** Snort 3 is the next generation Snort IPS (Intrusion Prevention System). This file will show you what Snort++ has to offer and guide you through the steps from download to demo.  If you are unfamiliar with Snort you should
+## softflowd
+
+**Repository:** [[https://github.com/irino/softflowd](https://github.com/irino/softflowd)]([https://github.com/irino/softflowd](https://github.com/irino/softflowd))
+
+**Author:** irino
 
 ---
 
-## ssh-honeypot
+## sql_firewall
 
-**Repository:** [https://github.com/droberson/ssh-honeypot](https://github.com/droberson/ssh-honeypot)
+**Repository:** [[https://github.com/uptimejp/sql_firewall](https://github.com/uptimejp/sql_firewall)]([https://github.com/uptimejp/sql_firewall](https://github.com/uptimejp/sql_firewall))
 
-**Author:** droberson
-
-**Last Updated:** 2024-10-29
-
-**Description:** This unfortunately named program listens for incoming ssh connections and logs the IP address, username, and password used by the client. This is a low-interaction honeypot that does not allow malware or attackers to login.
+**Author:** uptimejp
 
 ---
 
-## sshd-honeypot
+## sshwatch
 
-**Repository:** [https://github.com/amv42/sshd-honeypot](https://github.com/amv42/sshd-honeypot)
+**Repository:** [[https://github.com/marshyski/sshwatch](https://github.com/marshyski/sshwatch)]([https://github.com/marshyski/sshwatch](https://github.com/marshyski/sshwatch))
 
-**Author:** amv42
-
-**Last Updated:** 2018-12-20
-
-**Description:** The sshd-honeypot is a modified version of the OpenSSH deamon that forwards commands to Cowrie where all commands are interpreted and returned. The sshd-honeypot is designed to let Cowrie log brute force attacks and the shell interaction performed by the attacker. As the sshd-honeypot uses OpenSS...
+**Author:** marshyski
 
 ---
 
-## stack-honeypot
+## starbase
 
-**Repository:** [https://github.com/CHH/stack-honeypot](https://github.com/CHH/stack-honeypot)
+**Repository:** [[https://github.com/JupiterOne/starbase](https://github.com/JupiterOne/starbase)]([https://github.com/JupiterOne/starbase](https://github.com/JupiterOne/starbase))
 
-**Author:** CHH
-
-**Last Updated:** 2014-01-30
-
-**Description:** A port of [Rack::Honeypot](https://github.com/sunlightlabs/rack-honeypot) to Stack for PHP.
+**Author:** JupiterOne
 
 ---
 
-## StrutsHoneypot
+## tcpsplit
 
-**Repository:** [https://github.com/Cymmetria/StrutsHoneypot](https://github.com/Cymmetria/StrutsHoneypot)
+**Repository:** [[https://github.com/pmcgleenon/tcpsplit](https://github.com/pmcgleenon/tcpsplit)]([https://github.com/pmcgleenon/tcpsplit](https://github.com/pmcgleenon/tcpsplit))
 
-**Author:** Cymmetria
-
-**Last Updated:** 2017-03-24
-
-**Description:** Cymmetria Research, 2017.
+**Author:** pmcgleenon
 
 ---
 
 ## thc-tips-tricks-hacks-cheat-sheet
 
-**Repository:** [https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)
+**Repository:** [[https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)]([https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet))
 
 **Author:** hackerschoice
 
-**Last Updated:** 2026-01-20
+---
 
-**Description:** <!-- Use `grip 8080` to render the markdown locally -->
+## the-endorser
+
+**Repository:** [[https://github.com/eth0izzle/the-endorser](https://github.com/eth0izzle/the-endorser)]([https://github.com/eth0izzle/the-endorser](https://github.com/eth0izzle/the-endorser))
+
+**Author:** eth0izzle
 
 ---
 
-## Tips
+## trrespass
 
-**Repository:** [https://github.com/OpenToAllCTF/Tips](https://github.com/OpenToAllCTF/Tips)
+**Repository:** [[https://github.com/vusec/trrespass](https://github.com/vusec/trrespass)]([https://github.com/vusec/trrespass](https://github.com/vusec/trrespass))
 
-**Author:** OpenToAllCTF
-
-**Last Updated:** 2019-10-05
-
-**Description:** Useful tips by OTA CTF members. PRs welcome!
+**Author:** vusec
 
 ---
 
-## tomcat-manager-honeypot
+## tsunami-security-scanner
 
-**Repository:** [https://github.com/helospark/tomcat-manager-honeypot](https://github.com/helospark/tomcat-manager-honeypot)
+**Repository:** [[https://github.com/google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner)]([https://github.com/google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner))
 
-**Author:** helospark
-
-**Last Updated:** 2017-08-27
-
-**Description:** No README found
+**Author:** google
 
 ---
 
-## toms_honeypot
+## usbpcap
 
-**Repository:** [https://github.com/inguardians/toms_honeypot](https://github.com/inguardians/toms_honeypot)
+**Repository:** [[https://github.com/desowin/usbpcap](https://github.com/desowin/usbpcap)]([https://github.com/desowin/usbpcap](https://github.com/desowin/usbpcap))
 
-**Author:** inguardians
-
-**Last Updated:** 2015-04-27
-
-**Description:** Tom's Honey Pot as seen in Applied Network Security Monitoring.
+**Author:** desowin
 
 ---
 
-## twisted-honeypots
+## USBPcapOdinDumper
 
-**Repository:** [https://github.com/lanjelot/twisted-honeypots](https://github.com/lanjelot/twisted-honeypots)
+**Repository:** [[https://github.com/KOLANICH/USBPcapOdinDumper](https://github.com/KOLANICH/USBPcapOdinDumper)]([https://github.com/KOLANICH/USBPcapOdinDumper](https://github.com/KOLANICH/USBPcapOdinDumper))
 
-**Author:** lanjelot
-
-**Last Updated:** 2019-12-27
-
-**Description:** SSH, FTP and Telnet honeypot services based on the [Twisted](http://twistedmatrix.com/) engine for Python 3. All credentials are stored on a local MySQL database.
+**Author:** KOLANICH
 
 ---
 
 ## VerySimpleHoneypot
 
-**Repository:** [https://github.com/johestephan/VerySimpleHoneypot](https://github.com/johestephan/VerySimpleHoneypot)
+**Repository:** [[https://github.com/johestephan/VerySimpleHoneypot](https://github.com/johestephan/VerySimpleHoneypot)]([https://github.com/johestephan/VerySimpleHoneypot](https://github.com/johestephan/VerySimpleHoneypot))
 
 **Author:** johestephan
 
-**Last Updated:** 2018-06-03
+---
 
-**Description:** README - VerySimpleHoneypot Honeypot for analyzing  data
+## WinDivert
+
+**Repository:** [[https://github.com/basil00/WinDivert](https://github.com/basil00/WinDivert)]([https://github.com/basil00/WinDivert](https://github.com/basil00/WinDivert))
+
+**Author:** basil00
 
 ---
 
-## wp-smart-honeypot
+## wireshark
 
-**Repository:** [https://github.com/freak3dot/wp-smart-honeypot](https://github.com/freak3dot/wp-smart-honeypot)
+**Repository:** [[https://github.com/wireshark/wireshark](https://github.com/wireshark/wireshark)]([https://github.com/wireshark/wireshark](https://github.com/wireshark/wireshark))
 
-**Author:** freak3dot
-
-**Last Updated:** 2017-10-13
-
-**Description:** wp-smart-honeypot
+**Author:** wireshark
 
 ---
 
-## zeek2es
+## YARA-Signatures
 
-**Repository:** [https://github.com/corelight/zeek2es](https://github.com/corelight/zeek2es)
+**Repository:** [[https://github.com/jeFF0Falltrades/YARA-Signatures](https://github.com/jeFF0Falltrades/YARA-Signatures)]([https://github.com/jeFF0Falltrades/YARA-Signatures](https://github.com/jeFF0Falltrades/YARA-Signatures))
 
-**Author:** corelight
+**Author:** jeFF0Falltrades
 
-**Last Updated:** 2022-08-18
+---
 
-**Description:** No README found
+## yara_zip_module
+
+**Repository:** [[https://github.com/stoerchl/yara_zip_module](https://github.com/stoerchl/yara_zip_module)]([https://github.com/stoerchl/yara_zip_module](https://github.com/stoerchl/yara_zip_module))
+
+**Author:** stoerchl
+
+---
+
+## YaraPcap
+
+**Repository:** [[https://github.com/kevthehermit/YaraPcap](https://github.com/kevthehermit/YaraPcap)]([https://github.com/kevthehermit/YaraPcap](https://github.com/kevthehermit/YaraPcap))
+
+**Author:** kevthehermit
 
 ---
 

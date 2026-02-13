@@ -2,715 +2,535 @@
 
 Tools and resources for securing applications, including SAST, DAST, dependency scanning, and secure development practices.
 
-**Total Tools:** 59
+**Total Tools:** 66
 
 ---
 
-## AdoreForAndroid
+## 0l4bs
 
-**Repository:** [https://github.com/juxing/AdoreForAndroid](https://github.com/juxing/AdoreForAndroid)
+**Repository:** [[https://github.com/tegal1337/0l4bs](https://github.com/tegal1337/0l4bs)]([https://github.com/tegal1337/0l4bs](https://github.com/tegal1337/0l4bs))
 
-**Author:** juxing
-
-**Last Updated:** 2014-08-27
-
-**Description:** AdoreForAndroid
+**Author:** tegal1337
 
 ---
 
-## android
+## Amass
 
-**Repository:** [https://github.com/cSploit/android](https://github.com/cSploit/android)
+**Repository:** [[https://github.com/OWASP/Amass](https://github.com/OWASP/Amass)]([https://github.com/OWASP/Amass](https://github.com/OWASP/Amass))
 
-**Author:** cSploit
-
-**Last Updated:** 2021-01-20
-
-**Description:** 
+**Author:** OWASP
 
 ---
 
-## android-classyshark
+## amass
 
-**Repository:** [https://github.com/google/android-classyshark](https://github.com/google/android-classyshark)
+**Repository:** [[https://github.com/owasp-amass/amass](https://github.com/owasp-amass/amass)]([https://github.com/owasp-amass/amass](https://github.com/owasp-amass/amass))
 
-**Author:** google
-
-**Last Updated:** 2023-05-19
-
-**Description:** ClassyShark is a standalone binary inspection tool for Android developers. It can reliably browse any Android executable and show important info such as class interfaces and members, dex counts and dependencies. ClassyShark supports multiple formats including libraries (.dex, .aar, .so), executab...
-
----
-
-## android-completion
-
-**Repository:** [https://github.com/mbrubeck/android-completion](https://github.com/mbrubeck/android-completion)
-
-**Author:** mbrubeck
-
-**Last Updated:** 2025-11-22
-
-**Description:** No README found
-
----
-
-## Android-InsecureBankv2
-
-**Repository:** [https://github.com/dineshshetty/Android-InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2)
-
-**Author:** dineshshetty
-
-**Last Updated:** 2019-11-21
-
-**Description:** No README found
-
----
-
-## Android-KillPermAndSigChecks
-
-**Repository:** [https://github.com/iSECPartners/Android-KillPermAndSigChecks](https://github.com/iSECPartners/Android-KillPermAndSigChecks)
-
-**Author:** iSECPartners
-
-**Last Updated:** 2013-12-18
-
-**Description:** Android-KillPermAndSigChecks
-
----
-
-## Android-OpenDebug
-
-**Repository:** [https://github.com/iSECPartners/Android-OpenDebug](https://github.com/iSECPartners/Android-OpenDebug)
-
-**Author:** iSECPartners
-
-**Last Updated:** 2013-12-14
-
-**Description:** Android-OpenDebug
-
----
-
-## android-security-awesome
-
-**Repository:** [https://github.com/ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome)
-
-**Author:** ashishb
-
-**Last Updated:** 2026-02-09
-
-**Description:** A collection of Android security-related resources.
-
----
-
-## Android-Security-Reference
-
-**Repository:** [https://github.com/doridori/Android-Security-Reference](https://github.com/doridori/Android-Security-Reference)
-
-**Author:** doridori
-
-**Last Updated:** 2025-03-24
-
-**Description:** This is a reference guide for all things Android Security. I'm slowly moving my private notes over to this repo as
-
----
-
-## Android-Storage-Extractor
-
-**Repository:** [https://github.com/51j0/Android-Storage-Extractor](https://github.com/51j0/Android-Storage-Extractor)
-
-**Author:** 51j0
-
-**Last Updated:** 2018-12-09
-
-**Description:** A tool to extract local data storage of an Android application in **__one click__**.
-
----
-
-## android-vts
-
-**Repository:** [https://github.com/AndroidVTS/android-vts](https://github.com/AndroidVTS/android-vts)
-
-**Author:** AndroidVTS
-
-**Last Updated:** 2017-04-20
-
-**Description:** No README found
+**Author:** owasp-amass
 
 ---
 
 ## android_app_security_checklist
 
-**Repository:** [https://github.com/b-mueller/android_app_security_checklist](https://github.com/b-mueller/android_app_security_checklist)
+**Repository:** [[https://github.com/b-mueller/android_app_security_checklist](https://github.com/b-mueller/android_app_security_checklist)]([https://github.com/b-mueller/android_app_security_checklist](https://github.com/b-mueller/android_app_security_checklist))
 
 **Author:** b-mueller
-
-**Last Updated:** 2022-08-27
-
-**Description:** A checklist with security considerations for designing, testing, and releasing secure Android apps. It is based on the [OWASP Mobile Application Security Verification Standard](https://github.com/OWASP/owasp-masvs/), [Mobile Application Security Testing Guide](https://github.com/OWASP/owasp-mstg/...
-
----
-
-## android_application_analyzer
-
-**Repository:** [https://github.com/NotSoSecure/android_application_analyzer](https://github.com/NotSoSecure/android_application_analyzer)
-
-**Author:** NotSoSecure
-
-**Last Updated:** 2025-10-03
-
-**Description:** The tool is used to analyze the content of the android application in local storage. <br /> <br /> Install the dependency using following command - `chmod +x setup.sh` - `./setup.sh`
 
 ---
 
 ## angularjs-csti-scanner
 
-**Repository:** [https://github.com/tijme/angularjs-csti-scanner](https://github.com/tijme/angularjs-csti-scanner)
+**Repository:** [[https://github.com/tijme/angularjs-csti-scanner](https://github.com/tijme/angularjs-csti-scanner)]([https://github.com/tijme/angularjs-csti-scanner](https://github.com/tijme/angularjs-csti-scanner))
 
 **Author:** tijme
 
-**Last Updated:** 2021-10-20
-
-**Description:** .. raw:: html
-
 ---
 
-## ARMANDroid
+## Artemis
 
-**Repository:** [https://github.com/Mobile-IoT-Security-Lab/ARMANDroid](https://github.com/Mobile-IoT-Security-Lab/ARMANDroid)
+**Repository:** [[https://github.com/CERT-Polska/Artemis](https://github.com/CERT-Polska/Artemis)]([https://github.com/CERT-Polska/Artemis](https://github.com/CERT-Polska/Artemis))
 
-**Author:** Mobile-IoT-Security-Lab
-
-**Last Updated:** 2020-12-18
-
-**Description:** **ARMAND (Anti-Repackaging through Multi-patternAnti-tampering based on Native Detection)** is a novel anti-tampering protection scheme that embeds logic bombs and AT detection nodes directly in the apk file without needing their source code. We developed ARMANDroid, an ARMAND implementation for ...
+**Author:** CERT-Polska
 
 ---
 
 ## awesome-appsec
 
-**Repository:** [https://github.com/paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec)
+**Repository:** [[https://github.com/paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec)]([https://github.com/paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec))
 
 **Author:** paragonie
-
-**Last Updated:** 2025-02-22
-
-**Description:** A curated list of resources for learning about application security. Contains books, websites, blog posts, and self-assessment quizzes.
 
 ---
 
 ## awesome-web-hacking
 
-**Repository:** [https://github.com/infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
+**Repository:** [[https://github.com/infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)]([https://github.com/infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking))
 
 **Author:** infoslack
 
-**Last Updated:** 2026-01-27
+---
 
-**Description:** This list is for anyone wishing to learn about web application security but do not have a starting point.
+## bearer
+
+**Repository:** [[https://github.com/Bearer/bearer](https://github.com/Bearer/bearer)]([https://github.com/Bearer/bearer](https://github.com/Bearer/bearer))
+
+**Author:** Bearer
 
 ---
 
-## bunkerweb
+## Burp-Yara-Rules
 
-**Repository:** [https://github.com/bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+**Repository:** [[https://github.com/codewatchorg/Burp-Yara-Rules](https://github.com/codewatchorg/Burp-Yara-Rules)]([https://github.com/codewatchorg/Burp-Yara-Rules](https://github.com/codewatchorg/Burp-Yara-Rules))
 
-**Author:** bunkerity
+**Author:** codewatchorg
 
-**Last Updated:** 2026-02-06
+---
 
-**Description:**  
+## CakeFuzzer
+
+**Repository:** [[https://github.com/Zigrin-Security/CakeFuzzer](https://github.com/Zigrin-Security/CakeFuzzer)]([https://github.com/Zigrin-Security/CakeFuzzer](https://github.com/Zigrin-Security/CakeFuzzer))
+
+**Author:** Zigrin-Security
 
 ---
 
 ## capital
 
-**Repository:** [https://github.com/Checkmarx/capital](https://github.com/Checkmarx/capital)
+**Repository:** [[https://github.com/Checkmarx/capital](https://github.com/Checkmarx/capital)]([https://github.com/Checkmarx/capital](https://github.com/Checkmarx/capital))
 
 **Author:** Checkmarx
 
-**Last Updated:** 2024-04-05
-
-**Description:**  
-
 ---
 
-## CFGScanDroid
+## Chromium-based-XSS-Taint-Tracking
 
-**Repository:** [https://github.com/douggard/CFGScanDroid](https://github.com/douggard/CFGScanDroid)
+**Repository:** [[https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking)]([https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking))
 
-**Author:** douggard
-
-**Last Updated:** 2015-01-29
-
-**Description:** CFGScanDroid is a utility for comparing control flow graph (CFG) signatures to the control flow graphs of Android methods.
+**Author:** v8blink
 
 ---
 
 ## clj-owasp
 
-**Repository:** [https://github.com/nubank/clj-owasp](https://github.com/nubank/clj-owasp)
+**Repository:** [[https://github.com/nubank/clj-owasp](https://github.com/nubank/clj-owasp)]([https://github.com/nubank/clj-owasp](https://github.com/nubank/clj-owasp))
 
 **Author:** nubank
 
-**Last Updated:** 2021-03-18
+---
 
-**Description:** Presentation about OWASP Top 10. All the texts from the vulnerabilities were extracted from the official document.
+## CobaltStrikeScan
+
+**Repository:** [[https://github.com/Apr4h/CobaltStrikeScan](https://github.com/Apr4h/CobaltStrikeScan)]([https://github.com/Apr4h/CobaltStrikeScan](https://github.com/Apr4h/CobaltStrikeScan))
+
+**Author:** Apr4h
 
 ---
 
 ## crAPI
 
-**Repository:** [https://github.com/OWASP/crAPI](https://github.com/OWASP/crAPI)
+**Repository:** [[https://github.com/OWASP/crAPI](https://github.com/OWASP/crAPI)]([https://github.com/OWASP/crAPI](https://github.com/OWASP/crAPI))
 
 **Author:** OWASP
 
-**Last Updated:** 2026-02-11
+---
 
-**Description:** **c**ompletely **r**idiculous **API** (crAPI) will help you to understand the ten most critical API security risks. crAPI is vulnerable by design, but you'll be able to safely run it to educate/train yourself.
+## CTFWriteupScrapper
+
+**Repository:** [[https://github.com/abdilahrf/CTFWriteupScrapper](https://github.com/abdilahrf/CTFWriteupScrapper)]([https://github.com/abdilahrf/CTFWriteupScrapper](https://github.com/abdilahrf/CTFWriteupScrapper))
+
+**Author:** abdilahrf
 
 ---
 
-## cuckoo-modified-api
+## DECAF
 
-**Repository:** [https://github.com/keithjjones/cuckoo-modified-api](https://github.com/keithjjones/cuckoo-modified-api)
+**Repository:** [[https://github.com/sycurelab/DECAF](https://github.com/sycurelab/DECAF)]([https://github.com/sycurelab/DECAF](https://github.com/sycurelab/DECAF))
 
-**Author:** keithjjones
-
-**Last Updated:** 2016-10-31
-
-**Description:** | Master | Devel | |--------|-------|
+**Author:** sycurelab
 
 ---
 
-## DeHashed-API-Tool
+## dllinjector
 
-**Repository:** [https://github.com/hmaverickadams/DeHashed-API-Tool](https://github.com/hmaverickadams/DeHashed-API-Tool)
+**Repository:** [[https://github.com/OpenSecurityResearch/dllinjector](https://github.com/OpenSecurityResearch/dllinjector)]([https://github.com/OpenSecurityResearch/dllinjector](https://github.com/OpenSecurityResearch/dllinjector))
 
-**Author:** hmaverickadams
-
-**Last Updated:** 2025-07-02
-
-**Description:** A command-line tool to query the Dehashed API. Easily search for various parameters like usernames, emails, hashed passwords, IP addresses, and more.
+**Author:** OpenSecurityResearch
 
 ---
 
-## fingerprint-android
+## dork-cli
 
-**Repository:** [https://github.com/fingerprintjs/fingerprint-android](https://github.com/fingerprintjs/fingerprint-android)
+**Repository:** [[https://github.com/jgor/dork-cli](https://github.com/jgor/dork-cli)]([https://github.com/jgor/dork-cli](https://github.com/jgor/dork-cli))
 
-**Author:** fingerprintjs
-
-**Last Updated:** 2025-08-08
-
-**Description:** 
+**Author:** jgor
 
 ---
 
-## git-scanner
+## dvna
 
-**Repository:** [https://github.com/HightechSec/git-scanner](https://github.com/HightechSec/git-scanner)
+**Repository:** [[https://github.com/appsecco/dvna](https://github.com/appsecco/dvna)]([https://github.com/appsecco/dvna](https://github.com/appsecco/dvna))
 
-**Author:** HightechSec
-
-**Last Updated:** 2020-05-20
-
-**Description:** This tool can scan websites with open ```.git``` repositories for `Bug Hunting`/ `Pentesting Purposes` and can dump the content of the ```.git``` repositories from webservers that found from the scanning method. This tool works with the provided Single target or Mass Target from a file list.
+**Author:** appsecco
 
 ---
 
-## googleplay-api
+## DVWA
 
-**Repository:** [https://github.com/egirault/googleplay-api](https://github.com/egirault/googleplay-api)
+**Repository:** [[https://github.com/ethicalhack3r/DVWA](https://github.com/ethicalhack3r/DVWA)]([https://github.com/ethicalhack3r/DVWA](https://github.com/ethicalhack3r/DVWA))
 
-**Author:** egirault
-
-**Last Updated:** 2012-12-08
-
-**Description:** An unofficial Python API that let you search, browse and download Android apps from Google Play (formerly Android Market).
+**Author:** ethicalhack3r
 
 ---
 
-## InjuredAndroid
+## dvws
 
-**Repository:** [https://github.com/B3nac/InjuredAndroid](https://github.com/B3nac/InjuredAndroid)
+**Repository:** [[https://github.com/snoopysecurity/dvws](https://github.com/snoopysecurity/dvws)]([https://github.com/snoopysecurity/dvws](https://github.com/snoopysecurity/dvws))
 
-**Author:** B3nac
-
-**Last Updated:** 2021-06-24
-
-**Description:** A vulnerable Android application with ctf examples based on bug bounty findings, exploitation concepts, and pure creativity.
+**Author:** snoopysecurity
 
 ---
 
-## Introspy-Android
+## electron-research
 
-**Repository:** [https://github.com/iSECPartners/Introspy-Android](https://github.com/iSECPartners/Introspy-Android)
+**Repository:** [[https://github.com/msrkp/electron-research](https://github.com/msrkp/electron-research)]([https://github.com/msrkp/electron-research](https://github.com/msrkp/electron-research))
 
-**Author:** iSECPartners
-
-**Last Updated:** 2014-01-13
-
-**Description:** Introspy-Android
+**Author:** msrkp
 
 ---
 
-## iOS-Frequent-Locations-Dumper
+## filterbypass
 
-**Repository:** [https://github.com/mac4n6/iOS-Frequent-Locations-Dumper](https://github.com/mac4n6/iOS-Frequent-Locations-Dumper)
+**Repository:** [[https://github.com/masatokinugawa/filterbypass](https://github.com/masatokinugawa/filterbypass)]([https://github.com/masatokinugawa/filterbypass](https://github.com/masatokinugawa/filterbypass))
 
-**Author:** mac4n6
-
-**Last Updated:** 2018-11-04
-
-**Description:** Dump the contents of the StateModel#.archive files located in /private/var/mobile/Library/Caches/com.apple.routined/
+**Author:** masatokinugawa
 
 ---
 
-## iOSAppReverseEngineering
+## fuzzdb
 
-**Repository:** [https://github.com/iosre/iOSAppReverseEngineering](https://github.com/iosre/iOSAppReverseEngineering)
+**Repository:** [[https://github.com/fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb)]([https://github.com/fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb))
 
-**Author:** iosre
-
-**Last Updated:** 2015-09-17
-
-**Description:** As a 5-year n00b, this is my gift to the jailbreak community, enjoy! iOS App Reverse Engineering is the world's 1st book of very detailed iOS App reverse engineering skills, targeting 4 kinds of readers:
+**Author:** fuzzdb-project
 
 ---
 
-## iris-web
+## Glastopf-Analytics
 
-**Repository:** [https://github.com/dfir-iris/iris-web](https://github.com/dfir-iris/iris-web)
+**Repository:** [[https://github.com/katkad/Glastopf-Analytics](https://github.com/katkad/Glastopf-Analytics)]([https://github.com/katkad/Glastopf-Analytics](https://github.com/katkad/Glastopf-Analytics))
 
-**Author:** dfir-iris
-
-**Last Updated:** 2025-02-27
-
-**Description:**  
+**Author:** katkad
 
 ---
 
-## is-website-vulnerable
+## hackademic
 
-**Repository:** [https://github.com/lirantal/is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable)
+**Repository:** [[https://github.com/Hackademic/hackademic](https://github.com/Hackademic/hackademic)]([https://github.com/Hackademic/hackademic](https://github.com/Hackademic/hackademic))
 
-**Author:** lirantal
-
-**Last Updated:** 2025-09-04
-
-**Description:**  is-website-vulnerable
+**Author:** Hackademic
 
 ---
 
-## libfmapi
+## honeymap
 
-**Repository:** [https://github.com/libyal/libfmapi](https://github.com/libyal/libfmapi)
+**Repository:** [[https://github.com/fw42/honeymap](https://github.com/fw42/honeymap)]([https://github.com/fw42/honeymap](https://github.com/fw42/honeymap))
 
-**Author:** libyal
-
-**Last Updated:** 2025-11-27
-
-**Description:** libfmapi is a library for Messaging API (MAPI) data types.
+**Author:** fw42
 
 ---
 
-## libmapidb
+## IWA-Java
 
-**Repository:** [https://github.com/libyal/libmapidb](https://github.com/libyal/libmapidb)
+**Repository:** [[https://github.com/fortify/IWA-Java](https://github.com/fortify/IWA-Java)]([https://github.com/fortify/IWA-Java](https://github.com/fortify/IWA-Java))
 
-**Author:** libyal
-
-**Last Updated:** 2025-12-03
-
-**Description:** libmapidb is a library access the Exchange MAPI database format.
+**Author:** fortify
 
 ---
 
-## Mobile-Security-Framework-MobSF
+## juice-shop
 
-**Repository:** [https://github.com/MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
+**Repository:** [[https://github.com/juice-shop/juice-shop](https://github.com/juice-shop/juice-shop)]([https://github.com/juice-shop/juice-shop](https://github.com/juice-shop/juice-shop))
 
-**Author:** MobSF
-
-**Last Updated:** 2026-01-25
-
-**Description:** Mobile Security Framework (MobSF) is a security research platform for mobile applications in Android, iOS and Windows Mobile. MobSF can be used for a variety of use cases such as mobile application security, penetration testing, malware analysis, and privacy analysis. The Static Analyzer supports...
+**Author:** juice-shop
 
 ---
 
-## multiscanner
+## juice-shop-ctf
 
-**Repository:** [https://github.com/mitre/multiscanner](https://github.com/mitre/multiscanner)
+**Repository:** [[https://github.com/bkimminich/juice-shop-ctf](https://github.com/bkimminich/juice-shop-ctf)]([https://github.com/bkimminich/juice-shop-ctf](https://github.com/bkimminich/juice-shop-ctf))
 
-**Author:** mitre
-
-**Last Updated:** 2019-01-28
-
-**Description:** MultiScanner
+**Author:** bkimminich
 
 ---
 
-## mythweb
+## libnet
 
-**Repository:** [https://github.com/MythTV/mythweb](https://github.com/MythTV/mythweb)
+**Repository:** [[https://github.com/libnet/libnet](https://github.com/libnet/libnet)]([https://github.com/libnet/libnet](https://github.com/libnet/libnet))
 
-**Author:** MythTV
+**Author:** libnet
 
-**Last Updated:** 2022-06-04
+---
 
-**Description:** This is the README file for the MythWeb package. February 16, 2008
+## MCIR
+
+**Repository:** [[https://github.com/SpiderLabs/MCIR](https://github.com/SpiderLabs/MCIR)]([https://github.com/SpiderLabs/MCIR](https://github.com/SpiderLabs/MCIR))
+
+**Author:** SpiderLabs
+
+---
+
+## mobileAudit
+
+**Repository:** [[https://github.com/mpast/mobileAudit](https://github.com/mpast/mobileAudit)]([https://github.com/mpast/mobileAudit](https://github.com/mpast/mobileAudit))
+
+**Author:** mpast
+
+---
+
+## mutillidae
+
+**Repository:** [[https://github.com/webpwnized/mutillidae](https://github.com/webpwnized/mutillidae)]([https://github.com/webpwnized/mutillidae](https://github.com/webpwnized/mutillidae))
+
+**Author:** webpwnized
+
+---
+
+## NodeGoat
+
+**Repository:** [[https://github.com/OWASP/NodeGoat](https://github.com/OWASP/NodeGoat)]([https://github.com/OWASP/NodeGoat](https://github.com/OWASP/NodeGoat))
+
+**Author:** OWASP
+
+---
+
+## nodegoat
+
+**Repository:** [[https://github.com/owasp/nodegoat](https://github.com/owasp/nodegoat)]([https://github.com/owasp/nodegoat](https://github.com/owasp/nodegoat))
+
+**Author:** owasp
+
+---
+
+## OneDorkForAll
+
+**Repository:** [[https://github.com/SecShiv/OneDorkForAll](https://github.com/SecShiv/OneDorkForAll)]([https://github.com/SecShiv/OneDorkForAll](https://github.com/SecShiv/OneDorkForAll))
+
+**Author:** SecShiv
 
 ---
 
 ## openappsec
 
-**Repository:** [https://github.com/openappsec/openappsec](https://github.com/openappsec/openappsec)
+**Repository:** [[https://github.com/openappsec/openappsec](https://github.com/openappsec/openappsec)]([https://github.com/openappsec/openappsec](https://github.com/openappsec/openappsec))
 
 **Author:** openappsec
 
-**Last Updated:** 2026-01-13
+---
 
-**Description:**   openappsec/openappsec
+## ovizart
+
+**Repository:** [[https://github.com/oguzy/ovizart](https://github.com/oguzy/ovizart)]([https://github.com/oguzy/ovizart](https://github.com/oguzy/ovizart))
+
+**Author:** oguzy
 
 ---
 
 ## OWASP-GoatDroid-Project
 
-**Repository:** [https://github.com/jackMannino/OWASP-GoatDroid-Project](https://github.com/jackMannino/OWASP-GoatDroid-Project)
+**Repository:** [[https://github.com/jackMannino/OWASP-GoatDroid-Project](https://github.com/jackMannino/OWASP-GoatDroid-Project)]([https://github.com/jackMannino/OWASP-GoatDroid-Project](https://github.com/jackMannino/OWASP-GoatDroid-Project))
 
 **Author:** jackMannino
 
-**Last Updated:** 2012-09-15
+---
 
-**Description:** No README found
+## owasp-mastg
+
+**Repository:** [[https://github.com/OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg)]([https://github.com/OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg))
+
+**Author:** OWASP
+
+---
+
+## owasp-mstg
+
+**Repository:** [[https://github.com/OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg)]([https://github.com/OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg))
+
+**Author:** OWASP
 
 ---
 
 ## owasp-testing-checklist-v4-markdown
 
-**Repository:** [https://github.com/amocrenco/owasp-testing-checklist-v4-markdown](https://github.com/amocrenco/owasp-testing-checklist-v4-markdown)
+**Repository:** [[https://github.com/amocrenco/owasp-testing-checklist-v4-markdown](https://github.com/amocrenco/owasp-testing-checklist-v4-markdown)]([https://github.com/amocrenco/owasp-testing-checklist-v4-markdown](https://github.com/amocrenco/owasp-testing-checklist-v4-markdown))
 
 **Author:** amocrenco
 
-**Last Updated:** 2017-08-15
+---
 
-**Description:** Markdown version of OWASP Testing Checklist v4. For use in GitLab, GitHub, JIRA and other.
+## PhishingSecLists
+
+**Repository:** [[https://github.com/spmedia/PhishingSecLists](https://github.com/spmedia/PhishingSecLists)]([https://github.com/spmedia/PhishingSecLists](https://github.com/spmedia/PhishingSecLists))
+
+**Author:** spmedia
 
 ---
 
-## PAPIMonitor
+## portlurker
 
-**Repository:** [https://github.com/Dado1513/PAPIMonitor](https://github.com/Dado1513/PAPIMonitor)
+**Repository:** [[https://github.com/bartnv/portlurker](https://github.com/bartnv/portlurker)]([https://github.com/bartnv/portlurker](https://github.com/bartnv/portlurker))
 
-**Author:** Dado1513
-
-**Last Updated:** 2024-07-04
-
-**Description:** **PAPIMonitor** (**P**ython **API** **Monitor** for Android apps) is a python tool based on [Frida](https://frida.re/docs/android/) for monitoring user-select APIs during the app execution. The app should be installed within an emulator already connected through ADB to the pc host.
+**Author:** bartnv
 
 ---
 
-## php-webshells
+## progpilot
 
-**Repository:** [https://github.com/JohnTroony/php-webshells](https://github.com/JohnTroony/php-webshells)
+**Repository:** [[https://github.com/designsecurity/progpilot](https://github.com/designsecurity/progpilot)]([https://github.com/designsecurity/progpilot](https://github.com/designsecurity/progpilot))
 
-**Author:** JohnTroony
-
-**Last Updated:** 2020-04-11
-
-**Description:** Contributing
+**Author:** designsecurity
 
 ---
 
-## python-sandboxapi
+## pyew
 
-**Repository:** [https://github.com/InQuest/python-sandboxapi](https://github.com/InQuest/python-sandboxapi)
+**Repository:** [[https://github.com/joxeankoret/pyew](https://github.com/joxeankoret/pyew)]([https://github.com/joxeankoret/pyew](https://github.com/joxeankoret/pyew))
 
-**Author:** InQuest
-
-**Last Updated:** 2024-01-31
-
-**Description:** sandboxapi
+**Author:** joxeankoret
 
 ---
 
-## radamsa-android
+## RegEx-DoS
 
-**Repository:** [https://github.com/anestisb/radamsa-android](https://github.com/anestisb/radamsa-android)
+**Repository:** [[https://github.com/jagracey/RegEx-DoS](https://github.com/jagracey/RegEx-DoS)]([https://github.com/jagracey/RegEx-DoS](https://github.com/jagracey/RegEx-DoS))
 
-**Author:** anestisb
-
-**Last Updated:** 2019-12-24
-
-**Description:** Just a generated code export with minor Android NDK tweaking to compile and support Android ABIs. Run `ndk-build` from root directory to compile
+**Author:** jagracey
 
 ---
 
-## react2shell-scanner
+## regexp-security-cheatsheet
 
-**Repository:** [https://github.com/nxgn-kd01/react2shell-scanner](https://github.com/nxgn-kd01/react2shell-scanner)
+**Repository:** [[https://github.com/attackercan/regexp-security-cheatsheet](https://github.com/attackercan/regexp-security-cheatsheet)]([https://github.com/attackercan/regexp-security-cheatsheet](https://github.com/attackercan/regexp-security-cheatsheet))
 
-**Author:** nxgn-kd01
-
-**Last Updated:** 2026-01-02
-
-**Description:** **CVSS 10.0 RCE in React Server Components. Is your React 19 app vulnerable?**
+**Author:** attackercan
 
 ---
 
-## RMS-Runtime-Mobile-Security
+## SentinelTestbed
 
-**Repository:** [https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
+**Repository:** [[https://github.com/dobin/SentinelTestbed](https://github.com/dobin/SentinelTestbed)]([https://github.com/dobin/SentinelTestbed](https://github.com/dobin/SentinelTestbed))
 
-**Author:** m0bilesecurity
-
-**Last Updated:** 2025-11-15
-
-**Description:** by [@mobilesecurity_](https://twitter.com/mobilesecurity_)
+**Author:** dobin
 
 ---
 
-## SecretScanner
+## servletpot
 
-**Repository:** [https://github.com/deepfence/SecretScanner](https://github.com/deepfence/SecretScanner)
+**Repository:** [[https://github.com/schmalle/servletpot](https://github.com/schmalle/servletpot)]([https://github.com/schmalle/servletpot](https://github.com/schmalle/servletpot))
 
-**Author:** deepfence
-
-**Last Updated:** 2025-04-24
-
-**Description:** Deepfence SecretScanner can find unprotected secrets in container images or file systems.
+**Author:** schmalle
 
 ---
 
-## shai-hulud-scanner
+## SharPyShell
 
-**Repository:** [https://github.com/nxgn-kd01/shai-hulud-scanner](https://github.com/nxgn-kd01/shai-hulud-scanner)
+**Repository:** [[https://github.com/antonioCoco/SharPyShell](https://github.com/antonioCoco/SharPyShell)]([https://github.com/antonioCoco/SharPyShell](https://github.com/antonioCoco/SharPyShell))
 
-**Author:** nxgn-kd01
+**Author:** antonioCoco
 
-**Last Updated:** 2026-01-02
+---
 
-**Description:** **796+ npm packages compromised in November 2025. Is your project infected?**
+## smalisca
+
+**Repository:** [[https://github.com/dorneanu/smalisca](https://github.com/dorneanu/smalisca)]([https://github.com/dorneanu/smalisca](https://github.com/dorneanu/smalisca))
+
+**Author:** dorneanu
 
 ---
 
 ## sqli-labs
 
-**Repository:** [https://github.com/Audi-1/sqli-labs](https://github.com/Audi-1/sqli-labs)
+**Repository:** [[https://github.com/Audi-1/sqli-labs](https://github.com/Audi-1/sqli-labs)]([https://github.com/Audi-1/sqli-labs](https://github.com/Audi-1/sqli-labs))
 
 **Author:** Audi-1
-
-**Last Updated:** 2014-10-31
-
-**Description:** SQLI-LABS is a platform to learn SQLI Following labs are covered for GET and POST scenarios:
 
 ---
 
 ## sqlilabs
 
-**Repository:** [https://github.com/himadriganguly/sqlilabs](https://github.com/himadriganguly/sqlilabs)
+**Repository:** [[https://github.com/himadriganguly/sqlilabs](https://github.com/himadriganguly/sqlilabs)]([https://github.com/himadriganguly/sqlilabs](https://github.com/himadriganguly/sqlilabs))
 
 **Author:** himadriganguly
 
-**Last Updated:** 2020-12-06
+---
 
-**Description:** This project is developed for the pentester who are learning SQL Injection, so that they can get a playground to apply their different wired concepts. Please don't use your SQL Injection skills anywhere where you don't have legal permission. **Applying it on Live Websites is illegal and if you do...
+## sqlmate
+
+**Repository:** [[https://github.com/UltimateHackers/sqlmate](https://github.com/UltimateHackers/sqlmate)]([https://github.com/UltimateHackers/sqlmate](https://github.com/UltimateHackers/sqlmate))
+
+**Author:** UltimateHackers
 
 ---
 
-## tsunami-security-scanner
+## StaCoAn
 
-**Repository:** [https://github.com/google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner)
+**Repository:** [[https://github.com/vincentcox/StaCoAn](https://github.com/vincentcox/StaCoAn)]([https://github.com/vincentcox/StaCoAn](https://github.com/vincentcox/StaCoAn))
+
+**Author:** vincentcox
+
+---
+
+## suite-o-llama
+
+**Repository:** [[https://github.com/BerserkiKun/suite-o-llama](https://github.com/BerserkiKun/suite-o-llama)]([https://github.com/BerserkiKun/suite-o-llama](https://github.com/BerserkiKun/suite-o-llama))
+
+**Author:** BerserkiKun
+
+---
+
+## ukip
+
+**Repository:** [[https://github.com/google/ukip](https://github.com/google/ukip)]([https://github.com/google/ukip](https://github.com/google/ukip))
 
 **Author:** google
 
-**Last Updated:** 2026-02-09
+---
 
-**Description:** Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
+## VulnLab
+
+**Repository:** [[https://github.com/Yavuzlar/VulnLab](https://github.com/Yavuzlar/VulnLab)]([https://github.com/Yavuzlar/VulnLab](https://github.com/Yavuzlar/VulnLab))
+
+**Author:** Yavuzlar
 
 ---
 
-## user-scanner
+## wrongsecrets
 
-**Repository:** [https://github.com/kaifcodec/user-scanner.git](https://github.com/kaifcodec/user-scanner.git)
+**Repository:** [[https://github.com/commjoen/wrongsecrets](https://github.com/commjoen/wrongsecrets)]([https://github.com/commjoen/wrongsecrets](https://github.com/commjoen/wrongsecrets))
 
-**Author:** kaifcodec
-
-**Last Updated:** 2026-02-12
-
-**Description:** 
+**Author:** commjoen
 
 ---
 
-## WebGoat.NET
+## xvwa
 
-**Repository:** [https://github.com/jerryhoff/WebGoat.NET](https://github.com/jerryhoff/WebGoat.NET)
+**Repository:** [[https://github.com/s4n7h0/xvwa](https://github.com/s4n7h0/xvwa)]([https://github.com/s4n7h0/xvwa](https://github.com/s4n7h0/xvwa))
 
-**Author:** jerryhoff
-
-**Last Updated:** 2014-02-22
-
-**Description:** ***************************** Webgoat.NET ********************************** * Source Code: https://github.com/jerryhoff/WebGoat.NET * Download zip: https://github.com/jerryhoff/WebGoat.NET/zipball/master
+**Author:** s4n7h0
 
 ---
 
-## webscreenshot
+## Yara-Scanner
 
-**Repository:** [https://github.com/maaaaz/webscreenshot](https://github.com/maaaaz/webscreenshot)
+**Repository:** [[https://github.com/PolitoInc/Yara-Scanner](https://github.com/PolitoInc/Yara-Scanner)]([https://github.com/PolitoInc/Yara-Scanner](https://github.com/PolitoInc/Yara-Scanner))
 
-**Author:** maaaaz
-
-**Last Updated:** 2025-10-19
-
-**Description:** webscreenshot
+**Author:** PolitoInc
 
 ---
 
-## webshells
+## yaramanager
 
-**Repository:** [https://github.com/BlackArch/webshells](https://github.com/BlackArch/webshells)
+**Repository:** [[https://github.com/3c7/yaramanager](https://github.com/3c7/yaramanager)]([https://github.com/3c7/yaramanager](https://github.com/3c7/yaramanager))
 
-**Author:** BlackArch
-
-**Last Updated:** 2023-01-28
-
-**Description:** Various webshells. Please send add more via pull requests. :)
-
----
-
-## WebsiteTechMiner-py
-
-**Repository:** [https://github.com/cybersader/WebsiteTechMiner-py](https://github.com/cybersader/WebsiteTechMiner-py)
-
-**Author:** cybersader
-
-**Last Updated:** 2023-06-08
-
-**Description:** A little Python project to automate gathering website profiling data from "BuiltWith" & "Wappalyzer" for tech stack information, technographic data, website reports, website tech lookups, website architecture lookups, etc.
-
----
-
-## WebTrap
-
-**Repository:** [https://github.com/IllusiveNetworks-Labs/WebTrap](https://github.com/IllusiveNetworks-Labs/WebTrap)
-
-**Author:** IllusiveNetworks-Labs
-
-**Last Updated:** 2018-03-28
-
-**Description:** No README found
-
----
-
-## WhatWeb
-
-**Repository:** [https://github.com/urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb)
-
-**Author:** urbanadventurer
-
-**Last Updated:** 2025-10-20
-
-**Description:** Developed by Andrew Horton [urbanadventurer](https://github.com/urbanadventurer/) and Brendan Coles [bcoles](https://github.com/bcoles/)
+**Author:** 3c7
 
 ---
 

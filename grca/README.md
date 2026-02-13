@@ -2,115 +2,191 @@
 
 Tools and frameworks for governance, risk management, compliance, and security auditing.
 
-**Total Tools:** 9
+**Total Tools:** 23
 
 ---
 
-## advisories
+## APKdevastate
 
-**Repository:** [https://github.com/justinsteven/advisories](https://github.com/justinsteven/advisories)
+**Repository:** [[https://github.com/rafigk2v9c/APKdevastate](https://github.com/rafigk2v9c/APKdevastate)]([https://github.com/rafigk2v9c/APKdevastate](https://github.com/rafigk2v9c/APKdevastate))
 
-**Author:** justinsteven
-
-**Last Updated:** 2023-04-03
-
-**Description:** Twitter: [@justinsteven](https://twitter.com/justinsteven)
+**Author:** rafigk2v9c
 
 ---
 
-## AuditdAndroid
+## audit-node-modules-with-yara
 
-**Repository:** [https://github.com/nwhusted/AuditdAndroid](https://github.com/nwhusted/AuditdAndroid)
+**Repository:** [[https://github.com/rpgeeganage/audit-node-modules-with-yara](https://github.com/rpgeeganage/audit-node-modules-with-yara)]([https://github.com/rpgeeganage/audit-node-modules-with-yara](https://github.com/rpgeeganage/audit-node-modules-with-yara))
 
-**Author:** nwhusted
-
-**Last Updated:** 2013-05-09
-
-**Description:** Our goal is to port a minimal set of userland tools from the GNU/Linux userland to the bionic/Linux userland of Android. We've stripped out most the functionality inherent in the Linux software including audisp, ausearch, and auparse. The audit stream is not sent directly to an AF_Unix socket (/d...
+**Author:** rpgeeganage
 
 ---
 
-## cadvisor
+## aurasium
 
-**Repository:** [https://github.com/google/cadvisor](https://github.com/google/cadvisor)
+**Repository:** [[https://github.com/xurubin/aurasium](https://github.com/xurubin/aurasium)]([https://github.com/xurubin/aurasium](https://github.com/xurubin/aurasium))
+
+**Author:** xurubin
+
+---
+
+## crackpkcs12
+
+**Repository:** [[https://github.com/crackpkcs12/crackpkcs12](https://github.com/crackpkcs12/crackpkcs12)]([https://github.com/crackpkcs12/crackpkcs12](https://github.com/crackpkcs12/crackpkcs12))
+
+**Author:** crackpkcs12
+
+---
+
+## diversity
+
+**Repository:** [[https://github.com/mozilla/diversity](https://github.com/mozilla/diversity)]([https://github.com/mozilla/diversity](https://github.com/mozilla/diversity))
+
+**Author:** mozilla
+
+---
+
+## Fuji
+
+**Repository:** [[https://github.com/Lazza/Fuji](https://github.com/Lazza/Fuji)]([https://github.com/Lazza/Fuji](https://github.com/Lazza/Fuji))
+
+**Author:** Lazza
+
+---
+
+## google-authenticator
+
+**Repository:** [[https://github.com/google/google-authenticator](https://github.com/google/google-authenticator)]([https://github.com/google/google-authenticator](https://github.com/google/google-authenticator))
 
 **Author:** google
 
-**Last Updated:** 2026-01-29
+---
 
-**Description:** cAdvisor (Container Advisor) provides container users an understanding of the resource usage and performance characteristics of their running containers. It is a running daemon that collects, aggregates, processes, and exports information about running containers. Specifically, for each container...
+## hassh
+
+**Repository:** [[https://github.com/salesforce/hassh](https://github.com/salesforce/hassh)]([https://github.com/salesforce/hassh](https://github.com/salesforce/hassh))
+
+**Author:** salesforce
 
 ---
 
-## gvisor
+## Infosec_Reference
 
-**Repository:** [https://github.com/google/gvisor](https://github.com/google/gvisor)
+**Repository:** [[https://github.com/rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference)]([https://github.com/rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference))
 
-**Author:** google
-
-**Last Updated:** 2026-02-10
-
-**Description:** **gVisor** provides a strong layer of isolation between running applications and the host operating system. It is an application kernel that implements a [Linux-like interface][linux]. Unlike Linux, it is written in a memory-safe
+**Author:** rmusser01
 
 ---
 
-## mobileAudit
+## keyscope
 
-**Repository:** [https://github.com/mpast/mobileAudit](https://github.com/mpast/mobileAudit)
+**Repository:** [[https://github.com/SpectralOps/keyscope](https://github.com/SpectralOps/keyscope)]([https://github.com/SpectralOps/keyscope](https://github.com/SpectralOps/keyscope))
 
-**Author:** mpast
-
-**Last Updated:** 2025-12-26
-
-**Description:** **MobileAudit** - SAST and Malware Analysis for Android Mobile APKs
+**Author:** SpectralOps
 
 ---
 
-## OSXAuditor
+## lunasec
 
-**Repository:** [https://github.com/jipegit/OSXAuditor](https://github.com/jipegit/OSXAuditor)
+**Repository:** [[https://github.com/lunasec-io/lunasec](https://github.com/lunasec-io/lunasec)]([https://github.com/lunasec-io/lunasec](https://github.com/lunasec-io/lunasec))
 
-**Author:** jipegit
-
-**Last Updated:** 2020-07-28
-
-**Description:** OS X Auditor is a free Mac OS X computer forensics tool.
+**Author:** lunasec-io
 
 ---
 
 ## pcileech
 
-**Repository:** [https://github.com/ufrisk/pcileech](https://github.com/ufrisk/pcileech)
+**Repository:** [[https://github.com/ufrisk/pcileech](https://github.com/ufrisk/pcileech)]([https://github.com/ufrisk/pcileech](https://github.com/ufrisk/pcileech))
 
 **Author:** ufrisk
 
-**Last Updated:** 2026-01-05
+---
 
-**Description:** PCILeech Summary: PCILeech uses PCIe hardware devices to read and write target system memory. This is achieved by using DMA over PCIe. No drivers are needed on the target system.
+## PMapper
+
+**Repository:** [[https://github.com/nccgroup/PMapper](https://github.com/nccgroup/PMapper)]([https://github.com/nccgroup/PMapper](https://github.com/nccgroup/PMapper))
+
+**Author:** nccgroup
+
+---
+
+## prowler
+
+**Repository:** [[https://github.com/toniblyx/prowler](https://github.com/toniblyx/prowler)]([https://github.com/toniblyx/prowler](https://github.com/toniblyx/prowler))
+
+**Author:** toniblyx
+
+---
+
+## rdpy
+
+**Repository:** [[https://github.com/citronneur/rdpy](https://github.com/citronneur/rdpy)]([https://github.com/citronneur/rdpy](https://github.com/citronneur/rdpy))
+
+**Author:** citronneur
+
+---
+
+## retraced
+
+**Repository:** [[https://github.com/retracedhq/retraced](https://github.com/retracedhq/retraced)]([https://github.com/retracedhq/retraced](https://github.com/retracedhq/retraced))
+
+**Author:** retracedhq
 
 ---
 
 ## RiskInDroid
 
-**Repository:** [https://github.com/ClaudiuGeorgiu/RiskInDroid](https://github.com/ClaudiuGeorgiu/RiskInDroid)
+**Repository:** [[https://github.com/ClaudiuGeorgiu/RiskInDroid](https://github.com/ClaudiuGeorgiu/RiskInDroid)]([https://github.com/ClaudiuGeorgiu/RiskInDroid](https://github.com/ClaudiuGeorgiu/RiskInDroid))
 
 **Author:** ClaudiuGeorgiu
 
-**Last Updated:** 2026-02-09
+---
 
-**Description:** > A tool for quantitative risk analysis of Android applications based on machine > learning techniques.
+## semgrep
+
+**Repository:** [[https://github.com/semgrep/semgrep](https://github.com/semgrep/semgrep)]([https://github.com/semgrep/semgrep](https://github.com/semgrep/semgrep))
+
+**Author:** semgrep
+
+---
+
+## shiva
+
+**Repository:** [[https://github.com/shiva-spampot/shiva](https://github.com/shiva-spampot/shiva)]([https://github.com/shiva-spampot/shiva](https://github.com/shiva-spampot/shiva))
+
+**Author:** shiva-spampot
 
 ---
 
 ## ssh-audit
 
-**Repository:** [https://github.com/jtesta/ssh-audit](https://github.com/jtesta/ssh-audit)
+**Repository:** [[https://github.com/jtesta/ssh-audit](https://github.com/jtesta/ssh-audit)]([https://github.com/jtesta/ssh-audit](https://github.com/jtesta/ssh-audit))
 
 **Author:** jtesta
 
-**Last Updated:** 2025-09-01
+---
 
-**Description:** **ssh-audit** is a tool for ssh server & client configuration auditing.
+## telnet-iot-honeypot
+
+**Repository:** [[https://github.com/Phype/telnet-iot-honeypot](https://github.com/Phype/telnet-iot-honeypot)]([https://github.com/Phype/telnet-iot-honeypot](https://github.com/Phype/telnet-iot-honeypot))
+
+**Author:** Phype
+
+---
+
+## tor_box
+
+**Repository:** [[https://github.com/CMoncur/tor_box](https://github.com/CMoncur/tor_box)]([https://github.com/CMoncur/tor_box](https://github.com/CMoncur/tor_box))
+
+**Author:** CMoncur
+
+---
+
+## vnclowpot
+
+**Repository:** [[https://github.com/magisterquis/vnclowpot](https://github.com/magisterquis/vnclowpot)]([https://github.com/magisterquis/vnclowpot](https://github.com/magisterquis/vnclowpot))
+
+**Author:** magisterquis
 
 ---
 
