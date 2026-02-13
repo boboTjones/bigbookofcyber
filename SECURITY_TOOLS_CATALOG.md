@@ -1,10 +1,5 @@
 # Security Tools Catalog
-
-Comprehensive catalog of security tools and repositories.
-
-**Generated:** 2026-02-13 13:08:25
-
-**Total Repositories:** 1854
+**Last updated:** 2026-02-13
 
 ---
 
