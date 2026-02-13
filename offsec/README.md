@@ -8,7 +8,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Active-Directory-Exploitation-Cheat-Sheet
 
-**Repository:** [[https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet)]([https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet))
+**Repository:** [https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet)
 
 **Author:** Integration-IT
 
@@ -16,7 +16,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Active-Directory-Penetration-Testing
 
-**Repository:** [[https://github.com/AD-Attacks/Active-Directory-Penetration-Testing](https://github.com/AD-Attacks/Active-Directory-Penetration-Testing)]([https://github.com/AD-Attacks/Active-Directory-Penetration-Testing](https://github.com/AD-Attacks/Active-Directory-Penetration-Testing))
+**Repository:** [https://github.com/AD-Attacks/Active-Directory-Penetration-Testing](https://github.com/AD-Attacks/Active-Directory-Penetration-Testing)
 
 **Author:** AD-Attacks
 
@@ -24,7 +24,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Active-Directory-Penetration-Testing-and-Security
 
-**Repository:** [[https://github.com/DeanOfCyber/Active-Directory-Penetration-Testing-and-Security](https://github.com/DeanOfCyber/Active-Directory-Penetration-Testing-and-Security)]([https://github.com/DeanOfCyber/Active-Directory-Penetration-Testing-and-Security](https://github.com/DeanOfCyber/Active-Directory-Penetration-Testing-and-Security))
+**Repository:** [https://github.com/DeanOfCyber/Active-Directory-Penetration-Testing-and-Security](https://github.com/DeanOfCyber/Active-Directory-Penetration-Testing-and-Security)
 
 **Author:** DeanOfCyber
 
@@ -32,7 +32,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## active-directory-pentest
 
-**Repository:** [[https://github.com/geeksniper/active-directory-pentest](https://github.com/geeksniper/active-directory-pentest)]([https://github.com/geeksniper/active-directory-pentest](https://github.com/geeksniper/active-directory-pentest))
+**Repository:** [https://github.com/geeksniper/active-directory-pentest](https://github.com/geeksniper/active-directory-pentest)
 
 **Author:** geeksniper
 
@@ -40,7 +40,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## ADAPE-Script
 
-**Repository:** [[https://github.com/hausec/ADAPE-Script](https://github.com/hausec/ADAPE-Script)]([https://github.com/hausec/ADAPE-Script](https://github.com/hausec/ADAPE-Script))
+**Repository:** [https://github.com/hausec/ADAPE-Script](https://github.com/hausec/ADAPE-Script)
 
 **Author:** hausec
 
@@ -48,7 +48,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## adbsploit
 
-**Repository:** [[https://github.com/mesquidar/adbsploit](https://github.com/mesquidar/adbsploit)]([https://github.com/mesquidar/adbsploit](https://github.com/mesquidar/adbsploit))
+**Repository:** [https://github.com/mesquidar/adbsploit](https://github.com/mesquidar/adbsploit)
 
 **Author:** mesquidar
 
@@ -56,7 +56,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## AFE
 
-**Repository:** [[https://github.com/appknox/AFE](https://github.com/appknox/AFE)]([https://github.com/appknox/AFE](https://github.com/appknox/AFE))
+**Repository:** [https://github.com/appknox/AFE](https://github.com/appknox/AFE)
 
 **Author:** appknox
 
@@ -64,7 +64,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## afterglow-cloud
 
-**Repository:** [[https://github.com/ayrus/afterglow-cloud](https://github.com/ayrus/afterglow-cloud)]([https://github.com/ayrus/afterglow-cloud](https://github.com/ayrus/afterglow-cloud))
+**Repository:** [https://github.com/ayrus/afterglow-cloud](https://github.com/ayrus/afterglow-cloud)
 
 **Author:** ayrus
 
@@ -72,7 +72,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## android
 
-**Repository:** [[https://github.com/cSploit/android](https://github.com/cSploit/android)]([https://github.com/cSploit/android](https://github.com/cSploit/android))
+**Repository:** [https://github.com/cSploit/android](https://github.com/cSploit/android)
 
 **Author:** cSploit
 
@@ -80,7 +80,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Android-Exploits
 
-**Repository:** [[https://github.com/sundaysec/Android-Exploits](https://github.com/sundaysec/Android-Exploits)]([https://github.com/sundaysec/Android-Exploits](https://github.com/sundaysec/Android-Exploits))
+**Repository:** [https://github.com/sundaysec/Android-Exploits](https://github.com/sundaysec/Android-Exploits)
 
 **Author:** sundaysec
 
@@ -88,7 +88,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## android-penetration-testing-cheat-sheet
 
-**Repository:** [[https://github.com/ivan-sincek/android-penetration-testing-cheat-sheet](https://github.com/ivan-sincek/android-penetration-testing-cheat-sheet)]([https://github.com/ivan-sincek/android-penetration-testing-cheat-sheet](https://github.com/ivan-sincek/android-penetration-testing-cheat-sheet))
+**Repository:** [https://github.com/ivan-sincek/android-penetration-testing-cheat-sheet](https://github.com/ivan-sincek/android-penetration-testing-cheat-sheet)
 
 **Author:** ivan-sincek
 
@@ -96,7 +96,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Android-Pentesting-Checklist
 
-**Repository:** [[https://github.com/Hrishikesh7665/Android-Pentesting-Checklist](https://github.com/Hrishikesh7665/Android-Pentesting-Checklist)]([https://github.com/Hrishikesh7665/Android-Pentesting-Checklist](https://github.com/Hrishikesh7665/Android-Pentesting-Checklist))
+**Repository:** [https://github.com/Hrishikesh7665/Android-Pentesting-Checklist](https://github.com/Hrishikesh7665/Android-Pentesting-Checklist)
 
 **Author:** Hrishikesh7665
 
@@ -104,7 +104,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Apache2-Mod-Rewrite-Setup
 
-**Repository:** [[https://github.com/n0pe-sled/Apache2-Mod-Rewrite-Setup](https://github.com/n0pe-sled/Apache2-Mod-Rewrite-Setup)]([https://github.com/n0pe-sled/Apache2-Mod-Rewrite-Setup](https://github.com/n0pe-sled/Apache2-Mod-Rewrite-Setup))
+**Repository:** [https://github.com/n0pe-sled/Apache2-Mod-Rewrite-Setup](https://github.com/n0pe-sled/Apache2-Mod-Rewrite-Setup)
 
 **Author:** n0pe-sled
 
@@ -112,7 +112,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## apk-mitm
 
-**Repository:** [[https://github.com/shroudedcode/apk-mitm](https://github.com/shroudedcode/apk-mitm)]([https://github.com/shroudedcode/apk-mitm](https://github.com/shroudedcode/apk-mitm))
+**Repository:** [https://github.com/shroudedcode/apk-mitm](https://github.com/shroudedcode/apk-mitm)
 
 **Author:** shroudedcode
 
@@ -120,7 +120,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## aquatone
 
-**Repository:** [[https://github.com/michenriksen/aquatone](https://github.com/michenriksen/aquatone)]([https://github.com/michenriksen/aquatone](https://github.com/michenriksen/aquatone))
+**Repository:** [https://github.com/michenriksen/aquatone](https://github.com/michenriksen/aquatone)
 
 **Author:** michenriksen
 
@@ -128,7 +128,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## attifyos
 
-**Repository:** [[https://github.com/adi0x90/attifyos](https://github.com/adi0x90/attifyos)]([https://github.com/adi0x90/attifyos](https://github.com/adi0x90/attifyos))
+**Repository:** [https://github.com/adi0x90/attifyos](https://github.com/adi0x90/attifyos)
 
 **Author:** adi0x90
 
@@ -136,7 +136,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## AutoSploit
 
-**Repository:** [[https://github.com/NullArray/AutoSploit](https://github.com/NullArray/AutoSploit)]([https://github.com/NullArray/AutoSploit](https://github.com/NullArray/AutoSploit))
+**Repository:** [https://github.com/NullArray/AutoSploit](https://github.com/NullArray/AutoSploit)
 
 **Author:** NullArray
 
@@ -144,7 +144,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## avet
 
-**Repository:** [[https://github.com/govolution/avet](https://github.com/govolution/avet)]([https://github.com/govolution/avet](https://github.com/govolution/avet))
+**Repository:** [https://github.com/govolution/avet](https://github.com/govolution/avet)
 
 **Author:** govolution
 
@@ -152,7 +152,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## awesome-arm-exploitation
 
-**Repository:** [[https://github.com/HenryHoggard/awesome-arm-exploitation](https://github.com/HenryHoggard/awesome-arm-exploitation)]([https://github.com/HenryHoggard/awesome-arm-exploitation](https://github.com/HenryHoggard/awesome-arm-exploitation))
+**Repository:** [https://github.com/HenryHoggard/awesome-arm-exploitation](https://github.com/HenryHoggard/awesome-arm-exploitation)
 
 **Author:** HenryHoggard
 
@@ -160,7 +160,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Awesome-Azure-Pentest
 
-**Repository:** [[https://github.com/Kyuu-Ji/Awesome-Azure-Pentest](https://github.com/Kyuu-Ji/Awesome-Azure-Pentest)]([https://github.com/Kyuu-Ji/Awesome-Azure-Pentest](https://github.com/Kyuu-Ji/Awesome-Azure-Pentest))
+**Repository:** [https://github.com/Kyuu-Ji/Awesome-Azure-Pentest](https://github.com/Kyuu-Ji/Awesome-Azure-Pentest)
 
 **Author:** Kyuu-Ji
 
@@ -168,7 +168,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Awesome-Hacking
 
-**Repository:** [[https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)]([https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking))
+**Repository:** [https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 **Author:** Hack-with-Github
 
@@ -176,7 +176,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## awesome-malware
 
-**Repository:** [[https://github.com/fabacab/awesome-malware](https://github.com/fabacab/awesome-malware)]([https://github.com/fabacab/awesome-malware](https://github.com/fabacab/awesome-malware))
+**Repository:** [https://github.com/fabacab/awesome-malware](https://github.com/fabacab/awesome-malware)
 
 **Author:** fabacab
 
@@ -184,7 +184,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## awesome-pentest
 
-**Repository:** [[https://github.com/boboTjones/awesome-pentest](https://github.com/boboTjones/awesome-pentest)]([https://github.com/boboTjones/awesome-pentest](https://github.com/boboTjones/awesome-pentest))
+**Repository:** [https://github.com/boboTjones/awesome-pentest](https://github.com/boboTjones/awesome-pentest)
 
 **Author:** boboTjones
 
@@ -192,7 +192,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## awesome-pentest-cheat-sheets
 
-**Repository:** [[https://github.com/ByteSnipers/awesome-pentest-cheat-sheets](https://github.com/ByteSnipers/awesome-pentest-cheat-sheets)]([https://github.com/ByteSnipers/awesome-pentest-cheat-sheets](https://github.com/ByteSnipers/awesome-pentest-cheat-sheets))
+**Repository:** [https://github.com/ByteSnipers/awesome-pentest-cheat-sheets](https://github.com/ByteSnipers/awesome-pentest-cheat-sheets)
 
 **Author:** ByteSnipers
 
@@ -200,7 +200,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Awesome-Red-Teaming
 
-**Repository:** [[https://github.com/yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)]([https://github.com/yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming))
+**Repository:** [https://github.com/yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
 
 **Author:** yeyintminthuhtut
 
@@ -208,7 +208,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## awesome-scapy
 
-**Repository:** [[https://github.com/gpotter2/awesome-scapy](https://github.com/gpotter2/awesome-scapy)]([https://github.com/gpotter2/awesome-scapy](https://github.com/gpotter2/awesome-scapy))
+**Repository:** [https://github.com/gpotter2/awesome-scapy](https://github.com/gpotter2/awesome-scapy)
 
 **Author:** gpotter2
 
@@ -216,7 +216,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## beef
 
-**Repository:** [[https://github.com/beefproject/beef](https://github.com/beefproject/beef)]([https://github.com/beefproject/beef](https://github.com/beefproject/beef))
+**Repository:** [https://github.com/beefproject/beef](https://github.com/beefproject/beef)
 
 **Author:** beefproject
 
@@ -224,7 +224,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Bella
 
-**Repository:** [[https://github.com/kdaoudieh/Bella](https://github.com/kdaoudieh/Bella)]([https://github.com/kdaoudieh/Bella](https://github.com/kdaoudieh/Bella))
+**Repository:** [https://github.com/kdaoudieh/Bella](https://github.com/kdaoudieh/Bella)
 
 **Author:** kdaoudieh
 
@@ -232,7 +232,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## bettercap
 
-**Repository:** [[https://github.com/bettercap/bettercap](https://github.com/bettercap/bettercap)]([https://github.com/bettercap/bettercap](https://github.com/bettercap/bettercap))
+**Repository:** [https://github.com/bettercap/bettercap](https://github.com/bettercap/bettercap)
 
 **Author:** bettercap
 
@@ -240,7 +240,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## BinExp
 
-**Repository:** [[https://github.com/r0hi7/BinExp](https://github.com/r0hi7/BinExp)]([https://github.com/r0hi7/BinExp](https://github.com/r0hi7/BinExp))
+**Repository:** [https://github.com/r0hi7/BinExp](https://github.com/r0hi7/BinExp)
 
 **Author:** r0hi7
 
@@ -248,7 +248,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## bluepot
 
-**Repository:** [[https://github.com/andrewmichaelsmith/bluepot](https://github.com/andrewmichaelsmith/bluepot)]([https://github.com/andrewmichaelsmith/bluepot](https://github.com/andrewmichaelsmith/bluepot))
+**Repository:** [https://github.com/andrewmichaelsmith/bluepot](https://github.com/andrewmichaelsmith/bluepot)
 
 **Author:** andrewmichaelsmith
 
@@ -256,7 +256,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## bug-bounty-reference
 
-**Repository:** [[https://github.com/ngalongc/bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference)]([https://github.com/ngalongc/bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference))
+**Repository:** [https://github.com/ngalongc/bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference)
 
 **Author:** ngalongc
 
@@ -264,7 +264,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## C2-JARM
 
-**Repository:** [[https://github.com/cedowens/C2-JARM](https://github.com/cedowens/C2-JARM)]([https://github.com/cedowens/C2-JARM](https://github.com/cedowens/C2-JARM))
+**Repository:** [https://github.com/cedowens/C2-JARM](https://github.com/cedowens/C2-JARM)
 
 **Author:** cedowens
 
@@ -272,7 +272,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## catphish
 
-**Repository:** [[https://github.com/ring0lab/catphish](https://github.com/ring0lab/catphish)]([https://github.com/ring0lab/catphish](https://github.com/ring0lab/catphish))
+**Repository:** [https://github.com/ring0lab/catphish](https://github.com/ring0lab/catphish)
 
 **Author:** ring0lab
 
@@ -280,7 +280,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Checklists
 
-**Repository:** [[https://github.com/netbiosX/Checklists](https://github.com/netbiosX/Checklists)]([https://github.com/netbiosX/Checklists](https://github.com/netbiosX/Checklists))
+**Repository:** [https://github.com/netbiosX/Checklists](https://github.com/netbiosX/Checklists)
 
 **Author:** netbiosX
 
@@ -288,7 +288,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## cloud-active-defense
 
-**Repository:** [[https://github.com/SAP/cloud-active-defense](https://github.com/SAP/cloud-active-defense)]([https://github.com/SAP/cloud-active-defense](https://github.com/SAP/cloud-active-defense))
+**Repository:** [https://github.com/SAP/cloud-active-defense](https://github.com/SAP/cloud-active-defense)
 
 **Author:** SAP
 
@@ -296,7 +296,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## CloudFail
 
-**Repository:** [[https://github.com/m0rtem/CloudFail](https://github.com/m0rtem/CloudFail)]([https://github.com/m0rtem/CloudFail](https://github.com/m0rtem/CloudFail))
+**Repository:** [https://github.com/m0rtem/CloudFail](https://github.com/m0rtem/CloudFail)
 
 **Author:** m0rtem
 
@@ -304,7 +304,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## cognito-scanner
 
-**Repository:** [[https://github.com/padok-team/cognito-scanner](https://github.com/padok-team/cognito-scanner)]([https://github.com/padok-team/cognito-scanner](https://github.com/padok-team/cognito-scanner))
+**Repository:** [https://github.com/padok-team/cognito-scanner](https://github.com/padok-team/cognito-scanner)
 
 **Author:** padok-team
 
@@ -312,7 +312,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## combobulator
 
-**Repository:** [[https://github.com/apiiro/combobulator](https://github.com/apiiro/combobulator)]([https://github.com/apiiro/combobulator](https://github.com/apiiro/combobulator))
+**Repository:** [https://github.com/apiiro/combobulator](https://github.com/apiiro/combobulator)
 
 **Author:** apiiro
 
@@ -320,7 +320,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## commando-vm
 
-**Repository:** [[https://github.com/fireeye/commando-vm](https://github.com/fireeye/commando-vm)]([https://github.com/fireeye/commando-vm](https://github.com/fireeye/commando-vm))
+**Repository:** [https://github.com/fireeye/commando-vm](https://github.com/fireeye/commando-vm)
 
 **Author:** fireeye
 
@@ -328,7 +328,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## commix
 
-**Repository:** [[https://github.com/commixproject/commix](https://github.com/commixproject/commix)]([https://github.com/commixproject/commix](https://github.com/commixproject/commix))
+**Repository:** [https://github.com/commixproject/commix](https://github.com/commixproject/commix)
 
 **Author:** commixproject
 
@@ -336,7 +336,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## commix-testbed
 
-**Repository:** [[https://github.com/stasinopoulos/commix-testbed](https://github.com/stasinopoulos/commix-testbed)]([https://github.com/stasinopoulos/commix-testbed](https://github.com/stasinopoulos/commix-testbed))
+**Repository:** [https://github.com/stasinopoulos/commix-testbed](https://github.com/stasinopoulos/commix-testbed)
 
 **Author:** stasinopoulos
 
@@ -344,7 +344,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## cowpatty
 
-**Repository:** [[https://github.com/joswr1ght/cowpatty](https://github.com/joswr1ght/cowpatty)]([https://github.com/joswr1ght/cowpatty](https://github.com/joswr1ght/cowpatty))
+**Repository:** [https://github.com/joswr1ght/cowpatty](https://github.com/joswr1ght/cowpatty)
 
 **Author:** joswr1ght
 
@@ -352,7 +352,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## cowrie
 
-**Repository:** [[https://github.com/cowrie/cowrie](https://github.com/cowrie/cowrie)]([https://github.com/cowrie/cowrie](https://github.com/cowrie/cowrie))
+**Repository:** [https://github.com/cowrie/cowrie](https://github.com/cowrie/cowrie)
 
 **Author:** cowrie
 
@@ -360,7 +360,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## ctftool
 
-**Repository:** [[https://github.com/taviso/ctftool](https://github.com/taviso/ctftool)]([https://github.com/taviso/ctftool](https://github.com/taviso/ctftool))
+**Repository:** [https://github.com/taviso/ctftool](https://github.com/taviso/ctftool)
 
 **Author:** taviso
 
@@ -368,7 +368,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## CVE-2017-0199
 
-**Repository:** [[https://github.com/bhdresh/CVE-2017-0199](https://github.com/bhdresh/CVE-2017-0199)]([https://github.com/bhdresh/CVE-2017-0199](https://github.com/bhdresh/CVE-2017-0199))
+**Repository:** [https://github.com/bhdresh/CVE-2017-0199](https://github.com/bhdresh/CVE-2017-0199)
 
 **Author:** bhdresh
 
@@ -376,7 +376,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## CVE-2017-8759-Exploit-sample
 
-**Repository:** [[https://github.com/vysec/CVE-2017-8759-Exploit-sample](https://github.com/vysec/CVE-2017-8759-Exploit-sample)]([https://github.com/vysec/CVE-2017-8759-Exploit-sample](https://github.com/vysec/CVE-2017-8759-Exploit-sample))
+**Repository:** [https://github.com/vysec/CVE-2017-8759-Exploit-sample](https://github.com/vysec/CVE-2017-8759-Exploit-sample)
 
 **Author:** vysec
 
@@ -384,7 +384,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## dcept
 
-**Repository:** [[https://github.com/secureworks/dcept](https://github.com/secureworks/dcept)]([https://github.com/secureworks/dcept](https://github.com/secureworks/dcept))
+**Repository:** [https://github.com/secureworks/dcept](https://github.com/secureworks/dcept)
 
 **Author:** secureworks
 
@@ -392,7 +392,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## DeathStar
 
-**Repository:** [[https://github.com/byt3bl33d3r/DeathStar](https://github.com/byt3bl33d3r/DeathStar)]([https://github.com/byt3bl33d3r/DeathStar](https://github.com/byt3bl33d3r/DeathStar))
+**Repository:** [https://github.com/byt3bl33d3r/DeathStar](https://github.com/byt3bl33d3r/DeathStar)
 
 **Author:** byt3bl33d3r
 
@@ -400,7 +400,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## decker
 
-**Repository:** [[https://github.com/stevenaldinger/decker](https://github.com/stevenaldinger/decker)]([https://github.com/stevenaldinger/decker](https://github.com/stevenaldinger/decker))
+**Repository:** [https://github.com/stevenaldinger/decker](https://github.com/stevenaldinger/decker)
 
 **Author:** stevenaldinger
 
@@ -408,7 +408,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## DeimosC2
 
-**Repository:** [[https://github.com/DeimosC2/DeimosC2](https://github.com/DeimosC2/DeimosC2)]([https://github.com/DeimosC2/DeimosC2](https://github.com/DeimosC2/DeimosC2))
+**Repository:** [https://github.com/DeimosC2/DeimosC2](https://github.com/DeimosC2/DeimosC2)
 
 **Author:** DeimosC2
 
@@ -416,7 +416,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## delilah
 
-**Repository:** [[https://github.com/SecurityTW/delilah](https://github.com/SecurityTW/delilah)]([https://github.com/SecurityTW/delilah](https://github.com/SecurityTW/delilah))
+**Repository:** [https://github.com/SecurityTW/delilah](https://github.com/SecurityTW/delilah)
 
 **Author:** SecurityTW
 
@@ -424,7 +424,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## DemonHunter
 
-**Repository:** [[https://github.com/RevengeComing/DemonHunter](https://github.com/RevengeComing/DemonHunter)]([https://github.com/RevengeComing/DemonHunter](https://github.com/RevengeComing/DemonHunter))
+**Repository:** [https://github.com/RevengeComing/DemonHunter](https://github.com/RevengeComing/DemonHunter)
 
 **Author:** RevengeComing
 
@@ -432,7 +432,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## detections
 
-**Repository:** [[https://github.com/delivr-to/detections](https://github.com/delivr-to/detections)]([https://github.com/delivr-to/detections](https://github.com/delivr-to/detections))
+**Repository:** [https://github.com/delivr-to/detections](https://github.com/delivr-to/detections)
 
 **Author:** delivr-to
 
@@ -440,7 +440,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## dheater
 
-**Repository:** [[https://github.com/Balasys/dheater](https://github.com/Balasys/dheater)]([https://github.com/Balasys/dheater](https://github.com/Balasys/dheater))
+**Repository:** [https://github.com/Balasys/dheater](https://github.com/Balasys/dheater)
 
 **Author:** Balasys
 
@@ -448,7 +448,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## diva-android
 
-**Repository:** [[https://github.com/payatu/diva-android](https://github.com/payatu/diva-android)]([https://github.com/payatu/diva-android](https://github.com/payatu/diva-android))
+**Repository:** [https://github.com/payatu/diva-android](https://github.com/payatu/diva-android)
 
 **Author:** payatu
 
@@ -456,7 +456,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## dnstwist
 
-**Repository:** [[https://github.com/elceef/dnstwist](https://github.com/elceef/dnstwist)]([https://github.com/elceef/dnstwist](https://github.com/elceef/dnstwist))
+**Repository:** [https://github.com/elceef/dnstwist](https://github.com/elceef/dnstwist)
 
 **Author:** elceef
 
@@ -464,7 +464,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## domainhunter
 
-**Repository:** [[https://github.com/minisllc/domainhunter](https://github.com/minisllc/domainhunter)]([https://github.com/minisllc/domainhunter](https://github.com/minisllc/domainhunter))
+**Repository:** [https://github.com/minisllc/domainhunter](https://github.com/minisllc/domainhunter)
 
 **Author:** minisllc
 
@@ -472,7 +472,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## DomainPasswordSpray
 
-**Repository:** [[https://github.com/dafthack/DomainPasswordSpray](https://github.com/dafthack/DomainPasswordSpray)]([https://github.com/dafthack/DomainPasswordSpray](https://github.com/dafthack/DomainPasswordSpray))
+**Repository:** [https://github.com/dafthack/DomainPasswordSpray](https://github.com/dafthack/DomainPasswordSpray)
 
 **Author:** dafthack
 
@@ -480,7 +480,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## dos-over-tor
 
-**Repository:** [[https://github.com/skizap/dos-over-tor](https://github.com/skizap/dos-over-tor)]([https://github.com/skizap/dos-over-tor](https://github.com/skizap/dos-over-tor))
+**Repository:** [https://github.com/skizap/dos-over-tor](https://github.com/skizap/dos-over-tor)
 
 **Author:** skizap
 
@@ -488,7 +488,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## droidground
 
-**Repository:** [[https://github.com/SECFORCE/droidground](https://github.com/SECFORCE/droidground)]([https://github.com/SECFORCE/droidground](https://github.com/SECFORCE/droidground))
+**Repository:** [https://github.com/SECFORCE/droidground](https://github.com/SECFORCE/droidground)
 
 **Author:** SECFORCE
 
@@ -496,7 +496,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## dvca
 
-**Repository:** [[https://github.com/m6a-UdS/dvca](https://github.com/m6a-UdS/dvca)]([https://github.com/m6a-UdS/dvca](https://github.com/m6a-UdS/dvca))
+**Repository:** [https://github.com/m6a-UdS/dvca](https://github.com/m6a-UdS/dvca)
 
 **Author:** m6a-UdS
 
@@ -504,7 +504,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## elastichoney
 
-**Repository:** [[https://github.com/jordan-wright/elastichoney](https://github.com/jordan-wright/elastichoney)]([https://github.com/jordan-wright/elastichoney](https://github.com/jordan-wright/elastichoney))
+**Repository:** [https://github.com/jordan-wright/elastichoney](https://github.com/jordan-wright/elastichoney)
 
 **Author:** jordan-wright
 
@@ -512,7 +512,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Empire
 
-**Repository:** [[https://github.com/EmpireProject/Empire](https://github.com/EmpireProject/Empire)]([https://github.com/EmpireProject/Empire](https://github.com/EmpireProject/Empire))
+**Repository:** [https://github.com/EmpireProject/Empire](https://github.com/EmpireProject/Empire)
 
 **Author:** EmpireProject
 
@@ -520,7 +520,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## ensnare
 
-**Repository:** [[https://github.com/ahoernecke/ensnare](https://github.com/ahoernecke/ensnare)]([https://github.com/ahoernecke/ensnare](https://github.com/ahoernecke/ensnare))
+**Repository:** [https://github.com/ahoernecke/ensnare](https://github.com/ahoernecke/ensnare)
 
 **Author:** ahoernecke
 
@@ -528,7 +528,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## ettercap
 
-**Repository:** [[https://github.com/Ettercap/ettercap](https://github.com/Ettercap/ettercap)]([https://github.com/Ettercap/ettercap](https://github.com/Ettercap/ettercap))
+**Repository:** [https://github.com/Ettercap/ettercap](https://github.com/Ettercap/ettercap)
 
 **Author:** Ettercap
 
@@ -536,7 +536,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## evilginx2
 
-**Repository:** [[https://github.com/kgretzky/evilginx2](https://github.com/kgretzky/evilginx2)]([https://github.com/kgretzky/evilginx2](https://github.com/kgretzky/evilginx2))
+**Repository:** [https://github.com/kgretzky/evilginx2](https://github.com/kgretzky/evilginx2)
 
 **Author:** kgretzky
 
@@ -544,7 +544,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## external_c2_framework
 
-**Repository:** [[https://github.com/Und3rf10w/external_c2_framework](https://github.com/Und3rf10w/external_c2_framework)]([https://github.com/Und3rf10w/external_c2_framework](https://github.com/Und3rf10w/external_c2_framework))
+**Repository:** [https://github.com/Und3rf10w/external_c2_framework](https://github.com/Und3rf10w/external_c2_framework)
 
 **Author:** Und3rf10w
 
@@ -552,7 +552,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## ExternalC2
 
-**Repository:** [[https://github.com/ryhanson/ExternalC2](https://github.com/ryhanson/ExternalC2)]([https://github.com/ryhanson/ExternalC2](https://github.com/ryhanson/ExternalC2))
+**Repository:** [https://github.com/ryhanson/ExternalC2](https://github.com/ryhanson/ExternalC2)
 
 **Author:** ryhanson
 
@@ -560,7 +560,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## featherduster
 
-**Repository:** [[https://github.com/nccgroup/featherduster](https://github.com/nccgroup/featherduster)]([https://github.com/nccgroup/featherduster](https://github.com/nccgroup/featherduster))
+**Repository:** [https://github.com/nccgroup/featherduster](https://github.com/nccgroup/featherduster)
 
 **Author:** nccgroup
 
@@ -568,7 +568,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## fibratus
 
-**Repository:** [[https://github.com/rabbitstack/fibratus](https://github.com/rabbitstack/fibratus)]([https://github.com/rabbitstack/fibratus](https://github.com/rabbitstack/fibratus))
+**Repository:** [https://github.com/rabbitstack/fibratus](https://github.com/rabbitstack/fibratus)
 
 **Author:** rabbitstack
 
@@ -576,7 +576,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## fimap
 
-**Repository:** [[https://github.com/kurobeats/fimap](https://github.com/kurobeats/fimap)]([https://github.com/kurobeats/fimap](https://github.com/kurobeats/fimap))
+**Repository:** [https://github.com/kurobeats/fimap](https://github.com/kurobeats/fimap)
 
 **Author:** kurobeats
 
@@ -584,7 +584,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## finshir
 
-**Repository:** [[https://github.com/isgasho/finshir](https://github.com/isgasho/finshir)]([https://github.com/isgasho/finshir](https://github.com/isgasho/finshir))
+**Repository:** [https://github.com/isgasho/finshir](https://github.com/isgasho/finshir)
 
 **Author:** isgasho
 
@@ -592,7 +592,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## flightsim
 
-**Repository:** [[https://github.com/alphasoc/flightsim](https://github.com/alphasoc/flightsim)]([https://github.com/alphasoc/flightsim](https://github.com/alphasoc/flightsim))
+**Repository:** [https://github.com/alphasoc/flightsim](https://github.com/alphasoc/flightsim)
 
 **Author:** alphasoc
 
@@ -600,7 +600,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## fluxion
 
-**Repository:** [[https://github.com/FluxionNetwork/fluxion](https://github.com/FluxionNetwork/fluxion)]([https://github.com/FluxionNetwork/fluxion](https://github.com/FluxionNetwork/fluxion))
+**Repository:** [https://github.com/FluxionNetwork/fluxion](https://github.com/FluxionNetwork/fluxion)
 
 **Author:** FluxionNetwork
 
@@ -608,7 +608,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Free-Security-eBooks
 
-**Repository:** [[https://github.com/Hack-with-Github/Free-Security-eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks)]([https://github.com/Hack-with-Github/Free-Security-eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks))
+**Repository:** [https://github.com/Hack-with-Github/Free-Security-eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks)
 
 **Author:** Hack-with-Github
 
@@ -616,7 +616,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## fridax
 
-**Repository:** [[https://github.com/NorthwaveNL/fridax](https://github.com/NorthwaveNL/fridax)]([https://github.com/NorthwaveNL/fridax](https://github.com/NorthwaveNL/fridax))
+**Repository:** [https://github.com/NorthwaveNL/fridax](https://github.com/NorthwaveNL/fridax)
 
 **Author:** NorthwaveNL
 
@@ -624,7 +624,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## gatekeeper
 
-**Repository:** [[https://github.com/AltraMayor/gatekeeper](https://github.com/AltraMayor/gatekeeper)]([https://github.com/AltraMayor/gatekeeper](https://github.com/AltraMayor/gatekeeper))
+**Repository:** [https://github.com/AltraMayor/gatekeeper](https://github.com/AltraMayor/gatekeeper)
 
 **Author:** AltraMayor
 
@@ -632,7 +632,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## gdb-peda-cheatsheet
 
-**Repository:** [[https://github.com/kibercthulhu/gdb-peda-cheatsheet](https://github.com/kibercthulhu/gdb-peda-cheatsheet)]([https://github.com/kibercthulhu/gdb-peda-cheatsheet](https://github.com/kibercthulhu/gdb-peda-cheatsheet))
+**Repository:** [https://github.com/kibercthulhu/gdb-peda-cheatsheet](https://github.com/kibercthulhu/gdb-peda-cheatsheet)
 
 **Author:** kibercthulhu
 
@@ -640,7 +640,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## gef
 
-**Repository:** [[https://github.com/hugsy/gef](https://github.com/hugsy/gef)]([https://github.com/hugsy/gef](https://github.com/hugsy/gef))
+**Repository:** [https://github.com/hugsy/gef](https://github.com/hugsy/gef)
 
 **Author:** hugsy
 
@@ -648,7 +648,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Generate-Macro
 
-**Repository:** [[https://github.com/enigma0x3/Generate-Macro](https://github.com/enigma0x3/Generate-Macro)]([https://github.com/enigma0x3/Generate-Macro](https://github.com/enigma0x3/Generate-Macro))
+**Repository:** [https://github.com/enigma0x3/Generate-Macro](https://github.com/enigma0x3/Generate-Macro)
 
 **Author:** enigma0x3
 
@@ -656,7 +656,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## GHunt
 
-**Repository:** [[https://github.com/mxrch/GHunt](https://github.com/mxrch/GHunt)]([https://github.com/mxrch/GHunt](https://github.com/mxrch/GHunt))
+**Repository:** [https://github.com/mxrch/GHunt](https://github.com/mxrch/GHunt)
 
 **Author:** mxrch
 
@@ -664,7 +664,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## git-scanner
 
-**Repository:** [[https://github.com/HightechSec/git-scanner](https://github.com/HightechSec/git-scanner)]([https://github.com/HightechSec/git-scanner](https://github.com/HightechSec/git-scanner))
+**Repository:** [https://github.com/HightechSec/git-scanner](https://github.com/HightechSec/git-scanner)
 
 **Author:** HightechSec
 
@@ -672,7 +672,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## go-HoneyPot
 
-**Repository:** [[https://github.com/Mojachieee/go-HoneyPot](https://github.com/Mojachieee/go-HoneyPot)]([https://github.com/Mojachieee/go-HoneyPot](https://github.com/Mojachieee/go-HoneyPot))
+**Repository:** [https://github.com/Mojachieee/go-HoneyPot](https://github.com/Mojachieee/go-HoneyPot)
 
 **Author:** Mojachieee
 
@@ -680,7 +680,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## GOAD
 
-**Repository:** [[https://github.com/Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD)]([https://github.com/Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD))
+**Repository:** [https://github.com/Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD)
 
 **Author:** Orange-Cyberdefense
 
@@ -688,7 +688,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Hack-Night
 
-**Repository:** [[https://github.com/isislab/Hack-Night](https://github.com/isislab/Hack-Night)]([https://github.com/isislab/Hack-Night](https://github.com/isislab/Hack-Night))
+**Repository:** [https://github.com/isislab/Hack-Night](https://github.com/isislab/Hack-Night)
 
 **Author:** isislab
 
@@ -696,7 +696,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## HackVault
 
-**Repository:** [[https://github.com/0xsobky/HackVault](https://github.com/0xsobky/HackVault)]([https://github.com/0xsobky/HackVault](https://github.com/0xsobky/HackVault))
+**Repository:** [https://github.com/0xsobky/HackVault](https://github.com/0xsobky/HackVault)
 
 **Author:** 0xsobky
 
@@ -704,7 +704,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## honeybits
 
-**Repository:** [[https://github.com/0x4D31/honeybits](https://github.com/0x4D31/honeybits)]([https://github.com/0x4D31/honeybits](https://github.com/0x4D31/honeybits))
+**Repository:** [https://github.com/0x4D31/honeybits](https://github.com/0x4D31/honeybits)
 
 **Author:** 0x4D31
 
@@ -712,7 +712,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## honeyfs
 
-**Repository:** [[https://github.com/referefref/honeyfs](https://github.com/referefref/honeyfs)]([https://github.com/referefref/honeyfs](https://github.com/referefref/honeyfs))
+**Repository:** [https://github.com/referefref/honeyfs](https://github.com/referefref/honeyfs)
 
 **Author:** referefref
 
@@ -720,7 +720,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## honeyssh
 
-**Repository:** [[https://github.com/ppacher/honeyssh](https://github.com/ppacher/honeyssh)]([https://github.com/ppacher/honeyssh](https://github.com/ppacher/honeyssh))
+**Repository:** [https://github.com/ppacher/honeyssh](https://github.com/ppacher/honeyssh)
 
 **Author:** ppacher
 
@@ -728,7 +728,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## honeytrap
 
-**Repository:** [[https://github.com/tillmannw/honeytrap](https://github.com/tillmannw/honeytrap)]([https://github.com/tillmannw/honeytrap](https://github.com/tillmannw/honeytrap))
+**Repository:** [https://github.com/tillmannw/honeytrap](https://github.com/tillmannw/honeytrap)
 
 **Author:** tillmannw
 
@@ -736,7 +736,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## HUDINX
 
-**Repository:** [[https://github.com/Cryptix720/HUDINX](https://github.com/Cryptix720/HUDINX)]([https://github.com/Cryptix720/HUDINX](https://github.com/Cryptix720/HUDINX))
+**Repository:** [https://github.com/Cryptix720/HUDINX](https://github.com/Cryptix720/HUDINX)
 
 **Author:** Cryptix720
 
@@ -744,7 +744,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Hwacha
 
-**Repository:** [[https://github.com/n00py/Hwacha](https://github.com/n00py/Hwacha)]([https://github.com/n00py/Hwacha](https://github.com/n00py/Hwacha))
+**Repository:** [https://github.com/n00py/Hwacha](https://github.com/n00py/Hwacha)
 
 **Author:** n00py
 
@@ -752,7 +752,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## ILSpy
 
-**Repository:** [[https://github.com/icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)]([https://github.com/icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy))
+**Repository:** [https://github.com/icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy)
 
 **Author:** icsharpcode
 
@@ -760,7 +760,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Inveigh
 
-**Repository:** [[https://github.com/Kevin-Robertson/Inveigh](https://github.com/Kevin-Robertson/Inveigh)]([https://github.com/Kevin-Robertson/Inveigh](https://github.com/Kevin-Robertson/Inveigh))
+**Repository:** [https://github.com/Kevin-Robertson/Inveigh](https://github.com/Kevin-Robertson/Inveigh)
 
 **Author:** Kevin-Robertson
 
@@ -768,7 +768,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## ios-penetration-testing-cheat-sheet
 
-**Repository:** [[https://github.com/ivan-sincek/ios-penetration-testing-cheat-sheet](https://github.com/ivan-sincek/ios-penetration-testing-cheat-sheet)]([https://github.com/ivan-sincek/ios-penetration-testing-cheat-sheet](https://github.com/ivan-sincek/ios-penetration-testing-cheat-sheet))
+**Repository:** [https://github.com/ivan-sincek/ios-penetration-testing-cheat-sheet](https://github.com/ivan-sincek/ios-penetration-testing-cheat-sheet)
 
 **Author:** ivan-sincek
 
@@ -776,7 +776,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## isf
 
-**Repository:** [[https://github.com/dark-lbp/isf](https://github.com/dark-lbp/isf)]([https://github.com/dark-lbp/isf](https://github.com/dark-lbp/isf))
+**Repository:** [https://github.com/dark-lbp/isf](https://github.com/dark-lbp/isf)
 
 **Author:** dark-lbp
 
@@ -784,7 +784,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Java-Deserialization-Cheat-Sheet
 
-**Repository:** [[https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet)]([https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet))
+**Repository:** [https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet)
 
 **Author:** GrrrDog
 
@@ -792,7 +792,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## JCS
 
-**Repository:** [[https://github.com/TheM4hd1/JCS](https://github.com/TheM4hd1/JCS)]([https://github.com/TheM4hd1/JCS](https://github.com/TheM4hd1/JCS))
+**Repository:** [https://github.com/TheM4hd1/JCS](https://github.com/TheM4hd1/JCS)
 
 **Author:** TheM4hd1
 
@@ -800,7 +800,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## jsunpack-n
 
-**Repository:** [[https://github.com/urule99/jsunpack-n](https://github.com/urule99/jsunpack-n)]([https://github.com/urule99/jsunpack-n](https://github.com/urule99/jsunpack-n))
+**Repository:** [https://github.com/urule99/jsunpack-n](https://github.com/urule99/jsunpack-n)
 
 **Author:** urule99
 
@@ -808,7 +808,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## kaeru
 
-**Repository:** [[https://github.com/R0rt1z2/kaeru](https://github.com/R0rt1z2/kaeru)]([https://github.com/R0rt1z2/kaeru](https://github.com/R0rt1z2/kaeru))
+**Repository:** [https://github.com/R0rt1z2/kaeru](https://github.com/R0rt1z2/kaeru)
 
 **Author:** R0rt1z2
 
@@ -816,7 +816,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## kako
 
-**Repository:** [[https://github.com/darkarnium/kako](https://github.com/darkarnium/kako)]([https://github.com/darkarnium/kako](https://github.com/darkarnium/kako))
+**Repository:** [https://github.com/darkarnium/kako](https://github.com/darkarnium/kako)
 
 **Author:** darkarnium
 
@@ -824,7 +824,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## kippo
 
-**Repository:** [[https://github.com/desaster/kippo](https://github.com/desaster/kippo)]([https://github.com/desaster/kippo](https://github.com/desaster/kippo))
+**Repository:** [https://github.com/desaster/kippo](https://github.com/desaster/kippo)
 
 **Author:** desaster
 
@@ -832,7 +832,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Kippo_JunOS
 
-**Repository:** [[https://github.com/gregcmartin/Kippo_JunOS](https://github.com/gregcmartin/Kippo_JunOS)]([https://github.com/gregcmartin/Kippo_JunOS](https://github.com/gregcmartin/Kippo_JunOS))
+**Repository:** [https://github.com/gregcmartin/Kippo_JunOS](https://github.com/gregcmartin/Kippo_JunOS)
 
 **Author:** gregcmartin
 
@@ -840,7 +840,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## krackdetector
 
-**Repository:** [[https://github.com/securingsam/krackdetector](https://github.com/securingsam/krackdetector)]([https://github.com/securingsam/krackdetector](https://github.com/securingsam/krackdetector))
+**Repository:** [https://github.com/securingsam/krackdetector](https://github.com/securingsam/krackdetector)
 
 **Author:** securingsam
 
@@ -848,7 +848,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## krakenhashes
 
-**Repository:** [[https://github.com/ZerkerEOD/krakenhashes](https://github.com/ZerkerEOD/krakenhashes)]([https://github.com/ZerkerEOD/krakenhashes](https://github.com/ZerkerEOD/krakenhashes))
+**Repository:** [https://github.com/ZerkerEOD/krakenhashes](https://github.com/ZerkerEOD/krakenhashes)
 
 **Author:** ZerkerEOD
 
@@ -856,7 +856,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## lair
 
-**Repository:** [[https://github.com/lair-framework/lair](https://github.com/lair-framework/lair)]([https://github.com/lair-framework/lair](https://github.com/lair-framework/lair))
+**Repository:** [https://github.com/lair-framework/lair](https://github.com/lair-framework/lair)
 
 **Author:** lair-framework
 
@@ -864,7 +864,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## lambda-proxy
 
-**Repository:** [[https://github.com/puresec/lambda-proxy](https://github.com/puresec/lambda-proxy)]([https://github.com/puresec/lambda-proxy](https://github.com/puresec/lambda-proxy))
+**Repository:** [https://github.com/puresec/lambda-proxy](https://github.com/puresec/lambda-proxy)
 
 **Author:** puresec
 
@@ -872,7 +872,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## libformatstr
 
-**Repository:** [[https://github.com/hellman/libformatstr](https://github.com/hellman/libformatstr)]([https://github.com/hellman/libformatstr](https://github.com/hellman/libformatstr))
+**Repository:** [https://github.com/hellman/libformatstr](https://github.com/hellman/libformatstr)
 
 **Author:** hellman
 
@@ -880,7 +880,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## liffy
 
-**Repository:** [[https://github.com/hvqzao/liffy](https://github.com/hvqzao/liffy)]([https://github.com/hvqzao/liffy](https://github.com/hvqzao/liffy))
+**Repository:** [https://github.com/hvqzao/liffy](https://github.com/hvqzao/liffy)
 
 **Author:** hvqzao
 
@@ -888,7 +888,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## linux-exploit-suggester
 
-**Repository:** [[https://github.com/mzet-/linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester)]([https://github.com/mzet-/linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester))
+**Repository:** [https://github.com/mzet-/linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester)
 
 **Author:** mzet-
 
@@ -896,7 +896,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## linux-exploit-suggester-2
 
-**Repository:** [[https://github.com/jondonas/linux-exploit-suggester-2](https://github.com/jondonas/linux-exploit-suggester-2)]([https://github.com/jondonas/linux-exploit-suggester-2](https://github.com/jondonas/linux-exploit-suggester-2))
+**Repository:** [https://github.com/jondonas/linux-exploit-suggester-2](https://github.com/jondonas/linux-exploit-suggester-2)
 
 **Author:** jondonas
 
@@ -904,7 +904,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## linux-soft-exploit-suggester
 
-**Repository:** [[https://github.com/belane/linux-soft-exploit-suggester](https://github.com/belane/linux-soft-exploit-suggester)]([https://github.com/belane/linux-soft-exploit-suggester](https://github.com/belane/linux-soft-exploit-suggester))
+**Repository:** [https://github.com/belane/linux-soft-exploit-suggester](https://github.com/belane/linux-soft-exploit-suggester)
 
 **Author:** belane
 
@@ -912,7 +912,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Linux_Exploit_Suggester
 
-**Repository:** [[https://github.com/PenturaLabs/Linux_Exploit_Suggester](https://github.com/PenturaLabs/Linux_Exploit_Suggester)]([https://github.com/PenturaLabs/Linux_Exploit_Suggester](https://github.com/PenturaLabs/Linux_Exploit_Suggester))
+**Repository:** [https://github.com/PenturaLabs/Linux_Exploit_Suggester](https://github.com/PenturaLabs/Linux_Exploit_Suggester)
 
 **Author:** PenturaLabs
 
@@ -920,7 +920,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Log4Pot
 
-**Repository:** [[https://github.com/thomaspatzke/Log4Pot](https://github.com/thomaspatzke/Log4Pot)]([https://github.com/thomaspatzke/Log4Pot](https://github.com/thomaspatzke/Log4Pot))
+**Repository:** [https://github.com/thomaspatzke/Log4Pot](https://github.com/thomaspatzke/Log4Pot)
 
 **Author:** thomaspatzke
 
@@ -928,7 +928,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## lonkero
 
-**Repository:** [[https://github.com/bountyyfi/lonkero](https://github.com/bountyyfi/lonkero)]([https://github.com/bountyyfi/lonkero](https://github.com/bountyyfi/lonkero))
+**Repository:** [https://github.com/bountyyfi/lonkero](https://github.com/bountyyfi/lonkero)
 
 **Author:** bountyyfi
 
@@ -936,7 +936,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## lophiid
 
-**Repository:** [[https://github.com/mrheinen/lophiid](https://github.com/mrheinen/lophiid)]([https://github.com/mrheinen/lophiid](https://github.com/mrheinen/lophiid))
+**Repository:** [https://github.com/mrheinen/lophiid](https://github.com/mrheinen/lophiid)
 
 **Author:** mrheinen
 
@@ -944,7 +944,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## macOS-Fortress
 
-**Repository:** [[https://github.com/essandess/macOS-Fortress](https://github.com/essandess/macOS-Fortress)]([https://github.com/essandess/macOS-Fortress](https://github.com/essandess/macOS-Fortress))
+**Repository:** [https://github.com/essandess/macOS-Fortress](https://github.com/essandess/macOS-Fortress)
 
 **Author:** essandess
 
@@ -952,7 +952,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## MailSniper
 
-**Repository:** [[https://github.com/dafthack/MailSniper](https://github.com/dafthack/MailSniper)]([https://github.com/dafthack/MailSniper](https://github.com/dafthack/MailSniper))
+**Repository:** [https://github.com/dafthack/MailSniper](https://github.com/dafthack/MailSniper)
 
 **Author:** dafthack
 
@@ -960,7 +960,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## malSploitBase
 
-**Repository:** [[https://github.com/misterch0c/malSploitBase](https://github.com/misterch0c/malSploitBase)]([https://github.com/misterch0c/malSploitBase](https://github.com/misterch0c/malSploitBase))
+**Repository:** [https://github.com/misterch0c/malSploitBase](https://github.com/misterch0c/malSploitBase)
 
 **Author:** misterch0c
 
@@ -968,7 +968,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## malware-signatures
 
-**Repository:** [[https://github.com/citizenlab/malware-signatures](https://github.com/citizenlab/malware-signatures)]([https://github.com/citizenlab/malware-signatures](https://github.com/citizenlab/malware-signatures))
+**Repository:** [https://github.com/citizenlab/malware-signatures](https://github.com/citizenlab/malware-signatures)
 
 **Author:** citizenlab
 
@@ -976,7 +976,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## MBE
 
-**Repository:** [[https://github.com/RPISEC/MBE](https://github.com/RPISEC/MBE)]([https://github.com/RPISEC/MBE](https://github.com/RPISEC/MBE))
+**Repository:** [https://github.com/RPISEC/MBE](https://github.com/RPISEC/MBE)
 
 **Author:** RPISEC
 
@@ -984,7 +984,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Memcrashed-DDoS-Exploit
 
-**Repository:** [[https://github.com/649/Memcrashed-DDoS-Exploit](https://github.com/649/Memcrashed-DDoS-Exploit)]([https://github.com/649/Memcrashed-DDoS-Exploit](https://github.com/649/Memcrashed-DDoS-Exploit))
+**Repository:** [https://github.com/649/Memcrashed-DDoS-Exploit](https://github.com/649/Memcrashed-DDoS-Exploit)
 
 **Author:** 649
 
@@ -992,7 +992,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## MFFA
 
-**Repository:** [[https://github.com/fuzzing/MFFA](https://github.com/fuzzing/MFFA)]([https://github.com/fuzzing/MFFA](https://github.com/fuzzing/MFFA))
+**Repository:** [https://github.com/fuzzing/MFFA](https://github.com/fuzzing/MFFA)
 
 **Author:** fuzzing
 
@@ -1000,7 +1000,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## mhn
 
-**Repository:** [[https://github.com/pwnlandia/mhn](https://github.com/pwnlandia/mhn)]([https://github.com/pwnlandia/mhn](https://github.com/pwnlandia/mhn))
+**Repository:** [https://github.com/pwnlandia/mhn](https://github.com/pwnlandia/mhn)
 
 **Author:** pwnlandia
 
@@ -1008,7 +1008,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## mobile-pentest-toolkit
 
-**Repository:** [[https://github.com/ByteSnipers/mobile-pentest-toolkit](https://github.com/ByteSnipers/mobile-pentest-toolkit)]([https://github.com/ByteSnipers/mobile-pentest-toolkit](https://github.com/ByteSnipers/mobile-pentest-toolkit))
+**Repository:** [https://github.com/ByteSnipers/mobile-pentest-toolkit](https://github.com/ByteSnipers/mobile-pentest-toolkit)
 
 **Author:** ByteSnipers
 
@@ -1016,7 +1016,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## MobileApp-Pentest-Cheatsheet
 
-**Repository:** [[https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)]([https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet))
+**Repository:** [https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 
 **Author:** tanprathan
 
@@ -1024,7 +1024,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Modlishka
 
-**Repository:** [[https://github.com/drk1wi/Modlishka](https://github.com/drk1wi/Modlishka)]([https://github.com/drk1wi/Modlishka](https://github.com/drk1wi/Modlishka))
+**Repository:** [https://github.com/drk1wi/Modlishka](https://github.com/drk1wi/Modlishka)
 
 **Author:** drk1wi
 
@@ -1032,7 +1032,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## moki
 
-**Repository:** [[https://github.com/moki-ics/moki](https://github.com/moki-ics/moki)]([https://github.com/moki-ics/moki](https://github.com/moki-ics/moki))
+**Repository:** [https://github.com/moki-ics/moki](https://github.com/moki-ics/moki)
 
 **Author:** moki-ics
 
@@ -1040,7 +1040,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## MongoDB-HoneyProxy
 
-**Repository:** [[https://github.com/Plazmaz/MongoDB-HoneyProxy](https://github.com/Plazmaz/MongoDB-HoneyProxy)]([https://github.com/Plazmaz/MongoDB-HoneyProxy](https://github.com/Plazmaz/MongoDB-HoneyProxy))
+**Repository:** [https://github.com/Plazmaz/MongoDB-HoneyProxy](https://github.com/Plazmaz/MongoDB-HoneyProxy)
 
 **Author:** Plazmaz
 
@@ -1048,7 +1048,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## MSTG-Hacking-Playground
 
-**Repository:** [[https://github.com/OWASP/MSTG-Hacking-Playground](https://github.com/OWASP/MSTG-Hacking-Playground)]([https://github.com/OWASP/MSTG-Hacking-Playground](https://github.com/OWASP/MSTG-Hacking-Playground))
+**Repository:** [https://github.com/OWASP/MSTG-Hacking-Playground](https://github.com/OWASP/MSTG-Hacking-Playground)
 
 **Author:** OWASP
 
@@ -1056,7 +1056,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## my-arsenal-of-aws-security-tools
 
-**Repository:** [[https://github.com/toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)]([https://github.com/toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools))
+**Repository:** [https://github.com/toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
 
 **Author:** toniblyx
 
@@ -1064,7 +1064,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## nfdump
 
-**Repository:** [[https://github.com/phaag/nfdump](https://github.com/phaag/nfdump)]([https://github.com/phaag/nfdump](https://github.com/phaag/nfdump))
+**Repository:** [https://github.com/phaag/nfdump](https://github.com/phaag/nfdump)
 
 **Author:** phaag
 
@@ -1072,7 +1072,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## nosqlpot
 
-**Repository:** [[https://github.com/torque59/nosqlpot](https://github.com/torque59/nosqlpot)]([https://github.com/torque59/nosqlpot](https://github.com/torque59/nosqlpot))
+**Repository:** [https://github.com/torque59/nosqlpot](https://github.com/torque59/nosqlpot)
 
 **Author:** torque59
 
@@ -1080,7 +1080,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## notruler
 
-**Repository:** [[https://github.com/sensepost/notruler](https://github.com/sensepost/notruler)]([https://github.com/sensepost/notruler](https://github.com/sensepost/notruler))
+**Repository:** [https://github.com/sensepost/notruler](https://github.com/sensepost/notruler)
 
 **Author:** sensepost
 
@@ -1088,7 +1088,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## nullkia
 
-**Repository:** [[https://github.com/bad-antics/nullkia](https://github.com/bad-antics/nullkia)]([https://github.com/bad-antics/nullkia](https://github.com/bad-antics/nullkia))
+**Repository:** [https://github.com/bad-antics/nullkia](https://github.com/bad-antics/nullkia)
 
 **Author:** bad-antics
 
@@ -1096,7 +1096,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## offensive-tor-toolkit
 
-**Repository:** [[https://github.com/atorrescogollo/offensive-tor-toolkit](https://github.com/atorrescogollo/offensive-tor-toolkit)]([https://github.com/atorrescogollo/offensive-tor-toolkit](https://github.com/atorrescogollo/offensive-tor-toolkit))
+**Repository:** [https://github.com/atorrescogollo/offensive-tor-toolkit](https://github.com/atorrescogollo/offensive-tor-toolkit)
 
 **Author:** atorrescogollo
 
@@ -1104,7 +1104,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## owasp-pysec
 
-**Repository:** [[https://github.com/ebranca/owasp-pysec](https://github.com/ebranca/owasp-pysec)]([https://github.com/ebranca/owasp-pysec](https://github.com/ebranca/owasp-pysec))
+**Repository:** [https://github.com/ebranca/owasp-pysec](https://github.com/ebranca/owasp-pysec)
 
 **Author:** ebranca
 
@@ -1112,7 +1112,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## PackerAttacker
 
-**Repository:** [[https://github.com/BromiumLabs/PackerAttacker](https://github.com/BromiumLabs/PackerAttacker)]([https://github.com/BromiumLabs/PackerAttacker](https://github.com/BromiumLabs/PackerAttacker))
+**Repository:** [https://github.com/BromiumLabs/PackerAttacker](https://github.com/BromiumLabs/PackerAttacker)
 
 **Author:** BromiumLabs
 
@@ -1120,7 +1120,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## padding-oracle-attacker
 
-**Repository:** [[https://github.com/KishanBagaria/padding-oracle-attacker](https://github.com/KishanBagaria/padding-oracle-attacker)]([https://github.com/KishanBagaria/padding-oracle-attacker](https://github.com/KishanBagaria/padding-oracle-attacker))
+**Repository:** [https://github.com/KishanBagaria/padding-oracle-attacker](https://github.com/KishanBagaria/padding-oracle-attacker)
 
 **Author:** KishanBagaria
 
@@ -1128,7 +1128,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## patator
 
-**Repository:** [[https://github.com/lanjelot/patator](https://github.com/lanjelot/patator)]([https://github.com/lanjelot/patator](https://github.com/lanjelot/patator))
+**Repository:** [https://github.com/lanjelot/patator](https://github.com/lanjelot/patator)
 
 **Author:** lanjelot
 
@@ -1136,7 +1136,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## PayloadsAllTheThings
 
-**Repository:** [[https://github.com/swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)]([https://github.com/swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings))
+**Repository:** [https://github.com/swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
 **Author:** swisskyrepo
 
@@ -1144,7 +1144,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## peda
 
-**Repository:** [[https://github.com/longld/peda](https://github.com/longld/peda)]([https://github.com/longld/peda](https://github.com/longld/peda))
+**Repository:** [https://github.com/longld/peda](https://github.com/longld/peda)
 
 **Author:** longld
 
@@ -1152,7 +1152,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## pentest-wiki
 
-**Repository:** [[https://github.com/nixawk/pentest-wiki](https://github.com/nixawk/pentest-wiki)]([https://github.com/nixawk/pentest-wiki](https://github.com/nixawk/pentest-wiki))
+**Repository:** [https://github.com/nixawk/pentest-wiki](https://github.com/nixawk/pentest-wiki)
 
 **Author:** nixawk
 
@@ -1160,7 +1160,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## pentest_lab
 
-**Repository:** [[https://github.com/oliverwiegers/pentest_lab](https://github.com/oliverwiegers/pentest_lab)]([https://github.com/oliverwiegers/pentest_lab](https://github.com/oliverwiegers/pentest_lab))
+**Repository:** [https://github.com/oliverwiegers/pentest_lab](https://github.com/oliverwiegers/pentest_lab)
 
 **Author:** oliverwiegers
 
@@ -1168,7 +1168,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## PhoneSploit-Pro
 
-**Repository:** [[https://github.com/AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro)]([https://github.com/AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro))
+**Repository:** [https://github.com/AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro)
 
 **Author:** AzeemIdrisi
 
@@ -1176,7 +1176,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## php-exploit-scripts
 
-**Repository:** [[https://github.com/mattiasgeniar/php-exploit-scripts](https://github.com/mattiasgeniar/php-exploit-scripts)]([https://github.com/mattiasgeniar/php-exploit-scripts](https://github.com/mattiasgeniar/php-exploit-scripts))
+**Repository:** [https://github.com/mattiasgeniar/php-exploit-scripts](https://github.com/mattiasgeniar/php-exploit-scripts)
 
 **Author:** mattiasgeniar
 
@@ -1184,7 +1184,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## phpsploit
 
-**Repository:** [[https://github.com/nil0x42/phpsploit](https://github.com/nil0x42/phpsploit)]([https://github.com/nil0x42/phpsploit](https://github.com/nil0x42/phpsploit))
+**Repository:** [https://github.com/nil0x42/phpsploit](https://github.com/nil0x42/phpsploit)
 
 **Author:** nil0x42
 
@@ -1192,7 +1192,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## PinCTF
 
-**Repository:** [[https://github.com/ChrisTheCoolHut/PinCTF](https://github.com/ChrisTheCoolHut/PinCTF)]([https://github.com/ChrisTheCoolHut/PinCTF](https://github.com/ChrisTheCoolHut/PinCTF))
+**Repository:** [https://github.com/ChrisTheCoolHut/PinCTF](https://github.com/ChrisTheCoolHut/PinCTF)
 
 **Author:** ChrisTheCoolHut
 
@@ -1200,7 +1200,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## PivotSuite
 
-**Repository:** [[https://github.com/RedTeamOperations/PivotSuite](https://github.com/RedTeamOperations/PivotSuite)]([https://github.com/RedTeamOperations/PivotSuite](https://github.com/RedTeamOperations/PivotSuite))
+**Repository:** [https://github.com/RedTeamOperations/PivotSuite](https://github.com/RedTeamOperations/PivotSuite)
 
 **Author:** RedTeamOperations
 
@@ -1208,7 +1208,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## PoshC2
 
-**Repository:** [[https://github.com/nettitude/PoshC2](https://github.com/nettitude/PoshC2)]([https://github.com/nettitude/PoshC2](https://github.com/nettitude/PoshC2))
+**Repository:** [https://github.com/nettitude/PoshC2](https://github.com/nettitude/PoshC2)
 
 **Author:** nettitude
 
@@ -1216,7 +1216,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## postenum
 
-**Repository:** [[https://github.com/mbahadou/postenum](https://github.com/mbahadou/postenum)]([https://github.com/mbahadou/postenum](https://github.com/mbahadou/postenum))
+**Repository:** [https://github.com/mbahadou/postenum](https://github.com/mbahadou/postenum)
 
 **Author:** mbahadou
 
@@ -1224,7 +1224,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## preflight
 
-**Repository:** [[https://github.com/spectralops/preflight](https://github.com/spectralops/preflight)]([https://github.com/spectralops/preflight](https://github.com/spectralops/preflight))
+**Repository:** [https://github.com/spectralops/preflight](https://github.com/spectralops/preflight)
 
 **Author:** spectralops
 
@@ -1232,7 +1232,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## PRET
 
-**Repository:** [[https://github.com/RUB-NDS/PRET](https://github.com/RUB-NDS/PRET)]([https://github.com/RUB-NDS/PRET](https://github.com/RUB-NDS/PRET))
+**Repository:** [https://github.com/RUB-NDS/PRET](https://github.com/RUB-NDS/PRET)
 
 **Author:** RUB-NDS
 
@@ -1240,7 +1240,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## privilege-escalation-awesome-scripts-suite
 
-**Repository:** [[https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite)]([https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite))
+**Repository:** [https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite)
 
 **Author:** carlospolop
 
@@ -1248,7 +1248,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## ptf
 
-**Repository:** [[https://github.com/trustedsec/ptf](https://github.com/trustedsec/ptf)]([https://github.com/trustedsec/ptf](https://github.com/trustedsec/ptf))
+**Repository:** [https://github.com/trustedsec/ptf](https://github.com/trustedsec/ptf)
 
 **Author:** trustedsec
 
@@ -1256,7 +1256,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## public-pentesting-reports
 
-**Repository:** [[https://github.com/juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports)]([https://github.com/juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports))
+**Repository:** [https://github.com/juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports)
 
 **Author:** juliocesarfort
 
@@ -1264,7 +1264,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## python-pentest-tools
 
-**Repository:** [[https://github.com/dloss/python-pentest-tools](https://github.com/dloss/python-pentest-tools)]([https://github.com/dloss/python-pentest-tools](https://github.com/dloss/python-pentest-tools))
+**Repository:** [https://github.com/dloss/python-pentest-tools](https://github.com/dloss/python-pentest-tools)
 
 **Author:** dloss
 
@@ -1272,7 +1272,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## qark
 
-**Repository:** [[https://github.com/linkedin/qark](https://github.com/linkedin/qark)]([https://github.com/linkedin/qark](https://github.com/linkedin/qark))
+**Repository:** [https://github.com/linkedin/qark](https://github.com/linkedin/qark)
 
 **Author:** linkedin
 
@@ -1280,7 +1280,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## quicksand_lite
 
-**Repository:** [[https://github.com/tylabs/quicksand_lite](https://github.com/tylabs/quicksand_lite)]([https://github.com/tylabs/quicksand_lite](https://github.com/tylabs/quicksand_lite))
+**Repository:** [https://github.com/tylabs/quicksand_lite](https://github.com/tylabs/quicksand_lite)
 
 **Author:** tylabs
 
@@ -1288,7 +1288,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## react2shell-scanner
 
-**Repository:** [[https://github.com/nxgn-kd01/react2shell-scanner](https://github.com/nxgn-kd01/react2shell-scanner)]([https://github.com/nxgn-kd01/react2shell-scanner](https://github.com/nxgn-kd01/react2shell-scanner))
+**Repository:** [https://github.com/nxgn-kd01/react2shell-scanner](https://github.com/nxgn-kd01/react2shell-scanner)
 
 **Author:** nxgn-kd01
 
@@ -1296,7 +1296,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## RedTips
 
-**Repository:** [[https://github.com/vysec/RedTips](https://github.com/vysec/RedTips)]([https://github.com/vysec/RedTips](https://github.com/vysec/RedTips))
+**Repository:** [https://github.com/vysec/RedTips](https://github.com/vysec/RedTips)
 
 **Author:** vysec
 
@@ -1304,7 +1304,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## ROPgadget
 
-**Repository:** [[https://github.com/JonathanSalwan/ROPgadget](https://github.com/JonathanSalwan/ROPgadget)]([https://github.com/JonathanSalwan/ROPgadget](https://github.com/JonathanSalwan/ROPgadget))
+**Repository:** [https://github.com/JonathanSalwan/ROPgadget](https://github.com/JonathanSalwan/ROPgadget)
 
 **Author:** JonathanSalwan
 
@@ -1312,7 +1312,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## ROPMEMU
 
-**Repository:** [[https://github.com/Cisco-Talos/ROPMEMU](https://github.com/Cisco-Talos/ROPMEMU)]([https://github.com/Cisco-Talos/ROPMEMU](https://github.com/Cisco-Talos/ROPMEMU))
+**Repository:** [https://github.com/Cisco-Talos/ROPMEMU](https://github.com/Cisco-Talos/ROPMEMU)
 
 **Author:** Cisco-Talos
 
@@ -1320,7 +1320,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## SecLists
 
-**Repository:** [[https://github.com/danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)]([https://github.com/danielmiessler/SecLists](https://github.com/danielmiessler/SecLists))
+**Repository:** [https://github.com/danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
 
 **Author:** danielmiessler
 
@@ -1328,7 +1328,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## secure-ruby-development-guide
 
-**Repository:** [[https://github.com/jrusnack/secure-ruby-development-guide](https://github.com/jrusnack/secure-ruby-development-guide)]([https://github.com/jrusnack/secure-ruby-development-guide](https://github.com/jrusnack/secure-ruby-development-guide))
+**Repository:** [https://github.com/jrusnack/secure-ruby-development-guide](https://github.com/jrusnack/secure-ruby-development-guide)
 
 **Author:** jrusnack
 
@@ -1336,7 +1336,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## sgx-step
 
-**Repository:** [[https://github.com/jovanbulck/sgx-step](https://github.com/jovanbulck/sgx-step)]([https://github.com/jovanbulck/sgx-step](https://github.com/jovanbulck/sgx-step))
+**Repository:** [https://github.com/jovanbulck/sgx-step](https://github.com/jovanbulck/sgx-step)
 
 **Author:** jovanbulck
 
@@ -1344,7 +1344,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## shai-hulud-scanner
 
-**Repository:** [[https://github.com/nxgn-kd01/shai-hulud-scanner](https://github.com/nxgn-kd01/shai-hulud-scanner)]([https://github.com/nxgn-kd01/shai-hulud-scanner](https://github.com/nxgn-kd01/shai-hulud-scanner))
+**Repository:** [https://github.com/nxgn-kd01/shai-hulud-scanner](https://github.com/nxgn-kd01/shai-hulud-scanner)
 
 **Author:** nxgn-kd01
 
@@ -1352,7 +1352,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## shellpop
 
-**Repository:** [[https://github.com/0x00-0x00/shellpop](https://github.com/0x00-0x00/shellpop)]([https://github.com/0x00-0x00/shellpop](https://github.com/0x00-0x00/shellpop))
+**Repository:** [https://github.com/0x00-0x00/shellpop](https://github.com/0x00-0x00/shellpop)
 
 **Author:** 0x00-0x00
 
@@ -1360,7 +1360,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Sherlock
 
-**Repository:** [[https://github.com/rasta-mouse/Sherlock](https://github.com/rasta-mouse/Sherlock)]([https://github.com/rasta-mouse/Sherlock](https://github.com/rasta-mouse/Sherlock))
+**Repository:** [https://github.com/rasta-mouse/Sherlock](https://github.com/rasta-mouse/Sherlock)
 
 **Author:** rasta-mouse
 
@@ -1368,7 +1368,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## SigPloit
 
-**Repository:** [[https://github.com/SigPloiter/SigPloit](https://github.com/SigPloiter/SigPloit)]([https://github.com/SigPloiter/SigPloit](https://github.com/SigPloiter/SigPloit))
+**Repository:** [https://github.com/SigPloiter/SigPloit](https://github.com/SigPloiter/SigPloit)
 
 **Author:** SigPloiter
 
@@ -1376,7 +1376,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## SILENTTRINITY
 
-**Repository:** [[https://github.com/byt3bl33d3r/SILENTTRINITY](https://github.com/byt3bl33d3r/SILENTTRINITY)]([https://github.com/byt3bl33d3r/SILENTTRINITY](https://github.com/byt3bl33d3r/SILENTTRINITY))
+**Repository:** [https://github.com/byt3bl33d3r/SILENTTRINITY](https://github.com/byt3bl33d3r/SILENTTRINITY)
 
 **Author:** byt3bl33d3r
 
@@ -1384,7 +1384,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## sixnet-tools
 
-**Repository:** [[https://github.com/mssabr01/sixnet-tools](https://github.com/mssabr01/sixnet-tools)]([https://github.com/mssabr01/sixnet-tools](https://github.com/mssabr01/sixnet-tools))
+**Repository:** [https://github.com/mssabr01/sixnet-tools](https://github.com/mssabr01/sixnet-tools)
 
 **Author:** mssabr01
 
@@ -1392,7 +1392,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Slackor
 
-**Repository:** [[https://github.com/Coalfire-Research/Slackor](https://github.com/Coalfire-Research/Slackor)]([https://github.com/Coalfire-Research/Slackor](https://github.com/Coalfire-Research/Slackor))
+**Repository:** [https://github.com/Coalfire-Research/Slackor](https://github.com/Coalfire-Research/Slackor)
 
 **Author:** Coalfire-Research
 
@@ -1400,7 +1400,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## sliver
 
-**Repository:** [[https://github.com/BishopFox/sliver](https://github.com/BishopFox/sliver)]([https://github.com/BishopFox/sliver](https://github.com/BishopFox/sliver))
+**Repository:** [https://github.com/BishopFox/sliver](https://github.com/BishopFox/sliver)
 
 **Author:** BishopFox
 
@@ -1408,7 +1408,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## slowloris
 
-**Repository:** [[https://github.com/gkbrk/slowloris](https://github.com/gkbrk/slowloris)]([https://github.com/gkbrk/slowloris](https://github.com/gkbrk/slowloris))
+**Repository:** [https://github.com/gkbrk/slowloris](https://github.com/gkbrk/slowloris)
 
 **Author:** gkbrk
 
@@ -1416,7 +1416,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## smod
 
-**Repository:** [[https://github.com/0x0mar/smod](https://github.com/0x0mar/smod)]([https://github.com/0x0mar/smod](https://github.com/0x0mar/smod))
+**Repository:** [https://github.com/0x0mar/smod](https://github.com/0x0mar/smod)
 
 **Author:** 0x0mar
 
@@ -1424,7 +1424,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Sn1per
 
-**Repository:** [[https://github.com/1N3/Sn1per](https://github.com/1N3/Sn1per)]([https://github.com/1N3/Sn1per](https://github.com/1N3/Sn1per))
+**Repository:** [https://github.com/1N3/Sn1per](https://github.com/1N3/Sn1per)
 
 **Author:** 1N3
 
@@ -1432,7 +1432,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## snitch
 
-**Repository:** [[https://github.com/Smaash/snitch](https://github.com/Smaash/snitch)]([https://github.com/Smaash/snitch](https://github.com/Smaash/snitch))
+**Repository:** [https://github.com/Smaash/snitch](https://github.com/Smaash/snitch)
 
 **Author:** Smaash
 
@@ -1440,7 +1440,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## snync
 
-**Repository:** [[https://github.com/snyk-labs/snync](https://github.com/snyk-labs/snync)]([https://github.com/snyk-labs/snync](https://github.com/snyk-labs/snync))
+**Repository:** [https://github.com/snyk-labs/snync](https://github.com/snyk-labs/snync)
 
 **Author:** snyk-labs
 
@@ -1448,7 +1448,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## SpiderSuite
 
-**Repository:** [[https://github.com/3nock/SpiderSuite](https://github.com/3nock/SpiderSuite)]([https://github.com/3nock/SpiderSuite](https://github.com/3nock/SpiderSuite))
+**Repository:** [https://github.com/3nock/SpiderSuite](https://github.com/3nock/SpiderSuite)
 
 **Author:** 3nock
 
@@ -1456,7 +1456,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## squatm3gator
 
-**Repository:** [[https://github.com/david3107/squatm3gator](https://github.com/david3107/squatm3gator)]([https://github.com/david3107/squatm3gator](https://github.com/david3107/squatm3gator))
+**Repository:** [https://github.com/david3107/squatm3gator](https://github.com/david3107/squatm3gator)
 
 **Author:** david3107
 
@@ -1464,7 +1464,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## squidmagic
 
-**Repository:** [[https://github.com/ch3k1/squidmagic](https://github.com/ch3k1/squidmagic)]([https://github.com/ch3k1/squidmagic](https://github.com/ch3k1/squidmagic))
+**Repository:** [https://github.com/ch3k1/squidmagic](https://github.com/ch3k1/squidmagic)
 
 **Author:** ch3k1
 
@@ -1472,7 +1472,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## ssh-auth-logger
 
-**Repository:** [[https://github.com/JustinAzoff/ssh-auth-logger](https://github.com/JustinAzoff/ssh-auth-logger)]([https://github.com/JustinAzoff/ssh-auth-logger](https://github.com/JustinAzoff/ssh-auth-logger))
+**Repository:** [https://github.com/JustinAzoff/ssh-auth-logger](https://github.com/JustinAzoff/ssh-auth-logger)
 
 **Author:** JustinAzoff
 
@@ -1480,7 +1480,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## ssh-mitm
 
-**Repository:** [[https://github.com/jtesta/ssh-mitm](https://github.com/jtesta/ssh-mitm)]([https://github.com/jtesta/ssh-mitm](https://github.com/jtesta/ssh-mitm))
+**Repository:** [https://github.com/jtesta/ssh-mitm](https://github.com/jtesta/ssh-mitm)
 
 **Author:** jtesta
 
@@ -1488,7 +1488,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## sshd-honeypot
 
-**Repository:** [[https://github.com/amv42/sshd-honeypot](https://github.com/amv42/sshd-honeypot)]([https://github.com/amv42/sshd-honeypot](https://github.com/amv42/sshd-honeypot))
+**Repository:** [https://github.com/amv42/sshd-honeypot](https://github.com/amv42/sshd-honeypot)
 
 **Author:** amv42
 
@@ -1496,7 +1496,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## sslstrip2
 
-**Repository:** [[https://github.com/LeonardoNve/sslstrip2](https://github.com/LeonardoNve/sslstrip2)]([https://github.com/LeonardoNve/sslstrip2](https://github.com/LeonardoNve/sslstrip2))
+**Repository:** [https://github.com/LeonardoNve/sslstrip2](https://github.com/LeonardoNve/sslstrip2)
 
 **Author:** LeonardoNve
 
@@ -1504,7 +1504,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## sub3suite
 
-**Repository:** [[https://github.com/3nock/sub3suite](https://github.com/3nock/sub3suite)]([https://github.com/3nock/sub3suite](https://github.com/3nock/sub3suite))
+**Repository:** [https://github.com/3nock/sub3suite](https://github.com/3nock/sub3suite)
 
 **Author:** 3nock
 
@@ -1512,7 +1512,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## swap_digger
 
-**Repository:** [[https://github.com/sevagas/swap_digger](https://github.com/sevagas/swap_digger)]([https://github.com/sevagas/swap_digger](https://github.com/sevagas/swap_digger))
+**Repository:** [https://github.com/sevagas/swap_digger](https://github.com/sevagas/swap_digger)
 
 **Author:** sevagas
 
@@ -1520,7 +1520,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Tango
 
-**Repository:** [[https://github.com/aplura/Tango](https://github.com/aplura/Tango)]([https://github.com/aplura/Tango](https://github.com/aplura/Tango))
+**Repository:** [https://github.com/aplura/Tango](https://github.com/aplura/Tango)
 
 **Author:** aplura
 
@@ -1528,7 +1528,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## TeleTracker
 
-**Repository:** [[https://github.com/tsale/TeleTracker](https://github.com/tsale/TeleTracker)]([https://github.com/tsale/TeleTracker](https://github.com/tsale/TeleTracker))
+**Repository:** [https://github.com/tsale/TeleTracker](https://github.com/tsale/TeleTracker)
 
 **Author:** tsale
 
@@ -1536,7 +1536,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Thick-Client-Pentest-Checklist
 
-**Repository:** [[https://github.com/Hari-prasaanth/Thick-Client-Pentest-Checklist](https://github.com/Hari-prasaanth/Thick-Client-Pentest-Checklist)]([https://github.com/Hari-prasaanth/Thick-Client-Pentest-Checklist](https://github.com/Hari-prasaanth/Thick-Client-Pentest-Checklist))
+**Repository:** [https://github.com/Hari-prasaanth/Thick-Client-Pentest-Checklist](https://github.com/Hari-prasaanth/Thick-Client-Pentest-Checklist)
 
 **Author:** Hari-prasaanth
 
@@ -1544,7 +1544,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## thug
 
-**Repository:** [[https://github.com/buffer/thug](https://github.com/buffer/thug)]([https://github.com/buffer/thug](https://github.com/buffer/thug))
+**Repository:** [https://github.com/buffer/thug](https://github.com/buffer/thug)
 
 **Author:** buffer
 
@@ -1552,7 +1552,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## tpotce
 
-**Repository:** [[https://github.com/dtag-dev-sec/tpotce](https://github.com/dtag-dev-sec/tpotce)]([https://github.com/dtag-dev-sec/tpotce](https://github.com/dtag-dev-sec/tpotce))
+**Repository:** [https://github.com/dtag-dev-sec/tpotce](https://github.com/dtag-dev-sec/tpotce)
 
 **Author:** dtag-dev-sec
 
@@ -1560,7 +1560,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## trevorc2
 
-**Repository:** [[https://github.com/trustedsec/trevorc2](https://github.com/trustedsec/trevorc2)]([https://github.com/trustedsec/trevorc2](https://github.com/trustedsec/trevorc2))
+**Repository:** [https://github.com/trustedsec/trevorc2](https://github.com/trustedsec/trevorc2)
 
 **Author:** trustedsec
 
@@ -1568,7 +1568,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## TRISIS-TRITON-HATMAN
 
-**Repository:** [[https://github.com/ICSrepo/TRISIS-TRITON-HATMAN](https://github.com/ICSrepo/TRISIS-TRITON-HATMAN)]([https://github.com/ICSrepo/TRISIS-TRITON-HATMAN](https://github.com/ICSrepo/TRISIS-TRITON-HATMAN))
+**Repository:** [https://github.com/ICSrepo/TRISIS-TRITON-HATMAN](https://github.com/ICSrepo/TRISIS-TRITON-HATMAN)
 
 **Author:** ICSrepo
 
@@ -1576,7 +1576,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## twisted-honeypots
 
-**Repository:** [[https://github.com/lanjelot/twisted-honeypots](https://github.com/lanjelot/twisted-honeypots)]([https://github.com/lanjelot/twisted-honeypots](https://github.com/lanjelot/twisted-honeypots))
+**Repository:** [https://github.com/lanjelot/twisted-honeypots](https://github.com/lanjelot/twisted-honeypots)
 
 **Author:** lanjelot
 
@@ -1584,7 +1584,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## twittor
 
-**Repository:** [[https://github.com/PaulSec/twittor](https://github.com/PaulSec/twittor)]([https://github.com/PaulSec/twittor](https://github.com/PaulSec/twittor))
+**Repository:** [https://github.com/PaulSec/twittor](https://github.com/PaulSec/twittor)
 
 **Author:** PaulSec
 
@@ -1592,7 +1592,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## ufonet
 
-**Repository:** [[https://github.com/epsylon/ufonet](https://github.com/epsylon/ufonet)]([https://github.com/epsylon/ufonet](https://github.com/epsylon/ufonet))
+**Repository:** [https://github.com/epsylon/ufonet](https://github.com/epsylon/ufonet)
 
 **Author:** epsylon
 
@@ -1600,7 +1600,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## unicorn
 
-**Repository:** [[https://github.com/trustedsec/unicorn](https://github.com/trustedsec/unicorn)]([https://github.com/trustedsec/unicorn](https://github.com/trustedsec/unicorn))
+**Repository:** [https://github.com/trustedsec/unicorn](https://github.com/trustedsec/unicorn)
 
 **Author:** trustedsec
 
@@ -1608,7 +1608,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## unix-privesc-check
 
-**Repository:** [[https://github.com/pentestmonkey/unix-privesc-check](https://github.com/pentestmonkey/unix-privesc-check)]([https://github.com/pentestmonkey/unix-privesc-check](https://github.com/pentestmonkey/unix-privesc-check))
+**Repository:** [https://github.com/pentestmonkey/unix-privesc-check](https://github.com/pentestmonkey/unix-privesc-check)
 
 **Author:** pentestmonkey
 
@@ -1616,7 +1616,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## viper
 
-**Repository:** [[https://github.com/viper-framework/viper](https://github.com/viper-framework/viper)]([https://github.com/viper-framework/viper](https://github.com/viper-framework/viper))
+**Repository:** [https://github.com/viper-framework/viper](https://github.com/viper-framework/viper)
 
 **Author:** viper-framework
 
@@ -1624,7 +1624,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## vulnerable-AD
 
-**Repository:** [[https://github.com/WazeHell/vulnerable-AD](https://github.com/WazeHell/vulnerable-AD)]([https://github.com/WazeHell/vulnerable-AD](https://github.com/WazeHell/vulnerable-AD))
+**Repository:** [https://github.com/WazeHell/vulnerable-AD](https://github.com/WazeHell/vulnerable-AD)
 
 **Author:** WazeHell
 
@@ -1632,7 +1632,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## w3af
 
-**Repository:** [[https://github.com/andresriancho/w3af](https://github.com/andresriancho/w3af)]([https://github.com/andresriancho/w3af](https://github.com/andresriancho/w3af))
+**Repository:** [https://github.com/andresriancho/w3af](https://github.com/andresriancho/w3af)
 
 **Author:** andresriancho
 
@@ -1640,7 +1640,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Watson
 
-**Repository:** [[https://github.com/rasta-mouse/Watson](https://github.com/rasta-mouse/Watson)]([https://github.com/rasta-mouse/Watson](https://github.com/rasta-mouse/Watson))
+**Repository:** [https://github.com/rasta-mouse/Watson](https://github.com/rasta-mouse/Watson)
 
 **Author:** rasta-mouse
 
@@ -1648,7 +1648,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## wdbgark
 
-**Repository:** [[https://github.com/swwwolf/wdbgark](https://github.com/swwwolf/wdbgark)]([https://github.com/swwwolf/wdbgark](https://github.com/swwwolf/wdbgark))
+**Repository:** [https://github.com/swwwolf/wdbgark](https://github.com/swwwolf/wdbgark)
 
 **Author:** swwwolf
 
@@ -1656,7 +1656,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## weevely3
 
-**Repository:** [[https://github.com/epinna/weevely3](https://github.com/epinna/weevely3)]([https://github.com/epinna/weevely3](https://github.com/epinna/weevely3))
+**Repository:** [https://github.com/epinna/weevely3](https://github.com/epinna/weevely3)
 
 **Author:** epinna
 
@@ -1664,7 +1664,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## WiFi-Pumpkin
 
-**Repository:** [[https://github.com/P0cL4bs/WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin)]([https://github.com/P0cL4bs/WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin))
+**Repository:** [https://github.com/P0cL4bs/WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin)
 
 **Author:** P0cL4bs
 
@@ -1672,7 +1672,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Windows-Exploit-Suggester
 
-**Repository:** [[https://github.com/GDSSecurity/Windows-Exploit-Suggester](https://github.com/GDSSecurity/Windows-Exploit-Suggester)]([https://github.com/GDSSecurity/Windows-Exploit-Suggester](https://github.com/GDSSecurity/Windows-Exploit-Suggester))
+**Repository:** [https://github.com/GDSSecurity/Windows-Exploit-Suggester](https://github.com/GDSSecurity/Windows-Exploit-Suggester)
 
 **Author:** GDSSecurity
 
@@ -1680,7 +1680,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## Windows-Post-Exploitation
 
-**Repository:** [[https://github.com/emilyanncr/Windows-Post-Exploitation](https://github.com/emilyanncr/Windows-Post-Exploitation)]([https://github.com/emilyanncr/Windows-Post-Exploitation](https://github.com/emilyanncr/Windows-Post-Exploitation))
+**Repository:** [https://github.com/emilyanncr/Windows-Post-Exploitation](https://github.com/emilyanncr/Windows-Post-Exploitation)
 
 **Author:** emilyanncr
 
@@ -1688,7 +1688,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## WindowsExploits
 
-**Repository:** [[https://github.com/abatchy17/WindowsExploits](https://github.com/abatchy17/WindowsExploits)]([https://github.com/abatchy17/WindowsExploits](https://github.com/abatchy17/WindowsExploits))
+**Repository:** [https://github.com/abatchy17/WindowsExploits](https://github.com/abatchy17/WindowsExploits)
 
 **Author:** abatchy17
 
@@ -1696,7 +1696,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## wordpress-exploit-framework
 
-**Repository:** [[https://github.com/rastating/wordpress-exploit-framework](https://github.com/rastating/wordpress-exploit-framework)]([https://github.com/rastating/wordpress-exploit-framework](https://github.com/rastating/wordpress-exploit-framework))
+**Repository:** [https://github.com/rastating/wordpress-exploit-framework](https://github.com/rastating/wordpress-exploit-framework)
 
 **Author:** rastating
 
@@ -1704,7 +1704,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## wpsploit
 
-**Repository:** [[https://github.com/espreto/wpsploit](https://github.com/espreto/wpsploit)]([https://github.com/espreto/wpsploit](https://github.com/espreto/wpsploit))
+**Repository:** [https://github.com/espreto/wpsploit](https://github.com/espreto/wpsploit)
 
 **Author:** espreto
 
@@ -1712,7 +1712,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## yara4pentesters
 
-**Repository:** [[https://github.com/DiabloHorn/yara4pentesters](https://github.com/DiabloHorn/yara4pentesters)]([https://github.com/DiabloHorn/yara4pentesters](https://github.com/DiabloHorn/yara4pentesters))
+**Repository:** [https://github.com/DiabloHorn/yara4pentesters](https://github.com/DiabloHorn/yara4pentesters)
 
 **Author:** DiabloHorn
 
@@ -1720,7 +1720,7 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 ## zarp
 
-**Repository:** [[https://github.com/hatRiot/zarp](https://github.com/hatRiot/zarp)]([https://github.com/hatRiot/zarp](https://github.com/hatRiot/zarp))
+**Repository:** [https://github.com/hatRiot/zarp](https://github.com/hatRiot/zarp)
 
 **Author:** hatRiot
 

@@ -8,7 +8,7 @@ Tools and frameworks for governance, risk management, compliance, and security a
 
 ## APKdevastate
 
-**Repository:** [[https://github.com/rafigk2v9c/APKdevastate](https://github.com/rafigk2v9c/APKdevastate)]([https://github.com/rafigk2v9c/APKdevastate](https://github.com/rafigk2v9c/APKdevastate))
+**Repository:** [https://github.com/rafigk2v9c/APKdevastate](https://github.com/rafigk2v9c/APKdevastate)
 
 **Author:** rafigk2v9c
 
@@ -16,7 +16,7 @@ Tools and frameworks for governance, risk management, compliance, and security a
 
 ## audit-node-modules-with-yara
 
-**Repository:** [[https://github.com/rpgeeganage/audit-node-modules-with-yara](https://github.com/rpgeeganage/audit-node-modules-with-yara)]([https://github.com/rpgeeganage/audit-node-modules-with-yara](https://github.com/rpgeeganage/audit-node-modules-with-yara))
+**Repository:** [https://github.com/rpgeeganage/audit-node-modules-with-yara](https://github.com/rpgeeganage/audit-node-modules-with-yara)
 
 **Author:** rpgeeganage
 
@@ -24,7 +24,7 @@ Tools and frameworks for governance, risk management, compliance, and security a
 
 ## aurasium
 
-**Repository:** [[https://github.com/xurubin/aurasium](https://github.com/xurubin/aurasium)]([https://github.com/xurubin/aurasium](https://github.com/xurubin/aurasium))
+**Repository:** [https://github.com/xurubin/aurasium](https://github.com/xurubin/aurasium)
 
 **Author:** xurubin
 
@@ -32,7 +32,7 @@ Tools and frameworks for governance, risk management, compliance, and security a
 
 ## crackpkcs12
 
-**Repository:** [[https://github.com/crackpkcs12/crackpkcs12](https://github.com/crackpkcs12/crackpkcs12)]([https://github.com/crackpkcs12/crackpkcs12](https://github.com/crackpkcs12/crackpkcs12))
+**Repository:** [https://github.com/crackpkcs12/crackpkcs12](https://github.com/crackpkcs12/crackpkcs12)
 
 **Author:** crackpkcs12
 
@@ -40,7 +40,7 @@ Tools and frameworks for governance, risk management, compliance, and security a
 
 ## diversity
 
-**Repository:** [[https://github.com/mozilla/diversity](https://github.com/mozilla/diversity)]([https://github.com/mozilla/diversity](https://github.com/mozilla/diversity))
+**Repository:** [https://github.com/mozilla/diversity](https://github.com/mozilla/diversity)
 
 **Author:** mozilla
 
@@ -48,7 +48,7 @@ Tools and frameworks for governance, risk management, compliance, and security a
 
 ## Fuji
 
-**Repository:** [[https://github.com/Lazza/Fuji](https://github.com/Lazza/Fuji)]([https://github.com/Lazza/Fuji](https://github.com/Lazza/Fuji))
+**Repository:** [https://github.com/Lazza/Fuji](https://github.com/Lazza/Fuji)
 
 **Author:** Lazza
 
@@ -56,7 +56,7 @@ Tools and frameworks for governance, risk management, compliance, and security a
 
 ## google-authenticator
 
-**Repository:** [[https://github.com/google/google-authenticator](https://github.com/google/google-authenticator)]([https://github.com/google/google-authenticator](https://github.com/google/google-authenticator))
+**Repository:** [https://github.com/google/google-authenticator](https://github.com/google/google-authenticator)
 
 **Author:** google
 
@@ -64,7 +64,7 @@ Tools and frameworks for governance, risk management, compliance, and security a
 
 ## hassh
 
-**Repository:** [[https://github.com/salesforce/hassh](https://github.com/salesforce/hassh)]([https://github.com/salesforce/hassh](https://github.com/salesforce/hassh))
+**Repository:** [https://github.com/salesforce/hassh](https://github.com/salesforce/hassh)
 
 **Author:** salesforce
 
@@ -72,7 +72,7 @@ Tools and frameworks for governance, risk management, compliance, and security a
 
 ## Infosec_Reference
 
-**Repository:** [[https://github.com/rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference)]([https://github.com/rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference))
+**Repository:** [https://github.com/rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference)
 
 **Author:** rmusser01
 
@@ -80,7 +80,7 @@ Tools and frameworks for governance, risk management, compliance, and security a
 
 ## keyscope
 
-**Repository:** [[https://github.com/SpectralOps/keyscope](https://github.com/SpectralOps/keyscope)]([https://github.com/SpectralOps/keyscope](https://github.com/SpectralOps/keyscope))
+**Repository:** [https://github.com/SpectralOps/keyscope](https://github.com/SpectralOps/keyscope)
 
 **Author:** SpectralOps
 
@@ -88,7 +88,7 @@ Tools and frameworks for governance, risk management, compliance, and security a
 
 ## lunasec
 
-**Repository:** [[https://github.com/lunasec-io/lunasec](https://github.com/lunasec-io/lunasec)]([https://github.com/lunasec-io/lunasec](https://github.com/lunasec-io/lunasec))
+**Repository:** [https://github.com/lunasec-io/lunasec](https://github.com/lunasec-io/lunasec)
 
 **Author:** lunasec-io
 
@@ -96,7 +96,7 @@ Tools and frameworks for governance, risk management, compliance, and security a
 
 ## pcileech
 
-**Repository:** [[https://github.com/ufrisk/pcileech](https://github.com/ufrisk/pcileech)]([https://github.com/ufrisk/pcileech](https://github.com/ufrisk/pcileech))
+**Repository:** [https://github.com/ufrisk/pcileech](https://github.com/ufrisk/pcileech)
 
 **Author:** ufrisk
 
@@ -104,7 +104,7 @@ Tools and frameworks for governance, risk management, compliance, and security a
 
 ## PMapper
 
-**Repository:** [[https://github.com/nccgroup/PMapper](https://github.com/nccgroup/PMapper)]([https://github.com/nccgroup/PMapper](https://github.com/nccgroup/PMapper))
+**Repository:** [https://github.com/nccgroup/PMapper](https://github.com/nccgroup/PMapper)
 
 **Author:** nccgroup
 
@@ -112,7 +112,7 @@ Tools and frameworks for governance, risk management, compliance, and security a
 
 ## prowler
 
-**Repository:** [[https://github.com/toniblyx/prowler](https://github.com/toniblyx/prowler)]([https://github.com/toniblyx/prowler](https://github.com/toniblyx/prowler))
+**Repository:** [https://github.com/toniblyx/prowler](https://github.com/toniblyx/prowler)
 
 **Author:** toniblyx
 
@@ -120,7 +120,7 @@ Tools and frameworks for governance, risk management, compliance, and security a
 
 ## rdpy
 
-**Repository:** [[https://github.com/citronneur/rdpy](https://github.com/citronneur/rdpy)]([https://github.com/citronneur/rdpy](https://github.com/citronneur/rdpy))
+**Repository:** [https://github.com/citronneur/rdpy](https://github.com/citronneur/rdpy)
 
 **Author:** citronneur
 
@@ -128,7 +128,7 @@ Tools and frameworks for governance, risk management, compliance, and security a
 
 ## retraced
 
-**Repository:** [[https://github.com/retracedhq/retraced](https://github.com/retracedhq/retraced)]([https://github.com/retracedhq/retraced](https://github.com/retracedhq/retraced))
+**Repository:** [https://github.com/retracedhq/retraced](https://github.com/retracedhq/retraced)
 
 **Author:** retracedhq
 
@@ -136,7 +136,7 @@ Tools and frameworks for governance, risk management, compliance, and security a
 
 ## RiskInDroid
 
-**Repository:** [[https://github.com/ClaudiuGeorgiu/RiskInDroid](https://github.com/ClaudiuGeorgiu/RiskInDroid)]([https://github.com/ClaudiuGeorgiu/RiskInDroid](https://github.com/ClaudiuGeorgiu/RiskInDroid))
+**Repository:** [https://github.com/ClaudiuGeorgiu/RiskInDroid](https://github.com/ClaudiuGeorgiu/RiskInDroid)
 
 **Author:** ClaudiuGeorgiu
 
@@ -144,7 +144,7 @@ Tools and frameworks for governance, risk management, compliance, and security a
 
 ## semgrep
 
-**Repository:** [[https://github.com/semgrep/semgrep](https://github.com/semgrep/semgrep)]([https://github.com/semgrep/semgrep](https://github.com/semgrep/semgrep))
+**Repository:** [https://github.com/semgrep/semgrep](https://github.com/semgrep/semgrep)
 
 **Author:** semgrep
 
@@ -152,7 +152,7 @@ Tools and frameworks for governance, risk management, compliance, and security a
 
 ## shiva
 
-**Repository:** [[https://github.com/shiva-spampot/shiva](https://github.com/shiva-spampot/shiva)]([https://github.com/shiva-spampot/shiva](https://github.com/shiva-spampot/shiva))
+**Repository:** [https://github.com/shiva-spampot/shiva](https://github.com/shiva-spampot/shiva)
 
 **Author:** shiva-spampot
 
@@ -160,7 +160,7 @@ Tools and frameworks for governance, risk management, compliance, and security a
 
 ## ssh-audit
 
-**Repository:** [[https://github.com/jtesta/ssh-audit](https://github.com/jtesta/ssh-audit)]([https://github.com/jtesta/ssh-audit](https://github.com/jtesta/ssh-audit))
+**Repository:** [https://github.com/jtesta/ssh-audit](https://github.com/jtesta/ssh-audit)
 
 **Author:** jtesta
 
@@ -168,7 +168,7 @@ Tools and frameworks for governance, risk management, compliance, and security a
 
 ## telnet-iot-honeypot
 
-**Repository:** [[https://github.com/Phype/telnet-iot-honeypot](https://github.com/Phype/telnet-iot-honeypot)]([https://github.com/Phype/telnet-iot-honeypot](https://github.com/Phype/telnet-iot-honeypot))
+**Repository:** [https://github.com/Phype/telnet-iot-honeypot](https://github.com/Phype/telnet-iot-honeypot)
 
 **Author:** Phype
 
@@ -176,7 +176,7 @@ Tools and frameworks for governance, risk management, compliance, and security a
 
 ## tor_box
 
-**Repository:** [[https://github.com/CMoncur/tor_box](https://github.com/CMoncur/tor_box)]([https://github.com/CMoncur/tor_box](https://github.com/CMoncur/tor_box))
+**Repository:** [https://github.com/CMoncur/tor_box](https://github.com/CMoncur/tor_box)
 
 **Author:** CMoncur
 
@@ -184,7 +184,7 @@ Tools and frameworks for governance, risk management, compliance, and security a
 
 ## vnclowpot
 
-**Repository:** [[https://github.com/magisterquis/vnclowpot](https://github.com/magisterquis/vnclowpot)]([https://github.com/magisterquis/vnclowpot](https://github.com/magisterquis/vnclowpot))
+**Repository:** [https://github.com/magisterquis/vnclowpot](https://github.com/magisterquis/vnclowpot)
 
 **Author:** magisterquis
 

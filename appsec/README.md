@@ -8,7 +8,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## 0l4bs
 
-**Repository:** [[https://github.com/tegal1337/0l4bs](https://github.com/tegal1337/0l4bs)]([https://github.com/tegal1337/0l4bs](https://github.com/tegal1337/0l4bs))
+**Repository:** [https://github.com/tegal1337/0l4bs](https://github.com/tegal1337/0l4bs)
 
 **Author:** tegal1337
 
@@ -16,7 +16,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## Amass
 
-**Repository:** [[https://github.com/OWASP/Amass](https://github.com/OWASP/Amass)]([https://github.com/OWASP/Amass](https://github.com/OWASP/Amass))
+**Repository:** [https://github.com/OWASP/Amass](https://github.com/OWASP/Amass)
 
 **Author:** OWASP
 
@@ -24,7 +24,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## amass
 
-**Repository:** [[https://github.com/owasp-amass/amass](https://github.com/owasp-amass/amass)]([https://github.com/owasp-amass/amass](https://github.com/owasp-amass/amass))
+**Repository:** [https://github.com/owasp-amass/amass](https://github.com/owasp-amass/amass)
 
 **Author:** owasp-amass
 
@@ -32,7 +32,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## android_app_security_checklist
 
-**Repository:** [[https://github.com/b-mueller/android_app_security_checklist](https://github.com/b-mueller/android_app_security_checklist)]([https://github.com/b-mueller/android_app_security_checklist](https://github.com/b-mueller/android_app_security_checklist))
+**Repository:** [https://github.com/b-mueller/android_app_security_checklist](https://github.com/b-mueller/android_app_security_checklist)
 
 **Author:** b-mueller
 
@@ -40,7 +40,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## angularjs-csti-scanner
 
-**Repository:** [[https://github.com/tijme/angularjs-csti-scanner](https://github.com/tijme/angularjs-csti-scanner)]([https://github.com/tijme/angularjs-csti-scanner](https://github.com/tijme/angularjs-csti-scanner))
+**Repository:** [https://github.com/tijme/angularjs-csti-scanner](https://github.com/tijme/angularjs-csti-scanner)
 
 **Author:** tijme
 
@@ -48,7 +48,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## Artemis
 
-**Repository:** [[https://github.com/CERT-Polska/Artemis](https://github.com/CERT-Polska/Artemis)]([https://github.com/CERT-Polska/Artemis](https://github.com/CERT-Polska/Artemis))
+**Repository:** [https://github.com/CERT-Polska/Artemis](https://github.com/CERT-Polska/Artemis)
 
 **Author:** CERT-Polska
 
@@ -56,7 +56,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## awesome-appsec
 
-**Repository:** [[https://github.com/paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec)]([https://github.com/paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec))
+**Repository:** [https://github.com/paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec)
 
 **Author:** paragonie
 
@@ -64,7 +64,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## awesome-web-hacking
 
-**Repository:** [[https://github.com/infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)]([https://github.com/infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking))
+**Repository:** [https://github.com/infoslack/awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
 
 **Author:** infoslack
 
@@ -72,7 +72,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## bearer
 
-**Repository:** [[https://github.com/Bearer/bearer](https://github.com/Bearer/bearer)]([https://github.com/Bearer/bearer](https://github.com/Bearer/bearer))
+**Repository:** [https://github.com/Bearer/bearer](https://github.com/Bearer/bearer)
 
 **Author:** Bearer
 
@@ -80,7 +80,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## Burp-Yara-Rules
 
-**Repository:** [[https://github.com/codewatchorg/Burp-Yara-Rules](https://github.com/codewatchorg/Burp-Yara-Rules)]([https://github.com/codewatchorg/Burp-Yara-Rules](https://github.com/codewatchorg/Burp-Yara-Rules))
+**Repository:** [https://github.com/codewatchorg/Burp-Yara-Rules](https://github.com/codewatchorg/Burp-Yara-Rules)
 
 **Author:** codewatchorg
 
@@ -88,7 +88,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## CakeFuzzer
 
-**Repository:** [[https://github.com/Zigrin-Security/CakeFuzzer](https://github.com/Zigrin-Security/CakeFuzzer)]([https://github.com/Zigrin-Security/CakeFuzzer](https://github.com/Zigrin-Security/CakeFuzzer))
+**Repository:** [https://github.com/Zigrin-Security/CakeFuzzer](https://github.com/Zigrin-Security/CakeFuzzer)
 
 **Author:** Zigrin-Security
 
@@ -96,7 +96,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## capital
 
-**Repository:** [[https://github.com/Checkmarx/capital](https://github.com/Checkmarx/capital)]([https://github.com/Checkmarx/capital](https://github.com/Checkmarx/capital))
+**Repository:** [https://github.com/Checkmarx/capital](https://github.com/Checkmarx/capital)
 
 **Author:** Checkmarx
 
@@ -104,7 +104,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## Chromium-based-XSS-Taint-Tracking
 
-**Repository:** [[https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking)]([https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking))
+**Repository:** [https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking)
 
 **Author:** v8blink
 
@@ -112,7 +112,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## clj-owasp
 
-**Repository:** [[https://github.com/nubank/clj-owasp](https://github.com/nubank/clj-owasp)]([https://github.com/nubank/clj-owasp](https://github.com/nubank/clj-owasp))
+**Repository:** [https://github.com/nubank/clj-owasp](https://github.com/nubank/clj-owasp)
 
 **Author:** nubank
 
@@ -120,7 +120,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## CobaltStrikeScan
 
-**Repository:** [[https://github.com/Apr4h/CobaltStrikeScan](https://github.com/Apr4h/CobaltStrikeScan)]([https://github.com/Apr4h/CobaltStrikeScan](https://github.com/Apr4h/CobaltStrikeScan))
+**Repository:** [https://github.com/Apr4h/CobaltStrikeScan](https://github.com/Apr4h/CobaltStrikeScan)
 
 **Author:** Apr4h
 
@@ -128,7 +128,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## crAPI
 
-**Repository:** [[https://github.com/OWASP/crAPI](https://github.com/OWASP/crAPI)]([https://github.com/OWASP/crAPI](https://github.com/OWASP/crAPI))
+**Repository:** [https://github.com/OWASP/crAPI](https://github.com/OWASP/crAPI)
 
 **Author:** OWASP
 
@@ -136,7 +136,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## CTFWriteupScrapper
 
-**Repository:** [[https://github.com/abdilahrf/CTFWriteupScrapper](https://github.com/abdilahrf/CTFWriteupScrapper)]([https://github.com/abdilahrf/CTFWriteupScrapper](https://github.com/abdilahrf/CTFWriteupScrapper))
+**Repository:** [https://github.com/abdilahrf/CTFWriteupScrapper](https://github.com/abdilahrf/CTFWriteupScrapper)
 
 **Author:** abdilahrf
 
@@ -144,7 +144,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## DECAF
 
-**Repository:** [[https://github.com/sycurelab/DECAF](https://github.com/sycurelab/DECAF)]([https://github.com/sycurelab/DECAF](https://github.com/sycurelab/DECAF))
+**Repository:** [https://github.com/sycurelab/DECAF](https://github.com/sycurelab/DECAF)
 
 **Author:** sycurelab
 
@@ -152,7 +152,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## dllinjector
 
-**Repository:** [[https://github.com/OpenSecurityResearch/dllinjector](https://github.com/OpenSecurityResearch/dllinjector)]([https://github.com/OpenSecurityResearch/dllinjector](https://github.com/OpenSecurityResearch/dllinjector))
+**Repository:** [https://github.com/OpenSecurityResearch/dllinjector](https://github.com/OpenSecurityResearch/dllinjector)
 
 **Author:** OpenSecurityResearch
 
@@ -160,7 +160,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## dork-cli
 
-**Repository:** [[https://github.com/jgor/dork-cli](https://github.com/jgor/dork-cli)]([https://github.com/jgor/dork-cli](https://github.com/jgor/dork-cli))
+**Repository:** [https://github.com/jgor/dork-cli](https://github.com/jgor/dork-cli)
 
 **Author:** jgor
 
@@ -168,7 +168,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## dvna
 
-**Repository:** [[https://github.com/appsecco/dvna](https://github.com/appsecco/dvna)]([https://github.com/appsecco/dvna](https://github.com/appsecco/dvna))
+**Repository:** [https://github.com/appsecco/dvna](https://github.com/appsecco/dvna)
 
 **Author:** appsecco
 
@@ -176,7 +176,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## DVWA
 
-**Repository:** [[https://github.com/ethicalhack3r/DVWA](https://github.com/ethicalhack3r/DVWA)]([https://github.com/ethicalhack3r/DVWA](https://github.com/ethicalhack3r/DVWA))
+**Repository:** [https://github.com/ethicalhack3r/DVWA](https://github.com/ethicalhack3r/DVWA)
 
 **Author:** ethicalhack3r
 
@@ -184,7 +184,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## dvws
 
-**Repository:** [[https://github.com/snoopysecurity/dvws](https://github.com/snoopysecurity/dvws)]([https://github.com/snoopysecurity/dvws](https://github.com/snoopysecurity/dvws))
+**Repository:** [https://github.com/snoopysecurity/dvws](https://github.com/snoopysecurity/dvws)
 
 **Author:** snoopysecurity
 
@@ -192,7 +192,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## electron-research
 
-**Repository:** [[https://github.com/msrkp/electron-research](https://github.com/msrkp/electron-research)]([https://github.com/msrkp/electron-research](https://github.com/msrkp/electron-research))
+**Repository:** [https://github.com/msrkp/electron-research](https://github.com/msrkp/electron-research)
 
 **Author:** msrkp
 
@@ -200,7 +200,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## filterbypass
 
-**Repository:** [[https://github.com/masatokinugawa/filterbypass](https://github.com/masatokinugawa/filterbypass)]([https://github.com/masatokinugawa/filterbypass](https://github.com/masatokinugawa/filterbypass))
+**Repository:** [https://github.com/masatokinugawa/filterbypass](https://github.com/masatokinugawa/filterbypass)
 
 **Author:** masatokinugawa
 
@@ -208,7 +208,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## fuzzdb
 
-**Repository:** [[https://github.com/fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb)]([https://github.com/fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb))
+**Repository:** [https://github.com/fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb)
 
 **Author:** fuzzdb-project
 
@@ -216,7 +216,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## Glastopf-Analytics
 
-**Repository:** [[https://github.com/katkad/Glastopf-Analytics](https://github.com/katkad/Glastopf-Analytics)]([https://github.com/katkad/Glastopf-Analytics](https://github.com/katkad/Glastopf-Analytics))
+**Repository:** [https://github.com/katkad/Glastopf-Analytics](https://github.com/katkad/Glastopf-Analytics)
 
 **Author:** katkad
 
@@ -224,7 +224,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## hackademic
 
-**Repository:** [[https://github.com/Hackademic/hackademic](https://github.com/Hackademic/hackademic)]([https://github.com/Hackademic/hackademic](https://github.com/Hackademic/hackademic))
+**Repository:** [https://github.com/Hackademic/hackademic](https://github.com/Hackademic/hackademic)
 
 **Author:** Hackademic
 
@@ -232,7 +232,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## honeymap
 
-**Repository:** [[https://github.com/fw42/honeymap](https://github.com/fw42/honeymap)]([https://github.com/fw42/honeymap](https://github.com/fw42/honeymap))
+**Repository:** [https://github.com/fw42/honeymap](https://github.com/fw42/honeymap)
 
 **Author:** fw42
 
@@ -240,7 +240,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## IWA-Java
 
-**Repository:** [[https://github.com/fortify/IWA-Java](https://github.com/fortify/IWA-Java)]([https://github.com/fortify/IWA-Java](https://github.com/fortify/IWA-Java))
+**Repository:** [https://github.com/fortify/IWA-Java](https://github.com/fortify/IWA-Java)
 
 **Author:** fortify
 
@@ -248,7 +248,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## juice-shop
 
-**Repository:** [[https://github.com/juice-shop/juice-shop](https://github.com/juice-shop/juice-shop)]([https://github.com/juice-shop/juice-shop](https://github.com/juice-shop/juice-shop))
+**Repository:** [https://github.com/juice-shop/juice-shop](https://github.com/juice-shop/juice-shop)
 
 **Author:** juice-shop
 
@@ -256,7 +256,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## juice-shop-ctf
 
-**Repository:** [[https://github.com/bkimminich/juice-shop-ctf](https://github.com/bkimminich/juice-shop-ctf)]([https://github.com/bkimminich/juice-shop-ctf](https://github.com/bkimminich/juice-shop-ctf))
+**Repository:** [https://github.com/bkimminich/juice-shop-ctf](https://github.com/bkimminich/juice-shop-ctf)
 
 **Author:** bkimminich
 
@@ -264,7 +264,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## libnet
 
-**Repository:** [[https://github.com/libnet/libnet](https://github.com/libnet/libnet)]([https://github.com/libnet/libnet](https://github.com/libnet/libnet))
+**Repository:** [https://github.com/libnet/libnet](https://github.com/libnet/libnet)
 
 **Author:** libnet
 
@@ -272,7 +272,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## MCIR
 
-**Repository:** [[https://github.com/SpiderLabs/MCIR](https://github.com/SpiderLabs/MCIR)]([https://github.com/SpiderLabs/MCIR](https://github.com/SpiderLabs/MCIR))
+**Repository:** [https://github.com/SpiderLabs/MCIR](https://github.com/SpiderLabs/MCIR)
 
 **Author:** SpiderLabs
 
@@ -280,7 +280,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## mobileAudit
 
-**Repository:** [[https://github.com/mpast/mobileAudit](https://github.com/mpast/mobileAudit)]([https://github.com/mpast/mobileAudit](https://github.com/mpast/mobileAudit))
+**Repository:** [https://github.com/mpast/mobileAudit](https://github.com/mpast/mobileAudit)
 
 **Author:** mpast
 
@@ -288,7 +288,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## mutillidae
 
-**Repository:** [[https://github.com/webpwnized/mutillidae](https://github.com/webpwnized/mutillidae)]([https://github.com/webpwnized/mutillidae](https://github.com/webpwnized/mutillidae))
+**Repository:** [https://github.com/webpwnized/mutillidae](https://github.com/webpwnized/mutillidae)
 
 **Author:** webpwnized
 
@@ -296,7 +296,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## NodeGoat
 
-**Repository:** [[https://github.com/OWASP/NodeGoat](https://github.com/OWASP/NodeGoat)]([https://github.com/OWASP/NodeGoat](https://github.com/OWASP/NodeGoat))
+**Repository:** [https://github.com/OWASP/NodeGoat](https://github.com/OWASP/NodeGoat)
 
 **Author:** OWASP
 
@@ -304,7 +304,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## nodegoat
 
-**Repository:** [[https://github.com/owasp/nodegoat](https://github.com/owasp/nodegoat)]([https://github.com/owasp/nodegoat](https://github.com/owasp/nodegoat))
+**Repository:** [https://github.com/owasp/nodegoat](https://github.com/owasp/nodegoat)
 
 **Author:** owasp
 
@@ -312,7 +312,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## OneDorkForAll
 
-**Repository:** [[https://github.com/SecShiv/OneDorkForAll](https://github.com/SecShiv/OneDorkForAll)]([https://github.com/SecShiv/OneDorkForAll](https://github.com/SecShiv/OneDorkForAll))
+**Repository:** [https://github.com/SecShiv/OneDorkForAll](https://github.com/SecShiv/OneDorkForAll)
 
 **Author:** SecShiv
 
@@ -320,7 +320,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## openappsec
 
-**Repository:** [[https://github.com/openappsec/openappsec](https://github.com/openappsec/openappsec)]([https://github.com/openappsec/openappsec](https://github.com/openappsec/openappsec))
+**Repository:** [https://github.com/openappsec/openappsec](https://github.com/openappsec/openappsec)
 
 **Author:** openappsec
 
@@ -328,7 +328,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## ovizart
 
-**Repository:** [[https://github.com/oguzy/ovizart](https://github.com/oguzy/ovizart)]([https://github.com/oguzy/ovizart](https://github.com/oguzy/ovizart))
+**Repository:** [https://github.com/oguzy/ovizart](https://github.com/oguzy/ovizart)
 
 **Author:** oguzy
 
@@ -336,7 +336,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## OWASP-GoatDroid-Project
 
-**Repository:** [[https://github.com/jackMannino/OWASP-GoatDroid-Project](https://github.com/jackMannino/OWASP-GoatDroid-Project)]([https://github.com/jackMannino/OWASP-GoatDroid-Project](https://github.com/jackMannino/OWASP-GoatDroid-Project))
+**Repository:** [https://github.com/jackMannino/OWASP-GoatDroid-Project](https://github.com/jackMannino/OWASP-GoatDroid-Project)
 
 **Author:** jackMannino
 
@@ -344,7 +344,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## owasp-mastg
 
-**Repository:** [[https://github.com/OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg)]([https://github.com/OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg))
+**Repository:** [https://github.com/OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg)
 
 **Author:** OWASP
 
@@ -352,7 +352,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## owasp-mstg
 
-**Repository:** [[https://github.com/OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg)]([https://github.com/OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg))
+**Repository:** [https://github.com/OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg)
 
 **Author:** OWASP
 
@@ -360,7 +360,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## owasp-testing-checklist-v4-markdown
 
-**Repository:** [[https://github.com/amocrenco/owasp-testing-checklist-v4-markdown](https://github.com/amocrenco/owasp-testing-checklist-v4-markdown)]([https://github.com/amocrenco/owasp-testing-checklist-v4-markdown](https://github.com/amocrenco/owasp-testing-checklist-v4-markdown))
+**Repository:** [https://github.com/amocrenco/owasp-testing-checklist-v4-markdown](https://github.com/amocrenco/owasp-testing-checklist-v4-markdown)
 
 **Author:** amocrenco
 
@@ -368,7 +368,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## PhishingSecLists
 
-**Repository:** [[https://github.com/spmedia/PhishingSecLists](https://github.com/spmedia/PhishingSecLists)]([https://github.com/spmedia/PhishingSecLists](https://github.com/spmedia/PhishingSecLists))
+**Repository:** [https://github.com/spmedia/PhishingSecLists](https://github.com/spmedia/PhishingSecLists)
 
 **Author:** spmedia
 
@@ -376,7 +376,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## portlurker
 
-**Repository:** [[https://github.com/bartnv/portlurker](https://github.com/bartnv/portlurker)]([https://github.com/bartnv/portlurker](https://github.com/bartnv/portlurker))
+**Repository:** [https://github.com/bartnv/portlurker](https://github.com/bartnv/portlurker)
 
 **Author:** bartnv
 
@@ -384,7 +384,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## progpilot
 
-**Repository:** [[https://github.com/designsecurity/progpilot](https://github.com/designsecurity/progpilot)]([https://github.com/designsecurity/progpilot](https://github.com/designsecurity/progpilot))
+**Repository:** [https://github.com/designsecurity/progpilot](https://github.com/designsecurity/progpilot)
 
 **Author:** designsecurity
 
@@ -392,7 +392,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## pyew
 
-**Repository:** [[https://github.com/joxeankoret/pyew](https://github.com/joxeankoret/pyew)]([https://github.com/joxeankoret/pyew](https://github.com/joxeankoret/pyew))
+**Repository:** [https://github.com/joxeankoret/pyew](https://github.com/joxeankoret/pyew)
 
 **Author:** joxeankoret
 
@@ -400,7 +400,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## RegEx-DoS
 
-**Repository:** [[https://github.com/jagracey/RegEx-DoS](https://github.com/jagracey/RegEx-DoS)]([https://github.com/jagracey/RegEx-DoS](https://github.com/jagracey/RegEx-DoS))
+**Repository:** [https://github.com/jagracey/RegEx-DoS](https://github.com/jagracey/RegEx-DoS)
 
 **Author:** jagracey
 
@@ -408,7 +408,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## regexp-security-cheatsheet
 
-**Repository:** [[https://github.com/attackercan/regexp-security-cheatsheet](https://github.com/attackercan/regexp-security-cheatsheet)]([https://github.com/attackercan/regexp-security-cheatsheet](https://github.com/attackercan/regexp-security-cheatsheet))
+**Repository:** [https://github.com/attackercan/regexp-security-cheatsheet](https://github.com/attackercan/regexp-security-cheatsheet)
 
 **Author:** attackercan
 
@@ -416,7 +416,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## SentinelTestbed
 
-**Repository:** [[https://github.com/dobin/SentinelTestbed](https://github.com/dobin/SentinelTestbed)]([https://github.com/dobin/SentinelTestbed](https://github.com/dobin/SentinelTestbed))
+**Repository:** [https://github.com/dobin/SentinelTestbed](https://github.com/dobin/SentinelTestbed)
 
 **Author:** dobin
 
@@ -424,7 +424,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## servletpot
 
-**Repository:** [[https://github.com/schmalle/servletpot](https://github.com/schmalle/servletpot)]([https://github.com/schmalle/servletpot](https://github.com/schmalle/servletpot))
+**Repository:** [https://github.com/schmalle/servletpot](https://github.com/schmalle/servletpot)
 
 **Author:** schmalle
 
@@ -432,7 +432,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## SharPyShell
 
-**Repository:** [[https://github.com/antonioCoco/SharPyShell](https://github.com/antonioCoco/SharPyShell)]([https://github.com/antonioCoco/SharPyShell](https://github.com/antonioCoco/SharPyShell))
+**Repository:** [https://github.com/antonioCoco/SharPyShell](https://github.com/antonioCoco/SharPyShell)
 
 **Author:** antonioCoco
 
@@ -440,7 +440,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## smalisca
 
-**Repository:** [[https://github.com/dorneanu/smalisca](https://github.com/dorneanu/smalisca)]([https://github.com/dorneanu/smalisca](https://github.com/dorneanu/smalisca))
+**Repository:** [https://github.com/dorneanu/smalisca](https://github.com/dorneanu/smalisca)
 
 **Author:** dorneanu
 
@@ -448,7 +448,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## sqli-labs
 
-**Repository:** [[https://github.com/Audi-1/sqli-labs](https://github.com/Audi-1/sqli-labs)]([https://github.com/Audi-1/sqli-labs](https://github.com/Audi-1/sqli-labs))
+**Repository:** [https://github.com/Audi-1/sqli-labs](https://github.com/Audi-1/sqli-labs)
 
 **Author:** Audi-1
 
@@ -456,7 +456,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## sqlilabs
 
-**Repository:** [[https://github.com/himadriganguly/sqlilabs](https://github.com/himadriganguly/sqlilabs)]([https://github.com/himadriganguly/sqlilabs](https://github.com/himadriganguly/sqlilabs))
+**Repository:** [https://github.com/himadriganguly/sqlilabs](https://github.com/himadriganguly/sqlilabs)
 
 **Author:** himadriganguly
 
@@ -464,7 +464,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## sqlmate
 
-**Repository:** [[https://github.com/UltimateHackers/sqlmate](https://github.com/UltimateHackers/sqlmate)]([https://github.com/UltimateHackers/sqlmate](https://github.com/UltimateHackers/sqlmate))
+**Repository:** [https://github.com/UltimateHackers/sqlmate](https://github.com/UltimateHackers/sqlmate)
 
 **Author:** UltimateHackers
 
@@ -472,7 +472,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## StaCoAn
 
-**Repository:** [[https://github.com/vincentcox/StaCoAn](https://github.com/vincentcox/StaCoAn)]([https://github.com/vincentcox/StaCoAn](https://github.com/vincentcox/StaCoAn))
+**Repository:** [https://github.com/vincentcox/StaCoAn](https://github.com/vincentcox/StaCoAn)
 
 **Author:** vincentcox
 
@@ -480,7 +480,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## suite-o-llama
 
-**Repository:** [[https://github.com/BerserkiKun/suite-o-llama](https://github.com/BerserkiKun/suite-o-llama)]([https://github.com/BerserkiKun/suite-o-llama](https://github.com/BerserkiKun/suite-o-llama))
+**Repository:** [https://github.com/BerserkiKun/suite-o-llama](https://github.com/BerserkiKun/suite-o-llama)
 
 **Author:** BerserkiKun
 
@@ -488,7 +488,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## ukip
 
-**Repository:** [[https://github.com/google/ukip](https://github.com/google/ukip)]([https://github.com/google/ukip](https://github.com/google/ukip))
+**Repository:** [https://github.com/google/ukip](https://github.com/google/ukip)
 
 **Author:** google
 
@@ -496,7 +496,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## VulnLab
 
-**Repository:** [[https://github.com/Yavuzlar/VulnLab](https://github.com/Yavuzlar/VulnLab)]([https://github.com/Yavuzlar/VulnLab](https://github.com/Yavuzlar/VulnLab))
+**Repository:** [https://github.com/Yavuzlar/VulnLab](https://github.com/Yavuzlar/VulnLab)
 
 **Author:** Yavuzlar
 
@@ -504,7 +504,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## wrongsecrets
 
-**Repository:** [[https://github.com/commjoen/wrongsecrets](https://github.com/commjoen/wrongsecrets)]([https://github.com/commjoen/wrongsecrets](https://github.com/commjoen/wrongsecrets))
+**Repository:** [https://github.com/commjoen/wrongsecrets](https://github.com/commjoen/wrongsecrets)
 
 **Author:** commjoen
 
@@ -512,7 +512,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## xvwa
 
-**Repository:** [[https://github.com/s4n7h0/xvwa](https://github.com/s4n7h0/xvwa)]([https://github.com/s4n7h0/xvwa](https://github.com/s4n7h0/xvwa))
+**Repository:** [https://github.com/s4n7h0/xvwa](https://github.com/s4n7h0/xvwa)
 
 **Author:** s4n7h0
 
@@ -520,7 +520,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## Yara-Scanner
 
-**Repository:** [[https://github.com/PolitoInc/Yara-Scanner](https://github.com/PolitoInc/Yara-Scanner)]([https://github.com/PolitoInc/Yara-Scanner](https://github.com/PolitoInc/Yara-Scanner))
+**Repository:** [https://github.com/PolitoInc/Yara-Scanner](https://github.com/PolitoInc/Yara-Scanner)
 
 **Author:** PolitoInc
 
@@ -528,7 +528,7 @@ Tools and resources for securing applications, including SAST, DAST, dependency 
 
 ## yaramanager
 
-**Repository:** [[https://github.com/3c7/yaramanager](https://github.com/3c7/yaramanager)]([https://github.com/3c7/yaramanager](https://github.com/3c7/yaramanager))
+**Repository:** [https://github.com/3c7/yaramanager](https://github.com/3c7/yaramanager)
 
 **Author:** 3c7
 

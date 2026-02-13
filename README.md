@@ -43,7 +43,7 @@ SIEM, log management, and security monitoring platforms.
 ### [Governance, Risk & Compliance](grca/) (23 tools)
 GRC, audit, and compliance management tools.
 
-### [Education & Resources](education/) (207 tools)
+### [Education & Resources](education/) (272 tools)
 Educational resources, tutorials, security blogs, and learning materials.
 
 ### [Miscellaneous](misc/) (920 tools)

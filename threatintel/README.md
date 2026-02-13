@@ -8,7 +8,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## abusehelper
 
-**Repository:** [[https://github.com/abusesa/abusehelper](https://github.com/abusesa/abusehelper)]([https://github.com/abusesa/abusehelper](https://github.com/abusesa/abusehelper))
+**Repository:** [https://github.com/abusesa/abusehelper](https://github.com/abusesa/abusehelper)
 
 **Author:** abusesa
 
@@ -16,7 +16,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## adore-ng
 
-**Repository:** [[https://github.com/trimpsyw/adore-ng](https://github.com/trimpsyw/adore-ng)]([https://github.com/trimpsyw/adore-ng](https://github.com/trimpsyw/adore-ng))
+**Repository:** [https://github.com/trimpsyw/adore-ng](https://github.com/trimpsyw/adore-ng)
 
 **Author:** trimpsyw
 
@@ -24,7 +24,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## alterix
 
-**Repository:** [[https://github.com/mtnmunuklu/alterix](https://github.com/mtnmunuklu/alterix)]([https://github.com/mtnmunuklu/alterix](https://github.com/mtnmunuklu/alterix))
+**Repository:** [https://github.com/mtnmunuklu/alterix](https://github.com/mtnmunuklu/alterix)
 
 **Author:** mtnmunuklu
 
@@ -32,7 +32,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## Android-Malware-Sandbox
 
-**Repository:** [[https://github.com/Areizen/Android-Malware-Sandbox](https://github.com/Areizen/Android-Malware-Sandbox)]([https://github.com/Areizen/Android-Malware-Sandbox](https://github.com/Areizen/Android-Malware-Sandbox))
+**Repository:** [https://github.com/Areizen/Android-Malware-Sandbox](https://github.com/Areizen/Android-Malware-Sandbox)
 
 **Author:** Areizen
 
@@ -40,7 +40,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## APTnotes
 
-**Repository:** [[https://github.com/kbandla/APTnotes](https://github.com/kbandla/APTnotes)]([https://github.com/kbandla/APTnotes](https://github.com/kbandla/APTnotes))
+**Repository:** [https://github.com/kbandla/APTnotes](https://github.com/kbandla/APTnotes)
 
 **Author:** kbandla
 
@@ -48,7 +48,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## APTSimulator
 
-**Repository:** [[https://github.com/NextronSystems/APTSimulator](https://github.com/NextronSystems/APTSimulator)]([https://github.com/NextronSystems/APTSimulator](https://github.com/NextronSystems/APTSimulator))
+**Repository:** [https://github.com/NextronSystems/APTSimulator](https://github.com/NextronSystems/APTSimulator)
 
 **Author:** NextronSystems
 
@@ -56,7 +56,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## Arsenal-Image-Mounter
 
-**Repository:** [[https://github.com/ArsenalRecon/Arsenal-Image-Mounter](https://github.com/ArsenalRecon/Arsenal-Image-Mounter)]([https://github.com/ArsenalRecon/Arsenal-Image-Mounter](https://github.com/ArsenalRecon/Arsenal-Image-Mounter))
+**Repository:** [https://github.com/ArsenalRecon/Arsenal-Image-Mounter](https://github.com/ArsenalRecon/Arsenal-Image-Mounter)
 
 **Author:** ArsenalRecon
 
@@ -64,7 +64,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## awesome-iocs
 
-**Repository:** [[https://github.com/sroberts/awesome-iocs](https://github.com/sroberts/awesome-iocs)]([https://github.com/sroberts/awesome-iocs](https://github.com/sroberts/awesome-iocs))
+**Repository:** [https://github.com/sroberts/awesome-iocs](https://github.com/sroberts/awesome-iocs)
 
 **Author:** sroberts
 
@@ -72,7 +72,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## awesome-malware-analysis
 
-**Repository:** [[https://github.com/rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)]([https://github.com/rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis))
+**Repository:** [https://github.com/rshipp/awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
 
 **Author:** rshipp
 
@@ -80,7 +80,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## awesome-osint
 
-**Repository:** [[https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)]([https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint))
+**Repository:** [https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)
 
 **Author:** jivoi
 
@@ -88,7 +88,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## awesome-pcaptools
 
-**Repository:** [[https://github.com/caesar0301/awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools)]([https://github.com/caesar0301/awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools))
+**Repository:** [https://github.com/caesar0301/awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools)
 
 **Author:** caesar0301
 
@@ -96,7 +96,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## awesome-security-newsletters
 
-**Repository:** [[https://github.com/TalEliyahu/awesome-security-newsletters](https://github.com/TalEliyahu/awesome-security-newsletters)]([https://github.com/TalEliyahu/awesome-security-newsletters](https://github.com/TalEliyahu/awesome-security-newsletters))
+**Repository:** [https://github.com/TalEliyahu/awesome-security-newsletters](https://github.com/TalEliyahu/awesome-security-newsletters)
 
 **Author:** TalEliyahu
 
@@ -104,7 +104,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## awesome-threat-detection
 
-**Repository:** [[https://github.com/0x4D31/awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection)]([https://github.com/0x4D31/awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection))
+**Repository:** [https://github.com/0x4D31/awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection)
 
 **Author:** 0x4D31
 
@@ -112,7 +112,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## awesome-threat-intelligence
 
-**Repository:** [[https://github.com/hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)]([https://github.com/hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence))
+**Repository:** [https://github.com/hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)
 
 **Author:** hslatman
 
@@ -120,7 +120,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## awesome-threat-modeling
 
-**Repository:** [[https://github.com/redshiftzero/awesome-threat-modeling](https://github.com/redshiftzero/awesome-threat-modeling)]([https://github.com/redshiftzero/awesome-threat-modeling](https://github.com/redshiftzero/awesome-threat-modeling))
+**Repository:** [https://github.com/redshiftzero/awesome-threat-modeling](https://github.com/redshiftzero/awesome-threat-modeling)
 
 **Author:** redshiftzero
 
@@ -128,7 +128,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## aws_ir
 
-**Repository:** [[https://github.com/ThreatResponse/aws_ir](https://github.com/ThreatResponse/aws_ir)]([https://github.com/ThreatResponse/aws_ir](https://github.com/ThreatResponse/aws_ir))
+**Repository:** [https://github.com/ThreatResponse/aws_ir](https://github.com/ThreatResponse/aws_ir)
 
 **Author:** ThreatResponse
 
@@ -136,7 +136,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## beelzebub
 
-**Repository:** [[https://github.com/mariocandela/beelzebub](https://github.com/mariocandela/beelzebub)]([https://github.com/mariocandela/beelzebub](https://github.com/mariocandela/beelzebub))
+**Repository:** [https://github.com/mariocandela/beelzebub](https://github.com/mariocandela/beelzebub)
 
 **Author:** mariocandela
 
@@ -144,7 +144,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## Blauhaunt
 
-**Repository:** [[https://github.com/cgosec/Blauhaunt](https://github.com/cgosec/Blauhaunt)]([https://github.com/cgosec/Blauhaunt](https://github.com/cgosec/Blauhaunt))
+**Repository:** [https://github.com/cgosec/Blauhaunt](https://github.com/cgosec/Blauhaunt)
 
 **Author:** cgosec
 
@@ -152,7 +152,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## br0w
 
-**Repository:** [[https://github.com/tegal1337/br0w](https://github.com/tegal1337/br0w)]([https://github.com/tegal1337/br0w](https://github.com/tegal1337/br0w))
+**Repository:** [https://github.com/tegal1337/br0w](https://github.com/tegal1337/br0w)
 
 **Author:** tegal1337
 
@@ -160,7 +160,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## CAPEv2
 
-**Repository:** [[https://github.com/kevoreilly/CAPEv2](https://github.com/kevoreilly/CAPEv2)]([https://github.com/kevoreilly/CAPEv2](https://github.com/kevoreilly/CAPEv2))
+**Repository:** [https://github.com/kevoreilly/CAPEv2](https://github.com/kevoreilly/CAPEv2)
 
 **Author:** kevoreilly
 
@@ -168,7 +168,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## CapTipper
 
-**Repository:** [[https://github.com/omriher/CapTipper](https://github.com/omriher/CapTipper)]([https://github.com/omriher/CapTipper](https://github.com/omriher/CapTipper))
+**Repository:** [https://github.com/omriher/CapTipper](https://github.com/omriher/CapTipper)
 
 **Author:** omriher
 
@@ -176,7 +176,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## CarbonCopy
 
-**Repository:** [[https://github.com/paranoidninja/CarbonCopy](https://github.com/paranoidninja/CarbonCopy)]([https://github.com/paranoidninja/CarbonCopy](https://github.com/paranoidninja/CarbonCopy))
+**Repository:** [https://github.com/paranoidninja/CarbonCopy](https://github.com/paranoidninja/CarbonCopy)
 
 **Author:** paranoidninja
 
@@ -184,7 +184,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## CDI_yara
 
-**Repository:** [[https://github.com/CyberDefenses/CDI_yara](https://github.com/CyberDefenses/CDI_yara)]([https://github.com/CyberDefenses/CDI_yara](https://github.com/CyberDefenses/CDI_yara))
+**Repository:** [https://github.com/CyberDefenses/CDI_yara](https://github.com/CyberDefenses/CDI_yara)
 
 **Author:** CyberDefenses
 
@@ -192,7 +192,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## Chaosreader
 
-**Repository:** [[https://github.com/brendangregg/Chaosreader](https://github.com/brendangregg/Chaosreader)]([https://github.com/brendangregg/Chaosreader](https://github.com/brendangregg/Chaosreader))
+**Repository:** [https://github.com/brendangregg/Chaosreader](https://github.com/brendangregg/Chaosreader)
 
 **Author:** brendangregg
 
@@ -200,7 +200,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## chopshop
 
-**Repository:** [[https://github.com/MITRECND/chopshop](https://github.com/MITRECND/chopshop)]([https://github.com/MITRECND/chopshop](https://github.com/MITRECND/chopshop))
+**Repository:** [https://github.com/MITRECND/chopshop](https://github.com/MITRECND/chopshop)
 
 **Author:** MITRECND
 
@@ -208,7 +208,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## ciphey
 
-**Repository:** [[https://github.com/ciphey/ciphey](https://github.com/ciphey/ciphey)]([https://github.com/ciphey/ciphey](https://github.com/ciphey/ciphey))
+**Repository:** [https://github.com/ciphey/ciphey](https://github.com/ciphey/ciphey)
 
 **Author:** ciphey
 
@@ -216,7 +216,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed
 
-**Repository:** [[https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed](https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed)]([https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed](https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed))
+**Repository:** [https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed](https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed)
 
 **Author:** spmedia
 
@@ -224,7 +224,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## cti-python-stix2
 
-**Repository:** [[https://github.com/oasis-open/cti-python-stix2](https://github.com/oasis-open/cti-python-stix2)]([https://github.com/oasis-open/cti-python-stix2](https://github.com/oasis-open/cti-python-stix2))
+**Repository:** [https://github.com/oasis-open/cti-python-stix2](https://github.com/oasis-open/cti-python-stix2)
 
 **Author:** oasis-open
 
@@ -232,7 +232,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## cuckoo-modified
 
-**Repository:** [[https://github.com/brad-accuvant/cuckoo-modified](https://github.com/brad-accuvant/cuckoo-modified)]([https://github.com/brad-accuvant/cuckoo-modified](https://github.com/brad-accuvant/cuckoo-modified))
+**Repository:** [https://github.com/brad-accuvant/cuckoo-modified](https://github.com/brad-accuvant/cuckoo-modified)
 
 **Author:** brad-accuvant
 
@@ -240,7 +240,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## cupidcr4wl
 
-**Repository:** [[https://github.com/OSINTI4L/cupidcr4wl](https://github.com/OSINTI4L/cupidcr4wl)]([https://github.com/OSINTI4L/cupidcr4wl](https://github.com/OSINTI4L/cupidcr4wl))
+**Repository:** [https://github.com/OSINTI4L/cupidcr4wl](https://github.com/OSINTI4L/cupidcr4wl)
 
 **Author:** OSINTI4L
 
@@ -248,7 +248,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## DailyIOC
 
-**Repository:** [[https://github.com/StrangerealIntel/DailyIOC](https://github.com/StrangerealIntel/DailyIOC)]([https://github.com/StrangerealIntel/DailyIOC](https://github.com/StrangerealIntel/DailyIOC))
+**Repository:** [https://github.com/StrangerealIntel/DailyIOC](https://github.com/StrangerealIntel/DailyIOC)
 
 **Author:** StrangerealIntel
 
@@ -256,7 +256,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## data
 
-**Repository:** [[https://github.com/aptnotes/data](https://github.com/aptnotes/data)]([https://github.com/aptnotes/data](https://github.com/aptnotes/data))
+**Repository:** [https://github.com/aptnotes/data](https://github.com/aptnotes/data)
 
 **Author:** aptnotes
 
@@ -264,7 +264,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## DeepBlueCLI
 
-**Repository:** [[https://github.com/sans-blue-team/DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI)]([https://github.com/sans-blue-team/DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI))
+**Repository:** [https://github.com/sans-blue-team/DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI)
 
 **Author:** sans-blue-team
 
@@ -272,7 +272,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## detux
 
-**Repository:** [[https://github.com/detuxsandbox/detux](https://github.com/detuxsandbox/detux)]([https://github.com/detuxsandbox/detux](https://github.com/detuxsandbox/detux))
+**Repository:** [https://github.com/detuxsandbox/detux](https://github.com/detuxsandbox/detux)
 
 **Author:** detuxsandbox
 
@@ -280,7 +280,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## DocBleach
 
-**Repository:** [[https://github.com/docbleach/DocBleach](https://github.com/docbleach/DocBleach)]([https://github.com/docbleach/DocBleach](https://github.com/docbleach/DocBleach))
+**Repository:** [https://github.com/docbleach/DocBleach](https://github.com/docbleach/DocBleach)
 
 **Author:** docbleach
 
@@ -288,7 +288,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## dockerpot
 
-**Repository:** [[https://github.com/mrschyte/dockerpot](https://github.com/mrschyte/dockerpot)]([https://github.com/mrschyte/dockerpot](https://github.com/mrschyte/dockerpot))
+**Repository:** [https://github.com/mrschyte/dockerpot](https://github.com/mrschyte/dockerpot)
 
 **Author:** mrschyte
 
@@ -296,7 +296,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## Dshell
 
-**Repository:** [[https://github.com/USArmyResearchLab/Dshell](https://github.com/USArmyResearchLab/Dshell)]([https://github.com/USArmyResearchLab/Dshell](https://github.com/USArmyResearchLab/Dshell))
+**Repository:** [https://github.com/USArmyResearchLab/Dshell](https://github.com/USArmyResearchLab/Dshell)
 
 **Author:** USArmyResearchLab
 
@@ -304,7 +304,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## ELAT
 
-**Repository:** [[https://github.com/reed1713/ELAT](https://github.com/reed1713/ELAT)]([https://github.com/reed1713/ELAT](https://github.com/reed1713/ELAT))
+**Repository:** [https://github.com/reed1713/ELAT](https://github.com/reed1713/ELAT)
 
 **Author:** reed1713
 
@@ -312,7 +312,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## ESPot
 
-**Repository:** [[https://github.com/mycert/ESPot](https://github.com/mycert/ESPot)]([https://github.com/mycert/ESPot](https://github.com/mycert/ESPot))
+**Repository:** [https://github.com/mycert/ESPot](https://github.com/mycert/ESPot)
 
 **Author:** mycert
 
@@ -320,7 +320,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## fastfinder
 
-**Repository:** [[https://github.com/codeyourweb/fastfinder](https://github.com/codeyourweb/fastfinder)]([https://github.com/codeyourweb/fastfinder](https://github.com/codeyourweb/fastfinder))
+**Repository:** [https://github.com/codeyourweb/fastfinder](https://github.com/codeyourweb/fastfinder)
 
 **Author:** codeyourweb
 
@@ -328,7 +328,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## fbctf
 
-**Repository:** [[https://github.com/facebook/fbctf](https://github.com/facebook/fbctf)]([https://github.com/facebook/fbctf](https://github.com/facebook/fbctf))
+**Repository:** [https://github.com/facebook/fbctf](https://github.com/facebook/fbctf)
 
 **Author:** facebook
 
@@ -336,7 +336,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## Fenrir
 
-**Repository:** [[https://github.com/Neo23x0/Fenrir](https://github.com/Neo23x0/Fenrir)]([https://github.com/Neo23x0/Fenrir](https://github.com/Neo23x0/Fenrir))
+**Repository:** [https://github.com/Neo23x0/Fenrir](https://github.com/Neo23x0/Fenrir)
 
 **Author:** Neo23x0
 
@@ -344,7 +344,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## fileintel
 
-**Repository:** [[https://github.com/keithjjones/fileintel](https://github.com/keithjjones/fileintel)]([https://github.com/keithjjones/fileintel](https://github.com/keithjjones/fileintel))
+**Repository:** [https://github.com/keithjjones/fileintel](https://github.com/keithjjones/fileintel)
 
 **Author:** keithjjones
 
@@ -352,7 +352,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## Forager
 
-**Repository:** [[https://github.com/opensourcesec/Forager](https://github.com/opensourcesec/Forager)]([https://github.com/opensourcesec/Forager](https://github.com/opensourcesec/Forager))
+**Repository:** [https://github.com/opensourcesec/Forager](https://github.com/opensourcesec/Forager)
 
 **Author:** opensourcesec
 
@@ -360,7 +360,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## HacknDroid
 
-**Repository:** [[https://github.com/RaffaDNDM/HacknDroid](https://github.com/RaffaDNDM/HacknDroid)]([https://github.com/RaffaDNDM/HacknDroid](https://github.com/RaffaDNDM/HacknDroid))
+**Repository:** [https://github.com/RaffaDNDM/HacknDroid](https://github.com/RaffaDNDM/HacknDroid)
 
 **Author:** RaffaDNDM
 
@@ -368,7 +368,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## Hale
 
-**Repository:** [[https://github.com/pjlantz/Hale](https://github.com/pjlantz/Hale)]([https://github.com/pjlantz/Hale](https://github.com/pjlantz/Hale))
+**Repository:** [https://github.com/pjlantz/Hale](https://github.com/pjlantz/Hale)
 
 **Author:** pjlantz
 
@@ -376,7 +376,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## halogen
 
-**Repository:** [[https://github.com/target/halogen](https://github.com/target/halogen)]([https://github.com/target/halogen](https://github.com/target/halogen))
+**Repository:** [https://github.com/target/halogen](https://github.com/target/halogen)
 
 **Author:** target
 
@@ -384,7 +384,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## hash_extender
 
-**Repository:** [[https://github.com/iagox86/hash_extender](https://github.com/iagox86/hash_extender)]([https://github.com/iagox86/hash_extender](https://github.com/iagox86/hash_extender))
+**Repository:** [https://github.com/iagox86/hash_extender](https://github.com/iagox86/hash_extender)
 
 **Author:** iagox86
 
@@ -392,7 +392,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## hayabusa
 
-**Repository:** [[https://github.com/Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa)]([https://github.com/Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa))
+**Repository:** [https://github.com/Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa)
 
 **Author:** Yamato-Security
 
@@ -400,7 +400,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## hnypots-agent
 
-**Repository:** [[https://github.com/joshrendek/hnypots-agent](https://github.com/joshrendek/hnypots-agent)]([https://github.com/joshrendek/hnypots-agent](https://github.com/joshrendek/hnypots-agent))
+**Repository:** [https://github.com/joshrendek/hnypots-agent](https://github.com/joshrendek/hnypots-agent)
 
 **Author:** joshrendek
 
@@ -408,7 +408,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## hontel
 
-**Repository:** [[https://github.com/stamparm/hontel](https://github.com/stamparm/hontel)]([https://github.com/stamparm/hontel](https://github.com/stamparm/hontel))
+**Repository:** [https://github.com/stamparm/hontel](https://github.com/stamparm/hontel)
 
 **Author:** stamparm
 
@@ -416,7 +416,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## hostintel
 
-**Repository:** [[https://github.com/keithjjones/hostintel](https://github.com/keithjjones/hostintel)]([https://github.com/keithjjones/hostintel](https://github.com/keithjjones/hostintel))
+**Repository:** [https://github.com/keithjjones/hostintel](https://github.com/keithjjones/hostintel)
 
 **Author:** keithjjones
 
@@ -424,7 +424,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## HSN-Capture-HPC-NG
 
-**Repository:** [[https://github.com/CERT-Polska/HSN-Capture-HPC-NG](https://github.com/CERT-Polska/HSN-Capture-HPC-NG)]([https://github.com/CERT-Polska/HSN-Capture-HPC-NG](https://github.com/CERT-Polska/HSN-Capture-HPC-NG))
+**Repository:** [https://github.com/CERT-Polska/HSN-Capture-HPC-NG](https://github.com/CERT-Polska/HSN-Capture-HPC-NG)
 
 **Author:** CERT-Polska
 
@@ -432,7 +432,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## httpreplay
 
-**Repository:** [[https://github.com/jbremer/httpreplay](https://github.com/jbremer/httpreplay)]([https://github.com/jbremer/httpreplay](https://github.com/jbremer/httpreplay))
+**Repository:** [https://github.com/jbremer/httpreplay](https://github.com/jbremer/httpreplay)
 
 **Author:** jbremer
 
@@ -440,7 +440,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## Icewater
 
-**Repository:** [[https://github.com/SupportIntelligence/Icewater](https://github.com/SupportIntelligence/Icewater)]([https://github.com/SupportIntelligence/Icewater](https://github.com/SupportIntelligence/Icewater))
+**Repository:** [https://github.com/SupportIntelligence/Icewater](https://github.com/SupportIntelligence/Icewater)
 
 **Author:** SupportIntelligence
 
@@ -448,7 +448,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## ics_mem_collect
 
-**Repository:** [[https://github.com/fireeye/ics_mem_collect](https://github.com/fireeye/ics_mem_collect)]([https://github.com/fireeye/ics_mem_collect](https://github.com/fireeye/ics_mem_collect))
+**Repository:** [https://github.com/fireeye/ics_mem_collect](https://github.com/fireeye/ics_mem_collect)
 
 **Author:** fireeye
 
@@ -456,7 +456,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## incubator-spot
 
-**Repository:** [[https://github.com/apache/incubator-spot](https://github.com/apache/incubator-spot)]([https://github.com/apache/incubator-spot](https://github.com/apache/incubator-spot))
+**Repository:** [https://github.com/apache/incubator-spot](https://github.com/apache/incubator-spot)
 
 **Author:** apache
 
@@ -464,7 +464,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## IntelHub
 
-**Repository:** [[https://github.com/tomsec8/IntelHub](https://github.com/tomsec8/IntelHub)]([https://github.com/tomsec8/IntelHub](https://github.com/tomsec8/IntelHub))
+**Repository:** [https://github.com/tomsec8/IntelHub](https://github.com/tomsec8/IntelHub)
 
 **Author:** tomsec8
 
@@ -472,7 +472,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## ioc_writer
 
-**Repository:** [[https://github.com/mandiant/ioc_writer](https://github.com/mandiant/ioc_writer)]([https://github.com/mandiant/ioc_writer](https://github.com/mandiant/ioc_writer))
+**Repository:** [https://github.com/mandiant/ioc_writer](https://github.com/mandiant/ioc_writer)
 
 **Author:** mandiant
 
@@ -480,7 +480,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## IOCs
 
-**Repository:** [[https://github.com/advanced-threat-research/IOCs](https://github.com/advanced-threat-research/IOCs)]([https://github.com/advanced-threat-research/IOCs](https://github.com/advanced-threat-research/IOCs))
+**Repository:** [https://github.com/advanced-threat-research/IOCs](https://github.com/advanced-threat-research/IOCs)
 
 **Author:** advanced-threat-research
 
@@ -488,7 +488,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## iocs
 
-**Repository:** [[https://github.com/fireeye/iocs](https://github.com/fireeye/iocs)]([https://github.com/fireeye/iocs](https://github.com/fireeye/iocs))
+**Repository:** [https://github.com/fireeye/iocs](https://github.com/fireeye/iocs)
 
 **Author:** fireeye
 
@@ -496,7 +496,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## ipv6-attack-detector
 
-**Repository:** [[https://github.com/mzweilin/ipv6-attack-detector](https://github.com/mzweilin/ipv6-attack-detector)]([https://github.com/mzweilin/ipv6-attack-detector](https://github.com/mzweilin/ipv6-attack-detector))
+**Repository:** [https://github.com/mzweilin/ipv6-attack-detector](https://github.com/mzweilin/ipv6-attack-detector)
 
 **Author:** mzweilin
 
@@ -504,7 +504,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## javascript-malware-collection
 
-**Repository:** [[https://github.com/HynekPetrak/javascript-malware-collection](https://github.com/HynekPetrak/javascript-malware-collection)]([https://github.com/HynekPetrak/javascript-malware-collection](https://github.com/HynekPetrak/javascript-malware-collection))
+**Repository:** [https://github.com/HynekPetrak/javascript-malware-collection](https://github.com/HynekPetrak/javascript-malware-collection)
 
 **Author:** HynekPetrak
 
@@ -512,7 +512,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## joy
 
-**Repository:** [[https://github.com/cisco/joy](https://github.com/cisco/joy)]([https://github.com/cisco/joy](https://github.com/cisco/joy))
+**Repository:** [https://github.com/cisco/joy](https://github.com/cisco/joy)
 
 **Author:** cisco
 
@@ -520,7 +520,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## klara
 
-**Repository:** [[https://github.com/KasperskyLab/klara](https://github.com/KasperskyLab/klara)]([https://github.com/KasperskyLab/klara](https://github.com/KasperskyLab/klara))
+**Repository:** [https://github.com/KasperskyLab/klara](https://github.com/KasperskyLab/klara)
 
 **Author:** KasperskyLab
 
@@ -528,7 +528,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## Limon
 
-**Repository:** [[https://github.com/monnappa22/Limon](https://github.com/monnappa22/Limon)]([https://github.com/monnappa22/Limon](https://github.com/monnappa22/Limon))
+**Repository:** [https://github.com/monnappa22/Limon](https://github.com/monnappa22/Limon)
 
 **Author:** monnappa22
 
@@ -536,7 +536,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## mailoney
 
-**Repository:** [[https://github.com/awhitehatter/mailoney](https://github.com/awhitehatter/mailoney)]([https://github.com/awhitehatter/mailoney](https://github.com/awhitehatter/mailoney))
+**Repository:** [https://github.com/awhitehatter/mailoney](https://github.com/awhitehatter/mailoney)
 
 **Author:** awhitehatter
 
@@ -544,7 +544,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## Malware
 
-**Repository:** [[https://github.com/RPISEC/Malware](https://github.com/RPISEC/Malware)]([https://github.com/RPISEC/Malware](https://github.com/RPISEC/Malware))
+**Repository:** [https://github.com/RPISEC/Malware](https://github.com/RPISEC/Malware)
 
 **Author:** RPISEC
 
@@ -552,7 +552,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## malware-analysis
 
-**Repository:** [[https://github.com/SpiderLabs/malware-analysis](https://github.com/SpiderLabs/malware-analysis)]([https://github.com/SpiderLabs/malware-analysis](https://github.com/SpiderLabs/malware-analysis))
+**Repository:** [https://github.com/SpiderLabs/malware-analysis](https://github.com/SpiderLabs/malware-analysis)
 
 **Author:** SpiderLabs
 
@@ -560,7 +560,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## malware-analysis-pipeline
 
-**Repository:** [[https://github.com/threatcat-ch/malware-analysis-pipeline](https://github.com/threatcat-ch/malware-analysis-pipeline)]([https://github.com/threatcat-ch/malware-analysis-pipeline](https://github.com/threatcat-ch/malware-analysis-pipeline))
+**Repository:** [https://github.com/threatcat-ch/malware-analysis-pipeline](https://github.com/threatcat-ch/malware-analysis-pipeline)
 
 **Author:** threatcat-ch
 
@@ -568,7 +568,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## malware-ioc
 
-**Repository:** [[https://github.com/eset/malware-ioc](https://github.com/eset/malware-ioc)]([https://github.com/eset/malware-ioc](https://github.com/eset/malware-ioc))
+**Repository:** [https://github.com/eset/malware-ioc](https://github.com/eset/malware-ioc)
 
 **Author:** eset
 
@@ -576,7 +576,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## malware_analysis
 
-**Repository:** [[https://github.com/telekom-security/malware_analysis](https://github.com/telekom-security/malware_analysis)]([https://github.com/telekom-security/malware_analysis](https://github.com/telekom-security/malware_analysis))
+**Repository:** [https://github.com/telekom-security/malware_analysis](https://github.com/telekom-security/malware_analysis)
 
 **Author:** telekom-security
 
@@ -584,7 +584,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## MARA_Framework
 
-**Repository:** [[https://github.com/xtiankisutsa/MARA_Framework](https://github.com/xtiankisutsa/MARA_Framework)]([https://github.com/xtiankisutsa/MARA_Framework](https://github.com/xtiankisutsa/MARA_Framework))
+**Repository:** [https://github.com/xtiankisutsa/MARA_Framework](https://github.com/xtiankisutsa/MARA_Framework)
 
 **Author:** xtiankisutsa
 
@@ -592,7 +592,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## margaritashotgun
 
-**Repository:** [[https://github.com/ThreatResponse/margaritashotgun](https://github.com/ThreatResponse/margaritashotgun)]([https://github.com/ThreatResponse/margaritashotgun](https://github.com/ThreatResponse/margaritashotgun))
+**Repository:** [https://github.com/ThreatResponse/margaritashotgun](https://github.com/ThreatResponse/margaritashotgun)
 
 **Author:** ThreatResponse
 
@@ -600,7 +600,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## Meerkat
 
-**Repository:** [[https://github.com/TonyPhipps/Meerkat](https://github.com/TonyPhipps/Meerkat)]([https://github.com/TonyPhipps/Meerkat](https://github.com/TonyPhipps/Meerkat))
+**Repository:** [https://github.com/TonyPhipps/Meerkat](https://github.com/TonyPhipps/Meerkat)
 
 **Author:** TonyPhipps
 
@@ -608,7 +608,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## mem
 
-**Repository:** [[https://github.com/MobileForensicsResearch/mem](https://github.com/MobileForensicsResearch/mem)]([https://github.com/MobileForensicsResearch/mem](https://github.com/MobileForensicsResearch/mem))
+**Repository:** [https://github.com/MobileForensicsResearch/mem](https://github.com/MobileForensicsResearch/mem)
 
 **Author:** MobileForensicsResearch
 
@@ -616,7 +616,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## mhn-core-docker
 
-**Repository:** [[https://github.com/MattCarothers/mhn-core-docker](https://github.com/MattCarothers/mhn-core-docker)]([https://github.com/MattCarothers/mhn-core-docker](https://github.com/MattCarothers/mhn-core-docker))
+**Repository:** [https://github.com/MattCarothers/mhn-core-docker](https://github.com/MattCarothers/mhn-core-docker)
 
 **Author:** MattCarothers
 
@@ -624,7 +624,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## mimipenguin
 
-**Repository:** [[https://github.com/huntergregal/mimipenguin](https://github.com/huntergregal/mimipenguin)]([https://github.com/huntergregal/mimipenguin](https://github.com/huntergregal/mimipenguin))
+**Repository:** [https://github.com/huntergregal/mimipenguin](https://github.com/huntergregal/mimipenguin)
 
 **Author:** huntergregal
 
@@ -632,7 +632,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## MISP
 
-**Repository:** [[https://github.com/MISP/MISP](https://github.com/MISP/MISP)]([https://github.com/MISP/MISP](https://github.com/MISP/MISP))
+**Repository:** [https://github.com/MISP/MISP](https://github.com/MISP/MISP)
 
 **Author:** MISP
 
@@ -640,7 +640,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## Mobile-Security-Framework-MobSF
 
-**Repository:** [[https://github.com/MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)]([https://github.com/MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF))
+**Repository:** [https://github.com/MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 
 **Author:** MobSF
 
@@ -648,7 +648,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## NightShade
 
-**Repository:** [[https://github.com/UnrealAkama/NightShade](https://github.com/UnrealAkama/NightShade)]([https://github.com/UnrealAkama/NightShade](https://github.com/UnrealAkama/NightShade))
+**Repository:** [https://github.com/UnrealAkama/NightShade](https://github.com/UnrealAkama/NightShade)
 
 **Author:** UnrealAkama
 
@@ -656,7 +656,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## nipe
 
-**Repository:** [[https://github.com/GouveaHeitor/nipe](https://github.com/GouveaHeitor/nipe)]([https://github.com/GouveaHeitor/nipe](https://github.com/GouveaHeitor/nipe))
+**Repository:** [https://github.com/GouveaHeitor/nipe](https://github.com/GouveaHeitor/nipe)
 
 **Author:** GouveaHeitor
 
@@ -664,7 +664,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## node-aptoide
 
-**Repository:** [[https://github.com/dweinstein/node-aptoide](https://github.com/dweinstein/node-aptoide)]([https://github.com/dweinstein/node-aptoide](https://github.com/dweinstein/node-aptoide))
+**Repository:** [https://github.com/dweinstein/node-aptoide](https://github.com/dweinstein/node-aptoide)
 
 **Author:** dweinstein
 
@@ -672,7 +672,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## noia
 
-**Repository:** [[https://github.com/0x742/noia](https://github.com/0x742/noia)]([https://github.com/0x742/noia](https://github.com/0x742/noia))
+**Repository:** [https://github.com/0x742/noia](https://github.com/0x742/noia)
 
 **Author:** 0x742
 
@@ -680,7 +680,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## Noriben
 
-**Repository:** [[https://github.com/Rurik/Noriben](https://github.com/Rurik/Noriben)]([https://github.com/Rurik/Noriben](https://github.com/Rurik/Noriben))
+**Repository:** [https://github.com/Rurik/Noriben](https://github.com/Rurik/Noriben)
 
 **Author:** Rurik
 
@@ -688,7 +688,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## OpenFPC
 
-**Repository:** [[https://github.com/leonward/OpenFPC](https://github.com/leonward/OpenFPC)]([https://github.com/leonward/OpenFPC](https://github.com/leonward/OpenFPC))
+**Repository:** [https://github.com/leonward/OpenFPC](https://github.com/leonward/OpenFPC)
 
 **Author:** leonward
 
@@ -696,7 +696,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## OSINT-steam
 
-**Repository:** [[https://github.com/Berchez/OSINT-steam](https://github.com/Berchez/OSINT-steam)]([https://github.com/Berchez/OSINT-steam](https://github.com/Berchez/OSINT-steam))
+**Repository:** [https://github.com/Berchez/OSINT-steam](https://github.com/Berchez/OSINT-steam)
 
 **Author:** Berchez
 
@@ -704,7 +704,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## packemon
 
-**Repository:** [[https://github.com/ddddddO/packemon](https://github.com/ddddddO/packemon)]([https://github.com/ddddddO/packemon](https://github.com/ddddddO/packemon))
+**Repository:** [https://github.com/ddddddO/packemon](https://github.com/ddddddO/packemon)
 
 **Author:** ddddddO
 
@@ -712,7 +712,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## pafish
 
-**Repository:** [[https://github.com/a0rtega/pafish](https://github.com/a0rtega/pafish)]([https://github.com/a0rtega/pafish](https://github.com/a0rtega/pafish))
+**Repository:** [https://github.com/a0rtega/pafish](https://github.com/a0rtega/pafish)
 
 **Author:** a0rtega
 
@@ -720,7 +720,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## PasitheaHoneypot
 
-**Repository:** [[https://github.com/Marist-Innovation-Lab/PasitheaHoneypot](https://github.com/Marist-Innovation-Lab/PasitheaHoneypot)]([https://github.com/Marist-Innovation-Lab/PasitheaHoneypot](https://github.com/Marist-Innovation-Lab/PasitheaHoneypot))
+**Repository:** [https://github.com/Marist-Innovation-Lab/PasitheaHoneypot](https://github.com/Marist-Innovation-Lab/PasitheaHoneypot)
 
 **Author:** Marist-Innovation-Lab
 
@@ -728,7 +728,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## pcap2har
 
-**Repository:** [[https://github.com/andrewf/pcap2har](https://github.com/andrewf/pcap2har)]([https://github.com/andrewf/pcap2har](https://github.com/andrewf/pcap2har))
+**Repository:** [https://github.com/andrewf/pcap2har](https://github.com/andrewf/pcap2har)
 
 **Author:** andrewf
 
@@ -736,7 +736,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## pcaptoparquet
 
-**Repository:** [[https://github.com/nokia/pcaptoparquet](https://github.com/nokia/pcaptoparquet)]([https://github.com/nokia/pcaptoparquet](https://github.com/nokia/pcaptoparquet))
+**Repository:** [https://github.com/nokia/pcaptoparquet](https://github.com/nokia/pcaptoparquet)
 
 **Author:** nokia
 
@@ -744,7 +744,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## PIE
 
-**Repository:** [[https://github.com/LogRhythm-Labs/PIE](https://github.com/LogRhythm-Labs/PIE)]([https://github.com/LogRhythm-Labs/PIE](https://github.com/LogRhythm-Labs/PIE))
+**Repository:** [https://github.com/LogRhythm-Labs/PIE](https://github.com/LogRhythm-Labs/PIE)
 
 **Author:** LogRhythm-Labs
 
@@ -752,7 +752,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## plyara
 
-**Repository:** [[https://github.com/plyara/plyara](https://github.com/plyara/plyara)]([https://github.com/plyara/plyara](https://github.com/plyara/plyara))
+**Repository:** [https://github.com/plyara/plyara](https://github.com/plyara/plyara)
 
 **Author:** plyara
 
@@ -760,7 +760,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## PortEx
 
-**Repository:** [[https://github.com/katjahahn/PortEx](https://github.com/katjahahn/PortEx)]([https://github.com/katjahahn/PortEx](https://github.com/katjahahn/PortEx))
+**Repository:** [https://github.com/katjahahn/PortEx](https://github.com/katjahahn/PortEx)
 
 **Author:** katjahahn
 
@@ -768,7 +768,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## potiron
 
-**Repository:** [[https://github.com/CIRCL/potiron](https://github.com/CIRCL/potiron)]([https://github.com/CIRCL/potiron](https://github.com/CIRCL/potiron))
+**Repository:** [https://github.com/CIRCL/potiron](https://github.com/CIRCL/potiron)
 
 **Author:** CIRCL
 
@@ -776,7 +776,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## protections-artifacts
 
-**Repository:** [[https://github.com/elastic/protections-artifacts](https://github.com/elastic/protections-artifacts)]([https://github.com/elastic/protections-artifacts](https://github.com/elastic/protections-artifacts))
+**Repository:** [https://github.com/elastic/protections-artifacts](https://github.com/elastic/protections-artifacts)
 
 **Author:** elastic
 
@@ -784,7 +784,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## PSHunt
 
-**Repository:** [[https://github.com/Infocyte/PSHunt](https://github.com/Infocyte/PSHunt)]([https://github.com/Infocyte/PSHunt](https://github.com/Infocyte/PSHunt))
+**Repository:** [https://github.com/Infocyte/PSHunt](https://github.com/Infocyte/PSHunt)
 
 **Author:** Infocyte
 
@@ -792,7 +792,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## pwnagotchi
 
-**Repository:** [[https://github.com/evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi)]([https://github.com/evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi))
+**Repository:** [https://github.com/evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi)
 
 **Author:** evilsocket
 
@@ -800,7 +800,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## pygreynoise
 
-**Repository:** [[https://github.com/GreyNoise-Intelligence/pygreynoise](https://github.com/GreyNoise-Intelligence/pygreynoise)]([https://github.com/GreyNoise-Intelligence/pygreynoise](https://github.com/GreyNoise-Intelligence/pygreynoise))
+**Repository:** [https://github.com/GreyNoise-Intelligence/pygreynoise](https://github.com/GreyNoise-Intelligence/pygreynoise)
 
 **Author:** GreyNoise-Intelligence
 
@@ -808,7 +808,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## PyIOCe
 
-**Repository:** [[https://github.com/pidydx/PyIOCe](https://github.com/pidydx/PyIOCe)]([https://github.com/pidydx/PyIOCe](https://github.com/pidydx/PyIOCe))
+**Repository:** [https://github.com/pidydx/PyIOCe](https://github.com/pidydx/PyIOCe)
 
 **Author:** pidydx
 
@@ -816,7 +816,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## python-iocextract
 
-**Repository:** [[https://github.com/InQuest/python-iocextract](https://github.com/InQuest/python-iocextract)]([https://github.com/InQuest/python-iocextract](https://github.com/InQuest/python-iocextract))
+**Repository:** [https://github.com/InQuest/python-iocextract](https://github.com/InQuest/python-iocextract)
 
 **Author:** InQuest
 
@@ -824,7 +824,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## python-sandboxapi
 
-**Repository:** [[https://github.com/InQuest/python-sandboxapi](https://github.com/InQuest/python-sandboxapi)]([https://github.com/InQuest/python-sandboxapi](https://github.com/InQuest/python-sandboxapi))
+**Repository:** [https://github.com/InQuest/python-sandboxapi](https://github.com/InQuest/python-sandboxapi)
 
 **Author:** InQuest
 
@@ -832,7 +832,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## Quantickle
 
-**Repository:** [[https://github.com/RSAC-Labs/Quantickle](https://github.com/RSAC-Labs/Quantickle)]([https://github.com/RSAC-Labs/Quantickle](https://github.com/RSAC-Labs/Quantickle))
+**Repository:** [https://github.com/RSAC-Labs/Quantickle](https://github.com/RSAC-Labs/Quantickle)
 
 **Author:** RSAC-Labs
 
@@ -840,7 +840,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## QueenSono
 
-**Repository:** [[https://github.com/ariary/QueenSono](https://github.com/ariary/QueenSono)]([https://github.com/ariary/QueenSono](https://github.com/ariary/QueenSono))
+**Repository:** [https://github.com/ariary/QueenSono](https://github.com/ariary/QueenSono)
 
 **Author:** ariary
 
@@ -848,7 +848,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## Ragpicker
 
-**Repository:** [[https://github.com/robbyFux/Ragpicker](https://github.com/robbyFux/Ragpicker)]([https://github.com/robbyFux/Ragpicker](https://github.com/robbyFux/Ragpicker))
+**Repository:** [https://github.com/robbyFux/Ragpicker](https://github.com/robbyFux/Ragpicker)
 
 **Author:** robbyFux
 
@@ -856,7 +856,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## Rapid7-Labs
 
-**Repository:** [[https://github.com/rapid7/Rapid7-Labs](https://github.com/rapid7/Rapid7-Labs)]([https://github.com/rapid7/Rapid7-Labs](https://github.com/rapid7/Rapid7-Labs))
+**Repository:** [https://github.com/rapid7/Rapid7-Labs](https://github.com/rapid7/Rapid7-Labs)
 
 **Author:** rapid7
 
@@ -864,7 +864,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## RedHunt-OS
 
-**Repository:** [[https://github.com/redhuntlabs/RedHunt-OS](https://github.com/redhuntlabs/RedHunt-OS)]([https://github.com/redhuntlabs/RedHunt-OS](https://github.com/redhuntlabs/RedHunt-OS))
+**Repository:** [https://github.com/redhuntlabs/RedHunt-OS](https://github.com/redhuntlabs/RedHunt-OS)
 
 **Author:** redhuntlabs
 
@@ -872,7 +872,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## reversinglabs-yara-rules
 
-**Repository:** [[https://github.com/reversinglabs/reversinglabs-yara-rules](https://github.com/reversinglabs/reversinglabs-yara-rules)]([https://github.com/reversinglabs/reversinglabs-yara-rules](https://github.com/reversinglabs/reversinglabs-yara-rules))
+**Repository:** [https://github.com/reversinglabs/reversinglabs-yara-rules](https://github.com/reversinglabs/reversinglabs-yara-rules)
 
 **Author:** reversinglabs
 
@@ -880,7 +880,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## routersploit
 
-**Repository:** [[https://github.com/reverse-shell/routersploit](https://github.com/reverse-shell/routersploit)]([https://github.com/reverse-shell/routersploit](https://github.com/reverse-shell/routersploit))
+**Repository:** [https://github.com/reverse-shell/routersploit](https://github.com/reverse-shell/routersploit)
 
 **Author:** reverse-shell
 
@@ -888,7 +888,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## Rubeus
 
-**Repository:** [[https://github.com/GhostPack/Rubeus](https://github.com/GhostPack/Rubeus)]([https://github.com/GhostPack/Rubeus](https://github.com/GhostPack/Rubeus))
+**Repository:** [https://github.com/GhostPack/Rubeus](https://github.com/GhostPack/Rubeus)
 
 **Author:** GhostPack
 
@@ -896,7 +896,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## see
 
-**Repository:** [[https://github.com/F-Secure/see](https://github.com/F-Secure/see)]([https://github.com/F-Secure/see](https://github.com/F-Secure/see))
+**Repository:** [https://github.com/F-Secure/see](https://github.com/F-Secure/see)
 
 **Author:** F-Secure
 
@@ -904,7 +904,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## sigma
 
-**Repository:** [[https://github.com/Neo23x0/sigma](https://github.com/Neo23x0/sigma)]([https://github.com/Neo23x0/sigma](https://github.com/Neo23x0/sigma))
+**Repository:** [https://github.com/Neo23x0/sigma](https://github.com/Neo23x0/sigma)
 
 **Author:** Neo23x0
 
@@ -912,7 +912,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## SMRT
 
-**Repository:** [[https://github.com/pidydx/SMRT](https://github.com/pidydx/SMRT)]([https://github.com/pidydx/SMRT](https://github.com/pidydx/SMRT))
+**Repository:** [https://github.com/pidydx/SMRT](https://github.com/pidydx/SMRT)
 
 **Author:** pidydx
 
@@ -920,7 +920,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## spamhat
 
-**Repository:** [[https://github.com/miguelraulb/spamhat](https://github.com/miguelraulb/spamhat)]([https://github.com/miguelraulb/spamhat](https://github.com/miguelraulb/spamhat))
+**Repository:** [https://github.com/miguelraulb/spamhat](https://github.com/miguelraulb/spamhat)
 
 **Author:** miguelraulb
 
@@ -928,7 +928,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## spyre
 
-**Repository:** [[https://github.com/spyre-project/spyre](https://github.com/spyre-project/spyre)]([https://github.com/spyre-project/spyre](https://github.com/spyre-project/spyre))
+**Repository:** [https://github.com/spyre-project/spyre](https://github.com/spyre-project/spyre)
 
 **Author:** spyre-project
 
@@ -936,7 +936,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## static_file_analysis
 
-**Repository:** [[https://github.com/lprat/static_file_analysis](https://github.com/lprat/static_file_analysis)]([https://github.com/lprat/static_file_analysis](https://github.com/lprat/static_file_analysis))
+**Repository:** [https://github.com/lprat/static_file_analysis](https://github.com/lprat/static_file_analysis)
 
 **Author:** lprat
 
@@ -944,7 +944,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## steam-osint
 
-**Repository:** [[https://github.com/matiash26/steam-osint](https://github.com/matiash26/steam-osint)]([https://github.com/matiash26/steam-osint](https://github.com/matiash26/steam-osint))
+**Repository:** [https://github.com/matiash26/steam-osint](https://github.com/matiash26/steam-osint)
 
 **Author:** matiash26
 
@@ -952,7 +952,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## stenographer
 
-**Repository:** [[https://github.com/google/stenographer](https://github.com/google/stenographer)]([https://github.com/google/stenographer](https://github.com/google/stenographer))
+**Repository:** [https://github.com/google/stenographer](https://github.com/google/stenographer)
 
 **Author:** google
 
@@ -960,7 +960,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## stringsifter
 
-**Repository:** [[https://github.com/fireeye/stringsifter](https://github.com/fireeye/stringsifter)]([https://github.com/fireeye/stringsifter](https://github.com/fireeye/stringsifter))
+**Repository:** [https://github.com/fireeye/stringsifter](https://github.com/fireeye/stringsifter)
 
 **Author:** fireeye
 
@@ -968,7 +968,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## Sublist3r
 
-**Repository:** [[https://github.com/aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r)]([https://github.com/aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r))
+**Repository:** [https://github.com/aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r)
 
 **Author:** aboul3la
 
@@ -976,7 +976,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## Telerecon
 
-**Repository:** [[https://github.com/sockysec/Telerecon](https://github.com/sockysec/Telerecon)]([https://github.com/sockysec/Telerecon](https://github.com/sockysec/Telerecon))
+**Repository:** [https://github.com/sockysec/Telerecon](https://github.com/sockysec/Telerecon)
 
 **Author:** sockysec
 
@@ -984,7 +984,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## teller
 
-**Repository:** [[https://github.com/spectralops/teller](https://github.com/spectralops/teller)]([https://github.com/spectralops/teller](https://github.com/spectralops/teller))
+**Repository:** [https://github.com/spectralops/teller](https://github.com/spectralops/teller)
 
 **Author:** spectralops
 
@@ -992,7 +992,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## tfox
 
-**Repository:** [[https://github.com/andpalmier/tfox](https://github.com/andpalmier/tfox)]([https://github.com/andpalmier/tfox](https://github.com/andpalmier/tfox))
+**Repository:** [https://github.com/andpalmier/tfox](https://github.com/andpalmier/tfox)
 
 **Author:** andpalmier
 
@@ -1000,7 +1000,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## Threat-Actor-Usernames-Scrape
 
-**Repository:** [[https://github.com/spmedia/Threat-Actor-Usernames-Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape)]([https://github.com/spmedia/Threat-Actor-Usernames-Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape))
+**Repository:** [https://github.com/spmedia/Threat-Actor-Usernames-Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape)
 
 **Author:** spmedia
 
@@ -1008,7 +1008,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## threat-intel
 
-**Repository:** [[https://github.com/volexity/threat-intel](https://github.com/volexity/threat-intel)]([https://github.com/volexity/threat-intel](https://github.com/volexity/threat-intel))
+**Repository:** [https://github.com/volexity/threat-intel](https://github.com/volexity/threat-intel)
 
 **Author:** volexity
 
@@ -1016,7 +1016,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## threat_note
 
-**Repository:** [[https://github.com/defpoint/threat_note](https://github.com/defpoint/threat_note)]([https://github.com/defpoint/threat_note](https://github.com/defpoint/threat_note))
+**Repository:** [https://github.com/defpoint/threat_note](https://github.com/defpoint/threat_note)
 
 **Author:** defpoint
 
@@ -1024,7 +1024,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## threatbus
 
-**Repository:** [[https://github.com/tenzir/threatbus](https://github.com/tenzir/threatbus)]([https://github.com/tenzir/threatbus](https://github.com/tenzir/threatbus))
+**Repository:** [https://github.com/tenzir/threatbus](https://github.com/tenzir/threatbus)
 
 **Author:** tenzir
 
@@ -1032,7 +1032,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## ThreatHunting-Keywords-yara-rules
 
-**Repository:** [[https://github.com/mthcht/ThreatHunting-Keywords-yara-rules](https://github.com/mthcht/ThreatHunting-Keywords-yara-rules)]([https://github.com/mthcht/ThreatHunting-Keywords-yara-rules](https://github.com/mthcht/ThreatHunting-Keywords-yara-rules))
+**Repository:** [https://github.com/mthcht/ThreatHunting-Keywords-yara-rules](https://github.com/mthcht/ThreatHunting-Keywords-yara-rules)
 
 **Author:** mthcht
 
@@ -1040,7 +1040,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## ThreatIngestor
 
-**Repository:** [[https://github.com/InQuest/ThreatIngestor](https://github.com/InQuest/ThreatIngestor)]([https://github.com/InQuest/ThreatIngestor](https://github.com/InQuest/ThreatIngestor))
+**Repository:** [https://github.com/InQuest/ThreatIngestor](https://github.com/InQuest/ThreatIngestor)
 
 **Author:** InQuest
 
@@ -1048,7 +1048,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## ThreatKB
 
-**Repository:** [[https://github.com/InQuest/ThreatKB](https://github.com/InQuest/ThreatKB)]([https://github.com/InQuest/ThreatKB](https://github.com/InQuest/ThreatKB))
+**Repository:** [https://github.com/InQuest/ThreatKB](https://github.com/InQuest/ThreatKB)
 
 **Author:** InQuest
 
@@ -1056,7 +1056,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## ThreatMapper
 
-**Repository:** [[https://github.com/deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper)]([https://github.com/deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper))
+**Repository:** [https://github.com/deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper)
 
 **Author:** deepfence
 
@@ -1064,7 +1064,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## ThreatTracker
 
-**Repository:** [[https://github.com/michael-yip/ThreatTracker](https://github.com/michael-yip/ThreatTracker)]([https://github.com/michael-yip/ThreatTracker](https://github.com/michael-yip/ThreatTracker))
+**Repository:** [https://github.com/michael-yip/ThreatTracker](https://github.com/michael-yip/ThreatTracker)
 
 **Author:** michael-yip
 
@@ -1072,7 +1072,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## tiq-test
 
-**Repository:** [[https://github.com/mlsecproject/tiq-test](https://github.com/mlsecproject/tiq-test)]([https://github.com/mlsecproject/tiq-test](https://github.com/mlsecproject/tiq-test))
+**Repository:** [https://github.com/mlsecproject/tiq-test](https://github.com/mlsecproject/tiq-test)
 
 **Author:** mlsecproject
 
@@ -1080,7 +1080,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## tosint
 
-**Repository:** [[https://github.com/drego85/tosint](https://github.com/drego85/tosint)]([https://github.com/drego85/tosint](https://github.com/drego85/tosint))
+**Repository:** [https://github.com/drego85/tosint](https://github.com/drego85/tosint)
 
 **Author:** drego85
 
@@ -1088,7 +1088,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## tplmap
 
-**Repository:** [[https://github.com/epinna/tplmap](https://github.com/epinna/tplmap)]([https://github.com/epinna/tplmap](https://github.com/epinna/tplmap))
+**Repository:** [https://github.com/epinna/tplmap](https://github.com/epinna/tplmap)
 
 **Author:** epinna
 
@@ -1096,7 +1096,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## trapster-community
 
-**Repository:** [[https://github.com/0xBallpoint/trapster-community](https://github.com/0xBallpoint/trapster-community)]([https://github.com/0xBallpoint/trapster-community](https://github.com/0xBallpoint/trapster-community))
+**Repository:** [https://github.com/0xBallpoint/trapster-community](https://github.com/0xBallpoint/trapster-community)
 
 **Author:** 0xBallpoint
 
@@ -1104,7 +1104,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## UEFITool
 
-**Repository:** [[https://github.com/LongSoft/UEFITool](https://github.com/LongSoft/UEFITool)]([https://github.com/LongSoft/UEFITool](https://github.com/LongSoft/UEFITool))
+**Repository:** [https://github.com/LongSoft/UEFITool](https://github.com/LongSoft/UEFITool)
 
 **Author:** LongSoft
 
@@ -1112,7 +1112,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## velociraptor
 
-**Repository:** [[https://github.com/Velocidex/velociraptor](https://github.com/Velocidex/velociraptor)]([https://github.com/Velocidex/velociraptor](https://github.com/Velocidex/velociraptor))
+**Repository:** [https://github.com/Velocidex/velociraptor](https://github.com/Velocidex/velociraptor)
 
 **Author:** Velocidex
 
@@ -1120,7 +1120,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## Vezir-Project
 
-**Repository:** [[https://github.com/oguzhantopgul/Vezir-Project](https://github.com/oguzhantopgul/Vezir-Project)]([https://github.com/oguzhantopgul/Vezir-Project](https://github.com/oguzhantopgul/Vezir-Project))
+**Repository:** [https://github.com/oguzhantopgul/Vezir-Project](https://github.com/oguzhantopgul/Vezir-Project)
 
 **Author:** oguzhantopgul
 
@@ -1128,7 +1128,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## vmcloak
 
-**Repository:** [[https://github.com/hatching/vmcloak](https://github.com/hatching/vmcloak)]([https://github.com/hatching/vmcloak](https://github.com/hatching/vmcloak))
+**Repository:** [https://github.com/hatching/vmcloak](https://github.com/hatching/vmcloak)
 
 **Author:** hatching
 
@@ -1136,7 +1136,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## VolDiff
 
-**Repository:** [[https://github.com/aim4r/VolDiff](https://github.com/aim4r/VolDiff)]([https://github.com/aim4r/VolDiff](https://github.com/aim4r/VolDiff))
+**Repository:** [https://github.com/aim4r/VolDiff](https://github.com/aim4r/VolDiff)
 
 **Author:** aim4r
 
@@ -1144,7 +1144,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## Windows-Red-Team-Cheat-Sheet
 
-**Repository:** [[https://github.com/morph3/Windows-Red-Team-Cheat-Sheet](https://github.com/morph3/Windows-Red-Team-Cheat-Sheet)]([https://github.com/morph3/Windows-Red-Team-Cheat-Sheet](https://github.com/morph3/Windows-Red-Team-Cheat-Sheet))
+**Repository:** [https://github.com/morph3/Windows-Red-Team-Cheat-Sheet](https://github.com/morph3/Windows-Red-Team-Cheat-Sheet)
 
 **Author:** morph3
 
@@ -1152,7 +1152,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## yara-endpoint
 
-**Repository:** [[https://github.com/Yara-Rules/yara-endpoint](https://github.com/Yara-Rules/yara-endpoint)]([https://github.com/Yara-Rules/yara-endpoint](https://github.com/Yara-Rules/yara-endpoint))
+**Repository:** [https://github.com/Yara-Rules/yara-endpoint](https://github.com/Yara-Rules/yara-endpoint)
 
 **Author:** Yara-Rules
 
@@ -1160,7 +1160,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## yara-finder
 
-**Repository:** [[https://github.com/uppusaikiran/yara-finder](https://github.com/uppusaikiran/yara-finder)]([https://github.com/uppusaikiran/yara-finder](https://github.com/uppusaikiran/yara-finder))
+**Repository:** [https://github.com/uppusaikiran/yara-finder](https://github.com/uppusaikiran/yara-finder)
 
 **Author:** uppusaikiran
 
@@ -1168,7 +1168,7 @@ A curated collection of threat intelligence tools, platforms, and resources for 
 
 ## YARA-Matches-Correspondance-Array
 
-**Repository:** [[https://github.com/m0n4/YARA-Matches-Correspondance-Array](https://github.com/m0n4/YARA-Matches-Correspondance-Array)]([https://github.com/m0n4/YARA-Matches-Correspondance-Array](https://github.com/m0n4/YARA-Matches-Correspondance-Array))
+**Repository:** [https://github.com/m0n4/YARA-Matches-Correspondance-Array](https://github.com/m0n4/YARA-Matches-Correspondance-Array)
 
 **Author:** m0n4
 

@@ -8,7 +8,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## acra
 
-**Repository:** [[https://github.com/cossacklabs/acra](https://github.com/cossacklabs/acra)]([https://github.com/cossacklabs/acra](https://github.com/cossacklabs/acra))
+**Repository:** [https://github.com/cossacklabs/acra](https://github.com/cossacklabs/acra)
 
 **Author:** cossacklabs
 
@@ -16,7 +16,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## AlienVaultLabs
 
-**Repository:** [[https://github.com/AlienVault-Labs/AlienVaultLabs](https://github.com/AlienVault-Labs/AlienVaultLabs)]([https://github.com/AlienVault-Labs/AlienVaultLabs](https://github.com/AlienVault-Labs/AlienVaultLabs))
+**Repository:** [https://github.com/AlienVault-Labs/AlienVaultLabs](https://github.com/AlienVault-Labs/AlienVaultLabs)
 
 **Author:** AlienVault-Labs
 
@@ -24,7 +24,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## AllAboutBugBounty
 
-**Repository:** [[https://github.com/daffainfo/AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty)]([https://github.com/daffainfo/AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty))
+**Repository:** [https://github.com/daffainfo/AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty)
 
 **Author:** daffainfo
 
@@ -32,7 +32,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## AMDH
 
-**Repository:** [[https://github.com/SecTheTech/AMDH](https://github.com/SecTheTech/AMDH)]([https://github.com/SecTheTech/AMDH](https://github.com/SecTheTech/AMDH))
+**Repository:** [https://github.com/SecTheTech/AMDH](https://github.com/SecTheTech/AMDH)
 
 **Author:** SecTheTech
 
@@ -40,7 +40,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## AnalyzePDF
 
-**Repository:** [[https://github.com/hiddenillusion/AnalyzePDF](https://github.com/hiddenillusion/AnalyzePDF)]([https://github.com/hiddenillusion/AnalyzePDF](https://github.com/hiddenillusion/AnalyzePDF))
+**Repository:** [https://github.com/hiddenillusion/AnalyzePDF](https://github.com/hiddenillusion/AnalyzePDF)
 
 **Author:** hiddenillusion
 
@@ -48,7 +48,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## AnalyzePE
 
-**Repository:** [[https://github.com/hiddenillusion/AnalyzePE](https://github.com/hiddenillusion/AnalyzePE)]([https://github.com/hiddenillusion/AnalyzePE](https://github.com/hiddenillusion/AnalyzePE))
+**Repository:** [https://github.com/hiddenillusion/AnalyzePE](https://github.com/hiddenillusion/AnalyzePE)
 
 **Author:** hiddenillusion
 
@@ -56,7 +56,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## android-completion
 
-**Repository:** [[https://github.com/mbrubeck/android-completion](https://github.com/mbrubeck/android-completion)]([https://github.com/mbrubeck/android-completion](https://github.com/mbrubeck/android-completion))
+**Repository:** [https://github.com/mbrubeck/android-completion](https://github.com/mbrubeck/android-completion)
 
 **Author:** mbrubeck
 
@@ -64,7 +64,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## Android-InsecureBankv2
 
-**Repository:** [[https://github.com/dineshshetty/Android-InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2)]([https://github.com/dineshshetty/Android-InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2))
+**Repository:** [https://github.com/dineshshetty/Android-InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2)
 
 **Author:** dineshshetty
 
@@ -72,7 +72,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## android-vts
 
-**Repository:** [[https://github.com/AndroidVTS/android-vts](https://github.com/AndroidVTS/android-vts)]([https://github.com/AndroidVTS/android-vts](https://github.com/AndroidVTS/android-vts))
+**Repository:** [https://github.com/AndroidVTS/android-vts](https://github.com/AndroidVTS/android-vts)
 
 **Author:** AndroidVTS
 
@@ -80,7 +80,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## Androl4b
 
-**Repository:** [[https://github.com/sh4hin/Androl4b](https://github.com/sh4hin/Androl4b)]([https://github.com/sh4hin/Androl4b](https://github.com/sh4hin/Androl4b))
+**Repository:** [https://github.com/sh4hin/Androl4b](https://github.com/sh4hin/Androl4b)
 
 **Author:** sh4hin
 
@@ -88,7 +88,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## APKLab
 
-**Repository:** [[https://github.com/APKLab/APKLab](https://github.com/APKLab/APKLab)]([https://github.com/APKLab/APKLab](https://github.com/APKLab/APKLab))
+**Repository:** [https://github.com/APKLab/APKLab](https://github.com/APKLab/APKLab)
 
 **Author:** APKLab
 
@@ -96,7 +96,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## appencryptor
 
-**Repository:** [[https://github.com/AlanQuatermain/appencryptor](https://github.com/AlanQuatermain/appencryptor)]([https://github.com/AlanQuatermain/appencryptor](https://github.com/AlanQuatermain/appencryptor))
+**Repository:** [https://github.com/AlanQuatermain/appencryptor](https://github.com/AlanQuatermain/appencryptor)
 
 **Author:** AlanQuatermain
 
@@ -104,7 +104,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## arctic_shift
 
-**Repository:** [[https://github.com/ArthurHeitmann/arctic_shift](https://github.com/ArthurHeitmann/arctic_shift)]([https://github.com/ArthurHeitmann/arctic_shift](https://github.com/ArthurHeitmann/arctic_shift))
+**Repository:** [https://github.com/ArthurHeitmann/arctic_shift](https://github.com/ArthurHeitmann/arctic_shift)
 
 **Author:** ArthurHeitmann
 
@@ -112,7 +112,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## arkime
 
-**Repository:** [[https://github.com/arkime/arkime](https://github.com/arkime/arkime)]([https://github.com/arkime/arkime](https://github.com/arkime/arkime))
+**Repository:** [https://github.com/arkime/arkime](https://github.com/arkime/arkime)
 
 **Author:** arkime
 
@@ -120,7 +120,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## awesome
 
-**Repository:** [[https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)]([https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome))
+**Repository:** [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 
 **Author:** sindresorhus
 
@@ -128,7 +128,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## awesome-crypto-papers
 
-**Repository:** [[https://github.com/pFarb/awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers)]([https://github.com/pFarb/awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers))
+**Repository:** [https://github.com/pFarb/awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers)
 
 **Author:** pFarb
 
@@ -136,7 +136,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## awesome-ctf
 
-**Repository:** [[https://github.com/apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf)]([https://github.com/apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf))
+**Repository:** [https://github.com/apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf)
 
 **Author:** apsdehal
 
@@ -144,7 +144,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## awesome-ctf-cheatsheet
 
-**Repository:** [[https://github.com/uppusaikiran/awesome-ctf-cheatsheet](https://github.com/uppusaikiran/awesome-ctf-cheatsheet)]([https://github.com/uppusaikiran/awesome-ctf-cheatsheet](https://github.com/uppusaikiran/awesome-ctf-cheatsheet))
+**Repository:** [https://github.com/uppusaikiran/awesome-ctf-cheatsheet](https://github.com/uppusaikiran/awesome-ctf-cheatsheet)
 
 **Author:** uppusaikiran
 
@@ -152,7 +152,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## awesome-devsecops
 
-**Repository:** [[https://github.com/devsecops/awesome-devsecops](https://github.com/devsecops/awesome-devsecops)]([https://github.com/devsecops/awesome-devsecops](https://github.com/devsecops/awesome-devsecops))
+**Repository:** [https://github.com/devsecops/awesome-devsecops](https://github.com/devsecops/awesome-devsecops)
 
 **Author:** devsecops
 
@@ -160,7 +160,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## awesome-electron
 
-**Repository:** [[https://github.com/sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron)]([https://github.com/sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron))
+**Repository:** [https://github.com/sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron)
 
 **Author:** sindresorhus
 
@@ -168,7 +168,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## Awesome-Fuzzing
 
-**Repository:** [[https://github.com/secfigo/Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)]([https://github.com/secfigo/Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing))
+**Repository:** [https://github.com/secfigo/Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
 
 **Author:** secfigo
 
@@ -176,7 +176,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## awesome-hacking
 
-**Repository:** [[https://github.com/carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking)]([https://github.com/carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking))
+**Repository:** [https://github.com/carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking)
 
 **Author:** carpedm20
 
@@ -184,7 +184,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## awesome-infosec
 
-**Repository:** [[https://github.com/onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec)]([https://github.com/onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec))
+**Repository:** [https://github.com/onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec)
 
 **Author:** onlurking
 
@@ -192,7 +192,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## awesome-k8s-security
 
-**Repository:** [[https://github.com/magnologan/awesome-k8s-security](https://github.com/magnologan/awesome-k8s-security)]([https://github.com/magnologan/awesome-k8s-security](https://github.com/magnologan/awesome-k8s-security))
+**Repository:** [https://github.com/magnologan/awesome-k8s-security](https://github.com/magnologan/awesome-k8s-security)
 
 **Author:** magnologan
 
@@ -200,7 +200,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## awesome-linux-containers
 
-**Repository:** [[https://github.com/Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers)]([https://github.com/Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers))
+**Repository:** [https://github.com/Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers)
 
 **Author:** Friz-zy
 
@@ -208,7 +208,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## awesome-machine-learning
 
-**Repository:** [[https://github.com/josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)]([https://github.com/josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning))
+**Repository:** [https://github.com/josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 **Author:** josephmisiti
 
@@ -216,7 +216,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## awesome-ml-for-cybersecurity
 
-**Repository:** [[https://github.com/jivoi/awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity)]([https://github.com/jivoi/awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity))
+**Repository:** [https://github.com/jivoi/awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 
 **Author:** jivoi
 
@@ -224,7 +224,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## awesome-php
 
-**Repository:** [[https://github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)]([https://github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php))
+**Repository:** [https://github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 **Author:** ziadoz
 
@@ -232,7 +232,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## awesome-privacy
 
-**Repository:** [[https://github.com/lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy)]([https://github.com/lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy))
+**Repository:** [https://github.com/lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy)
 
 **Author:** lissy93
 
@@ -240,7 +240,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## awesome-reversing
 
-**Repository:** [[https://github.com/tylerha97/awesome-reversing](https://github.com/tylerha97/awesome-reversing)]([https://github.com/tylerha97/awesome-reversing](https://github.com/tylerha97/awesome-reversing))
+**Repository:** [https://github.com/tylerha97/awesome-reversing](https://github.com/tylerha97/awesome-reversing)
 
 **Author:** tylerha97
 
@@ -248,7 +248,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## awesome-security-hardening
 
-**Repository:** [[https://github.com/decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening)]([https://github.com/decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening))
+**Repository:** [https://github.com/decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening)
 
 **Author:** decalage2
 
@@ -256,7 +256,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## awesome-shodan-queries
 
-**Repository:** [[https://github.com/jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries)]([https://github.com/jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries))
+**Repository:** [https://github.com/jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries)
 
 **Author:** jakejarvis
 
@@ -264,7 +264,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## awesome-web-security
 
-**Repository:** [[https://github.com/qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security)]([https://github.com/qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security))
+**Repository:** [https://github.com/qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security)
 
 **Author:** qazbnm456
 
@@ -272,7 +272,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## aws-serverless-security-workshop
 
-**Repository:** [[https://github.com/aws-samples/aws-serverless-security-workshop](https://github.com/aws-samples/aws-serverless-security-workshop)]([https://github.com/aws-samples/aws-serverless-security-workshop](https://github.com/aws-samples/aws-serverless-security-workshop))
+**Repository:** [https://github.com/aws-samples/aws-serverless-security-workshop](https://github.com/aws-samples/aws-serverless-security-workshop)
 
 **Author:** aws-samples
 
@@ -280,7 +280,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## boomerang
 
-**Repository:** [[https://github.com/BoomerangDecompiler/boomerang](https://github.com/BoomerangDecompiler/boomerang)]([https://github.com/BoomerangDecompiler/boomerang](https://github.com/BoomerangDecompiler/boomerang))
+**Repository:** [https://github.com/BoomerangDecompiler/boomerang](https://github.com/BoomerangDecompiler/boomerang)
 
 **Author:** BoomerangDecompiler
 
@@ -288,7 +288,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## checksec.sh
 
-**Repository:** [[https://github.com/slimm609/checksec.sh](https://github.com/slimm609/checksec.sh)]([https://github.com/slimm609/checksec.sh](https://github.com/slimm609/checksec.sh))
+**Repository:** [https://github.com/slimm609/checksec.sh](https://github.com/slimm609/checksec.sh)
 
 **Author:** slimm609
 
@@ -296,7 +296,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## CitrixHoneypot
 
-**Repository:** [[https://github.com/MalwareTech/CitrixHoneypot](https://github.com/MalwareTech/CitrixHoneypot)]([https://github.com/MalwareTech/CitrixHoneypot](https://github.com/MalwareTech/CitrixHoneypot))
+**Repository:** [https://github.com/MalwareTech/CitrixHoneypot](https://github.com/MalwareTech/CitrixHoneypot)
 
 **Author:** MalwareTech
 
@@ -304,7 +304,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## combine
 
-**Repository:** [[https://github.com/mlsecproject/combine](https://github.com/mlsecproject/combine)]([https://github.com/mlsecproject/combine](https://github.com/mlsecproject/combine))
+**Repository:** [https://github.com/mlsecproject/combine](https://github.com/mlsecproject/combine)
 
 **Author:** mlsecproject
 
@@ -312,7 +312,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## confidant
 
-**Repository:** [[https://github.com/lyft/confidant](https://github.com/lyft/confidant)]([https://github.com/lyft/confidant](https://github.com/lyft/confidant))
+**Repository:** [https://github.com/lyft/confidant](https://github.com/lyft/confidant)
 
 **Author:** lyft
 
@@ -320,7 +320,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## confsec
 
-**Repository:** [[https://github.com/cryptax/confsec](https://github.com/cryptax/confsec)]([https://github.com/cryptax/confsec](https://github.com/cryptax/confsec))
+**Repository:** [https://github.com/cryptax/confsec](https://github.com/cryptax/confsec)
 
 **Author:** cryptax
 
@@ -328,7 +328,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## container-security-awesome
 
-**Repository:** [[https://github.com/kai5263499/container-security-awesome](https://github.com/kai5263499/container-security-awesome)]([https://github.com/kai5263499/container-security-awesome](https://github.com/kai5263499/container-security-awesome))
+**Repository:** [https://github.com/kai5263499/container-security-awesome](https://github.com/kai5263499/container-security-awesome)
 
 **Author:** kai5263499
 
@@ -336,7 +336,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## CryptoKnight
 
-**Repository:** [[https://github.com/AbertayMachineLearningGroup/CryptoKnight](https://github.com/AbertayMachineLearningGroup/CryptoKnight)]([https://github.com/AbertayMachineLearningGroup/CryptoKnight](https://github.com/AbertayMachineLearningGroup/CryptoKnight))
+**Repository:** [https://github.com/AbertayMachineLearningGroup/CryptoKnight](https://github.com/AbertayMachineLearningGroup/CryptoKnight)
 
 **Author:** AbertayMachineLearningGroup
 
@@ -344,7 +344,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## CryptOMG
 
-**Repository:** [[https://github.com/SpiderLabs/CryptOMG](https://github.com/SpiderLabs/CryptOMG)]([https://github.com/SpiderLabs/CryptOMG](https://github.com/SpiderLabs/CryptOMG))
+**Repository:** [https://github.com/SpiderLabs/CryptOMG](https://github.com/SpiderLabs/CryptOMG)
 
 **Author:** SpiderLabs
 
@@ -352,7 +352,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## ctf
 
-**Repository:** [[https://github.com/trailofbits/ctf](https://github.com/trailofbits/ctf)]([https://github.com/trailofbits/ctf](https://github.com/trailofbits/ctf))
+**Repository:** [https://github.com/trailofbits/ctf](https://github.com/trailofbits/ctf)
 
 **Author:** trailofbits
 
@@ -360,7 +360,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## ctf-tools
 
-**Repository:** [[https://github.com/zardus/ctf-tools](https://github.com/zardus/ctf-tools)]([https://github.com/zardus/ctf-tools](https://github.com/zardus/ctf-tools))
+**Repository:** [https://github.com/zardus/ctf-tools](https://github.com/zardus/ctf-tools)
 
 **Author:** zardus
 
@@ -368,7 +368,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## CTF-Writeups
 
-**Repository:** [[https://github.com/0e85dc6eaf/CTF-Writeups](https://github.com/0e85dc6eaf/CTF-Writeups)]([https://github.com/0e85dc6eaf/CTF-Writeups](https://github.com/0e85dc6eaf/CTF-Writeups))
+**Repository:** [https://github.com/0e85dc6eaf/CTF-Writeups](https://github.com/0e85dc6eaf/CTF-Writeups)
 
 **Author:** 0e85dc6eaf
 
@@ -376,7 +376,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## ctf-writeups
 
-**Repository:** [[https://github.com/mzfr/ctf-writeups](https://github.com/mzfr/ctf-writeups)]([https://github.com/mzfr/ctf-writeups](https://github.com/mzfr/ctf-writeups))
+**Repository:** [https://github.com/mzfr/ctf-writeups](https://github.com/mzfr/ctf-writeups)
 
 **Author:** mzfr
 
@@ -384,7 +384,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## ctf_import
 
-**Repository:** [[https://github.com/docileninja/ctf_import](https://github.com/docileninja/ctf_import)]([https://github.com/docileninja/ctf_import](https://github.com/docileninja/ctf_import))
+**Repository:** [https://github.com/docileninja/ctf_import](https://github.com/docileninja/ctf_import)
 
 **Author:** docileninja
 
@@ -392,7 +392,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## CTF_WRITEUPS
 
-**Repository:** [[https://github.com/smokeleeteveryday/CTF_WRITEUPS](https://github.com/smokeleeteveryday/CTF_WRITEUPS)]([https://github.com/smokeleeteveryday/CTF_WRITEUPS](https://github.com/smokeleeteveryday/CTF_WRITEUPS))
+**Repository:** [https://github.com/smokeleeteveryday/CTF_WRITEUPS](https://github.com/smokeleeteveryday/CTF_WRITEUPS)
 
 **Author:** smokeleeteveryday
 
@@ -400,7 +400,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## CTFd
 
-**Repository:** [[https://github.com/isislab/CTFd](https://github.com/isislab/CTFd)]([https://github.com/isislab/CTFd](https://github.com/isislab/CTFd))
+**Repository:** [https://github.com/isislab/CTFd](https://github.com/isislab/CTFd)
 
 **Author:** isislab
 
@@ -408,7 +408,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## decompressingyara
 
-**Repository:** [[https://github.com/rjzak/decompressingyara](https://github.com/rjzak/decompressingyara)]([https://github.com/rjzak/decompressingyara](https://github.com/rjzak/decompressingyara))
+**Repository:** [https://github.com/rjzak/decompressingyara](https://github.com/rjzak/decompressingyara)
 
 **Author:** rjzak
 
@@ -416,7 +416,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## DidierStevensSuite
 
-**Repository:** [[https://github.com/DidierStevens/DidierStevensSuite](https://github.com/DidierStevens/DidierStevensSuite)]([https://github.com/DidierStevens/DidierStevensSuite](https://github.com/DidierStevens/DidierStevensSuite))
+**Repository:** [https://github.com/DidierStevens/DidierStevensSuite](https://github.com/DidierStevens/DidierStevensSuite)
 
 **Author:** DidierStevens
 
@@ -424,7 +424,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## Disk-Arbitrator
 
-**Repository:** [[https://github.com/aburgh/Disk-Arbitrator](https://github.com/aburgh/Disk-Arbitrator)]([https://github.com/aburgh/Disk-Arbitrator](https://github.com/aburgh/Disk-Arbitrator))
+**Repository:** [https://github.com/aburgh/Disk-Arbitrator](https://github.com/aburgh/Disk-Arbitrator)
 
 **Author:** aburgh
 
@@ -432,7 +432,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## django-kippo
 
-**Repository:** [[https://github.com/jedie/django-kippo](https://github.com/jedie/django-kippo)]([https://github.com/jedie/django-kippo](https://github.com/jedie/django-kippo))
+**Repository:** [https://github.com/jedie/django-kippo](https://github.com/jedie/django-kippo)
 
 **Author:** jedie
 
@@ -440,7 +440,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## dnscrypt-proxy
 
-**Repository:** [[https://github.com/DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy)]([https://github.com/DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy))
+**Repository:** [https://github.com/DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy)
 
 **Author:** DNSCrypt
 
@@ -448,7 +448,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## dnSpy
 
-**Repository:** [[https://github.com/0xd4d/dnSpy](https://github.com/0xd4d/dnSpy)]([https://github.com/0xd4d/dnSpy](https://github.com/0xd4d/dnSpy))
+**Repository:** [https://github.com/0xd4d/dnSpy](https://github.com/0xd4d/dnSpy)
 
 **Author:** 0xd4d
 
@@ -456,7 +456,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## Docker-Honeynet
 
-**Repository:** [[https://github.com/sreinhardt/Docker-Honeynet](https://github.com/sreinhardt/Docker-Honeynet)]([https://github.com/sreinhardt/Docker-Honeynet](https://github.com/sreinhardt/Docker-Honeynet))
+**Repository:** [https://github.com/sreinhardt/Docker-Honeynet](https://github.com/sreinhardt/Docker-Honeynet)
 
 **Author:** sreinhardt
 
@@ -464,7 +464,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## DroidAnalytics
 
-**Repository:** [[https://github.com/zhengmin1989/DroidAnalytics](https://github.com/zhengmin1989/DroidAnalytics)]([https://github.com/zhengmin1989/DroidAnalytics](https://github.com/zhengmin1989/DroidAnalytics))
+**Repository:** [https://github.com/zhengmin1989/DroidAnalytics](https://github.com/zhengmin1989/DroidAnalytics)
 
 **Author:** zhengmin1989
 
@@ -472,7 +472,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## dvfa
 
-**Repository:** [[https://github.com/arroway/dvfa](https://github.com/arroway/dvfa)]([https://github.com/arroway/dvfa](https://github.com/arroway/dvfa))
+**Repository:** [https://github.com/arroway/dvfa](https://github.com/arroway/dvfa)
 
 **Author:** arroway
 
@@ -480,7 +480,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## echoCTF.RED
 
-**Repository:** [[https://github.com/echoCTF/echoCTF.RED](https://github.com/echoCTF/echoCTF.RED)]([https://github.com/echoCTF/echoCTF.RED](https://github.com/echoCTF/echoCTF.RED))
+**Repository:** [https://github.com/echoCTF/echoCTF.RED](https://github.com/echoCTF/echoCTF.RED)
 
 **Author:** echoCTF
 
@@ -488,7 +488,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## Emacs-Smali
 
-**Repository:** [[https://github.com/strazzere/Emacs-Smali](https://github.com/strazzere/Emacs-Smali)]([https://github.com/strazzere/Emacs-Smali](https://github.com/strazzere/Emacs-Smali))
+**Repository:** [https://github.com/strazzere/Emacs-Smali](https://github.com/strazzere/Emacs-Smali)
 
 **Author:** strazzere
 
@@ -496,7 +496,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## enum4linux-ng
 
-**Repository:** [[https://github.com/cddmp/enum4linux-ng](https://github.com/cddmp/enum4linux-ng)]([https://github.com/cddmp/enum4linux-ng](https://github.com/cddmp/enum4linux-ng))
+**Repository:** [https://github.com/cddmp/enum4linux-ng](https://github.com/cddmp/enum4linux-ng)
 
 **Author:** cddmp
 
@@ -504,7 +504,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## express-honeypot
 
-**Repository:** [[https://github.com/christophe77/express-honeypot](https://github.com/christophe77/express-honeypot)]([https://github.com/christophe77/express-honeypot](https://github.com/christophe77/express-honeypot))
+**Repository:** [https://github.com/christophe77/express-honeypot](https://github.com/christophe77/express-honeypot)
 
 **Author:** christophe77
 
@@ -512,7 +512,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## fapro
 
-**Repository:** [[https://github.com/fofapro/fapro](https://github.com/fofapro/fapro)]([https://github.com/fofapro/fapro](https://github.com/fofapro/fapro))
+**Repository:** [https://github.com/fofapro/fapro](https://github.com/fofapro/fapro)
 
 **Author:** fofapro
 
@@ -520,7 +520,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## FARA
 
-**Repository:** [[https://github.com/bartblaze/FARA](https://github.com/bartblaze/FARA)]([https://github.com/bartblaze/FARA](https://github.com/bartblaze/FARA))
+**Repository:** [https://github.com/bartblaze/FARA](https://github.com/bartblaze/FARA)
 
 **Author:** bartblaze
 
@@ -528,7 +528,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## FindYara
 
-**Repository:** [[https://github.com/OALabs/FindYara](https://github.com/OALabs/FindYara)]([https://github.com/OALabs/FindYara](https://github.com/OALabs/FindYara))
+**Repository:** [https://github.com/OALabs/FindYara](https://github.com/OALabs/FindYara)
 
 **Author:** OALabs
 
@@ -536,7 +536,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## fingerprint-android
 
-**Repository:** [[https://github.com/fingerprintjs/fingerprint-android](https://github.com/fingerprintjs/fingerprint-android)]([https://github.com/fingerprintjs/fingerprint-android](https://github.com/fingerprintjs/fingerprint-android))
+**Repository:** [https://github.com/fingerprintjs/fingerprint-android](https://github.com/fingerprintjs/fingerprint-android)
 
 **Author:** fingerprintjs
 
@@ -544,7 +544,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## fingerprintjs
 
-**Repository:** [[https://github.com/fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)]([https://github.com/fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs))
+**Repository:** [https://github.com/fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)
 
 **Author:** fingerprintjs
 
@@ -552,7 +552,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## fino
 
-**Repository:** [[https://github.com/sysdream/fino](https://github.com/sysdream/fino)]([https://github.com/sysdream/fino](https://github.com/sysdream/fino))
+**Repository:** [https://github.com/sysdream/fino](https://github.com/sysdream/fino)
 
 **Author:** sysdream
 
@@ -560,7 +560,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## firezone
 
-**Repository:** [[https://github.com/firezone/firezone](https://github.com/firezone/firezone)]([https://github.com/firezone/firezone](https://github.com/firezone/firezone))
+**Repository:** [https://github.com/firezone/firezone](https://github.com/firezone/firezone)
 
 **Author:** firezone
 
@@ -568,7 +568,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## ForensicPosters
 
-**Repository:** [[https://github.com/Invoke-IR/ForensicPosters](https://github.com/Invoke-IR/ForensicPosters)]([https://github.com/Invoke-IR/ForensicPosters](https://github.com/Invoke-IR/ForensicPosters))
+**Repository:** [https://github.com/Invoke-IR/ForensicPosters](https://github.com/Invoke-IR/ForensicPosters)
 
 **Author:** Invoke-IR
 
@@ -576,7 +576,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## fslib
 
-**Repository:** [[https://github.com/forensicanalysis/fslib](https://github.com/forensicanalysis/fslib)]([https://github.com/forensicanalysis/fslib](https://github.com/forensicanalysis/fslib))
+**Repository:** [https://github.com/forensicanalysis/fslib](https://github.com/forensicanalysis/fslib)
 
 **Author:** forensicanalysis
 
@@ -584,7 +584,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## gitrecon
 
-**Repository:** [[https://github.com/atiilla/gitrecon](https://github.com/atiilla/gitrecon)]([https://github.com/atiilla/gitrecon](https://github.com/atiilla/gitrecon))
+**Repository:** [https://github.com/atiilla/gitrecon](https://github.com/atiilla/gitrecon)
 
 **Author:** atiilla
 
@@ -592,7 +592,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## go-ntfs
 
-**Repository:** [[https://github.com/Velocidex/go-ntfs](https://github.com/Velocidex/go-ntfs)]([https://github.com/Velocidex/go-ntfs](https://github.com/Velocidex/go-ntfs))
+**Repository:** [https://github.com/Velocidex/go-ntfs](https://github.com/Velocidex/go-ntfs)
 
 **Author:** Velocidex
 
@@ -600,7 +600,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## gracker
 
-**Repository:** [[https://github.com/Samuirai/gracker](https://github.com/Samuirai/gracker)]([https://github.com/Samuirai/gracker](https://github.com/Samuirai/gracker))
+**Repository:** [https://github.com/Samuirai/gracker](https://github.com/Samuirai/gracker)
 
 **Author:** Samuirai
 
@@ -608,7 +608,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## GRFICS
 
-**Repository:** [[https://github.com/djformby/GRFICS](https://github.com/djformby/GRFICS)]([https://github.com/djformby/GRFICS](https://github.com/djformby/GRFICS))
+**Repository:** [https://github.com/djformby/GRFICS](https://github.com/djformby/GRFICS)
 
 **Author:** djformby
 
@@ -616,7 +616,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## GRFICSv2
 
-**Repository:** [[https://github.com/Fortiphyd/GRFICSv2](https://github.com/Fortiphyd/GRFICSv2)]([https://github.com/Fortiphyd/GRFICSv2](https://github.com/Fortiphyd/GRFICSv2))
+**Repository:** [https://github.com/Fortiphyd/GRFICSv2](https://github.com/Fortiphyd/GRFICSv2)
 
 **Author:** Fortiphyd
 
@@ -624,7 +624,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## gridpot
 
-**Repository:** [[https://github.com/sk4ld/gridpot](https://github.com/sk4ld/gridpot)]([https://github.com/sk4ld/gridpot](https://github.com/sk4ld/gridpot))
+**Repository:** [https://github.com/sk4ld/gridpot](https://github.com/sk4ld/gridpot)
 
 **Author:** sk4ld
 
@@ -632,7 +632,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## grpc-goat
 
-**Repository:** [[https://github.com/rootxjs/grpc-goat](https://github.com/rootxjs/grpc-goat)]([https://github.com/rootxjs/grpc-goat](https://github.com/rootxjs/grpc-goat))
+**Repository:** [https://github.com/rootxjs/grpc-goat](https://github.com/rootxjs/grpc-goat)
 
 **Author:** rootxjs
 
@@ -640,7 +640,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## GtkSourceView-YARA
 
-**Repository:** [[https://github.com/wesinator/GtkSourceView-YARA](https://github.com/wesinator/GtkSourceView-YARA)]([https://github.com/wesinator/GtkSourceView-YARA](https://github.com/wesinator/GtkSourceView-YARA))
+**Repository:** [https://github.com/wesinator/GtkSourceView-YARA](https://github.com/wesinator/GtkSourceView-YARA)
 
 **Author:** wesinator
 
@@ -648,7 +648,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## haaukins
 
-**Repository:** [[https://github.com/aau-network-security/haaukins](https://github.com/aau-network-security/haaukins)]([https://github.com/aau-network-security/haaukins](https://github.com/aau-network-security/haaukins))
+**Repository:** [https://github.com/aau-network-security/haaukins](https://github.com/aau-network-security/haaukins)
 
 **Author:** aau-network-security
 
@@ -656,7 +656,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## helix-honeypot
 
-**Repository:** [[https://github.com/Zeerg/helix-honeypot](https://github.com/Zeerg/helix-honeypot)]([https://github.com/Zeerg/helix-honeypot](https://github.com/Zeerg/helix-honeypot))
+**Repository:** [https://github.com/Zeerg/helix-honeypot](https://github.com/Zeerg/helix-honeypot)
 
 **Author:** Zeerg
 
@@ -664,7 +664,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## holehe
 
-**Repository:** [[https://github.com/megadose/holehe](https://github.com/megadose/holehe)]([https://github.com/megadose/holehe](https://github.com/megadose/holehe))
+**Repository:** [https://github.com/megadose/holehe](https://github.com/megadose/holehe)
 
 **Author:** megadose
 
@@ -672,7 +672,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## honeyd
 
-**Repository:** [[https://github.com/provos/honeyd](https://github.com/provos/honeyd)]([https://github.com/provos/honeyd](https://github.com/provos/honeyd))
+**Repository:** [https://github.com/provos/honeyd](https://github.com/provos/honeyd)
 
 **Author:** provos
 
@@ -680,7 +680,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## honeypotDisplay
 
-**Repository:** [[https://github.com/Joss-Steward/honeypotDisplay](https://github.com/Joss-Steward/honeypotDisplay)]([https://github.com/Joss-Steward/honeypotDisplay](https://github.com/Joss-Steward/honeypotDisplay))
+**Repository:** [https://github.com/Joss-Steward/honeypotDisplay](https://github.com/Joss-Steward/honeypotDisplay)
 
 **Author:** Joss-Steward
 
@@ -688,7 +688,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## honeyprint
 
-**Repository:** [[https://github.com/glaslos/honeyprint](https://github.com/glaslos/honeyprint)]([https://github.com/glaslos/honeyprint](https://github.com/glaslos/honeyprint))
+**Repository:** [https://github.com/glaslos/honeyprint](https://github.com/glaslos/honeyprint)
 
 **Author:** glaslos
 
@@ -696,7 +696,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## HonnyPotter
 
-**Repository:** [[https://github.com/MartinIngesen/HonnyPotter](https://github.com/MartinIngesen/HonnyPotter)]([https://github.com/MartinIngesen/HonnyPotter](https://github.com/MartinIngesen/HonnyPotter))
+**Repository:** [https://github.com/MartinIngesen/HonnyPotter](https://github.com/MartinIngesen/HonnyPotter)
 
 **Author:** MartinIngesen
 
@@ -704,7 +704,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## hsn2-bundle
 
-**Repository:** [[https://github.com/CERT-Polska/hsn2-bundle](https://github.com/CERT-Polska/hsn2-bundle)]([https://github.com/CERT-Polska/hsn2-bundle](https://github.com/CERT-Polska/hsn2-bundle))
+**Repository:** [https://github.com/CERT-Polska/hsn2-bundle](https://github.com/CERT-Polska/hsn2-bundle)
 
 **Author:** CERT-Polska
 
@@ -712,7 +712,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## HydraDragonAntivirus
 
-**Repository:** [[https://github.com/HydraDragonAntivirus/HydraDragonAntivirus](https://github.com/HydraDragonAntivirus/HydraDragonAntivirus)]([https://github.com/HydraDragonAntivirus/HydraDragonAntivirus](https://github.com/HydraDragonAntivirus/HydraDragonAntivirus))
+**Repository:** [https://github.com/HydraDragonAntivirus/HydraDragonAntivirus](https://github.com/HydraDragonAntivirus/HydraDragonAntivirus)
 
 **Author:** HydraDragonAntivirus
 
@@ -720,7 +720,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## Hyperlapse.js
 
-**Repository:** [[https://github.com/TeehanLax/Hyperlapse.js](https://github.com/TeehanLax/Hyperlapse.js)]([https://github.com/TeehanLax/Hyperlapse.js](https://github.com/TeehanLax/Hyperlapse.js))
+**Repository:** [https://github.com/TeehanLax/Hyperlapse.js](https://github.com/TeehanLax/Hyperlapse.js)
 
 **Author:** TeehanLax
 
@@ -728,7 +728,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## IDA_scripts
 
-**Repository:** [[https://github.com/swackhamer/IDA_scripts](https://github.com/swackhamer/IDA_scripts)]([https://github.com/swackhamer/IDA_scripts](https://github.com/swackhamer/IDA_scripts))
+**Repository:** [https://github.com/swackhamer/IDA_scripts](https://github.com/swackhamer/IDA_scripts)
 
 **Author:** swackhamer
 
@@ -736,7 +736,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## ida_yara
 
-**Repository:** [[https://github.com/alexander-hanel/ida_yara](https://github.com/alexander-hanel/ida_yara)]([https://github.com/alexander-hanel/ida_yara](https://github.com/alexander-hanel/ida_yara))
+**Repository:** [https://github.com/alexander-hanel/ida_yara](https://github.com/alexander-hanel/ida_yara)
 
 **Author:** alexander-hanel
 
@@ -744,7 +744,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## idawilli
 
-**Repository:** [[https://github.com/williballenthin/idawilli](https://github.com/williballenthin/idawilli)]([https://github.com/williballenthin/idawilli](https://github.com/williballenthin/idawilli))
+**Repository:** [https://github.com/williballenthin/idawilli](https://github.com/williballenthin/idawilli)
 
 **Author:** williballenthin
 
@@ -752,7 +752,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## ikeforce
 
-**Repository:** [[https://github.com/SpiderLabs/ikeforce](https://github.com/SpiderLabs/ikeforce)]([https://github.com/SpiderLabs/ikeforce](https://github.com/SpiderLabs/ikeforce))
+**Repository:** [https://github.com/SpiderLabs/ikeforce](https://github.com/SpiderLabs/ikeforce)
 
 **Author:** SpiderLabs
 
@@ -760,7 +760,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## in-mob-prefix
 
-**Repository:** [[https://github.com/hstsethi/in-mob-prefix](https://github.com/hstsethi/in-mob-prefix)]([https://github.com/hstsethi/in-mob-prefix](https://github.com/hstsethi/in-mob-prefix))
+**Repository:** [https://github.com/hstsethi/in-mob-prefix](https://github.com/hstsethi/in-mob-prefix)
 
 **Author:** hstsethi
 
@@ -768,7 +768,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## InjuredAndroid
 
-**Repository:** [[https://github.com/B3nac/InjuredAndroid](https://github.com/B3nac/InjuredAndroid)]([https://github.com/B3nac/InjuredAndroid](https://github.com/B3nac/InjuredAndroid))
+**Repository:** [https://github.com/B3nac/InjuredAndroid](https://github.com/B3nac/InjuredAndroid)
 
 **Author:** B3nac
 
@@ -776,7 +776,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## insider
 
-**Repository:** [[https://github.com/insidersec/insider](https://github.com/insidersec/insider)]([https://github.com/insidersec/insider](https://github.com/insidersec/insider))
+**Repository:** [https://github.com/insidersec/insider](https://github.com/insidersec/insider)
 
 **Author:** insidersec
 
@@ -784,7 +784,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## InstagramPrivSniffer
 
-**Repository:** [[https://github.com/obitouka/InstagramPrivSniffer](https://github.com/obitouka/InstagramPrivSniffer)]([https://github.com/obitouka/InstagramPrivSniffer](https://github.com/obitouka/InstagramPrivSniffer))
+**Repository:** [https://github.com/obitouka/InstagramPrivSniffer](https://github.com/obitouka/InstagramPrivSniffer)
 
 **Author:** obitouka
 
@@ -792,7 +792,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## IPinfo
 
-**Repository:** [[https://github.com/hiddenillusion/IPinfo](https://github.com/hiddenillusion/IPinfo)]([https://github.com/hiddenillusion/IPinfo](https://github.com/hiddenillusion/IPinfo))
+**Repository:** [https://github.com/hiddenillusion/IPinfo](https://github.com/hiddenillusion/IPinfo)
 
 **Author:** hiddenillusion
 
@@ -800,7 +800,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## ironbee
 
-**Repository:** [[https://github.com/ironbee/ironbee](https://github.com/ironbee/ironbee)]([https://github.com/ironbee/ironbee](https://github.com/ironbee/ironbee))
+**Repository:** [https://github.com/ironbee/ironbee](https://github.com/ironbee/ironbee)
 
 **Author:** ironbee
 
@@ -808,7 +808,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## kippo-stats
 
-**Repository:** [[https://github.com/mfontani/kippo-stats](https://github.com/mfontani/kippo-stats)]([https://github.com/mfontani/kippo-stats](https://github.com/mfontani/kippo-stats))
+**Repository:** [https://github.com/mfontani/kippo-stats](https://github.com/mfontani/kippo-stats)
 
 **Author:** mfontani
 
@@ -816,7 +816,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## kubernetes-goat
 
-**Repository:** [[https://github.com/madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat)]([https://github.com/madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat))
+**Repository:** [https://github.com/madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat)
 
 **Author:** madhuakula
 
@@ -824,7 +824,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## libyal
 
-**Repository:** [[https://github.com/libyal/libyal](https://github.com/libyal/libyal)]([https://github.com/libyal/libyal](https://github.com/libyal/libyal))
+**Repository:** [https://github.com/libyal/libyal](https://github.com/libyal/libyal)
 
 **Author:** libyal
 
@@ -832,7 +832,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## lists
 
-**Repository:** [[https://github.com/jnv/lists](https://github.com/jnv/lists)]([https://github.com/jnv/lists](https://github.com/jnv/lists))
+**Repository:** [https://github.com/jnv/lists](https://github.com/jnv/lists)
 
 **Author:** jnv
 
@@ -840,7 +840,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## LOIC
 
-**Repository:** [[https://github.com/NewEraCracker/LOIC](https://github.com/NewEraCracker/LOIC)]([https://github.com/NewEraCracker/LOIC](https://github.com/NewEraCracker/LOIC))
+**Repository:** [https://github.com/NewEraCracker/LOIC](https://github.com/NewEraCracker/LOIC)
 
 **Author:** NewEraCracker
 
@@ -848,7 +848,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## lpeworkshop
 
-**Repository:** [[https://github.com/sagishahar/lpeworkshop](https://github.com/sagishahar/lpeworkshop)]([https://github.com/sagishahar/lpeworkshop](https://github.com/sagishahar/lpeworkshop))
+**Repository:** [https://github.com/sagishahar/lpeworkshop](https://github.com/sagishahar/lpeworkshop)
 
 **Author:** sagishahar
 
@@ -856,7 +856,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## Luyten
 
-**Repository:** [[https://github.com/deathmarine/Luyten](https://github.com/deathmarine/Luyten)]([https://github.com/deathmarine/Luyten](https://github.com/deathmarine/Luyten))
+**Repository:** [https://github.com/deathmarine/Luyten](https://github.com/deathmarine/Luyten)
 
 **Author:** deathmarine
 
@@ -864,7 +864,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## machinae
 
-**Repository:** [[https://github.com/hurricanelabs/machinae](https://github.com/hurricanelabs/machinae)]([https://github.com/hurricanelabs/machinae](https://github.com/hurricanelabs/machinae))
+**Repository:** [https://github.com/hurricanelabs/machinae](https://github.com/hurricanelabs/machinae)
 
 **Author:** hurricanelabs
 
@@ -872,7 +872,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## maigret
 
-**Repository:** [[https://github.com/soxoj/maigret](https://github.com/soxoj/maigret)]([https://github.com/soxoj/maigret](https://github.com/soxoj/maigret))
+**Repository:** [https://github.com/soxoj/maigret](https://github.com/soxoj/maigret)
 
 **Author:** soxoj
 
@@ -880,7 +880,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## masscanned
 
-**Repository:** [[https://github.com/ivre/masscanned](https://github.com/ivre/masscanned)]([https://github.com/ivre/masscanned](https://github.com/ivre/masscanned))
+**Repository:** [https://github.com/ivre/masscanned](https://github.com/ivre/masscanned)
 
 **Author:** ivre
 
@@ -888,7 +888,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## mbtget
 
-**Repository:** [[https://github.com/sourceperl/mbtget](https://github.com/sourceperl/mbtget)]([https://github.com/sourceperl/mbtget](https://github.com/sourceperl/mbtget))
+**Repository:** [https://github.com/sourceperl/mbtget](https://github.com/sourceperl/mbtget)
 
 **Author:** sourceperl
 
@@ -896,7 +896,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## mellivora
 
-**Repository:** [[https://github.com/Nakiami/mellivora](https://github.com/Nakiami/mellivora)]([https://github.com/Nakiami/mellivora](https://github.com/Nakiami/mellivora))
+**Repository:** [https://github.com/Nakiami/mellivora](https://github.com/Nakiami/mellivora)
 
 **Author:** Nakiami
 
@@ -904,7 +904,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## MemLabs
 
-**Repository:** [[https://github.com/stuxnet999/MemLabs](https://github.com/stuxnet999/MemLabs)]([https://github.com/stuxnet999/MemLabs](https://github.com/stuxnet999/MemLabs))
+**Repository:** [https://github.com/stuxnet999/MemLabs](https://github.com/stuxnet999/MemLabs)
 
 **Author:** stuxnet999
 
@@ -912,7 +912,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## merlin
 
-**Repository:** [[https://github.com/Ne0nd0g/merlin](https://github.com/Ne0nd0g/merlin)]([https://github.com/Ne0nd0g/merlin](https://github.com/Ne0nd0g/merlin))
+**Repository:** [https://github.com/Ne0nd0g/merlin](https://github.com/Ne0nd0g/merlin)
 
 **Author:** Ne0nd0g
 
@@ -920,7 +920,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## meta
 
-**Repository:** [[https://github.com/AnarchoTechNYC/meta](https://github.com/AnarchoTechNYC/meta)]([https://github.com/AnarchoTechNYC/meta](https://github.com/AnarchoTechNYC/meta))
+**Repository:** [https://github.com/AnarchoTechNYC/meta](https://github.com/AnarchoTechNYC/meta)
 
 **Author:** AnarchoTechNYC
 
@@ -928,7 +928,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## miniprint
 
-**Repository:** [[https://github.com/sa7mon/miniprint](https://github.com/sa7mon/miniprint)]([https://github.com/sa7mon/miniprint](https://github.com/sa7mon/miniprint))
+**Repository:** [https://github.com/sa7mon/miniprint](https://github.com/sa7mon/miniprint)
 
 **Author:** sa7mon
 
@@ -936,7 +936,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## mipt-ctf
 
-**Repository:** [[https://github.com/xairy/mipt-ctf](https://github.com/xairy/mipt-ctf)]([https://github.com/xairy/mipt-ctf](https://github.com/xairy/mipt-ctf))
+**Repository:** [https://github.com/xairy/mipt-ctf](https://github.com/xairy/mipt-ctf)
 
 **Author:** xairy
 
@@ -944,7 +944,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## modscan
 
-**Repository:** [[https://github.com/moki-ics/modscan](https://github.com/moki-ics/modscan)]([https://github.com/moki-ics/modscan](https://github.com/moki-ics/modscan))
+**Repository:** [https://github.com/moki-ics/modscan](https://github.com/moki-ics/modscan)
 
 **Author:** moki-ics
 
@@ -952,7 +952,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## moloch
 
-**Repository:** [[https://github.com/aol/moloch](https://github.com/aol/moloch)]([https://github.com/aol/moloch](https://github.com/aol/moloch))
+**Repository:** [https://github.com/aol/moloch](https://github.com/aol/moloch)
 
 **Author:** aol
 
@@ -960,7 +960,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## motherfucking-ctf
 
-**Repository:** [[https://github.com/andreafioraldi/motherfucking-ctf](https://github.com/andreafioraldi/motherfucking-ctf)]([https://github.com/andreafioraldi/motherfucking-ctf](https://github.com/andreafioraldi/motherfucking-ctf))
+**Repository:** [https://github.com/andreafioraldi/motherfucking-ctf](https://github.com/andreafioraldi/motherfucking-ctf)
 
 **Author:** andreafioraldi
 
@@ -968,7 +968,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## movies-for-hackers
 
-**Repository:** [[https://github.com/k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers)]([https://github.com/k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers))
+**Repository:** [https://github.com/k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
 
 **Author:** k4m4
 
@@ -976,7 +976,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## nebula
 
-**Repository:** [[https://github.com/slackhq/nebula](https://github.com/slackhq/nebula)]([https://github.com/slackhq/nebula](https://github.com/slackhq/nebula))
+**Repository:** [https://github.com/slackhq/nebula](https://github.com/slackhq/nebula)
 
 **Author:** slackhq
 
@@ -984,7 +984,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## Network-segmentation-cheat-sheet
 
-**Repository:** [[https://github.com/sergiomarotco/Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet)]([https://github.com/sergiomarotco/Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet))
+**Repository:** [https://github.com/sergiomarotco/Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet)
 
 **Author:** sergiomarotco
 
@@ -992,7 +992,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## NimPlant
 
-**Repository:** [[https://github.com/chvancooten/NimPlant](https://github.com/chvancooten/NimPlant)]([https://github.com/chvancooten/NimPlant](https://github.com/chvancooten/NimPlant))
+**Repository:** [https://github.com/chvancooten/NimPlant](https://github.com/chvancooten/NimPlant)
 
 **Author:** chvancooten
 
@@ -1000,7 +1000,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## NoMoreXOR
 
-**Repository:** [[https://github.com/hiddenillusion/NoMoreXOR](https://github.com/hiddenillusion/NoMoreXOR)]([https://github.com/hiddenillusion/NoMoreXOR](https://github.com/hiddenillusion/NoMoreXOR))
+**Repository:** [https://github.com/hiddenillusion/NoMoreXOR](https://github.com/hiddenillusion/NoMoreXOR)
 
 **Author:** hiddenillusion
 
@@ -1008,7 +1008,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## nozzlr
 
-**Repository:** [[https://github.com/intrd/nozzlr](https://github.com/intrd/nozzlr)]([https://github.com/intrd/nozzlr](https://github.com/intrd/nozzlr))
+**Repository:** [https://github.com/intrd/nozzlr](https://github.com/intrd/nozzlr)
 
 **Author:** intrd
 
@@ -1016,7 +1016,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## ocaml-yara
 
-**Repository:** [[https://github.com/elastic/ocaml-yara](https://github.com/elastic/ocaml-yara)]([https://github.com/elastic/ocaml-yara](https://github.com/elastic/ocaml-yara))
+**Repository:** [https://github.com/elastic/ocaml-yara](https://github.com/elastic/ocaml-yara)
 
 **Author:** elastic
 
@@ -1024,7 +1024,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## onionbalance
 
-**Repository:** [[https://github.com/DonnchaC/onionbalance](https://github.com/DonnchaC/onionbalance)]([https://github.com/DonnchaC/onionbalance](https://github.com/DonnchaC/onionbalance))
+**Repository:** [https://github.com/DonnchaC/onionbalance](https://github.com/DonnchaC/onionbalance)
 
 **Author:** DonnchaC
 
@@ -1032,7 +1032,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## Open-Source-YARA-rules
 
-**Repository:** [[https://github.com/mikesxrs/Open-Source-YARA-rules](https://github.com/mikesxrs/Open-Source-YARA-rules)]([https://github.com/mikesxrs/Open-Source-YARA-rules](https://github.com/mikesxrs/Open-Source-YARA-rules))
+**Repository:** [https://github.com/mikesxrs/Open-Source-YARA-rules](https://github.com/mikesxrs/Open-Source-YARA-rules)
 
 **Author:** mikesxrs
 
@@ -1040,7 +1040,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## openctf
 
-**Repository:** [[https://github.com/easyctf/openctf](https://github.com/easyctf/openctf)]([https://github.com/easyctf/openctf](https://github.com/easyctf/openctf))
+**Repository:** [https://github.com/easyctf/openctf](https://github.com/easyctf/openctf)
 
 **Author:** easyctf
 
@@ -1048,7 +1048,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## password-manager-resources
 
-**Repository:** [[https://github.com/apple/password-manager-resources](https://github.com/apple/password-manager-resources)]([https://github.com/apple/password-manager-resources](https://github.com/apple/password-manager-resources))
+**Repository:** [https://github.com/apple/password-manager-resources](https://github.com/apple/password-manager-resources)
 
 **Author:** apple
 
@@ -1056,7 +1056,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## personal-security-checklist
 
-**Repository:** [[https://github.com/Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)]([https://github.com/Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist))
+**Repository:** [https://github.com/Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
 
 **Author:** Lissy93
 
@@ -1064,7 +1064,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## petep
 
-**Repository:** [[https://github.com/Warxim/petep](https://github.com/Warxim/petep)]([https://github.com/Warxim/petep](https://github.com/Warxim/petep))
+**Repository:** [https://github.com/Warxim/petep](https://github.com/Warxim/petep)
 
 **Author:** Warxim
 
@@ -1072,7 +1072,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## PHP-backdoors
 
-**Repository:** [[https://github.com/bartblaze/PHP-backdoors](https://github.com/bartblaze/PHP-backdoors)]([https://github.com/bartblaze/PHP-backdoors](https://github.com/bartblaze/PHP-backdoors))
+**Repository:** [https://github.com/bartblaze/PHP-backdoors](https://github.com/bartblaze/PHP-backdoors)
 
 **Author:** bartblaze
 
@@ -1080,7 +1080,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## picoCTF
 
-**Repository:** [[https://github.com/picoCTF/picoCTF](https://github.com/picoCTF/picoCTF)]([https://github.com/picoCTF/picoCTF](https://github.com/picoCTF/picoCTF))
+**Repository:** [https://github.com/picoCTF/picoCTF](https://github.com/picoCTF/picoCTF)
 
 **Author:** picoCTF
 
@@ -1088,7 +1088,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## pics
 
-**Repository:** [[https://github.com/corkami/pics](https://github.com/corkami/pics)]([https://github.com/corkami/pics](https://github.com/corkami/pics))
+**Repository:** [https://github.com/corkami/pics](https://github.com/corkami/pics)
 
 **Author:** corkami
 
@@ -1096,7 +1096,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## plast
 
-**Repository:** [[https://github.com/sk4la/plast](https://github.com/sk4la/plast)]([https://github.com/sk4la/plast](https://github.com/sk4la/plast))
+**Repository:** [https://github.com/sk4la/plast](https://github.com/sk4la/plast)
 
 **Author:** sk4la
 
@@ -1104,7 +1104,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## plcscan
 
-**Repository:** [[https://github.com/yanlinlin82/plcscan](https://github.com/yanlinlin82/plcscan)]([https://github.com/yanlinlin82/plcscan](https://github.com/yanlinlin82/plcscan))
+**Repository:** [https://github.com/yanlinlin82/plcscan](https://github.com/yanlinlin82/plcscan)
 
 **Author:** yanlinlin82
 
@@ -1112,7 +1112,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## Pompem
 
-**Repository:** [[https://github.com/rfunix/Pompem](https://github.com/rfunix/Pompem)]([https://github.com/rfunix/Pompem](https://github.com/rfunix/Pompem))
+**Repository:** [https://github.com/rfunix/Pompem](https://github.com/rfunix/Pompem)
 
 **Author:** rfunix
 
@@ -1120,7 +1120,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## potd
 
-**Repository:** [[https://github.com/lnslbrty/potd](https://github.com/lnslbrty/potd)]([https://github.com/lnslbrty/potd](https://github.com/lnslbrty/potd))
+**Repository:** [https://github.com/lnslbrty/potd](https://github.com/lnslbrty/potd)
 
 **Author:** lnslbrty
 
@@ -1128,7 +1128,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## Project-Ideas
 
-**Repository:** [[https://github.com/isislab/Project-Ideas](https://github.com/isislab/Project-Ideas)]([https://github.com/isislab/Project-Ideas](https://github.com/isislab/Project-Ideas))
+**Repository:** [https://github.com/isislab/Project-Ideas](https://github.com/isislab/Project-Ideas)
 
 **Author:** isislab
 
@@ -1136,7 +1136,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## pwntools-write-ups
 
-**Repository:** [[https://github.com/Gallopsled/pwntools-write-ups](https://github.com/Gallopsled/pwntools-write-ups)]([https://github.com/Gallopsled/pwntools-write-ups](https://github.com/Gallopsled/pwntools-write-ups))
+**Repository:** [https://github.com/Gallopsled/pwntools-write-ups](https://github.com/Gallopsled/pwntools-write-ups)
 
 **Author:** Gallopsled
 
@@ -1144,7 +1144,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## py_chall_factory
 
-**Repository:** [[https://github.com/pdautry/py_chall_factory](https://github.com/pdautry/py_chall_factory)]([https://github.com/pdautry/py_chall_factory](https://github.com/pdautry/py_chall_factory))
+**Repository:** [https://github.com/pdautry/py_chall_factory](https://github.com/pdautry/py_chall_factory)
 
 **Author:** pdautry
 
@@ -1152,7 +1152,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## Python-Honeypot
 
-**Repository:** [[https://github.com/OWASP/Python-Honeypot](https://github.com/OWASP/Python-Honeypot)]([https://github.com/OWASP/Python-Honeypot](https://github.com/OWASP/Python-Honeypot))
+**Repository:** [https://github.com/OWASP/Python-Honeypot](https://github.com/OWASP/Python-Honeypot)
 
 **Author:** OWASP
 
@@ -1160,7 +1160,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## python-registry
 
-**Repository:** [[https://github.com/williballenthin/python-registry](https://github.com/williballenthin/python-registry)]([https://github.com/williballenthin/python-registry](https://github.com/williballenthin/python-registry))
+**Repository:** [https://github.com/williballenthin/python-registry](https://github.com/williballenthin/python-registry)
 
 **Author:** williballenthin
 
@@ -1168,7 +1168,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## recon-ng
 
-**Repository:** [[https://github.com/lanmaster53/recon-ng](https://github.com/lanmaster53/recon-ng)]([https://github.com/lanmaster53/recon-ng](https://github.com/lanmaster53/recon-ng))
+**Repository:** [https://github.com/lanmaster53/recon-ng](https://github.com/lanmaster53/recon-ng)
 
 **Author:** lanmaster53
 
@@ -1176,7 +1176,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## red_team_tool_countermeasures
 
-**Repository:** [[https://github.com/fireeye/red_team_tool_countermeasures](https://github.com/fireeye/red_team_tool_countermeasures)]([https://github.com/fireeye/red_team_tool_countermeasures](https://github.com/fireeye/red_team_tool_countermeasures))
+**Repository:** [https://github.com/fireeye/red_team_tool_countermeasures](https://github.com/fireeye/red_team_tool_countermeasures)
 
 **Author:** fireeye
 
@@ -1184,7 +1184,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## redsnarf
 
-**Repository:** [[https://github.com/nccgroup/redsnarf](https://github.com/nccgroup/redsnarf)]([https://github.com/nccgroup/redsnarf](https://github.com/nccgroup/redsnarf))
+**Repository:** [https://github.com/nccgroup/redsnarf](https://github.com/nccgroup/redsnarf)
 
 **Author:** nccgroup
 
@@ -1192,7 +1192,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## repo-diff
 
-**Repository:** [[https://github.com/sonatype-nexus-community/repo-diff](https://github.com/sonatype-nexus-community/repo-diff)]([https://github.com/sonatype-nexus-community/repo-diff](https://github.com/sonatype-nexus-community/repo-diff))
+**Repository:** [https://github.com/sonatype-nexus-community/repo-diff](https://github.com/sonatype-nexus-community/repo-diff)
 
 **Author:** sonatype-nexus-community
 
@@ -1200,7 +1200,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## Responder
 
-**Repository:** [[https://github.com/SpiderLabs/Responder](https://github.com/SpiderLabs/Responder)]([https://github.com/SpiderLabs/Responder](https://github.com/SpiderLabs/Responder))
+**Repository:** [https://github.com/SpiderLabs/Responder](https://github.com/SpiderLabs/Responder)
 
 **Author:** SpiderLabs
 
@@ -1208,7 +1208,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## respounder
 
-**Repository:** [[https://github.com/codeexpress/respounder](https://github.com/codeexpress/respounder)]([https://github.com/codeexpress/respounder](https://github.com/codeexpress/respounder))
+**Repository:** [https://github.com/codeexpress/respounder](https://github.com/codeexpress/respounder)
 
 **Author:** codeexpress
 
@@ -1216,7 +1216,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## reverse-shell-generator
 
-**Repository:** [[https://github.com/0dayCTF/reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator)]([https://github.com/0dayCTF/reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator))
+**Repository:** [https://github.com/0dayCTF/reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator)
 
 **Author:** 0dayCTF
 
@@ -1224,7 +1224,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## RsaCtfTool
 
-**Repository:** [[https://github.com/Ganapati/RsaCtfTool](https://github.com/Ganapati/RsaCtfTool)]([https://github.com/Ganapati/RsaCtfTool](https://github.com/Ganapati/RsaCtfTool))
+**Repository:** [https://github.com/Ganapati/RsaCtfTool](https://github.com/Ganapati/RsaCtfTool)
 
 **Author:** Ganapati
 
@@ -1232,7 +1232,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## SCADAPASS
 
-**Repository:** [[https://github.com/scadastrangelove/SCADAPASS](https://github.com/scadastrangelove/SCADAPASS)]([https://github.com/scadastrangelove/SCADAPASS](https://github.com/scadastrangelove/SCADAPASS))
+**Repository:** [https://github.com/scadastrangelove/SCADAPASS](https://github.com/scadastrangelove/SCADAPASS)
 
 **Author:** scadastrangelove
 
@@ -1240,7 +1240,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## scalpel
 
-**Repository:** [[https://github.com/sleuthkit/scalpel](https://github.com/sleuthkit/scalpel)]([https://github.com/sleuthkit/scalpel](https://github.com/sleuthkit/scalpel))
+**Repository:** [https://github.com/sleuthkit/scalpel](https://github.com/sleuthkit/scalpel)
 
 **Author:** sleuthkit
 
@@ -1248,7 +1248,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## SCOMDecrypt
 
-**Repository:** [[https://github.com/nccgroup/SCOMDecrypt](https://github.com/nccgroup/SCOMDecrypt)]([https://github.com/nccgroup/SCOMDecrypt](https://github.com/nccgroup/SCOMDecrypt))
+**Repository:** [https://github.com/nccgroup/SCOMDecrypt](https://github.com/nccgroup/SCOMDecrypt)
 
 **Author:** nccgroup
 
@@ -1256,7 +1256,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## scorebot
 
-**Repository:** [[https://github.com/legitbs/scorebot](https://github.com/legitbs/scorebot)]([https://github.com/legitbs/scorebot](https://github.com/legitbs/scorebot))
+**Repository:** [https://github.com/legitbs/scorebot](https://github.com/legitbs/scorebot)
 
 **Author:** legitbs
 
@@ -1264,7 +1264,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## sealed-secrets
 
-**Repository:** [[https://github.com/bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets)]([https://github.com/bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets))
+**Repository:** [https://github.com/bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets)
 
 **Author:** bitnami-labs
 
@@ -1272,7 +1272,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## SecGen
 
-**Repository:** [[https://github.com/cliffe/SecGen](https://github.com/cliffe/SecGen)]([https://github.com/cliffe/SecGen](https://github.com/cliffe/SecGen))
+**Repository:** [https://github.com/cliffe/SecGen](https://github.com/cliffe/SecGen)
 
 **Author:** cliffe
 
@@ -1280,7 +1280,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## security-acronyms
 
-**Repository:** [[https://github.com/cloudsecurelab/security-acronyms](https://github.com/cloudsecurelab/security-acronyms)]([https://github.com/cloudsecurelab/security-acronyms](https://github.com/cloudsecurelab/security-acronyms))
+**Repository:** [https://github.com/cloudsecurelab/security-acronyms](https://github.com/cloudsecurelab/security-acronyms)
 
 **Author:** cloudsecurelab
 
@@ -1288,7 +1288,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## sherlock
 
-**Repository:** [[https://github.com/sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)]([https://github.com/sherlock-project/sherlock](https://github.com/sherlock-project/sherlock))
+**Repository:** [https://github.com/sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
 
 **Author:** sherlock-project
 
@@ -1296,7 +1296,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## SigThief
 
-**Repository:** [[https://github.com/secretsquirrel/SigThief](https://github.com/secretsquirrel/SigThief)]([https://github.com/secretsquirrel/SigThief](https://github.com/secretsquirrel/SigThief))
+**Repository:** [https://github.com/secretsquirrel/SigThief](https://github.com/secretsquirrel/SigThief)
 
 **Author:** secretsquirrel
 
@@ -1304,7 +1304,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## SIREN
 
-**Repository:** [[https://github.com/blaverick62/SIREN](https://github.com/blaverick62/SIREN)]([https://github.com/blaverick62/SIREN](https://github.com/blaverick62/SIREN))
+**Repository:** [https://github.com/blaverick62/SIREN](https://github.com/blaverick62/SIREN)
 
 **Author:** blaverick62
 
@@ -1312,7 +1312,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## skiptracer
 
-**Repository:** [[https://github.com/xillwillx/skiptracer](https://github.com/xillwillx/skiptracer)]([https://github.com/xillwillx/skiptracer](https://github.com/xillwillx/skiptracer))
+**Repository:** [https://github.com/xillwillx/skiptracer](https://github.com/xillwillx/skiptracer)
 
 **Author:** xillwillx
 
@@ -1320,7 +1320,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## snowman
 
-**Repository:** [[https://github.com/yegord/snowman](https://github.com/yegord/snowman)]([https://github.com/yegord/snowman](https://github.com/yegord/snowman))
+**Repository:** [https://github.com/yegord/snowman](https://github.com/yegord/snowman)
 
 **Author:** yegord
 
@@ -1328,7 +1328,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## SocengLab
 
-**Repository:** [[https://github.com/dalpan/SocengLab](https://github.com/dalpan/SocengLab)]([https://github.com/dalpan/SocengLab](https://github.com/dalpan/SocengLab))
+**Repository:** [https://github.com/dalpan/SocengLab](https://github.com/dalpan/SocengLab)
 
 **Author:** dalpan
 
@@ -1336,7 +1336,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## spotify_profile_monitor
 
-**Repository:** [[https://github.com/misiektoja/spotify_profile_monitor](https://github.com/misiektoja/spotify_profile_monitor)]([https://github.com/misiektoja/spotify_profile_monitor](https://github.com/misiektoja/spotify_profile_monitor))
+**Repository:** [https://github.com/misiektoja/spotify_profile_monitor](https://github.com/misiektoja/spotify_profile_monitor)
 
 **Author:** misiektoja
 
@@ -1344,7 +1344,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## stack-honeypot
 
-**Repository:** [[https://github.com/CHH/stack-honeypot](https://github.com/CHH/stack-honeypot)]([https://github.com/CHH/stack-honeypot](https://github.com/CHH/stack-honeypot))
+**Repository:** [https://github.com/CHH/stack-honeypot](https://github.com/CHH/stack-honeypot)
 
 **Author:** CHH
 
@@ -1352,7 +1352,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## stegextract
 
-**Repository:** [[https://github.com/evyatarmeged/stegextract](https://github.com/evyatarmeged/stegextract)]([https://github.com/evyatarmeged/stegextract](https://github.com/evyatarmeged/stegextract))
+**Repository:** [https://github.com/evyatarmeged/stegextract](https://github.com/evyatarmeged/stegextract)
 
 **Author:** evyatarmeged
 
@@ -1360,7 +1360,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## sunburst_countermeasures
 
-**Repository:** [[https://github.com/fireeye/sunburst_countermeasures](https://github.com/fireeye/sunburst_countermeasures)]([https://github.com/fireeye/sunburst_countermeasures](https://github.com/fireeye/sunburst_countermeasures))
+**Repository:** [https://github.com/fireeye/sunburst_countermeasures](https://github.com/fireeye/sunburst_countermeasures)
 
 **Author:** fireeye
 
@@ -1368,7 +1368,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## SwishDbgExt
 
-**Repository:** [[https://github.com/comaeio/SwishDbgExt](https://github.com/comaeio/SwishDbgExt)]([https://github.com/comaeio/SwishDbgExt](https://github.com/comaeio/SwishDbgExt))
+**Repository:** [https://github.com/comaeio/SwishDbgExt](https://github.com/comaeio/SwishDbgExt)
 
 **Author:** comaeio
 
@@ -1376,7 +1376,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## TelnetHoney
 
-**Repository:** [[https://github.com/balte/TelnetHoney](https://github.com/balte/TelnetHoney)]([https://github.com/balte/TelnetHoney](https://github.com/balte/TelnetHoney))
+**Repository:** [https://github.com/balte/TelnetHoney](https://github.com/balte/TelnetHoney)
 
 **Author:** balte
 
@@ -1384,7 +1384,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## testssl.sh
 
-**Repository:** [[https://github.com/drwetter/testssl.sh](https://github.com/drwetter/testssl.sh)]([https://github.com/drwetter/testssl.sh](https://github.com/drwetter/testssl.sh))
+**Repository:** [https://github.com/drwetter/testssl.sh](https://github.com/drwetter/testssl.sh)
 
 **Author:** drwetter
 
@@ -1392,7 +1392,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## thc-hydra
 
-**Repository:** [[https://github.com/vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra)]([https://github.com/vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra))
+**Repository:** [https://github.com/vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra)
 
 **Author:** vanhauser-thc
 
@@ -1400,7 +1400,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## TimeFlow
 
-**Repository:** [[https://github.com/FlowingMedia/TimeFlow](https://github.com/FlowingMedia/TimeFlow)]([https://github.com/FlowingMedia/TimeFlow](https://github.com/FlowingMedia/TimeFlow))
+**Repository:** [https://github.com/FlowingMedia/TimeFlow](https://github.com/FlowingMedia/TimeFlow)
 
 **Author:** FlowingMedia
 
@@ -1408,7 +1408,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## timesketch
 
-**Repository:** [[https://github.com/google/timesketch](https://github.com/google/timesketch)]([https://github.com/google/timesketch](https://github.com/google/timesketch))
+**Repository:** [https://github.com/google/timesketch](https://github.com/google/timesketch)
 
 **Author:** google
 
@@ -1416,7 +1416,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## Tips
 
-**Repository:** [[https://github.com/OpenToAllCTF/Tips](https://github.com/OpenToAllCTF/Tips)]([https://github.com/OpenToAllCTF/Tips](https://github.com/OpenToAllCTF/Tips))
+**Repository:** [https://github.com/OpenToAllCTF/Tips](https://github.com/OpenToAllCTF/Tips)
 
 **Author:** OpenToAllCTF
 
@@ -1424,7 +1424,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## tomcat-manager-honeypot
 
-**Repository:** [[https://github.com/helospark/tomcat-manager-honeypot](https://github.com/helospark/tomcat-manager-honeypot)]([https://github.com/helospark/tomcat-manager-honeypot](https://github.com/helospark/tomcat-manager-honeypot))
+**Repository:** [https://github.com/helospark/tomcat-manager-honeypot](https://github.com/helospark/tomcat-manager-honeypot)
 
 **Author:** helospark
 
@@ -1432,7 +1432,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## TorChat
 
-**Repository:** [[https://github.com/prof7bit/TorChat](https://github.com/prof7bit/TorChat)]([https://github.com/prof7bit/TorChat](https://github.com/prof7bit/TorChat))
+**Repository:** [https://github.com/prof7bit/TorChat](https://github.com/prof7bit/TorChat)
 
 **Author:** prof7bit
 
@@ -1440,7 +1440,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## toutatis
 
-**Repository:** [[https://github.com/megadose/toutatis](https://github.com/megadose/toutatis)]([https://github.com/megadose/toutatis](https://github.com/megadose/toutatis))
+**Repository:** [https://github.com/megadose/toutatis](https://github.com/megadose/toutatis)
 
 **Author:** megadose
 
@@ -1448,7 +1448,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## training
 
-**Repository:** [[https://github.com/rednaga/training](https://github.com/rednaga/training)]([https://github.com/rednaga/training](https://github.com/rednaga/training))
+**Repository:** [https://github.com/rednaga/training](https://github.com/rednaga/training)
 
 **Author:** rednaga
 
@@ -1456,7 +1456,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## troje
 
-**Repository:** [[https://github.com/dutchcoders/troje](https://github.com/dutchcoders/troje)]([https://github.com/dutchcoders/troje](https://github.com/dutchcoders/troje))
+**Repository:** [https://github.com/dutchcoders/troje](https://github.com/dutchcoders/troje)
 
 **Author:** dutchcoders
 
@@ -1464,7 +1464,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## v0lt
 
-**Repository:** [[https://github.com/P1kachu/v0lt](https://github.com/P1kachu/v0lt)]([https://github.com/P1kachu/v0lt](https://github.com/P1kachu/v0lt))
+**Repository:** [https://github.com/P1kachu/v0lt](https://github.com/P1kachu/v0lt)
 
 **Author:** P1kachu
 
@@ -1472,7 +1472,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## vcsmap
 
-**Repository:** [[https://github.com/melvinsh/vcsmap](https://github.com/melvinsh/vcsmap)]([https://github.com/melvinsh/vcsmap](https://github.com/melvinsh/vcsmap))
+**Repository:** [https://github.com/melvinsh/vcsmap](https://github.com/melvinsh/vcsmap)
 
 **Author:** melvinsh
 
@@ -1480,7 +1480,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## vector-edk
 
-**Repository:** [[https://github.com/hackedteam/vector-edk](https://github.com/hackedteam/vector-edk)]([https://github.com/hackedteam/vector-edk](https://github.com/hackedteam/vector-edk))
+**Repository:** [https://github.com/hackedteam/vector-edk](https://github.com/hackedteam/vector-edk)
 
 **Author:** hackedteam
 
@@ -1488,7 +1488,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## WackoPicko
 
-**Repository:** [[https://github.com/adamdoupe/WackoPicko](https://github.com/adamdoupe/WackoPicko)]([https://github.com/adamdoupe/WackoPicko](https://github.com/adamdoupe/WackoPicko))
+**Repository:** [https://github.com/adamdoupe/WackoPicko](https://github.com/adamdoupe/WackoPicko)
 
 **Author:** adamdoupe
 
@@ -1496,7 +1496,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## waybackurls
 
-**Repository:** [[https://github.com/tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls)]([https://github.com/tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls))
+**Repository:** [https://github.com/tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls)
 
 **Author:** tomnomnom
 
@@ -1504,7 +1504,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## WebTrap
 
-**Repository:** [[https://github.com/IllusiveNetworks-Labs/WebTrap](https://github.com/IllusiveNetworks-Labs/WebTrap)]([https://github.com/IllusiveNetworks-Labs/WebTrap](https://github.com/IllusiveNetworks-Labs/WebTrap))
+**Repository:** [https://github.com/IllusiveNetworks-Labs/WebTrap](https://github.com/IllusiveNetworks-Labs/WebTrap)
 
 **Author:** IllusiveNetworks-Labs
 
@@ -1512,7 +1512,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## WhatBreach
 
-**Repository:** [[https://github.com/Ekultek/WhatBreach](https://github.com/Ekultek/WhatBreach)]([https://github.com/Ekultek/WhatBreach](https://github.com/Ekultek/WhatBreach))
+**Repository:** [https://github.com/Ekultek/WhatBreach](https://github.com/Ekultek/WhatBreach)
 
 **Author:** Ekultek
 
@@ -1520,7 +1520,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## wifite
 
-**Repository:** [[https://github.com/derv82/wifite](https://github.com/derv82/wifite)]([https://github.com/derv82/wifite](https://github.com/derv82/wifite))
+**Repository:** [https://github.com/derv82/wifite](https://github.com/derv82/wifite)
 
 **Author:** derv82
 
@@ -1528,7 +1528,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## wifite2
 
-**Repository:** [[https://github.com/coreb1t/wifite2](https://github.com/coreb1t/wifite2)]([https://github.com/coreb1t/wifite2](https://github.com/coreb1t/wifite2))
+**Repository:** [https://github.com/coreb1t/wifite2](https://github.com/coreb1t/wifite2)
 
 **Author:** coreb1t
 
@@ -1536,7 +1536,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## write-ups-2013
 
-**Repository:** [[https://github.com/ctfs/write-ups-2013](https://github.com/ctfs/write-ups-2013)]([https://github.com/ctfs/write-ups-2013](https://github.com/ctfs/write-ups-2013))
+**Repository:** [https://github.com/ctfs/write-ups-2013](https://github.com/ctfs/write-ups-2013)
 
 **Author:** ctfs
 
@@ -1544,7 +1544,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## write-ups-2014
 
-**Repository:** [[https://github.com/ctfs/write-ups-2014](https://github.com/ctfs/write-ups-2014)]([https://github.com/ctfs/write-ups-2014](https://github.com/ctfs/write-ups-2014))
+**Repository:** [https://github.com/ctfs/write-ups-2014](https://github.com/ctfs/write-ups-2014)
 
 **Author:** ctfs
 
@@ -1552,7 +1552,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## write-ups-2015
 
-**Repository:** [[https://github.com/ctfs/write-ups-2015](https://github.com/ctfs/write-ups-2015)]([https://github.com/ctfs/write-ups-2015](https://github.com/ctfs/write-ups-2015))
+**Repository:** [https://github.com/ctfs/write-ups-2015](https://github.com/ctfs/write-ups-2015)
 
 **Author:** ctfs
 
@@ -1560,7 +1560,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## write-ups-2016
 
-**Repository:** [[https://github.com/ctfs/write-ups-2016](https://github.com/ctfs/write-ups-2016)]([https://github.com/ctfs/write-ups-2016](https://github.com/ctfs/write-ups-2016))
+**Repository:** [https://github.com/ctfs/write-ups-2016](https://github.com/ctfs/write-ups-2016)
 
 **Author:** ctfs
 
@@ -1568,7 +1568,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## YAFH
 
-**Repository:** [[https://github.com/fnzv/YAFH](https://github.com/fnzv/YAFH)]([https://github.com/fnzv/YAFH](https://github.com/fnzv/YAFH))
+**Repository:** [https://github.com/fnzv/YAFH](https://github.com/fnzv/YAFH)
 
 **Author:** fnzv
 
@@ -1576,7 +1576,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## yara-mode
 
-**Repository:** [[https://github.com/binjo/yara-mode](https://github.com/binjo/yara-mode)]([https://github.com/binjo/yara-mode](https://github.com/binjo/yara-mode))
+**Repository:** [https://github.com/binjo/yara-mode](https://github.com/binjo/yara-mode)
 
 **Author:** binjo
 
@@ -1584,7 +1584,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## YARA-Performance-Guidelines
 
-**Repository:** [[https://github.com/Neo23x0/YARA-Performance-Guidelines](https://github.com/Neo23x0/YARA-Performance-Guidelines)]([https://github.com/Neo23x0/YARA-Performance-Guidelines](https://github.com/Neo23x0/YARA-Performance-Guidelines))
+**Repository:** [https://github.com/Neo23x0/YARA-Performance-Guidelines](https://github.com/Neo23x0/YARA-Performance-Guidelines)
 
 **Author:** Neo23x0
 
@@ -1592,7 +1592,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## Yara-rules
 
-**Repository:** [[https://github.com/bartblaze/Yara-rules](https://github.com/bartblaze/Yara-rules)]([https://github.com/bartblaze/Yara-rules](https://github.com/bartblaze/Yara-rules))
+**Repository:** [https://github.com/bartblaze/Yara-rules](https://github.com/bartblaze/Yara-rules)
 
 **Author:** bartblaze
 
@@ -1600,7 +1600,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## Yara_Mailware_Quick_menu_scanner
 
-**Repository:** [[https://github.com/techbliss/Yara_Mailware_Quick_menu_scanner](https://github.com/techbliss/Yara_Mailware_Quick_menu_scanner)]([https://github.com/techbliss/Yara_Mailware_Quick_menu_scanner](https://github.com/techbliss/Yara_Mailware_Quick_menu_scanner))
+**Repository:** [https://github.com/techbliss/Yara_Mailware_Quick_menu_scanner](https://github.com/techbliss/Yara_Mailware_Quick_menu_scanner)
 
 **Author:** techbliss
 
@@ -1608,7 +1608,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## yaraml_rules
 
-**Repository:** [[https://github.com/inv-ds-research/yaraml_rules](https://github.com/inv-ds-research/yaraml_rules)]([https://github.com/inv-ds-research/yaraml_rules](https://github.com/inv-ds-research/yaraml_rules))
+**Repository:** [https://github.com/inv-ds-research/yaraml_rules](https://github.com/inv-ds-research/yaraml_rules)
 
 **Author:** inv-ds-research
 
@@ -1616,7 +1616,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## yarascanner
 
-**Repository:** [[https://github.com/jheise/yarascanner](https://github.com/jheise/yarascanner)]([https://github.com/jheise/yarascanner](https://github.com/jheise/yarascanner))
+**Repository:** [https://github.com/jheise/yarascanner](https://github.com/jheise/yarascanner)
 
 **Author:** jheise
 
@@ -1624,7 +1624,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## yarasigs
 
-**Repository:** [[https://github.com/x64dbg/yarasigs](https://github.com/x64dbg/yarasigs)]([https://github.com/x64dbg/yarasigs](https://github.com/x64dbg/yarasigs))
+**Repository:** [https://github.com/x64dbg/yarasigs](https://github.com/x64dbg/yarasigs)
 
 **Author:** x64dbg
 
@@ -1632,7 +1632,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## yls
 
-**Repository:** [[https://github.com/avast/yls](https://github.com/avast/yls)]([https://github.com/avast/yls](https://github.com/avast/yls))
+**Repository:** [https://github.com/avast/yls](https://github.com/avast/yls)
 
 **Author:** avast
 
@@ -1640,7 +1640,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## yt-dlp
 
-**Repository:** [[https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)]([https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp))
+**Repository:** [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 **Author:** yt-dlp
 
@@ -1648,7 +1648,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## zeek2es
 
-**Repository:** [[https://github.com/corelight/zeek2es](https://github.com/corelight/zeek2es)]([https://github.com/corelight/zeek2es](https://github.com/corelight/zeek2es))
+**Repository:** [https://github.com/corelight/zeek2es](https://github.com/corelight/zeek2es)
 
 **Author:** corelight
 
@@ -1656,7 +1656,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## zizmor
 
-**Repository:** [[https://github.com/zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)]([https://github.com/zizmorcore/zizmor](https://github.com/zizmorcore/zizmor))
+**Repository:** [https://github.com/zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)
 
 **Author:** zizmorcore
 
@@ -1664,7 +1664,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## ACLight
 
-**Repository:** [[https://github.com/cyberark/ACLight](https://github.com/cyberark/ACLight)]([https://github.com/cyberark/ACLight](https://github.com/cyberark/ACLight))
+**Repository:** [https://github.com/cyberark/ACLight](https://github.com/cyberark/ACLight)
 
 **Author:** cyberark
 
@@ -1672,7 +1672,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## advisories
 
-**Repository:** [[https://github.com/justinsteven/advisories](https://github.com/justinsteven/advisories)]([https://github.com/justinsteven/advisories](https://github.com/justinsteven/advisories))
+**Repository:** [https://github.com/justinsteven/advisories](https://github.com/justinsteven/advisories)
 
 **Author:** justinsteven
 
@@ -1680,7 +1680,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## agentic-radar
 
-**Repository:** [[https://github.com/splx-ai/agentic-radar](https://github.com/splx-ai/agentic-radar)]([https://github.com/splx-ai/agentic-radar](https://github.com/splx-ai/agentic-radar))
+**Repository:** [https://github.com/splx-ai/agentic-radar](https://github.com/splx-ai/agentic-radar)
 
 **Author:** splx-ai
 
@@ -1688,7 +1688,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## ALEAPP
 
-**Repository:** [[https://github.com/abrignoni/ALEAPP](https://github.com/abrignoni/ALEAPP)]([https://github.com/abrignoni/ALEAPP](https://github.com/abrignoni/ALEAPP))
+**Repository:** [https://github.com/abrignoni/ALEAPP](https://github.com/abrignoni/ALEAPP)
 
 **Author:** abrignoni
 
@@ -1696,7 +1696,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## Android-Reports-and-Resources
 
-**Repository:** [[https://github.com/B3nac/Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources)]([https://github.com/B3nac/Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources))
+**Repository:** [https://github.com/B3nac/Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources)
 
 **Author:** B3nac
 
@@ -1704,7 +1704,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## AndroidSlides
 
-**Repository:** [[https://github.com/jacobsoo/AndroidSlides](https://github.com/jacobsoo/AndroidSlides)]([https://github.com/jacobsoo/AndroidSlides](https://github.com/jacobsoo/AndroidSlides))
+**Repository:** [https://github.com/jacobsoo/AndroidSlides](https://github.com/jacobsoo/AndroidSlides)
 
 **Author:** jacobsoo
 
@@ -1712,7 +1712,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## ArkhamMirror
 
-**Repository:** [[https://github.com/mantisfury/ArkhamMirror](https://github.com/mantisfury/ArkhamMirror)]([https://github.com/mantisfury/ArkhamMirror](https://github.com/mantisfury/ArkhamMirror))
+**Repository:** [https://github.com/mantisfury/ArkhamMirror](https://github.com/mantisfury/ArkhamMirror)
 
 **Author:** mantisfury
 
@@ -1720,7 +1720,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## AutoYara
 
-**Repository:** [[https://github.com/NeuromorphicComputationResearchProgram/AutoYara](https://github.com/NeuromorphicComputationResearchProgram/AutoYara)]([https://github.com/NeuromorphicComputationResearchProgram/AutoYara](https://github.com/NeuromorphicComputationResearchProgram/AutoYara))
+**Repository:** [https://github.com/NeuromorphicComputationResearchProgram/AutoYara](https://github.com/NeuromorphicComputationResearchProgram/AutoYara)
 
 **Author:** NeuromorphicComputationResearchProgram
 
@@ -1728,7 +1728,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## Awesome-CobaltStrike
 
-**Repository:** [[https://github.com/zer0yu/Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike)]([https://github.com/zer0yu/Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike))
+**Repository:** [https://github.com/zer0yu/Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike)
 
 **Author:** zer0yu
 
@@ -1736,7 +1736,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## awesome-executable-packing
 
-**Repository:** [[https://github.com/dhondta/awesome-executable-packing](https://github.com/dhondta/awesome-executable-packing)]([https://github.com/dhondta/awesome-executable-packing](https://github.com/dhondta/awesome-executable-packing))
+**Repository:** [https://github.com/dhondta/awesome-executable-packing](https://github.com/dhondta/awesome-executable-packing)
 
 **Author:** dhondta
 
@@ -1744,7 +1744,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## awesome-serverless-security
 
-**Repository:** [[https://github.com/puresec/awesome-serverless-security/](https://github.com/puresec/awesome-serverless-security/)]([https://github.com/puresec/awesome-serverless-security/](https://github.com/puresec/awesome-serverless-security/))
+**Repository:** [https://github.com/puresec/awesome-serverless-security/](https://github.com/puresec/awesome-serverless-security/)
 
 **Author:** puresec
 
@@ -1752,7 +1752,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## awesome-tor
 
-**Repository:** [[https://github.com/ajvb/awesome-tor](https://github.com/ajvb/awesome-tor)]([https://github.com/ajvb/awesome-tor](https://github.com/ajvb/awesome-tor))
+**Repository:** [https://github.com/ajvb/awesome-tor](https://github.com/ajvb/awesome-tor)
 
 **Author:** ajvb
 
@@ -1760,7 +1760,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## awesome-translations
 
-**Repository:** [[https://github.com/mbiesiad/awesome-translations](https://github.com/mbiesiad/awesome-translations)]([https://github.com/mbiesiad/awesome-translations](https://github.com/mbiesiad/awesome-translations))
+**Repository:** [https://github.com/mbiesiad/awesome-translations](https://github.com/mbiesiad/awesome-translations)
 
 **Author:** mbiesiad
 
@@ -1768,7 +1768,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## awesome-video-stabilization
 
-**Repository:** [[https://github.com/yaochih/awesome-video-stabilization](https://github.com/yaochih/awesome-video-stabilization)]([https://github.com/yaochih/awesome-video-stabilization](https://github.com/yaochih/awesome-video-stabilization))
+**Repository:** [https://github.com/yaochih/awesome-video-stabilization](https://github.com/yaochih/awesome-video-stabilization)
 
 **Author:** yaochih
 
@@ -1776,7 +1776,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## awesome-windows-domain-hardening
 
-**Repository:** [[https://github.com/PaulSec/awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening)]([https://github.com/PaulSec/awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening))
+**Repository:** [https://github.com/PaulSec/awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening)
 
 **Author:** PaulSec
 
@@ -1784,7 +1784,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## bigbookofcyber
 
-**Repository:** [[https://github.com/boboTjones/bigbookofcyber](https://github.com/boboTjones/bigbookofcyber)]([https://github.com/boboTjones/bigbookofcyber](https://github.com/boboTjones/bigbookofcyber))
+**Repository:** [https://github.com/boboTjones/bigbookofcyber](https://github.com/boboTjones/bigbookofcyber)
 
 **Author:** boboTjones
 
@@ -1792,7 +1792,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## Bug-Bounty-Resources
 
-**Repository:** [[https://github.com/Tikam02/Bug-Bounty-Resources](https://github.com/Tikam02/Bug-Bounty-Resources)]([https://github.com/Tikam02/Bug-Bounty-Resources](https://github.com/Tikam02/Bug-Bounty-Resources))
+**Repository:** [https://github.com/Tikam02/Bug-Bounty-Resources](https://github.com/Tikam02/Bug-Bounty-Resources)
 
 **Author:** Tikam02
 
@@ -1800,7 +1800,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## canarytokens
 
-**Repository:** [[https://github.com/thinkst/canarytokens](https://github.com/thinkst/canarytokens)]([https://github.com/thinkst/canarytokens](https://github.com/thinkst/canarytokens))
+**Repository:** [https://github.com/thinkst/canarytokens](https://github.com/thinkst/canarytokens)
 
 **Author:** thinkst
 
@@ -1808,7 +1808,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## ciscoasa_honeypot
 
-**Repository:** [[https://github.com/cymmetria/ciscoasa_honeypot](https://github.com/cymmetria/ciscoasa_honeypot)]([https://github.com/cymmetria/ciscoasa_honeypot](https://github.com/cymmetria/ciscoasa_honeypot))
+**Repository:** [https://github.com/cymmetria/ciscoasa_honeypot](https://github.com/cymmetria/ciscoasa_honeypot)
 
 **Author:** cymmetria
 
@@ -1816,7 +1816,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## ConventionEngine
 
-**Repository:** [[https://github.com/stvemillertime/ConventionEngine](https://github.com/stvemillertime/ConventionEngine)]([https://github.com/stvemillertime/ConventionEngine](https://github.com/stvemillertime/ConventionEngine))
+**Repository:** [https://github.com/stvemillertime/ConventionEngine](https://github.com/stvemillertime/ConventionEngine)
 
 **Author:** stvemillertime
 
@@ -1824,7 +1824,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## Depix
 
-**Repository:** [[https://github.com/beurtschipper/Depix](https://github.com/beurtschipper/Depix)]([https://github.com/beurtschipper/Depix](https://github.com/beurtschipper/Depix))
+**Repository:** [https://github.com/beurtschipper/Depix](https://github.com/beurtschipper/Depix)
 
 **Author:** beurtschipper
 
@@ -1832,7 +1832,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## ember
 
-**Repository:** [[https://github.com/endgameinc/ember](https://github.com/endgameinc/ember)]([https://github.com/endgameinc/ember](https://github.com/endgameinc/ember))
+**Repository:** [https://github.com/endgameinc/ember](https://github.com/endgameinc/ember)
 
 **Author:** endgameinc
 
@@ -1840,7 +1840,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## evilgrade
 
-**Repository:** [[https://github.com/infobyte/evilgrade](https://github.com/infobyte/evilgrade)]([https://github.com/infobyte/evilgrade](https://github.com/infobyte/evilgrade))
+**Repository:** [https://github.com/infobyte/evilgrade](https://github.com/infobyte/evilgrade)
 
 **Author:** infobyte
 
@@ -1848,7 +1848,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## FindFrontableDomains
 
-**Repository:** [[https://github.com/rvrsh3ll/FindFrontableDomains](https://github.com/rvrsh3ll/FindFrontableDomains)]([https://github.com/rvrsh3ll/FindFrontableDomains](https://github.com/rvrsh3ll/FindFrontableDomains))
+**Repository:** [https://github.com/rvrsh3ll/FindFrontableDomains](https://github.com/rvrsh3ll/FindFrontableDomains)
 
 **Author:** rvrsh3ll
 
@@ -1856,7 +1856,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## frida
 
-**Repository:** [[https://github.com/frida/frida](https://github.com/frida/frida)]([https://github.com/frida/frida](https://github.com/frida/frida))
+**Repository:** [https://github.com/frida/frida](https://github.com/frida/frida)
 
 **Author:** frida
 
@@ -1864,7 +1864,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## ghidra
 
-**Repository:** [[https://github.com/NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)]([https://github.com/NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra))
+**Repository:** [https://github.com/NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
 
 **Author:** NationalSecurityAgency
 
@@ -1872,7 +1872,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## GitPhish
 
-**Repository:** [[https://github.com/praetorian-inc/GitPhish](https://github.com/praetorian-inc/GitPhish)]([https://github.com/praetorian-inc/GitPhish](https://github.com/praetorian-inc/GitPhish))
+**Repository:** [https://github.com/praetorian-inc/GitPhish](https://github.com/praetorian-inc/GitPhish)
 
 **Author:** praetorian-inc
 
@@ -1880,7 +1880,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## HackingKubernetes
 
-**Repository:** [[https://github.com/g3rzi/HackingKubernetes](https://github.com/g3rzi/HackingKubernetes)]([https://github.com/g3rzi/HackingKubernetes](https://github.com/g3rzi/HackingKubernetes))
+**Repository:** [https://github.com/g3rzi/HackingKubernetes](https://github.com/g3rzi/HackingKubernetes)
 
 **Author:** g3rzi
 
@@ -1888,7 +1888,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## honeyku
 
-**Repository:** [[https://github.com/0x4D31/honeyku](https://github.com/0x4D31/honeyku)]([https://github.com/0x4D31/honeyku](https://github.com/0x4D31/honeyku))
+**Repository:** [https://github.com/0x4D31/honeyku](https://github.com/0x4D31/honeyku)
 
 **Author:** 0x4D31
 
@@ -1896,7 +1896,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## Honeypot-Research-Papers
 
-**Repository:** [[https://github.com/shbhmsingh72/Honeypot-Research-Papers](https://github.com/shbhmsingh72/Honeypot-Research-Papers)]([https://github.com/shbhmsingh72/Honeypot-Research-Papers](https://github.com/shbhmsingh72/Honeypot-Research-Papers))
+**Repository:** [https://github.com/shbhmsingh72/Honeypot-Research-Papers](https://github.com/shbhmsingh72/Honeypot-Research-Papers)
 
 **Author:** shbhmsingh72
 
@@ -1904,7 +1904,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## IE10Analyzer
 
-**Repository:** [[https://github.com/moaistory/IE10Analyzer](https://github.com/moaistory/IE10Analyzer)]([https://github.com/moaistory/IE10Analyzer](https://github.com/moaistory/IE10Analyzer))
+**Repository:** [https://github.com/moaistory/IE10Analyzer](https://github.com/moaistory/IE10Analyzer)
 
 **Author:** moaistory
 
@@ -1912,7 +1912,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## iLEAPP
 
-**Repository:** [[https://github.com/abrignoni/iLEAPP](https://github.com/abrignoni/iLEAPP)]([https://github.com/abrignoni/iLEAPP](https://github.com/abrignoni/iLEAPP))
+**Repository:** [https://github.com/abrignoni/iLEAPP](https://github.com/abrignoni/iLEAPP)
 
 **Author:** abrignoni
 
@@ -1920,7 +1920,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## imalse
 
-**Repository:** [[https://github.com/hbhzwj/imalse](https://github.com/hbhzwj/imalse)]([https://github.com/hbhzwj/imalse](https://github.com/hbhzwj/imalse))
+**Repository:** [https://github.com/hbhzwj/imalse](https://github.com/hbhzwj/imalse)
 
 **Author:** hbhzwj
 
@@ -1928,7 +1928,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## jarm
 
-**Repository:** [[https://github.com/salesforce/jarm](https://github.com/salesforce/jarm)]([https://github.com/salesforce/jarm](https://github.com/salesforce/jarm))
+**Repository:** [https://github.com/salesforce/jarm](https://github.com/salesforce/jarm)
 
 **Author:** salesforce
 
@@ -1936,7 +1936,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## knowledge
 
-**Repository:** [[https://github.com/RichardLitt/knowledge](https://github.com/RichardLitt/knowledge)]([https://github.com/RichardLitt/knowledge](https://github.com/RichardLitt/knowledge))
+**Repository:** [https://github.com/RichardLitt/knowledge](https://github.com/RichardLitt/knowledge)
 
 **Author:** RichardLitt
 
@@ -1944,7 +1944,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## krackattacks-scripts
 
-**Repository:** [[https://github.com/vanhoefm/krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts)]([https://github.com/vanhoefm/krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts))
+**Repository:** [https://github.com/vanhoefm/krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts)
 
 **Author:** vanhoefm
 
@@ -1952,7 +1952,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## libvshadow
 
-**Repository:** [[https://github.com/libyal/libvshadow](https://github.com/libyal/libvshadow)]([https://github.com/libyal/libvshadow](https://github.com/libyal/libvshadow))
+**Repository:** [https://github.com/libyal/libvshadow](https://github.com/libyal/libvshadow)
 
 **Author:** libyal
 
@@ -1960,7 +1960,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## LICSTER
 
-**Repository:** [[https://github.com/hsainnos/LICSTER](https://github.com/hsainnos/LICSTER)]([https://github.com/hsainnos/LICSTER](https://github.com/hsainnos/LICSTER))
+**Repository:** [https://github.com/hsainnos/LICSTER](https://github.com/hsainnos/LICSTER)
 
 **Author:** hsainnos
 
@@ -1968,7 +1968,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## malpdfobj
 
-**Repository:** [[https://github.com/9b/malpdfobj](https://github.com/9b/malpdfobj)]([https://github.com/9b/malpdfobj](https://github.com/9b/malpdfobj))
+**Repository:** [https://github.com/9b/malpdfobj](https://github.com/9b/malpdfobj)
 
 **Author:** 9b
 
@@ -1976,7 +1976,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## micros_honeypot
 
-**Repository:** [[https://github.com/Cymmetria/micros_honeypot](https://github.com/Cymmetria/micros_honeypot)]([https://github.com/Cymmetria/micros_honeypot](https://github.com/Cymmetria/micros_honeypot))
+**Repository:** [https://github.com/Cymmetria/micros_honeypot](https://github.com/Cymmetria/micros_honeypot)
 
 **Author:** Cymmetria
 
@@ -1984,7 +1984,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## monsoon
 
-**Repository:** [[https://github.com/RedTeamPentesting/monsoon](https://github.com/RedTeamPentesting/monsoon)]([https://github.com/RedTeamPentesting/monsoon](https://github.com/RedTeamPentesting/monsoon))
+**Repository:** [https://github.com/RedTeamPentesting/monsoon](https://github.com/RedTeamPentesting/monsoon)
 
 **Author:** RedTeamPentesting
 
@@ -1992,7 +1992,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## MTPot
 
-**Repository:** [[https://github.com/Cymmetria/MTPot](https://github.com/Cymmetria/MTPot)]([https://github.com/Cymmetria/MTPot](https://github.com/Cymmetria/MTPot))
+**Repository:** [https://github.com/Cymmetria/MTPot](https://github.com/Cymmetria/MTPot)
 
 **Author:** Cymmetria
 
@@ -2000,7 +2000,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## oregano
 
-**Repository:** [[https://github.com/nametoolong/oregano](https://github.com/nametoolong/oregano)]([https://github.com/nametoolong/oregano](https://github.com/nametoolong/oregano))
+**Repository:** [https://github.com/nametoolong/oregano](https://github.com/nametoolong/oregano)
 
 **Author:** nametoolong
 
@@ -2008,7 +2008,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## ovaa
 
-**Repository:** [[https://github.com/oversecured/ovaa](https://github.com/oversecured/ovaa)]([https://github.com/oversecured/ovaa](https://github.com/oversecured/ovaa))
+**Repository:** [https://github.com/oversecured/ovaa](https://github.com/oversecured/ovaa)
 
 **Author:** oversecured
 
@@ -2016,7 +2016,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## peepdf
 
-**Repository:** [[https://github.com/jesparza/peepdf](https://github.com/jesparza/peepdf)]([https://github.com/jesparza/peepdf](https://github.com/jesparza/peepdf))
+**Repository:** [https://github.com/jesparza/peepdf](https://github.com/jesparza/peepdf)
 
 **Author:** jesparza
 
@@ -2024,7 +2024,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## peframe
 
-**Repository:** [[https://github.com/guelfoweb/peframe](https://github.com/guelfoweb/peframe)]([https://github.com/guelfoweb/peframe](https://github.com/guelfoweb/peframe))
+**Repository:** [https://github.com/guelfoweb/peframe](https://github.com/guelfoweb/peframe)
 
 **Author:** guelfoweb
 
@@ -2032,7 +2032,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## ReelPhish
 
-**Repository:** [[https://github.com/fireeye/ReelPhish](https://github.com/fireeye/ReelPhish)]([https://github.com/fireeye/ReelPhish](https://github.com/fireeye/ReelPhish))
+**Repository:** [https://github.com/fireeye/ReelPhish](https://github.com/fireeye/ReelPhish)
 
 **Author:** fireeye
 
@@ -2040,7 +2040,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## rules
 
-**Repository:** [[https://github.com/Yara-Rules/rules](https://github.com/Yara-Rules/rules)]([https://github.com/Yara-Rules/rules](https://github.com/Yara-Rules/rules))
+**Repository:** [https://github.com/Yara-Rules/rules](https://github.com/Yara-Rules/rules)
 
 **Author:** Yara-Rules
 
@@ -2048,7 +2048,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## SCADAShutdownTool
 
-**Repository:** [[https://github.com/0xICF/SCADAShutdownTool](https://github.com/0xICF/SCADAShutdownTool)]([https://github.com/0xICF/SCADAShutdownTool](https://github.com/0xICF/SCADAShutdownTool))
+**Repository:** [https://github.com/0xICF/SCADAShutdownTool](https://github.com/0xICF/SCADAShutdownTool)
 
 **Author:** 0xICF
 
@@ -2056,7 +2056,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## seekr
 
-**Repository:** [[https://github.com/seekr-osint/seekr](https://github.com/seekr-osint/seekr)]([https://github.com/seekr-osint/seekr](https://github.com/seekr-osint/seekr))
+**Repository:** [https://github.com/seekr-osint/seekr](https://github.com/seekr-osint/seekr)
 
 **Author:** seekr-osint
 
@@ -2064,7 +2064,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## signator-rules
 
-**Repository:** [[https://github.com/malpedia/signator-rules](https://github.com/malpedia/signator-rules)]([https://github.com/malpedia/signator-rules](https://github.com/malpedia/signator-rules))
+**Repository:** [https://github.com/malpedia/signator-rules](https://github.com/malpedia/signator-rules)
 
 **Author:** malpedia
 
@@ -2072,7 +2072,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## Snake_Apple
 
-**Repository:** [[https://github.com/Karmaz95/Snake_Apple](https://github.com/Karmaz95/Snake_Apple)]([https://github.com/Karmaz95/Snake_Apple](https://github.com/Karmaz95/Snake_Apple))
+**Repository:** [https://github.com/Karmaz95/Snake_Apple](https://github.com/Karmaz95/Snake_Apple)
 
 **Author:** Karmaz95
 
@@ -2080,7 +2080,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## StrutsHoneypot
 
-**Repository:** [[https://github.com/Cymmetria/StrutsHoneypot](https://github.com/Cymmetria/StrutsHoneypot)]([https://github.com/Cymmetria/StrutsHoneypot](https://github.com/Cymmetria/StrutsHoneypot))
+**Repository:** [https://github.com/Cymmetria/StrutsHoneypot](https://github.com/Cymmetria/StrutsHoneypot)
 
 **Author:** Cymmetria
 
@@ -2088,7 +2088,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## Telepathy-Community
 
-**Repository:** [[https://github.com/proseltd/Telepathy-Community](https://github.com/proseltd/Telepathy-Community)]([https://github.com/proseltd/Telepathy-Community](https://github.com/proseltd/Telepathy-Community))
+**Repository:** [https://github.com/proseltd/Telepathy-Community](https://github.com/proseltd/Telepathy-Community)
 
 **Author:** proseltd
 
@@ -2096,7 +2096,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## Wargame_NcN2012
 
-**Repository:** [[https://github.com/NocONName/Wargame_NcN2012](https://github.com/NocONName/Wargame_NcN2012)]([https://github.com/NocONName/Wargame_NcN2012](https://github.com/NocONName/Wargame_NcN2012))
+**Repository:** [https://github.com/NocONName/Wargame_NcN2012](https://github.com/NocONName/Wargame_NcN2012)
 
 **Author:** NocONName
 
@@ -2104,7 +2104,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## weblogic_honeypot
 
-**Repository:** [[https://github.com/Cymmetria/weblogic_honeypot](https://github.com/Cymmetria/weblogic_honeypot)]([https://github.com/Cymmetria/weblogic_honeypot](https://github.com/Cymmetria/weblogic_honeypot))
+**Repository:** [https://github.com/Cymmetria/weblogic_honeypot](https://github.com/Cymmetria/weblogic_honeypot)
 
 **Author:** Cymmetria
 
@@ -2112,7 +2112,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## WinSearchDBAnalyzer
 
-**Repository:** [[https://github.com/moaistory/WinSearchDBAnalyzer](https://github.com/moaistory/WinSearchDBAnalyzer)]([https://github.com/moaistory/WinSearchDBAnalyzer](https://github.com/moaistory/WinSearchDBAnalyzer))
+**Repository:** [https://github.com/moaistory/WinSearchDBAnalyzer](https://github.com/moaistory/WinSearchDBAnalyzer)
 
 **Author:** moaistory
 
@@ -2120,7 +2120,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## WMI_Monitor
 
-**Repository:** [[https://github.com/realparisi/WMI_Monitor](https://github.com/realparisi/WMI_Monitor)]([https://github.com/realparisi/WMI_Monitor](https://github.com/realparisi/WMI_Monitor))
+**Repository:** [https://github.com/realparisi/WMI_Monitor](https://github.com/realparisi/WMI_Monitor)
 
 **Author:** realparisi
 
@@ -2128,7 +2128,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## write-ups
 
-**Repository:** [[https://github.com/Metnew/write-ups](https://github.com/Metnew/write-ups)]([https://github.com/Metnew/write-ups](https://github.com/Metnew/write-ups))
+**Repository:** [https://github.com/Metnew/write-ups](https://github.com/Metnew/write-ups)
 
 **Author:** Metnew
 
@@ -2136,7 +2136,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## Yara-Rules
 
-**Repository:** [[https://github.com/advanced-threat-research/Yara-Rules](https://github.com/advanced-threat-research/Yara-Rules)]([https://github.com/advanced-threat-research/Yara-Rules](https://github.com/advanced-threat-research/Yara-Rules))
+**Repository:** [https://github.com/advanced-threat-research/Yara-Rules](https://github.com/advanced-threat-research/Yara-Rules)
 
 **Author:** advanced-threat-research
 
@@ -2144,7 +2144,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## yara-rules
 
-**Repository:** [[https://github.com/deadbits/yara-rules](https://github.com/deadbits/yara-rules)]([https://github.com/deadbits/yara-rules](https://github.com/deadbits/yara-rules))
+**Repository:** [https://github.com/deadbits/yara-rules](https://github.com/deadbits/yara-rules)
 
 **Author:** deadbits
 
@@ -2152,7 +2152,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## yara_rules
 
-**Repository:** [[https://github.com/f0wl/yara_rules](https://github.com/f0wl/yara_rules)]([https://github.com/f0wl/yara_rules](https://github.com/f0wl/yara_rules))
+**Repository:** [https://github.com/f0wl/yara_rules](https://github.com/f0wl/yara_rules)
 
 **Author:** f0wl
 
@@ -2160,7 +2160,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## yara_tools
 
-**Repository:** [[https://github.com/matonis/yara_tools](https://github.com/matonis/yara_tools)]([https://github.com/matonis/yara_tools](https://github.com/matonis/yara_tools))
+**Repository:** [https://github.com/matonis/yara_tools](https://github.com/matonis/yara_tools)
 
 **Author:** matonis
 
@@ -2168,7 +2168,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## yaraprocessor
 
-**Repository:** [[https://github.com/MITRECND/yaraprocessor](https://github.com/MITRECND/yaraprocessor)]([https://github.com/MITRECND/yaraprocessor](https://github.com/MITRECND/yaraprocessor))
+**Repository:** [https://github.com/MITRECND/yaraprocessor](https://github.com/MITRECND/yaraprocessor)
 
 **Author:** MITRECND
 
@@ -2176,7 +2176,7 @@ Educational resources, tutorials, training platforms, and learning materials for
 
 ## z3
 
-**Repository:** [[https://github.com/Z3Prover/z3](https://github.com/Z3Prover/z3)]([https://github.com/Z3Prover/z3](https://github.com/Z3Prover/z3))
+**Repository:** [https://github.com/Z3Prover/z3](https://github.com/Z3Prover/z3)
 
 **Author:** Z3Prover
 

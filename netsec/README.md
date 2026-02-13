@@ -8,7 +8,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## AgentKB-public
 
-**Repository:** [[https://github.com/j-w-code/AgentKB-public](https://github.com/j-w-code/AgentKB-public)]([https://github.com/j-w-code/AgentKB-public](https://github.com/j-w-code/AgentKB-public))
+**Repository:** [https://github.com/j-w-code/AgentKB-public](https://github.com/j-w-code/AgentKB-public)
 
 **Author:** j-w-code
 
@@ -16,7 +16,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## amber
 
-**Repository:** [[https://github.com/EgeBalci/amber](https://github.com/EgeBalci/amber)]([https://github.com/EgeBalci/amber](https://github.com/EgeBalci/amber))
+**Repository:** [https://github.com/EgeBalci/amber](https://github.com/EgeBalci/amber)
 
 **Author:** EgeBalci
 
@@ -24,7 +24,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## apk2gold
 
-**Repository:** [[https://github.com/lxdvs/apk2gold](https://github.com/lxdvs/apk2gold)]([https://github.com/lxdvs/apk2gold](https://github.com/lxdvs/apk2gold))
+**Repository:** [https://github.com/lxdvs/apk2gold](https://github.com/lxdvs/apk2gold)
 
 **Author:** lxdvs
 
@@ -32,7 +32,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## awesome-bugbounty-tools
 
-**Repository:** [[https://github.com/vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools)]([https://github.com/vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools))
+**Repository:** [https://github.com/vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools)
 
 **Author:** vavkamil
 
@@ -40,7 +40,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## bubblewrap
 
-**Repository:** [[https://github.com/containers/bubblewrap](https://github.com/containers/bubblewrap)]([https://github.com/containers/bubblewrap](https://github.com/containers/bubblewrap))
+**Repository:** [https://github.com/containers/bubblewrap](https://github.com/containers/bubblewrap)
 
 **Author:** containers
 
@@ -48,7 +48,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## clj-net-pcap
 
-**Repository:** [[https://github.com/ruedigergad/clj-net-pcap](https://github.com/ruedigergad/clj-net-pcap)]([https://github.com/ruedigergad/clj-net-pcap](https://github.com/ruedigergad/clj-net-pcap))
+**Repository:** [https://github.com/ruedigergad/clj-net-pcap](https://github.com/ruedigergad/clj-net-pcap)
 
 **Author:** ruedigergad
 
@@ -56,7 +56,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## cset
 
-**Repository:** [[https://github.com/cisagov/cset](https://github.com/cisagov/cset)]([https://github.com/cisagov/cset](https://github.com/cisagov/cset))
+**Repository:** [https://github.com/cisagov/cset](https://github.com/cisagov/cset)
 
 **Author:** cisagov
 
@@ -64,7 +64,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## DAws
 
-**Repository:** [[https://github.com/dotcppfile/DAws](https://github.com/dotcppfile/DAws)]([https://github.com/dotcppfile/DAws](https://github.com/dotcppfile/DAws))
+**Repository:** [https://github.com/dotcppfile/DAws](https://github.com/dotcppfile/DAws)
 
 **Author:** dotcppfile
 
@@ -72,7 +72,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## drakvuf
 
-**Repository:** [[https://github.com/tklengyel/drakvuf](https://github.com/tklengyel/drakvuf)]([https://github.com/tklengyel/drakvuf](https://github.com/tklengyel/drakvuf))
+**Repository:** [https://github.com/tklengyel/drakvuf](https://github.com/tklengyel/drakvuf)
 
 **Author:** tklengyel
 
@@ -80,7 +80,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## ExchangeFilter
 
-**Repository:** [[https://github.com/k-sec-tools/ExchangeFilter](https://github.com/k-sec-tools/ExchangeFilter)]([https://github.com/k-sec-tools/ExchangeFilter](https://github.com/k-sec-tools/ExchangeFilter))
+**Repository:** [https://github.com/k-sec-tools/ExchangeFilter](https://github.com/k-sec-tools/ExchangeFilter)
 
 **Author:** k-sec-tools
 
@@ -88,7 +88,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## EyeWitness
 
-**Repository:** [[https://github.com/ChrisTruncer/EyeWitness](https://github.com/ChrisTruncer/EyeWitness)]([https://github.com/ChrisTruncer/EyeWitness](https://github.com/ChrisTruncer/EyeWitness))
+**Repository:** [https://github.com/ChrisTruncer/EyeWitness](https://github.com/ChrisTruncer/EyeWitness)
 
 **Author:** ChrisTruncer
 
@@ -96,7 +96,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## GRASSMARLIN
 
-**Repository:** [[https://github.com/iadgov/GRASSMARLIN](https://github.com/iadgov/GRASSMARLIN)]([https://github.com/iadgov/GRASSMARLIN](https://github.com/iadgov/GRASSMARLIN))
+**Repository:** [https://github.com/iadgov/GRASSMARLIN](https://github.com/iadgov/GRASSMARLIN)
 
 **Author:** iadgov
 
@@ -104,7 +104,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## h26forge
 
-**Repository:** [[https://github.com/h26forge/h26forge](https://github.com/h26forge/h26forge)]([https://github.com/h26forge/h26forge](https://github.com/h26forge/h26forge))
+**Repository:** [https://github.com/h26forge/h26forge](https://github.com/h26forge/h26forge)
 
 **Author:** h26forge
 
@@ -112,7 +112,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## hadoop-pcap
 
-**Repository:** [[https://github.com/RIPE-NCC/hadoop-pcap](https://github.com/RIPE-NCC/hadoop-pcap)]([https://github.com/RIPE-NCC/hadoop-pcap](https://github.com/RIPE-NCC/hadoop-pcap))
+**Repository:** [https://github.com/RIPE-NCC/hadoop-pcap](https://github.com/RIPE-NCC/hadoop-pcap)
 
 **Author:** RIPE-NCC
 
@@ -120,7 +120,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## honey_ports
 
-**Repository:** [[https://github.com/run41/honey_ports](https://github.com/run41/honey_ports)]([https://github.com/run41/honey_ports](https://github.com/run41/honey_ports))
+**Repository:** [https://github.com/run41/honey_ports](https://github.com/run41/honey_ports)
 
 **Author:** run41
 
@@ -128,7 +128,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## hping
 
-**Repository:** [[https://github.com/antirez/hping](https://github.com/antirez/hping)]([https://github.com/antirez/hping](https://github.com/antirez/hping))
+**Repository:** [https://github.com/antirez/hping](https://github.com/antirez/hping)
 
 **Author:** antirez
 
@@ -136,7 +136,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## http-sniffer
 
-**Repository:** [[https://github.com/caesar0301/http-sniffer](https://github.com/caesar0301/http-sniffer)]([https://github.com/caesar0301/http-sniffer](https://github.com/caesar0301/http-sniffer))
+**Repository:** [https://github.com/caesar0301/http-sniffer](https://github.com/caesar0301/http-sniffer)
 
 **Author:** caesar0301
 
@@ -144,7 +144,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## ICS-pcap
 
-**Repository:** [[https://github.com/automayt/ICS-pcap](https://github.com/automayt/ICS-pcap)]([https://github.com/automayt/ICS-pcap](https://github.com/automayt/ICS-pcap))
+**Repository:** [https://github.com/automayt/ICS-pcap](https://github.com/automayt/ICS-pcap)
 
 **Author:** automayt
 
@@ -152,7 +152,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## impacket
 
-**Repository:** [[https://github.com/CoreSecurity/impacket](https://github.com/CoreSecurity/impacket)]([https://github.com/CoreSecurity/impacket](https://github.com/CoreSecurity/impacket))
+**Repository:** [https://github.com/CoreSecurity/impacket](https://github.com/CoreSecurity/impacket)
 
 **Author:** CoreSecurity
 
@@ -160,7 +160,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## intelmq
 
-**Repository:** [[https://github.com/certtools/intelmq](https://github.com/certtools/intelmq)]([https://github.com/certtools/intelmq](https://github.com/certtools/intelmq))
+**Repository:** [https://github.com/certtools/intelmq](https://github.com/certtools/intelmq)
 
 **Author:** certtools
 
@@ -168,7 +168,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## internalblue
 
-**Repository:** [[https://github.com/seemoo-lab/internalblue](https://github.com/seemoo-lab/internalblue)]([https://github.com/seemoo-lab/internalblue](https://github.com/seemoo-lab/internalblue))
+**Repository:** [https://github.com/seemoo-lab/internalblue](https://github.com/seemoo-lab/internalblue)
 
 **Author:** seemoo-lab
 
@@ -176,7 +176,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## ipsumdump
 
-**Repository:** [[https://github.com/kohler/ipsumdump](https://github.com/kohler/ipsumdump)]([https://github.com/kohler/ipsumdump](https://github.com/kohler/ipsumdump))
+**Repository:** [https://github.com/kohler/ipsumdump](https://github.com/kohler/ipsumdump)
 
 **Author:** kohler
 
@@ -184,7 +184,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## JobDorking
 
-**Repository:** [[https://github.com/Fizzsh/JobDorking](https://github.com/Fizzsh/JobDorking)]([https://github.com/Fizzsh/JobDorking](https://github.com/Fizzsh/JobDorking))
+**Repository:** [https://github.com/Fizzsh/JobDorking](https://github.com/Fizzsh/JobDorking)
 
 **Author:** Fizzsh
 
@@ -192,7 +192,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## libcrafter
 
-**Repository:** [[https://github.com/pellegre/libcrafter](https://github.com/pellegre/libcrafter)]([https://github.com/pellegre/libcrafter](https://github.com/pellegre/libcrafter))
+**Repository:** [https://github.com/pellegre/libcrafter](https://github.com/pellegre/libcrafter)
 
 **Author:** pellegre
 
@@ -200,7 +200,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## Malcolm
 
-**Repository:** [[https://github.com/idaholab/Malcolm](https://github.com/idaholab/Malcolm)]([https://github.com/idaholab/Malcolm](https://github.com/idaholab/Malcolm))
+**Repository:** [https://github.com/idaholab/Malcolm](https://github.com/idaholab/Malcolm)
 
 **Author:** idaholab
 
@@ -208,7 +208,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## maldrolyzer
 
-**Repository:** [[https://github.com/maldroid/maldrolyzer](https://github.com/maldroid/maldrolyzer)]([https://github.com/maldroid/maldrolyzer](https://github.com/maldroid/maldrolyzer))
+**Repository:** [https://github.com/maldroid/maldrolyzer](https://github.com/maldroid/maldrolyzer)
 
 **Author:** maldroid
 
@@ -216,7 +216,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## netsniff-ng
 
-**Repository:** [[https://github.com/netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng)]([https://github.com/netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng))
+**Repository:** [https://github.com/netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng)
 
 **Author:** netsniff-ng
 
@@ -224,7 +224,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## ngrep
 
-**Repository:** [[https://github.com/jpr5/ngrep](https://github.com/jpr5/ngrep)]([https://github.com/jpr5/ngrep](https://github.com/jpr5/ngrep))
+**Repository:** [https://github.com/jpr5/ngrep](https://github.com/jpr5/ngrep)
 
 **Author:** jpr5
 
@@ -232,7 +232,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## nmap-unleashed
 
-**Repository:** [[https://github.com/sharkeonix/nmap-unleashed](https://github.com/sharkeonix/nmap-unleashed)]([https://github.com/sharkeonix/nmap-unleashed](https://github.com/sharkeonix/nmap-unleashed))
+**Repository:** [https://github.com/sharkeonix/nmap-unleashed](https://github.com/sharkeonix/nmap-unleashed)
 
 **Author:** sharkeonix
 
@@ -240,7 +240,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## nogotofail
 
-**Repository:** [[https://github.com/google/nogotofail](https://github.com/google/nogotofail)]([https://github.com/google/nogotofail](https://github.com/google/nogotofail))
+**Repository:** [https://github.com/google/nogotofail](https://github.com/google/nogotofail)
 
 **Author:** google
 
@@ -248,7 +248,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## oniontip
 
-**Repository:** [[https://github.com/DonnchaC/oniontip](https://github.com/DonnchaC/oniontip)]([https://github.com/DonnchaC/oniontip](https://github.com/DonnchaC/oniontip))
+**Repository:** [https://github.com/DonnchaC/oniontip](https://github.com/DonnchaC/oniontip)
 
 **Author:** DonnchaC
 
@@ -256,7 +256,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## packet-agent
 
-**Repository:** [[https://github.com/Netis/packet-agent](https://github.com/Netis/packet-agent)]([https://github.com/Netis/packet-agent](https://github.com/Netis/packet-agent))
+**Repository:** [https://github.com/Netis/packet-agent](https://github.com/Netis/packet-agent)
 
 **Author:** Netis
 
@@ -264,7 +264,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## PacketQ
 
-**Repository:** [[https://github.com/dotse/PacketQ](https://github.com/dotse/PacketQ)]([https://github.com/dotse/PacketQ](https://github.com/dotse/PacketQ))
+**Repository:** [https://github.com/dotse/PacketQ](https://github.com/dotse/PacketQ)
 
 **Author:** dotse
 
@@ -272,7 +272,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## PacketStreamer
 
-**Repository:** [[https://github.com/deepfence/PacketStreamer](https://github.com/deepfence/PacketStreamer)]([https://github.com/deepfence/PacketStreamer](https://github.com/deepfence/PacketStreamer))
+**Repository:** [https://github.com/deepfence/PacketStreamer](https://github.com/deepfence/PacketStreamer)
 
 **Author:** deepfence
 
@@ -280,7 +280,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## passivedns
 
-**Repository:** [[https://github.com/gamelinux/passivedns](https://github.com/gamelinux/passivedns)]([https://github.com/gamelinux/passivedns](https://github.com/gamelinux/passivedns))
+**Repository:** [https://github.com/gamelinux/passivedns](https://github.com/gamelinux/passivedns)
 
 **Author:** gamelinux
 
@@ -288,7 +288,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## PCAPdroid
 
-**Repository:** [[https://github.com/emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid)]([https://github.com/emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid))
+**Repository:** [https://github.com/emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid)
 
 **Author:** emanuele-f
 
@@ -296,7 +296,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## pcapfex
 
-**Repository:** [[https://github.com/vikwin/pcapfex](https://github.com/vikwin/pcapfex)]([https://github.com/vikwin/pcapfex](https://github.com/vikwin/pcapfex))
+**Repository:** [https://github.com/vikwin/pcapfex](https://github.com/vikwin/pcapfex)
 
 **Author:** vikwin
 
@@ -304,7 +304,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## PcapPlusPlus
 
-**Repository:** [[https://github.com/seladb/PcapPlusPlus](https://github.com/seladb/PcapPlusPlus)]([https://github.com/seladb/PcapPlusPlus](https://github.com/seladb/PcapPlusPlus))
+**Repository:** [https://github.com/seladb/PcapPlusPlus](https://github.com/seladb/PcapPlusPlus)
 
 **Author:** seladb
 
@@ -312,7 +312,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## PcapViz
 
-**Repository:** [[https://github.com/mateuszk87/PcapViz](https://github.com/mateuszk87/PcapViz)]([https://github.com/mateuszk87/PcapViz](https://github.com/mateuszk87/PcapViz))
+**Repository:** [https://github.com/mateuszk87/PcapViz](https://github.com/mateuszk87/PcapViz)
 
 **Author:** mateuszk87
 
@@ -320,7 +320,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## pig
 
-**Repository:** [[https://github.com/rafael-santiago/pig](https://github.com/rafael-santiago/pig)]([https://github.com/rafael-santiago/pig](https://github.com/rafael-santiago/pig))
+**Repository:** [https://github.com/rafael-santiago/pig](https://github.com/rafael-santiago/pig)
 
 **Author:** rafael-santiago
 
@@ -328,7 +328,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## rdppot
 
-**Repository:** [[https://github.com/kryptoslogic/rdppot](https://github.com/kryptoslogic/rdppot)]([https://github.com/kryptoslogic/rdppot](https://github.com/kryptoslogic/rdppot))
+**Repository:** [https://github.com/kryptoslogic/rdppot](https://github.com/kryptoslogic/rdppot)
 
 **Author:** kryptoslogic
 
@@ -336,7 +336,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## Redpoint
 
-**Repository:** [[https://github.com/digitalbond/Redpoint](https://github.com/digitalbond/Redpoint)]([https://github.com/digitalbond/Redpoint](https://github.com/digitalbond/Redpoint))
+**Repository:** [https://github.com/digitalbond/Redpoint](https://github.com/digitalbond/Redpoint)
 
 **Author:** digitalbond
 
@@ -344,7 +344,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## Resources-for-Beginner-Bug-Bounty-Hunters
 
-**Repository:** [[https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)]([https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters))
+**Repository:** [https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
 
 **Author:** nahamsec
 
@@ -352,7 +352,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## RustScan
 
-**Repository:** [[https://github.com/RustScan/RustScan](https://github.com/RustScan/RustScan)]([https://github.com/RustScan/RustScan](https://github.com/RustScan/RustScan))
+**Repository:** [https://github.com/RustScan/RustScan](https://github.com/RustScan/RustScan)
 
 **Author:** RustScan
 
@@ -360,7 +360,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## rustscan
 
-**Repository:** [[https://github.com/rustscan/rustscan](https://github.com/rustscan/rustscan)]([https://github.com/rustscan/rustscan](https://github.com/rustscan/rustscan))
+**Repository:** [https://github.com/rustscan/rustscan](https://github.com/rustscan/rustscan)
 
 **Author:** rustscan
 
@@ -368,7 +368,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## S7Comm-Analyzer
 
-**Repository:** [[https://github.com/dw2102/S7Comm-Analyzer](https://github.com/dw2102/S7Comm-Analyzer)]([https://github.com/dw2102/S7Comm-Analyzer](https://github.com/dw2102/S7Comm-Analyzer))
+**Repository:** [https://github.com/dw2102/S7Comm-Analyzer](https://github.com/dw2102/S7Comm-Analyzer)
 
 **Author:** dw2102
 
@@ -376,7 +376,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## ScanCannon
 
-**Repository:** [[https://github.com/johnnyxmas/ScanCannon](https://github.com/johnnyxmas/ScanCannon)]([https://github.com/johnnyxmas/ScanCannon](https://github.com/johnnyxmas/ScanCannon))
+**Repository:** [https://github.com/johnnyxmas/ScanCannon](https://github.com/johnnyxmas/ScanCannon)
 
 **Author:** johnnyxmas
 
@@ -384,7 +384,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## scanless
 
-**Repository:** [[https://github.com/vesche/scanless](https://github.com/vesche/scanless)]([https://github.com/vesche/scanless](https://github.com/vesche/scanless))
+**Repository:** [https://github.com/vesche/scanless](https://github.com/vesche/scanless)
 
 **Author:** vesche
 
@@ -392,7 +392,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## search-abuseipdb
 
-**Repository:** [[https://github.com/oseasfr/search-abuseipdb](https://github.com/oseasfr/search-abuseipdb)]([https://github.com/oseasfr/search-abuseipdb](https://github.com/oseasfr/search-abuseipdb))
+**Repository:** [https://github.com/oseasfr/search-abuseipdb](https://github.com/oseasfr/search-abuseipdb)
 
 **Author:** oseasfr
 
@@ -400,7 +400,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## selefra
 
-**Repository:** [[https://github.com/selefra/selefra](https://github.com/selefra/selefra)]([https://github.com/selefra/selefra](https://github.com/selefra/selefra))
+**Repository:** [https://github.com/selefra/selefra](https://github.com/selefra/selefra)
 
 **Author:** selefra
 
@@ -408,7 +408,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## setup-ipsec-vpn
 
-**Repository:** [[https://github.com/hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)]([https://github.com/hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn))
+**Repository:** [https://github.com/hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
 
 **Author:** hwdsl2
 
@@ -416,7 +416,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## sharppcap
 
-**Repository:** [[https://github.com/dotpcap/sharppcap](https://github.com/dotpcap/sharppcap)]([https://github.com/dotpcap/sharppcap](https://github.com/dotpcap/sharppcap))
+**Repository:** [https://github.com/dotpcap/sharppcap](https://github.com/dotpcap/sharppcap)
 
 **Author:** dotpcap
 
@@ -424,7 +424,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## snort3
 
-**Repository:** [[https://github.com/snort3/snort3](https://github.com/snort3/snort3)]([https://github.com/snort3/snort3](https://github.com/snort3/snort3))
+**Repository:** [https://github.com/snort3/snort3](https://github.com/snort3/snort3)
 
 **Author:** snort3
 
@@ -432,7 +432,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## softflowd
 
-**Repository:** [[https://github.com/irino/softflowd](https://github.com/irino/softflowd)]([https://github.com/irino/softflowd](https://github.com/irino/softflowd))
+**Repository:** [https://github.com/irino/softflowd](https://github.com/irino/softflowd)
 
 **Author:** irino
 
@@ -440,7 +440,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## sql_firewall
 
-**Repository:** [[https://github.com/uptimejp/sql_firewall](https://github.com/uptimejp/sql_firewall)]([https://github.com/uptimejp/sql_firewall](https://github.com/uptimejp/sql_firewall))
+**Repository:** [https://github.com/uptimejp/sql_firewall](https://github.com/uptimejp/sql_firewall)
 
 **Author:** uptimejp
 
@@ -448,7 +448,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## sshwatch
 
-**Repository:** [[https://github.com/marshyski/sshwatch](https://github.com/marshyski/sshwatch)]([https://github.com/marshyski/sshwatch](https://github.com/marshyski/sshwatch))
+**Repository:** [https://github.com/marshyski/sshwatch](https://github.com/marshyski/sshwatch)
 
 **Author:** marshyski
 
@@ -456,7 +456,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## starbase
 
-**Repository:** [[https://github.com/JupiterOne/starbase](https://github.com/JupiterOne/starbase)]([https://github.com/JupiterOne/starbase](https://github.com/JupiterOne/starbase))
+**Repository:** [https://github.com/JupiterOne/starbase](https://github.com/JupiterOne/starbase)
 
 **Author:** JupiterOne
 
@@ -464,7 +464,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## tcpsplit
 
-**Repository:** [[https://github.com/pmcgleenon/tcpsplit](https://github.com/pmcgleenon/tcpsplit)]([https://github.com/pmcgleenon/tcpsplit](https://github.com/pmcgleenon/tcpsplit))
+**Repository:** [https://github.com/pmcgleenon/tcpsplit](https://github.com/pmcgleenon/tcpsplit)
 
 **Author:** pmcgleenon
 
@@ -472,7 +472,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## thc-tips-tricks-hacks-cheat-sheet
 
-**Repository:** [[https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)]([https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet))
+**Repository:** [https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)
 
 **Author:** hackerschoice
 
@@ -480,7 +480,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## the-endorser
 
-**Repository:** [[https://github.com/eth0izzle/the-endorser](https://github.com/eth0izzle/the-endorser)]([https://github.com/eth0izzle/the-endorser](https://github.com/eth0izzle/the-endorser))
+**Repository:** [https://github.com/eth0izzle/the-endorser](https://github.com/eth0izzle/the-endorser)
 
 **Author:** eth0izzle
 
@@ -488,7 +488,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## trrespass
 
-**Repository:** [[https://github.com/vusec/trrespass](https://github.com/vusec/trrespass)]([https://github.com/vusec/trrespass](https://github.com/vusec/trrespass))
+**Repository:** [https://github.com/vusec/trrespass](https://github.com/vusec/trrespass)
 
 **Author:** vusec
 
@@ -496,7 +496,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## tsunami-security-scanner
 
-**Repository:** [[https://github.com/google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner)]([https://github.com/google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner))
+**Repository:** [https://github.com/google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner)
 
 **Author:** google
 
@@ -504,7 +504,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## usbpcap
 
-**Repository:** [[https://github.com/desowin/usbpcap](https://github.com/desowin/usbpcap)]([https://github.com/desowin/usbpcap](https://github.com/desowin/usbpcap))
+**Repository:** [https://github.com/desowin/usbpcap](https://github.com/desowin/usbpcap)
 
 **Author:** desowin
 
@@ -512,7 +512,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## USBPcapOdinDumper
 
-**Repository:** [[https://github.com/KOLANICH/USBPcapOdinDumper](https://github.com/KOLANICH/USBPcapOdinDumper)]([https://github.com/KOLANICH/USBPcapOdinDumper](https://github.com/KOLANICH/USBPcapOdinDumper))
+**Repository:** [https://github.com/KOLANICH/USBPcapOdinDumper](https://github.com/KOLANICH/USBPcapOdinDumper)
 
 **Author:** KOLANICH
 
@@ -520,7 +520,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## VerySimpleHoneypot
 
-**Repository:** [[https://github.com/johestephan/VerySimpleHoneypot](https://github.com/johestephan/VerySimpleHoneypot)]([https://github.com/johestephan/VerySimpleHoneypot](https://github.com/johestephan/VerySimpleHoneypot))
+**Repository:** [https://github.com/johestephan/VerySimpleHoneypot](https://github.com/johestephan/VerySimpleHoneypot)
 
 **Author:** johestephan
 
@@ -528,7 +528,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## WinDivert
 
-**Repository:** [[https://github.com/basil00/WinDivert](https://github.com/basil00/WinDivert)]([https://github.com/basil00/WinDivert](https://github.com/basil00/WinDivert))
+**Repository:** [https://github.com/basil00/WinDivert](https://github.com/basil00/WinDivert)
 
 **Author:** basil00
 
@@ -536,7 +536,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## wireshark
 
-**Repository:** [[https://github.com/wireshark/wireshark](https://github.com/wireshark/wireshark)]([https://github.com/wireshark/wireshark](https://github.com/wireshark/wireshark))
+**Repository:** [https://github.com/wireshark/wireshark](https://github.com/wireshark/wireshark)
 
 **Author:** wireshark
 
@@ -544,7 +544,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## YARA-Signatures
 
-**Repository:** [[https://github.com/jeFF0Falltrades/YARA-Signatures](https://github.com/jeFF0Falltrades/YARA-Signatures)]([https://github.com/jeFF0Falltrades/YARA-Signatures](https://github.com/jeFF0Falltrades/YARA-Signatures))
+**Repository:** [https://github.com/jeFF0Falltrades/YARA-Signatures](https://github.com/jeFF0Falltrades/YARA-Signatures)
 
 **Author:** jeFF0Falltrades
 
@@ -552,7 +552,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## yara_zip_module
 
-**Repository:** [[https://github.com/stoerchl/yara_zip_module](https://github.com/stoerchl/yara_zip_module)]([https://github.com/stoerchl/yara_zip_module](https://github.com/stoerchl/yara_zip_module))
+**Repository:** [https://github.com/stoerchl/yara_zip_module](https://github.com/stoerchl/yara_zip_module)
 
 **Author:** stoerchl
 
@@ -560,7 +560,7 @@ Network security tools, infrastructure hardening, and security monitoring soluti
 
 ## YaraPcap
 
-**Repository:** [[https://github.com/kevthehermit/YaraPcap](https://github.com/kevthehermit/YaraPcap)]([https://github.com/kevthehermit/YaraPcap](https://github.com/kevthehermit/YaraPcap))
+**Repository:** [https://github.com/kevthehermit/YaraPcap](https://github.com/kevthehermit/YaraPcap)
 
 **Author:** kevthehermit
 

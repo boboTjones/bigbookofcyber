@@ -8,7 +8,7 @@ Various security tools and resources that are pending categorization.
 
 ## a-ray-grass
 
-**Repository:** [[https://github.com/hashlookup/a-ray-grass](https://github.com/hashlookup/a-ray-grass)]([https://github.com/hashlookup/a-ray-grass](https://github.com/hashlookup/a-ray-grass))
+**Repository:** [https://github.com/hashlookup/a-ray-grass](https://github.com/hashlookup/a-ray-grass)
 
 **Author:** hashlookup
 
@@ -16,7 +16,7 @@ Various security tools and resources that are pending categorization.
 
 ## Aaia
 
-**Repository:** [[https://github.com/rams3sh/Aaia](https://github.com/rams3sh/Aaia)]([https://github.com/rams3sh/Aaia](https://github.com/rams3sh/Aaia))
+**Repository:** [https://github.com/rams3sh/Aaia](https://github.com/rams3sh/Aaia)
 
 **Author:** rams3sh
 
@@ -24,7 +24,7 @@ Various security tools and resources that are pending categorization.
 
 ## acapulco
 
-**Repository:** [[https://github.com/hgascon/acapulco](https://github.com/hgascon/acapulco)]([https://github.com/hgascon/acapulco](https://github.com/hgascon/acapulco))
+**Repository:** [https://github.com/hgascon/acapulco](https://github.com/hgascon/acapulco)
 
 **Author:** hgascon
 
@@ -32,7 +32,7 @@ Various security tools and resources that are pending categorization.
 
 ## AChoir
 
-**Repository:** [[https://github.com/OMENScan/AChoir](https://github.com/OMENScan/AChoir)]([https://github.com/OMENScan/AChoir](https://github.com/OMENScan/AChoir))
+**Repository:** [https://github.com/OMENScan/AChoir](https://github.com/OMENScan/AChoir)
 
 **Author:** OMENScan
 
@@ -40,7 +40,7 @@ Various security tools and resources that are pending categorization.
 
 ## acquirepi
 
-**Repository:** [[https://github.com/plonxyz/acquirepi](https://github.com/plonxyz/acquirepi)]([https://github.com/plonxyz/acquirepi](https://github.com/plonxyz/acquirepi))
+**Repository:** [https://github.com/plonxyz/acquirepi](https://github.com/plonxyz/acquirepi)
 
 **Author:** plonxyz
 
@@ -48,7 +48,7 @@ Various security tools and resources that are pending categorization.
 
 ## acstore
 
-**Repository:** [[https://github.com/log2timeline/acstore](https://github.com/log2timeline/acstore)]([https://github.com/log2timeline/acstore](https://github.com/log2timeline/acstore))
+**Repository:** [https://github.com/log2timeline/acstore](https://github.com/log2timeline/acstore)
 
 **Author:** log2timeline
 
@@ -56,7 +56,7 @@ Various security tools and resources that are pending categorization.
 
 ## AD-control-paths
 
-**Repository:** [[https://github.com/ANSSI-FR/AD-control-paths](https://github.com/ANSSI-FR/AD-control-paths)]([https://github.com/ANSSI-FR/AD-control-paths](https://github.com/ANSSI-FR/AD-control-paths))
+**Repository:** [https://github.com/ANSSI-FR/AD-control-paths](https://github.com/ANSSI-FR/AD-control-paths)
 
 **Author:** ANSSI-FR
 
@@ -64,7 +64,7 @@ Various security tools and resources that are pending categorization.
 
 ## ADBHoney
 
-**Repository:** [[https://github.com/huuck/ADBHoney](https://github.com/huuck/ADBHoney)]([https://github.com/huuck/ADBHoney](https://github.com/huuck/ADBHoney))
+**Repository:** [https://github.com/huuck/ADBHoney](https://github.com/huuck/ADBHoney)
 
 **Author:** huuck
 
@@ -72,7 +72,7 @@ Various security tools and resources that are pending categorization.
 
 ## AdoreForAndroid
 
-**Repository:** [[https://github.com/juxing/AdoreForAndroid](https://github.com/juxing/AdoreForAndroid)]([https://github.com/juxing/AdoreForAndroid](https://github.com/juxing/AdoreForAndroid))
+**Repository:** [https://github.com/juxing/AdoreForAndroid](https://github.com/juxing/AdoreForAndroid)
 
 **Author:** juxing
 
@@ -80,7 +80,7 @@ Various security tools and resources that are pending categorization.
 
 ## aff4
 
-**Repository:** [[https://github.com/py4n6/aff4](https://github.com/py4n6/aff4)]([https://github.com/py4n6/aff4](https://github.com/py4n6/aff4))
+**Repository:** [https://github.com/py4n6/aff4](https://github.com/py4n6/aff4)
 
 **Author:** py4n6
 
@@ -88,7 +88,7 @@ Various security tools and resources that are pending categorization.
 
 ## ai_for_the_win
 
-**Repository:** [[https://github.com/depalmar/ai_for_the_win](https://github.com/depalmar/ai_for_the_win)]([https://github.com/depalmar/ai_for_the_win](https://github.com/depalmar/ai_for_the_win))
+**Repository:** [https://github.com/depalmar/ai_for_the_win](https://github.com/depalmar/ai_for_the_win)
 
 **Author:** depalmar
 
@@ -96,7 +96,7 @@ Various security tools and resources that are pending categorization.
 
 ## airgeddon
 
-**Repository:** [[https://github.com/v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon)]([https://github.com/v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon))
+**Repository:** [https://github.com/v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon)
 
 **Author:** v1s1t0r1sh3r3
 
@@ -104,7 +104,7 @@ Various security tools and resources that are pending categorization.
 
 ## al-khaser
 
-**Repository:** [[https://github.com/LordNoteworthy/al-khaser](https://github.com/LordNoteworthy/al-khaser)]([https://github.com/LordNoteworthy/al-khaser](https://github.com/LordNoteworthy/al-khaser))
+**Repository:** [https://github.com/LordNoteworthy/al-khaser](https://github.com/LordNoteworthy/al-khaser)
 
 **Author:** LordNoteworthy
 
@@ -112,7 +112,7 @@ Various security tools and resources that are pending categorization.
 
 ## aleph
 
-**Repository:** [[https://github.com/merces/aleph](https://github.com/merces/aleph)]([https://github.com/merces/aleph](https://github.com/merces/aleph))
+**Repository:** [https://github.com/merces/aleph](https://github.com/merces/aleph)
 
 **Author:** merces
 
@@ -120,7 +120,7 @@ Various security tools and resources that are pending categorization.
 
 ## ALEX
 
-**Repository:** [[https://github.com/prosch88/ALEX](https://github.com/prosch88/ALEX)]([https://github.com/prosch88/ALEX](https://github.com/prosch88/ALEX))
+**Repository:** [https://github.com/prosch88/ALEX](https://github.com/prosch88/ALEX)
 
 **Author:** prosch88
 
@@ -128,7 +128,7 @@ Various security tools and resources that are pending categorization.
 
 ## allsafe
 
-**Repository:** [[https://github.com/t0thkr1s/allsafe](https://github.com/t0thkr1s/allsafe)]([https://github.com/t0thkr1s/allsafe](https://github.com/t0thkr1s/allsafe))
+**Repository:** [https://github.com/t0thkr1s/allsafe](https://github.com/t0thkr1s/allsafe)
 
 **Author:** t0thkr1s
 
@@ -136,7 +136,7 @@ Various security tools and resources that are pending categorization.
 
 ## allstar
 
-**Repository:** [[https://github.com/ossf/allstar](https://github.com/ossf/allstar)]([https://github.com/ossf/allstar](https://github.com/ossf/allstar))
+**Repository:** [https://github.com/ossf/allstar](https://github.com/ossf/allstar)
 
 **Author:** ossf
 
@@ -144,7 +144,7 @@ Various security tools and resources that are pending categorization.
 
 ## amun
 
-**Repository:** [[https://github.com/zeroq/amun](https://github.com/zeroq/amun)]([https://github.com/zeroq/amun](https://github.com/zeroq/amun))
+**Repository:** [https://github.com/zeroq/amun](https://github.com/zeroq/amun)
 
 **Author:** zeroq
 
@@ -152,7 +152,7 @@ Various security tools and resources that are pending categorization.
 
 ## AndBug
 
-**Repository:** [[https://github.com/swdunlop/AndBug](https://github.com/swdunlop/AndBug)]([https://github.com/swdunlop/AndBug](https://github.com/swdunlop/AndBug))
+**Repository:** [https://github.com/swdunlop/AndBug](https://github.com/swdunlop/AndBug)
 
 **Author:** swdunlop
 
@@ -160,7 +160,7 @@ Various security tools and resources that are pending categorization.
 
 ## andriller
 
-**Repository:** [[https://github.com/den4uk/andriller](https://github.com/den4uk/andriller)]([https://github.com/den4uk/andriller](https://github.com/den4uk/andriller))
+**Repository:** [https://github.com/den4uk/andriller](https://github.com/den4uk/andriller)
 
 **Author:** den4uk
 
@@ -168,7 +168,7 @@ Various security tools and resources that are pending categorization.
 
 ## AndroBugs_Framework
 
-**Repository:** [[https://github.com/AndroBugs/AndroBugs_Framework](https://github.com/AndroBugs/AndroBugs_Framework)]([https://github.com/AndroBugs/AndroBugs_Framework](https://github.com/AndroBugs/AndroBugs_Framework))
+**Repository:** [https://github.com/AndroBugs/AndroBugs_Framework](https://github.com/AndroBugs/AndroBugs_Framework)
 
 **Author:** AndroBugs
 
@@ -176,7 +176,7 @@ Various security tools and resources that are pending categorization.
 
 ## AndroFuzz
 
-**Repository:** [[https://github.com/jonmetz/AndroFuzz](https://github.com/jonmetz/AndroFuzz)]([https://github.com/jonmetz/AndroFuzz](https://github.com/jonmetz/AndroFuzz))
+**Repository:** [https://github.com/jonmetz/AndroFuzz](https://github.com/jonmetz/AndroFuzz)
 
 **Author:** jonmetz
 
@@ -184,7 +184,7 @@ Various security tools and resources that are pending categorization.
 
 ## AndroGoat
 
-**Repository:** [[https://github.com/satishpatnayak/AndroGoat](https://github.com/satishpatnayak/AndroGoat)]([https://github.com/satishpatnayak/AndroGoat](https://github.com/satishpatnayak/AndroGoat))
+**Repository:** [https://github.com/satishpatnayak/AndroGoat](https://github.com/satishpatnayak/AndroGoat)
 
 **Author:** satishpatnayak
 
@@ -192,7 +192,7 @@ Various security tools and resources that are pending categorization.
 
 ## androguard
 
-**Repository:** [[https://github.com/androguard/androguard](https://github.com/androguard/androguard)]([https://github.com/androguard/androguard](https://github.com/androguard/androguard))
+**Repository:** [https://github.com/androguard/androguard](https://github.com/androguard/androguard)
 
 **Author:** androguard
 
@@ -200,7 +200,7 @@ Various security tools and resources that are pending categorization.
 
 ## androguard-yara
 
-**Repository:** [[https://github.com/MindMac/androguard-yara](https://github.com/MindMac/androguard-yara)]([https://github.com/MindMac/androguard-yara](https://github.com/MindMac/androguard-yara))
+**Repository:** [https://github.com/MindMac/androguard-yara](https://github.com/MindMac/androguard-yara)
 
 **Author:** MindMac
 
@@ -208,7 +208,7 @@ Various security tools and resources that are pending categorization.
 
 ## android-classyshark
 
-**Repository:** [[https://github.com/google/android-classyshark](https://github.com/google/android-classyshark)]([https://github.com/google/android-classyshark](https://github.com/google/android-classyshark))
+**Repository:** [https://github.com/google/android-classyshark](https://github.com/google/android-classyshark)
 
 **Author:** google
 
@@ -216,7 +216,7 @@ Various security tools and resources that are pending categorization.
 
 ## Android-KillPermAndSigChecks
 
-**Repository:** [[https://github.com/iSECPartners/Android-KillPermAndSigChecks](https://github.com/iSECPartners/Android-KillPermAndSigChecks)]([https://github.com/iSECPartners/Android-KillPermAndSigChecks](https://github.com/iSECPartners/Android-KillPermAndSigChecks))
+**Repository:** [https://github.com/iSECPartners/Android-KillPermAndSigChecks](https://github.com/iSECPartners/Android-KillPermAndSigChecks)
 
 **Author:** iSECPartners
 
@@ -224,7 +224,7 @@ Various security tools and resources that are pending categorization.
 
 ## android-lkms
 
-**Repository:** [[https://github.com/strazzere/android-lkms](https://github.com/strazzere/android-lkms)]([https://github.com/strazzere/android-lkms](https://github.com/strazzere/android-lkms))
+**Repository:** [https://github.com/strazzere/android-lkms](https://github.com/strazzere/android-lkms)
 
 **Author:** strazzere
 
@@ -232,7 +232,7 @@ Various security tools and resources that are pending categorization.
 
 ## android-malware
 
-**Repository:** [[https://github.com/ashishb/android-malware](https://github.com/ashishb/android-malware)]([https://github.com/ashishb/android-malware](https://github.com/ashishb/android-malware))
+**Repository:** [https://github.com/ashishb/android-malware](https://github.com/ashishb/android-malware)
 
 **Author:** ashishb
 
@@ -240,7 +240,7 @@ Various security tools and resources that are pending categorization.
 
 ## Android-OpenDebug
 
-**Repository:** [[https://github.com/iSECPartners/Android-OpenDebug](https://github.com/iSECPartners/Android-OpenDebug)]([https://github.com/iSECPartners/Android-OpenDebug](https://github.com/iSECPartners/Android-OpenDebug))
+**Repository:** [https://github.com/iSECPartners/Android-OpenDebug](https://github.com/iSECPartners/Android-OpenDebug)
 
 **Author:** iSECPartners
 
@@ -248,7 +248,7 @@ Various security tools and resources that are pending categorization.
 
 ## android-security-awesome
 
-**Repository:** [[https://github.com/ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome)]([https://github.com/ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome))
+**Repository:** [https://github.com/ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome)
 
 **Author:** ashishb
 
@@ -256,7 +256,7 @@ Various security tools and resources that are pending categorization.
 
 ## Android-Security-Reference
 
-**Repository:** [[https://github.com/doridori/Android-Security-Reference](https://github.com/doridori/Android-Security-Reference)]([https://github.com/doridori/Android-Security-Reference](https://github.com/doridori/Android-Security-Reference))
+**Repository:** [https://github.com/doridori/Android-Security-Reference](https://github.com/doridori/Android-Security-Reference)
 
 **Author:** doridori
 
@@ -264,7 +264,7 @@ Various security tools and resources that are pending categorization.
 
 ## Android-Storage-Extractor
 
-**Repository:** [[https://github.com/51j0/Android-Storage-Extractor](https://github.com/51j0/Android-Storage-Extractor)]([https://github.com/51j0/Android-Storage-Extractor](https://github.com/51j0/Android-Storage-Extractor))
+**Repository:** [https://github.com/51j0/Android-Storage-Extractor](https://github.com/51j0/Android-Storage-Extractor)
 
 **Author:** 51j0
 
@@ -272,7 +272,7 @@ Various security tools and resources that are pending categorization.
 
 ## android_application_analyzer
 
-**Repository:** [[https://github.com/NotSoSecure/android_application_analyzer](https://github.com/NotSoSecure/android_application_analyzer)]([https://github.com/NotSoSecure/android_application_analyzer](https://github.com/NotSoSecure/android_application_analyzer))
+**Repository:** [https://github.com/NotSoSecure/android_application_analyzer](https://github.com/NotSoSecure/android_application_analyzer)
 
 **Author:** NotSoSecure
 
@@ -280,7 +280,7 @@ Various security tools and resources that are pending categorization.
 
 ## Andromeda
 
-**Repository:** [[https://github.com/secrary/Andromeda](https://github.com/secrary/Andromeda)]([https://github.com/secrary/Andromeda](https://github.com/secrary/Andromeda))
+**Repository:** [https://github.com/secrary/Andromeda](https://github.com/secrary/Andromeda)
 
 **Author:** secrary
 
@@ -288,7 +288,7 @@ Various security tools and resources that are pending categorization.
 
 ## AndroPyTool
 
-**Repository:** [[https://github.com/alexMyG/AndroPyTool](https://github.com/alexMyG/AndroPyTool)]([https://github.com/alexMyG/AndroPyTool](https://github.com/alexMyG/AndroPyTool))
+**Repository:** [https://github.com/alexMyG/AndroPyTool](https://github.com/alexMyG/AndroPyTool)
 
 **Author:** alexMyG
 
@@ -296,7 +296,7 @@ Various security tools and resources that are pending categorization.
 
 ## androwarn
 
-**Repository:** [[https://github.com/maaaaz/androwarn](https://github.com/maaaaz/androwarn)]([https://github.com/maaaaz/androwarn](https://github.com/maaaaz/androwarn))
+**Repository:** [https://github.com/maaaaz/androwarn](https://github.com/maaaaz/androwarn)
 
 **Author:** maaaaz
 
@@ -304,7 +304,7 @@ Various security tools and resources that are pending categorization.
 
 ## angr
 
-**Repository:** [[https://github.com/angr/angr](https://github.com/angr/angr)]([https://github.com/angr/angr](https://github.com/angr/angr))
+**Repository:** [https://github.com/angr/angr](https://github.com/angr/angr)
 
 **Author:** angr
 
@@ -312,7 +312,7 @@ Various security tools and resources that are pending categorization.
 
 ## ansible-os-hardening
 
-**Repository:** [[https://github.com/dev-sec/ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening)]([https://github.com/dev-sec/ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening))
+**Repository:** [https://github.com/dev-sec/ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening)
 
 **Author:** dev-sec
 
@@ -320,7 +320,7 @@ Various security tools and resources that are pending categorization.
 
 ## ansible-relayor
 
-**Repository:** [[https://github.com/nusenu/ansible-relayor](https://github.com/nusenu/ansible-relayor)]([https://github.com/nusenu/ansible-relayor](https://github.com/nusenu/ansible-relayor))
+**Repository:** [https://github.com/nusenu/ansible-relayor](https://github.com/nusenu/ansible-relayor)
 
 **Author:** nusenu
 
@@ -328,7 +328,7 @@ Various security tools and resources that are pending categorization.
 
 ## antinet
 
-**Repository:** [[https://github.com/0xd4d/antinet](https://github.com/0xd4d/antinet)]([https://github.com/0xd4d/antinet](https://github.com/0xd4d/antinet))
+**Repository:** [https://github.com/0xd4d/antinet](https://github.com/0xd4d/antinet)
 
 **Author:** 0xd4d
 
@@ -336,7 +336,7 @@ Various security tools and resources that are pending categorization.
 
 ## apfs-fuse
 
-**Repository:** [[https://github.com/sgan81/apfs-fuse](https://github.com/sgan81/apfs-fuse)]([https://github.com/sgan81/apfs-fuse](https://github.com/sgan81/apfs-fuse))
+**Repository:** [https://github.com/sgan81/apfs-fuse](https://github.com/sgan81/apfs-fuse)
 
 **Author:** sgan81
 
@@ -344,7 +344,7 @@ Various security tools and resources that are pending categorization.
 
 ## ApkAnalyser
 
-**Repository:** [[https://github.com/sonyxperiadev/ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser)]([https://github.com/sonyxperiadev/ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser))
+**Repository:** [https://github.com/sonyxperiadev/ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser)
 
 **Author:** sonyxperiadev
 
@@ -352,7 +352,7 @@ Various security tools and resources that are pending categorization.
 
 ## APKiD
 
-**Repository:** [[https://github.com/rednaga/APKiD](https://github.com/rednaga/APKiD)]([https://github.com/rednaga/APKiD](https://github.com/rednaga/APKiD))
+**Repository:** [https://github.com/rednaga/APKiD](https://github.com/rednaga/APKiD)
 
 **Author:** rednaga
 
@@ -360,7 +360,7 @@ Various security tools and resources that are pending categorization.
 
 ## apkinspector
 
-**Repository:** [[https://github.com/honeynet/apkinspector](https://github.com/honeynet/apkinspector)]([https://github.com/honeynet/apkinspector](https://github.com/honeynet/apkinspector))
+**Repository:** [https://github.com/honeynet/apkinspector](https://github.com/honeynet/apkinspector)
 
 **Author:** honeynet
 
@@ -368,7 +368,7 @@ Various security tools and resources that are pending categorization.
 
 ## apkleaks
 
-**Repository:** [[https://github.com/dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks)]([https://github.com/dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks))
+**Repository:** [https://github.com/dwisiswant0/apkleaks](https://github.com/dwisiswant0/apkleaks)
 
 **Author:** dwisiswant0
 
@@ -376,7 +376,7 @@ Various security tools and resources that are pending categorization.
 
 ## Apktool
 
-**Repository:** [[https://github.com/iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)]([https://github.com/iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool))
+**Repository:** [https://github.com/iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)
 
 **Author:** iBotPeaches
 
@@ -384,7 +384,7 @@ Various security tools and resources that are pending categorization.
 
 ## apkx
 
-**Repository:** [[https://github.com/b-mueller/apkx](https://github.com/b-mueller/apkx)]([https://github.com/b-mueller/apkx](https://github.com/b-mueller/apkx))
+**Repository:** [https://github.com/b-mueller/apkx](https://github.com/b-mueller/apkx)
 
 **Author:** b-mueller
 
@@ -392,7 +392,7 @@ Various security tools and resources that are pending categorization.
 
 ## Applied-Crypto-Hardening
 
-**Repository:** [[https://github.com/BetterCrypto/Applied-Crypto-Hardening](https://github.com/BetterCrypto/Applied-Crypto-Hardening)]([https://github.com/BetterCrypto/Applied-Crypto-Hardening](https://github.com/BetterCrypto/Applied-Crypto-Hardening))
+**Repository:** [https://github.com/BetterCrypto/Applied-Crypto-Hardening](https://github.com/BetterCrypto/Applied-Crypto-Hardening)
 
 **Author:** BetterCrypto
 
@@ -400,7 +400,7 @@ Various security tools and resources that are pending categorization.
 
 ## appmon
 
-**Repository:** [[https://github.com/dpnishant/appmon](https://github.com/dpnishant/appmon)]([https://github.com/dpnishant/appmon](https://github.com/dpnishant/appmon))
+**Repository:** [https://github.com/dpnishant/appmon](https://github.com/dpnishant/appmon)
 
 **Author:** dpnishant
 
@@ -408,7 +408,7 @@ Various security tools and resources that are pending categorization.
 
 ## arctic-swallow
 
-**Repository:** [[https://github.com/ajackal/arctic-swallow](https://github.com/ajackal/arctic-swallow)]([https://github.com/ajackal/arctic-swallow](https://github.com/ajackal/arctic-swallow))
+**Repository:** [https://github.com/ajackal/arctic-swallow](https://github.com/ajackal/arctic-swallow)
 
 **Author:** ajackal
 
@@ -416,7 +416,7 @@ Various security tools and resources that are pending categorization.
 
 ## artifactcollector
 
-**Repository:** [[https://github.com/forensicanalysis/artifactcollector](https://github.com/forensicanalysis/artifactcollector)]([https://github.com/forensicanalysis/artifactcollector](https://github.com/forensicanalysis/artifactcollector))
+**Repository:** [https://github.com/forensicanalysis/artifactcollector](https://github.com/forensicanalysis/artifactcollector)
 
 **Author:** forensicanalysis
 
@@ -424,7 +424,7 @@ Various security tools and resources that are pending categorization.
 
 ## ArtifactExtractor
 
-**Repository:** [[https://github.com/Silv3rHorn/ArtifactExtractor](https://github.com/Silv3rHorn/ArtifactExtractor)]([https://github.com/Silv3rHorn/ArtifactExtractor](https://github.com/Silv3rHorn/ArtifactExtractor))
+**Repository:** [https://github.com/Silv3rHorn/ArtifactExtractor](https://github.com/Silv3rHorn/ArtifactExtractor)
 
 **Author:** Silv3rHorn
 
@@ -432,7 +432,7 @@ Various security tools and resources that are pending categorization.
 
 ## artifacts
 
-**Repository:** [[https://github.com/ForensicArtifacts/artifacts](https://github.com/ForensicArtifacts/artifacts)]([https://github.com/ForensicArtifacts/artifacts](https://github.com/ForensicArtifacts/artifacts))
+**Repository:** [https://github.com/ForensicArtifacts/artifacts](https://github.com/ForensicArtifacts/artifacts)
 
 **Author:** ForensicArtifacts
 
@@ -440,7 +440,7 @@ Various security tools and resources that are pending categorization.
 
 ## arya
 
-**Repository:** [[https://github.com/claroty/arya](https://github.com/claroty/arya)]([https://github.com/claroty/arya](https://github.com/claroty/arya))
+**Repository:** [https://github.com/claroty/arya](https://github.com/claroty/arya)
 
 **Author:** claroty
 
@@ -448,7 +448,7 @@ Various security tools and resources that are pending categorization.
 
 ## authoscope
 
-**Repository:** [[https://github.com/kpcyrd/authoscope](https://github.com/kpcyrd/authoscope)]([https://github.com/kpcyrd/authoscope](https://github.com/kpcyrd/authoscope))
+**Repository:** [https://github.com/kpcyrd/authoscope](https://github.com/kpcyrd/authoscope)
 
 **Author:** kpcyrd
 
@@ -456,7 +456,7 @@ Various security tools and resources that are pending categorization.
 
 ## avml
 
-**Repository:** [[https://github.com/microsoft/avml](https://github.com/microsoft/avml)]([https://github.com/microsoft/avml](https://github.com/microsoft/avml))
+**Repository:** [https://github.com/microsoft/avml](https://github.com/microsoft/avml)
 
 **Author:** microsoft
 
@@ -464,7 +464,7 @@ Various security tools and resources that are pending categorization.
 
 ## awesome-analytics
 
-**Repository:** [[https://github.com/0xnr/awesome-analytics](https://github.com/0xnr/awesome-analytics)]([https://github.com/0xnr/awesome-analytics](https://github.com/0xnr/awesome-analytics))
+**Repository:** [https://github.com/0xnr/awesome-analytics](https://github.com/0xnr/awesome-analytics)
 
 **Author:** 0xnr
 
@@ -472,7 +472,7 @@ Various security tools and resources that are pending categorization.
 
 ## awesome-anti-forensic
 
-**Repository:** [[https://github.com/remiflavien1/awesome-anti-forensic](https://github.com/remiflavien1/awesome-anti-forensic)]([https://github.com/remiflavien1/awesome-anti-forensic](https://github.com/remiflavien1/awesome-anti-forensic))
+**Repository:** [https://github.com/remiflavien1/awesome-anti-forensic](https://github.com/remiflavien1/awesome-anti-forensic)
 
 **Author:** remiflavien1
 
@@ -480,7 +480,7 @@ Various security tools and resources that are pending categorization.
 
 ## awesome-awesomeness
 
-**Repository:** [[https://github.com/bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)]([https://github.com/bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness))
+**Repository:** [https://github.com/bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
 **Author:** bayandin
 
@@ -488,7 +488,7 @@ Various security tools and resources that are pending categorization.
 
 ## awesome-bluetooth-security
 
-**Repository:** [[https://github.com/engn33r/awesome-bluetooth-security](https://github.com/engn33r/awesome-bluetooth-security)]([https://github.com/engn33r/awesome-bluetooth-security](https://github.com/engn33r/awesome-bluetooth-security))
+**Repository:** [https://github.com/engn33r/awesome-bluetooth-security](https://github.com/engn33r/awesome-bluetooth-security)
 
 **Author:** engn33r
 
@@ -496,7 +496,7 @@ Various security tools and resources that are pending categorization.
 
 ## awesome-censys-queries
 
-**Repository:** [[https://github.com/thehappydinoa/awesome-censys-queries](https://github.com/thehappydinoa/awesome-censys-queries)]([https://github.com/thehappydinoa/awesome-censys-queries](https://github.com/thehappydinoa/awesome-censys-queries))
+**Repository:** [https://github.com/thehappydinoa/awesome-censys-queries](https://github.com/thehappydinoa/awesome-censys-queries)
 
 **Author:** thehappydinoa
 
@@ -504,7 +504,7 @@ Various security tools and resources that are pending categorization.
 
 ## awesome-crawler
 
-**Repository:** [[https://github.com/BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler)]([https://github.com/BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler))
+**Repository:** [https://github.com/BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler)
 
 **Author:** BruceDone
 
@@ -512,7 +512,7 @@ Various security tools and resources that are pending categorization.
 
 ## awesome-cve-poc
 
-**Repository:** [[https://github.com/qazbnm456/awesome-cve-poc](https://github.com/qazbnm456/awesome-cve-poc)]([https://github.com/qazbnm456/awesome-cve-poc](https://github.com/qazbnm456/awesome-cve-poc))
+**Repository:** [https://github.com/qazbnm456/awesome-cve-poc](https://github.com/qazbnm456/awesome-cve-poc)
 
 **Author:** qazbnm456
 
@@ -520,7 +520,7 @@ Various security tools and resources that are pending categorization.
 
 ## awesome-cyber-skills
 
-**Repository:** [[https://github.com/joe-shenouda/awesome-cyber-skills](https://github.com/joe-shenouda/awesome-cyber-skills)]([https://github.com/joe-shenouda/awesome-cyber-skills](https://github.com/joe-shenouda/awesome-cyber-skills))
+**Repository:** [https://github.com/joe-shenouda/awesome-cyber-skills](https://github.com/joe-shenouda/awesome-cyber-skills)
 
 **Author:** joe-shenouda
 
@@ -528,7 +528,7 @@ Various security tools and resources that are pending categorization.
 
 ## awesome-electronjs-hacking
 
-**Repository:** [[https://github.com/doyensec/awesome-electronjs-hacking](https://github.com/doyensec/awesome-electronjs-hacking)]([https://github.com/doyensec/awesome-electronjs-hacking](https://github.com/doyensec/awesome-electronjs-hacking))
+**Repository:** [https://github.com/doyensec/awesome-electronjs-hacking](https://github.com/doyensec/awesome-electronjs-hacking)
 
 **Author:** doyensec
 
@@ -536,7 +536,7 @@ Various security tools and resources that are pending categorization.
 
 ## awesome-honeypots
 
-**Repository:** [[https://github.com/paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots)]([https://github.com/paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots))
+**Repository:** [https://github.com/paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots)
 
 **Author:** paralax
 
@@ -544,7 +544,7 @@ Various security tools and resources that are pending categorization.
 
 ## awesome-industrial-control-system-security
 
-**Repository:** [[https://github.com/hslatman/awesome-industrial-control-system-security](https://github.com/hslatman/awesome-industrial-control-system-security)]([https://github.com/hslatman/awesome-industrial-control-system-security](https://github.com/hslatman/awesome-industrial-control-system-security))
+**Repository:** [https://github.com/hslatman/awesome-industrial-control-system-security](https://github.com/hslatman/awesome-industrial-control-system-security)
 
 **Author:** hslatman
 
@@ -552,7 +552,7 @@ Various security tools and resources that are pending categorization.
 
 ## awesome-lockpicking
 
-**Repository:** [[https://github.com/fabacab/awesome-lockpicking](https://github.com/fabacab/awesome-lockpicking)]([https://github.com/fabacab/awesome-lockpicking](https://github.com/fabacab/awesome-lockpicking))
+**Repository:** [https://github.com/fabacab/awesome-lockpicking](https://github.com/fabacab/awesome-lockpicking)
 
 **Author:** fabacab
 
@@ -560,7 +560,7 @@ Various security tools and resources that are pending categorization.
 
 ## awesome-osx-command-line
 
-**Repository:** [[https://github.com/herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line)]([https://github.com/herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line))
+**Repository:** [https://github.com/herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line)
 
 **Author:** herrbischoff
 
@@ -568,7 +568,7 @@ Various security tools and resources that are pending categorization.
 
 ## awesome-sec-talks
 
-**Repository:** [[https://github.com/PaulSec/awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks)]([https://github.com/PaulSec/awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks))
+**Repository:** [https://github.com/PaulSec/awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks)
 
 **Author:** PaulSec
 
@@ -576,7 +576,7 @@ Various security tools and resources that are pending categorization.
 
 ## awesome-security
 
-**Repository:** [[https://github.com/sbilly/awesome-security](https://github.com/sbilly/awesome-security)]([https://github.com/sbilly/awesome-security](https://github.com/sbilly/awesome-security))
+**Repository:** [https://github.com/sbilly/awesome-security](https://github.com/sbilly/awesome-security)
 
 **Author:** sbilly
 
@@ -584,7 +584,7 @@ Various security tools and resources that are pending categorization.
 
 ## awesome-selfhosted
 
-**Repository:** [[https://github.com/awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)]([https://github.com/awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted))
+**Repository:** [https://github.com/awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
 **Author:** awesome-selfhosted
 
@@ -592,7 +592,7 @@ Various security tools and resources that are pending categorization.
 
 ## awesome-sysadmin
 
-**Repository:** [[https://github.com/awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)]([https://github.com/awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin))
+**Repository:** [https://github.com/awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
 
 **Author:** awesome-foss
 
@@ -600,7 +600,7 @@ Various security tools and resources that are pending categorization.
 
 ## awesome-vulnerable
 
-**Repository:** [[https://github.com/kaiiyer/awesome-vulnerable](https://github.com/kaiiyer/awesome-vulnerable)]([https://github.com/kaiiyer/awesome-vulnerable](https://github.com/kaiiyer/awesome-vulnerable))
+**Repository:** [https://github.com/kaiiyer/awesome-vulnerable](https://github.com/kaiiyer/awesome-vulnerable)
 
 **Author:** kaiiyer
 
@@ -608,7 +608,7 @@ Various security tools and resources that are pending categorization.
 
 ## awesome-yara
 
-**Repository:** [[https://github.com/InQuest/awesome-yara](https://github.com/InQuest/awesome-yara)]([https://github.com/InQuest/awesome-yara](https://github.com/InQuest/awesome-yara))
+**Repository:** [https://github.com/InQuest/awesome-yara](https://github.com/InQuest/awesome-yara)
 
 **Author:** InQuest
 
@@ -616,7 +616,7 @@ Various security tools and resources that are pending categorization.
 
 ## aws-vault
 
-**Repository:** [[https://github.com/99designs/aws-vault](https://github.com/99designs/aws-vault)]([https://github.com/99designs/aws-vault](https://github.com/99designs/aws-vault))
+**Repository:** [https://github.com/99designs/aws-vault](https://github.com/99designs/aws-vault)
 
 **Author:** 99designs
 
@@ -624,7 +624,7 @@ Various security tools and resources that are pending categorization.
 
 ## axiom
 
-**Repository:** [[https://github.com/pry0cc/axiom](https://github.com/pry0cc/axiom)]([https://github.com/pry0cc/axiom](https://github.com/pry0cc/axiom))
+**Repository:** [https://github.com/pry0cc/axiom](https://github.com/pry0cc/axiom)
 
 **Author:** pry0cc
 
@@ -632,7 +632,7 @@ Various security tools and resources that are pending categorization.
 
 ## badtouch
 
-**Repository:** [[https://github.com/kpcyrd/badtouch](https://github.com/kpcyrd/badtouch)]([https://github.com/kpcyrd/badtouch](https://github.com/kpcyrd/badtouch))
+**Repository:** [https://github.com/kpcyrd/badtouch](https://github.com/kpcyrd/badtouch)
 
 **Author:** kpcyrd
 
@@ -640,7 +640,7 @@ Various security tools and resources that are pending categorization.
 
 ## bane
 
-**Repository:** [[https://github.com/genuinetools/bane](https://github.com/genuinetools/bane)]([https://github.com/genuinetools/bane](https://github.com/genuinetools/bane))
+**Repository:** [https://github.com/genuinetools/bane](https://github.com/genuinetools/bane)
 
 **Author:** genuinetools
 
@@ -648,7 +648,7 @@ Various security tools and resources that are pending categorization.
 
 ## bap
 
-**Repository:** [[https://github.com/BinaryAnalysisPlatform/bap](https://github.com/BinaryAnalysisPlatform/bap)]([https://github.com/BinaryAnalysisPlatform/bap](https://github.com/BinaryAnalysisPlatform/bap))
+**Repository:** [https://github.com/BinaryAnalysisPlatform/bap](https://github.com/BinaryAnalysisPlatform/bap)
 
 **Author:** BinaryAnalysisPlatform
 
@@ -656,7 +656,7 @@ Various security tools and resources that are pending categorization.
 
 ## barf-project
 
-**Repository:** [[https://github.com/programa-stic/barf-project](https://github.com/programa-stic/barf-project)]([https://github.com/programa-stic/barf-project](https://github.com/programa-stic/barf-project))
+**Repository:** [https://github.com/programa-stic/barf-project](https://github.com/programa-stic/barf-project)
 
 **Author:** programa-stic
 
@@ -664,7 +664,7 @@ Various security tools and resources that are pending categorization.
 
 ## base64_substring
 
-**Repository:** [[https://github.com/DissectMalware/base64_substring](https://github.com/DissectMalware/base64_substring)]([https://github.com/DissectMalware/base64_substring](https://github.com/DissectMalware/base64_substring))
+**Repository:** [https://github.com/DissectMalware/base64_substring](https://github.com/DissectMalware/base64_substring)
 
 **Author:** DissectMalware
 
@@ -672,7 +672,7 @@ Various security tools and resources that are pending categorization.
 
 ## basic-auth-pot
 
-**Repository:** [[https://github.com/bjeborn/basic-auth-pot](https://github.com/bjeborn/basic-auth-pot)]([https://github.com/bjeborn/basic-auth-pot](https://github.com/bjeborn/basic-auth-pot))
+**Repository:** [https://github.com/bjeborn/basic-auth-pot](https://github.com/bjeborn/basic-auth-pot)
 
 **Author:** bjeborn
 
@@ -680,7 +680,7 @@ Various security tools and resources that are pending categorization.
 
 ## beagle
 
-**Repository:** [[https://github.com/yampelo/beagle](https://github.com/yampelo/beagle)]([https://github.com/yampelo/beagle](https://github.com/yampelo/beagle))
+**Repository:** [https://github.com/yampelo/beagle](https://github.com/yampelo/beagle)
 
 **Author:** yampelo
 
@@ -688,7 +688,7 @@ Various security tools and resources that are pending categorization.
 
 ## BeeLogger
 
-**Repository:** [[https://github.com/4w4k3/BeeLogger](https://github.com/4w4k3/BeeLogger)]([https://github.com/4w4k3/BeeLogger](https://github.com/4w4k3/BeeLogger))
+**Repository:** [https://github.com/4w4k3/BeeLogger](https://github.com/4w4k3/BeeLogger)
 
 **Author:** 4w4k3
 
@@ -696,7 +696,7 @@ Various security tools and resources that are pending categorization.
 
 ## BeVigil-OSINT-CLI
 
-**Repository:** [[https://github.com/Bevigil/BeVigil-OSINT-CLI](https://github.com/Bevigil/BeVigil-OSINT-CLI)]([https://github.com/Bevigil/BeVigil-OSINT-CLI](https://github.com/Bevigil/BeVigil-OSINT-CLI))
+**Repository:** [https://github.com/Bevigil/BeVigil-OSINT-CLI](https://github.com/Bevigil/BeVigil-OSINT-CLI)
 
 **Author:** Bevigil
 
@@ -704,7 +704,7 @@ Various security tools and resources that are pending categorization.
 
 ## bifrozt-ansible
 
-**Repository:** [[https://github.com/Ziemeck/bifrozt-ansible](https://github.com/Ziemeck/bifrozt-ansible)]([https://github.com/Ziemeck/bifrozt-ansible](https://github.com/Ziemeck/bifrozt-ansible))
+**Repository:** [https://github.com/Ziemeck/bifrozt-ansible](https://github.com/Ziemeck/bifrozt-ansible)
 
 **Author:** Ziemeck
 
@@ -712,7 +712,7 @@ Various security tools and resources that are pending categorization.
 
 ## binarypig
 
-**Repository:** [[https://github.com/endgameinc/binarypig](https://github.com/endgameinc/binarypig)]([https://github.com/endgameinc/binarypig](https://github.com/endgameinc/binarypig))
+**Repository:** [https://github.com/endgameinc/binarypig](https://github.com/endgameinc/binarypig)
 
 **Author:** endgameinc
 
@@ -720,7 +720,7 @@ Various security tools and resources that are pending categorization.
 
 ## bincapz
 
-**Repository:** [[https://github.com/chainguard-dev/bincapz](https://github.com/chainguard-dev/bincapz)]([https://github.com/chainguard-dev/bincapz](https://github.com/chainguard-dev/bincapz))
+**Repository:** [https://github.com/chainguard-dev/bincapz](https://github.com/chainguard-dev/bincapz)
 
 **Author:** chainguard-dev
 
@@ -728,7 +728,7 @@ Various security tools and resources that are pending categorization.
 
 ## bine
 
-**Repository:** [[https://github.com/cretz/bine](https://github.com/cretz/bine)]([https://github.com/cretz/bine](https://github.com/cretz/bine))
+**Repository:** [https://github.com/cretz/bine](https://github.com/cretz/bine)
 
 **Author:** cretz
 
@@ -736,7 +736,7 @@ Various security tools and resources that are pending categorization.
 
 ## BinGoo
 
-**Repository:** [[https://github.com/Hood3dRob1n/BinGoo](https://github.com/Hood3dRob1n/BinGoo)]([https://github.com/Hood3dRob1n/BinGoo](https://github.com/Hood3dRob1n/BinGoo))
+**Repository:** [https://github.com/Hood3dRob1n/BinGoo](https://github.com/Hood3dRob1n/BinGoo)
 
 **Author:** Hood3dRob1n
 
@@ -744,7 +744,7 @@ Various security tools and resources that are pending categorization.
 
 ## binnavi
 
-**Repository:** [[https://github.com/google/binnavi](https://github.com/google/binnavi)]([https://github.com/google/binnavi](https://github.com/google/binnavi))
+**Repository:** [https://github.com/google/binnavi](https://github.com/google/binnavi)
 
 **Author:** google
 
@@ -752,7 +752,7 @@ Various security tools and resources that are pending categorization.
 
 ## binsequencer
 
-**Repository:** [[https://github.com/karttoon/binsequencer](https://github.com/karttoon/binsequencer)]([https://github.com/karttoon/binsequencer](https://github.com/karttoon/binsequencer))
+**Repository:** [https://github.com/karttoon/binsequencer](https://github.com/karttoon/binsequencer)
 
 **Author:** karttoon
 
@@ -760,7 +760,7 @@ Various security tools and resources that are pending categorization.
 
 ## binwalk
 
-**Repository:** [[https://github.com/devttys0/binwalk](https://github.com/devttys0/binwalk)]([https://github.com/devttys0/binwalk](https://github.com/devttys0/binwalk))
+**Repository:** [https://github.com/devttys0/binwalk](https://github.com/devttys0/binwalk)
 
 **Author:** devttys0
 
@@ -768,7 +768,7 @@ Various security tools and resources that are pending categorization.
 
 ## blackbird
 
-**Repository:** [[https://github.com/p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird)]([https://github.com/p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird))
+**Repository:** [https://github.com/p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird)
 
 **Author:** p1ngul1n0
 
@@ -776,7 +776,7 @@ Various security tools and resources that are pending categorization.
 
 ## blackbox
 
-**Repository:** [[https://github.com/StackExchange/blackbox](https://github.com/StackExchange/blackbox)]([https://github.com/StackExchange/blackbox](https://github.com/StackExchange/blackbox))
+**Repository:** [https://github.com/StackExchange/blackbox](https://github.com/StackExchange/blackbox)
 
 **Author:** StackExchange
 
@@ -784,7 +784,7 @@ Various security tools and resources that are pending categorization.
 
 ## blacknet
 
-**Repository:** [[https://github.com/morian/blacknet](https://github.com/morian/blacknet)]([https://github.com/morian/blacknet](https://github.com/morian/blacknet))
+**Repository:** [https://github.com/morian/blacknet](https://github.com/morian/blacknet)
 
 **Author:** morian
 
@@ -792,7 +792,7 @@ Various security tools and resources that are pending categorization.
 
 ## Bless
 
-**Repository:** [[https://github.com/bwrsandman/Bless](https://github.com/bwrsandman/Bless)]([https://github.com/bwrsandman/Bless](https://github.com/bwrsandman/Bless))
+**Repository:** [https://github.com/bwrsandman/Bless](https://github.com/bwrsandman/Bless)
 
 **Author:** bwrsandman
 
@@ -800,7 +800,7 @@ Various security tools and resources that are pending categorization.
 
 ## Bloodhound
 
-**Repository:** [[https://github.com/adaptivethreat/Bloodhound](https://github.com/adaptivethreat/Bloodhound)]([https://github.com/adaptivethreat/Bloodhound](https://github.com/adaptivethreat/Bloodhound))
+**Repository:** [https://github.com/adaptivethreat/Bloodhound](https://github.com/adaptivethreat/Bloodhound)
 
 **Author:** adaptivethreat
 
@@ -808,7 +808,7 @@ Various security tools and resources that are pending categorization.
 
 ## bluepill
 
-**Repository:** [[https://github.com/season-lab/bluepill](https://github.com/season-lab/bluepill)]([https://github.com/season-lab/bluepill](https://github.com/season-lab/bluepill))
+**Repository:** [https://github.com/season-lab/bluepill](https://github.com/season-lab/bluepill)
 
 **Author:** season-lab
 
@@ -816,7 +816,7 @@ Various security tools and resources that are pending categorization.
 
 ## boofuzz
 
-**Repository:** [[https://github.com/jtpereyda/boofuzz](https://github.com/jtpereyda/boofuzz)]([https://github.com/jtpereyda/boofuzz](https://github.com/jtpereyda/boofuzz))
+**Repository:** [https://github.com/jtpereyda/boofuzz](https://github.com/jtpereyda/boofuzz)
 
 **Author:** jtpereyda
 
@@ -824,7 +824,7 @@ Various security tools and resources that are pending categorization.
 
 ## book
 
-**Repository:** [[https://github.com/crypto101/book](https://github.com/crypto101/book)]([https://github.com/crypto101/book](https://github.com/crypto101/book))
+**Repository:** [https://github.com/crypto101/book](https://github.com/crypto101/book)
 
 **Author:** crypto101
 
@@ -832,7 +832,7 @@ Various security tools and resources that are pending categorization.
 
 ## BoomBox
 
-**Repository:** [[https://github.com/nbeede/BoomBox](https://github.com/nbeede/BoomBox)]([https://github.com/nbeede/BoomBox](https://github.com/nbeede/BoomBox))
+**Repository:** [https://github.com/nbeede/BoomBox](https://github.com/nbeede/BoomBox)
 
 **Author:** nbeede
 
@@ -840,7 +840,7 @@ Various security tools and resources that are pending categorization.
 
 ## box-js
 
-**Repository:** [[https://github.com/CapacitorSet/box-js](https://github.com/CapacitorSet/box-js)]([https://github.com/CapacitorSet/box-js](https://github.com/CapacitorSet/box-js))
+**Repository:** [https://github.com/CapacitorSet/box-js](https://github.com/CapacitorSet/box-js)
 
 **Author:** CapacitorSet
 
@@ -848,7 +848,7 @@ Various security tools and resources that are pending categorization.
 
 ## boxxy-rs
 
-**Repository:** [[https://github.com/kpcyrd/boxxy-rs](https://github.com/kpcyrd/boxxy-rs)]([https://github.com/kpcyrd/boxxy-rs](https://github.com/kpcyrd/boxxy-rs))
+**Repository:** [https://github.com/kpcyrd/boxxy-rs](https://github.com/kpcyrd/boxxy-rs)
 
 **Author:** kpcyrd
 
@@ -856,7 +856,7 @@ Various security tools and resources that are pending categorization.
 
 ## brakeman
 
-**Repository:** [[https://github.com/presidentbeef/brakeman](https://github.com/presidentbeef/brakeman)]([https://github.com/presidentbeef/brakeman](https://github.com/presidentbeef/brakeman))
+**Repository:** [https://github.com/presidentbeef/brakeman](https://github.com/presidentbeef/brakeman)
 
 **Author:** presidentbeef
 
@@ -864,7 +864,7 @@ Various security tools and resources that are pending categorization.
 
 ## Brida
 
-**Repository:** [[https://github.com/federicodotta/Brida](https://github.com/federicodotta/Brida)]([https://github.com/federicodotta/Brida](https://github.com/federicodotta/Brida))
+**Repository:** [https://github.com/federicodotta/Brida](https://github.com/federicodotta/Brida)
 
 **Author:** federicodotta
 
@@ -872,7 +872,7 @@ Various security tools and resources that are pending categorization.
 
 ## broyara
 
-**Repository:** [[https://github.com/hempnall/broyara](https://github.com/hempnall/broyara)]([https://github.com/hempnall/broyara](https://github.com/hempnall/broyara))
+**Repository:** [https://github.com/hempnall/broyara](https://github.com/hempnall/broyara)
 
 **Author:** hempnall
 
@@ -880,7 +880,7 @@ Various security tools and resources that are pending categorization.
 
 ## bruteforce-wallet
 
-**Repository:** [[https://github.com/glv2/bruteforce-wallet](https://github.com/glv2/bruteforce-wallet)]([https://github.com/glv2/bruteforce-wallet](https://github.com/glv2/bruteforce-wallet))
+**Repository:** [https://github.com/glv2/bruteforce-wallet](https://github.com/glv2/bruteforce-wallet)
 
 **Author:** glv2
 
@@ -888,7 +888,7 @@ Various security tools and resources that are pending categorization.
 
 ## BruteShark
 
-**Repository:** [[https://github.com/odedshimon/BruteShark](https://github.com/odedshimon/BruteShark)]([https://github.com/odedshimon/BruteShark](https://github.com/odedshimon/BruteShark))
+**Repository:** [https://github.com/odedshimon/BruteShark](https://github.com/odedshimon/BruteShark)
 
 **Author:** odedshimon
 
@@ -896,7 +896,7 @@ Various security tools and resources that are pending categorization.
 
 ## bstrings
 
-**Repository:** [[https://github.com/EricZimmerman/bstrings](https://github.com/EricZimmerman/bstrings)]([https://github.com/EricZimmerman/bstrings](https://github.com/EricZimmerman/bstrings))
+**Repository:** [https://github.com/EricZimmerman/bstrings](https://github.com/EricZimmerman/bstrings)
 
 **Author:** EricZimmerman
 
@@ -904,7 +904,7 @@ Various security tools and resources that are pending categorization.
 
 ## Bug-Bounty
 
-**Repository:** [[https://github.com/AnLoMinus/Bug-Bounty](https://github.com/AnLoMinus/Bug-Bounty)]([https://github.com/AnLoMinus/Bug-Bounty](https://github.com/AnLoMinus/Bug-Bounty))
+**Repository:** [https://github.com/AnLoMinus/Bug-Bounty](https://github.com/AnLoMinus/Bug-Bounty)
 
 **Author:** AnLoMinus
 
@@ -912,7 +912,7 @@ Various security tools and resources that are pending categorization.
 
 ## bug-bounty-platforms
 
-**Repository:** [[https://github.com/disclose/bug-bounty-platforms](https://github.com/disclose/bug-bounty-platforms)]([https://github.com/disclose/bug-bounty-platforms](https://github.com/disclose/bug-bounty-platforms))
+**Repository:** [https://github.com/disclose/bug-bounty-platforms](https://github.com/disclose/bug-bounty-platforms)
 
 **Author:** disclose
 
@@ -920,7 +920,7 @@ Various security tools and resources that are pending categorization.
 
 ## bugbounty-cheatsheet
 
-**Repository:** [[https://github.com/EdOverflow/bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)]([https://github.com/EdOverflow/bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet))
+**Repository:** [https://github.com/EdOverflow/bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
 
 **Author:** EdOverflow
 
@@ -928,7 +928,7 @@ Various security tools and resources that are pending categorization.
 
 ## bunkerized-nginx
 
-**Repository:** [[https://github.com/bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx)]([https://github.com/bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx))
+**Repository:** [https://github.com/bunkerity/bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx)
 
 **Author:** bunkerity
 
@@ -936,7 +936,7 @@ Various security tools and resources that are pending categorization.
 
 ## bunkerweb
 
-**Repository:** [[https://github.com/bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)]([https://github.com/bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb))
+**Repository:** [https://github.com/bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 
 **Author:** bunkerity
 
@@ -944,7 +944,7 @@ Various security tools and resources that are pending categorization.
 
 ## bwpot
 
-**Repository:** [[https://github.com/graneed/bwpot](https://github.com/graneed/bwpot)]([https://github.com/graneed/bwpot](https://github.com/graneed/bwpot))
+**Repository:** [https://github.com/graneed/bwpot](https://github.com/graneed/bwpot)
 
 **Author:** graneed
 
@@ -952,7 +952,7 @@ Various security tools and resources that are pending categorization.
 
 ## bytecode-viewer
 
-**Repository:** [[https://github.com/Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer)]([https://github.com/Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer))
+**Repository:** [https://github.com/Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer)
 
 **Author:** Konloch
 
@@ -960,7 +960,7 @@ Various security tools and resources that are pending categorization.
 
 ## cadvisor
 
-**Repository:** [[https://github.com/google/cadvisor](https://github.com/google/cadvisor)]([https://github.com/google/cadvisor](https://github.com/google/cadvisor))
+**Repository:** [https://github.com/google/cadvisor](https://github.com/google/cadvisor)
 
 **Author:** google
 
@@ -968,7 +968,7 @@ Various security tools and resources that are pending categorization.
 
 ## canary-stable
 
-**Repository:** [[https://github.com/PigeonSec/canary-stable](https://github.com/PigeonSec/canary-stable)]([https://github.com/PigeonSec/canary-stable](https://github.com/PigeonSec/canary-stable))
+**Repository:** [https://github.com/PigeonSec/canary-stable](https://github.com/PigeonSec/canary-stable)
 
 **Author:** PigeonSec
 
@@ -976,7 +976,7 @@ Various security tools and resources that are pending categorization.
 
 ## canarytokendetector
 
-**Repository:** [[https://github.com/referefref/canarytokendetector](https://github.com/referefref/canarytokendetector)]([https://github.com/referefref/canarytokendetector](https://github.com/referefref/canarytokendetector))
+**Repository:** [https://github.com/referefref/canarytokendetector](https://github.com/referefref/canarytokendetector)
 
 **Author:** referefref
 
@@ -984,7 +984,7 @@ Various security tools and resources that are pending categorization.
 
 ## capa
 
-**Repository:** [[https://github.com/fireeye/capa](https://github.com/fireeye/capa)]([https://github.com/fireeye/capa](https://github.com/fireeye/capa))
+**Repository:** [https://github.com/fireeye/capa](https://github.com/fireeye/capa)
 
 **Author:** fireeye
 
@@ -992,7 +992,7 @@ Various security tools and resources that are pending categorization.
 
 ## capstone
 
-**Repository:** [[https://github.com/aquynh/capstone](https://github.com/aquynh/capstone)]([https://github.com/aquynh/capstone](https://github.com/aquynh/capstone))
+**Repository:** [https://github.com/aquynh/capstone](https://github.com/aquynh/capstone)
 
 **Author:** aquynh
 
@@ -1000,7 +1000,7 @@ Various security tools and resources that are pending categorization.
 
 ## CCCS-Yara
 
-**Repository:** [[https://github.com/CybercentreCanada/CCCS-Yara](https://github.com/CybercentreCanada/CCCS-Yara)]([https://github.com/CybercentreCanada/CCCS-Yara](https://github.com/CybercentreCanada/CCCS-Yara))
+**Repository:** [https://github.com/CybercentreCanada/CCCS-Yara](https://github.com/CybercentreCanada/CCCS-Yara)
 
 **Author:** CybercentreCanada
 
@@ -1008,7 +1008,7 @@ Various security tools and resources that are pending categorization.
 
 ## CCTV
 
-**Repository:** [[https://github.com/IvanGlinkin/CCTV](https://github.com/IvanGlinkin/CCTV)]([https://github.com/IvanGlinkin/CCTV](https://github.com/IvanGlinkin/CCTV))
+**Repository:** [https://github.com/IvanGlinkin/CCTV](https://github.com/IvanGlinkin/CCTV)
 
 **Author:** IvanGlinkin
 
@@ -1016,7 +1016,7 @@ Various security tools and resources that are pending categorization.
 
 ## celerystalk
 
-**Repository:** [[https://github.com/sethsec/celerystalk](https://github.com/sethsec/celerystalk)]([https://github.com/sethsec/celerystalk](https://github.com/sethsec/celerystalk))
+**Repository:** [https://github.com/sethsec/celerystalk](https://github.com/sethsec/celerystalk)
 
 **Author:** sethsec
 
@@ -1024,7 +1024,7 @@ Various security tools and resources that are pending categorization.
 
 ## censys-python
 
-**Repository:** [[https://github.com/censys/censys-python](https://github.com/censys/censys-python)]([https://github.com/censys/censys-python](https://github.com/censys/censys-python))
+**Repository:** [https://github.com/censys/censys-python](https://github.com/censys/censys-python)
 
 **Author:** censys
 
@@ -1032,7 +1032,7 @@ Various security tools and resources that are pending categorization.
 
 ## censys-resources
 
-**Repository:** [[https://github.com/emilyaustin/censys-resources](https://github.com/emilyaustin/censys-resources)]([https://github.com/emilyaustin/censys-resources](https://github.com/emilyaustin/censys-resources))
+**Repository:** [https://github.com/emilyaustin/censys-resources](https://github.com/emilyaustin/censys-resources)
 
 **Author:** emilyaustin
 
@@ -1040,7 +1040,7 @@ Various security tools and resources that are pending categorization.
 
 ## certgraph
 
-**Repository:** [[https://github.com/lanrat/certgraph](https://github.com/lanrat/certgraph)]([https://github.com/lanrat/certgraph](https://github.com/lanrat/certgraph))
+**Repository:** [https://github.com/lanrat/certgraph](https://github.com/lanrat/certgraph)
 
 **Author:** lanrat
 
@@ -1048,7 +1048,7 @@ Various security tools and resources that are pending categorization.
 
 ## certificate-expiry-monitor
 
-**Repository:** [[https://github.com/muxinc/certificate-expiry-monitor](https://github.com/muxinc/certificate-expiry-monitor)]([https://github.com/muxinc/certificate-expiry-monitor](https://github.com/muxinc/certificate-expiry-monitor))
+**Repository:** [https://github.com/muxinc/certificate-expiry-monitor](https://github.com/muxinc/certificate-expiry-monitor)
 
 **Author:** muxinc
 
@@ -1056,7 +1056,7 @@ Various security tools and resources that are pending categorization.
 
 ## CFGScanDroid
 
-**Repository:** [[https://github.com/douggard/CFGScanDroid](https://github.com/douggard/CFGScanDroid)]([https://github.com/douggard/CFGScanDroid](https://github.com/douggard/CFGScanDroid))
+**Repository:** [https://github.com/douggard/CFGScanDroid](https://github.com/douggard/CFGScanDroid)
 
 **Author:** douggard
 
@@ -1064,7 +1064,7 @@ Various security tools and resources that are pending categorization.
 
 ## chamber
 
-**Repository:** [[https://github.com/segmentio/chamber](https://github.com/segmentio/chamber)]([https://github.com/segmentio/chamber](https://github.com/segmentio/chamber))
+**Repository:** [https://github.com/segmentio/chamber](https://github.com/segmentio/chamber)
 
 **Author:** segmentio
 
@@ -1072,7 +1072,7 @@ Various security tools and resources that are pending categorization.
 
 ## CheatSheets
 
-**Repository:** [[https://github.com/HarmJ0y/CheatSheets](https://github.com/HarmJ0y/CheatSheets)]([https://github.com/HarmJ0y/CheatSheets](https://github.com/HarmJ0y/CheatSheets))
+**Repository:** [https://github.com/HarmJ0y/CheatSheets](https://github.com/HarmJ0y/CheatSheets)
 
 **Author:** HarmJ0y
 
@@ -1080,7 +1080,7 @@ Various security tools and resources that are pending categorization.
 
 ## checkov
 
-**Repository:** [[https://github.com/bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)]([https://github.com/bridgecrewio/checkov](https://github.com/bridgecrewio/checkov))
+**Repository:** [https://github.com/bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
 
 **Author:** bridgecrewio
 
@@ -1088,7 +1088,7 @@ Various security tools and resources that are pending categorization.
 
 ## CheckPlease
 
-**Repository:** [[https://github.com/Arvanaghi/CheckPlease](https://github.com/Arvanaghi/CheckPlease)]([https://github.com/Arvanaghi/CheckPlease](https://github.com/Arvanaghi/CheckPlease))
+**Repository:** [https://github.com/Arvanaghi/CheckPlease](https://github.com/Arvanaghi/CheckPlease)
 
 **Author:** Arvanaghi
 
@@ -1096,7 +1096,7 @@ Various security tools and resources that are pending categorization.
 
 ## checksec.py
 
-**Repository:** [[https://github.com/Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)]([https://github.com/Wenzel/checksec.py](https://github.com/Wenzel/checksec.py))
+**Repository:** [https://github.com/Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
 
 **Author:** Wenzel
 
@@ -1104,7 +1104,7 @@ Various security tools and resources that are pending categorization.
 
 ## cicd-goat
 
-**Repository:** [[https://github.com/cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat)]([https://github.com/cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat))
+**Repository:** [https://github.com/cider-security-research/cicd-goat](https://github.com/cider-security-research/cicd-goat)
 
 **Author:** cider-security-research
 
@@ -1112,7 +1112,7 @@ Various security tools and resources that are pending categorization.
 
 ## CimSweep
 
-**Repository:** [[https://github.com/PowerShellMafia/CimSweep](https://github.com/PowerShellMafia/CimSweep)]([https://github.com/PowerShellMafia/CimSweep](https://github.com/PowerShellMafia/CimSweep))
+**Repository:** [https://github.com/PowerShellMafia/CimSweep](https://github.com/PowerShellMafia/CimSweep)
 
 **Author:** PowerShellMafia
 
@@ -1120,7 +1120,7 @@ Various security tools and resources that are pending categorization.
 
 ## CIRTKit
 
-**Repository:** [[https://github.com/opensourcesec/CIRTKit](https://github.com/opensourcesec/CIRTKit)]([https://github.com/opensourcesec/CIRTKit](https://github.com/opensourcesec/CIRTKit))
+**Repository:** [https://github.com/opensourcesec/CIRTKit](https://github.com/opensourcesec/CIRTKit)
 
 **Author:** opensourcesec
 
@@ -1128,7 +1128,7 @@ Various security tools and resources that are pending categorization.
 
 ## clair
 
-**Repository:** [[https://github.com/coreos/clair](https://github.com/coreos/clair)]([https://github.com/coreos/clair](https://github.com/coreos/clair))
+**Repository:** [https://github.com/coreos/clair](https://github.com/coreos/clair)
 
 **Author:** coreos
 
@@ -1136,7 +1136,7 @@ Various security tools and resources that are pending categorization.
 
 ## clara
 
-**Repository:** [[https://github.com/abhinavbom/clara](https://github.com/abhinavbom/clara)]([https://github.com/abhinavbom/clara](https://github.com/abhinavbom/clara))
+**Repository:** [https://github.com/abhinavbom/clara](https://github.com/abhinavbom/clara)
 
 **Author:** abhinavbom
 
@@ -1144,7 +1144,7 @@ Various security tools and resources that are pending categorization.
 
 ## clevis
 
-**Repository:** [[https://github.com/latchset/clevis](https://github.com/latchset/clevis)]([https://github.com/latchset/clevis](https://github.com/latchset/clevis))
+**Repository:** [https://github.com/latchset/clevis](https://github.com/latchset/clevis)
 
 **Author:** latchset
 
@@ -1152,7 +1152,7 @@ Various security tools and resources that are pending categorization.
 
 ## cloudfrunt
 
-**Repository:** [[https://github.com/MindPointGroup/cloudfrunt](https://github.com/MindPointGroup/cloudfrunt)]([https://github.com/MindPointGroup/cloudfrunt](https://github.com/MindPointGroup/cloudfrunt))
+**Repository:** [https://github.com/MindPointGroup/cloudfrunt](https://github.com/MindPointGroup/cloudfrunt)
 
 **Author:** MindPointGroup
 
@@ -1160,7 +1160,7 @@ Various security tools and resources that are pending categorization.
 
 ## cloudgoat
 
-**Repository:** [[https://github.com/RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)]([https://github.com/RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat))
+**Repository:** [https://github.com/RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)
 
 **Author:** RhinoSecurityLabs
 
@@ -1168,7 +1168,7 @@ Various security tools and resources that are pending categorization.
 
 ## CloudHunter
 
-**Repository:** [[https://github.com/belane/CloudHunter](https://github.com/belane/CloudHunter)]([https://github.com/belane/CloudHunter](https://github.com/belane/CloudHunter))
+**Repository:** [https://github.com/belane/CloudHunter](https://github.com/belane/CloudHunter)
 
 **Author:** belane
 
@@ -1176,7 +1176,7 @@ Various security tools and resources that are pending categorization.
 
 ## codebro
 
-**Repository:** [[https://github.com/hugsy/codebro](https://github.com/hugsy/codebro)]([https://github.com/hugsy/codebro](https://github.com/hugsy/codebro))
+**Repository:** [https://github.com/hugsy/codebro](https://github.com/hugsy/codebro)
 
 **Author:** hugsy
 
@@ -1184,7 +1184,7 @@ Various security tools and resources that are pending categorization.
 
 ## columbus
 
-**Repository:** [[https://github.com/elmasy-com/columbus](https://github.com/elmasy-com/columbus)]([https://github.com/elmasy-com/columbus](https://github.com/elmasy-com/columbus))
+**Repository:** [https://github.com/elmasy-com/columbus](https://github.com/elmasy-com/columbus)
 
 **Author:** elmasy-com
 
@@ -1192,7 +1192,7 @@ Various security tools and resources that are pending categorization.
 
 ## ConDroid
 
-**Repository:** [[https://github.com/JulianSchuette/ConDroid](https://github.com/JulianSchuette/ConDroid)]([https://github.com/JulianSchuette/ConDroid](https://github.com/JulianSchuette/ConDroid))
+**Repository:** [https://github.com/JulianSchuette/ConDroid](https://github.com/JulianSchuette/ConDroid)
 
 **Author:** JulianSchuette
 
@@ -1200,7 +1200,7 @@ Various security tools and resources that are pending categorization.
 
 ## conpot
 
-**Repository:** [[https://github.com/mushorg/conpot](https://github.com/mushorg/conpot)]([https://github.com/mushorg/conpot](https://github.com/mushorg/conpot))
+**Repository:** [https://github.com/mushorg/conpot](https://github.com/mushorg/conpot)
 
 **Author:** mushorg
 
@@ -1208,7 +1208,7 @@ Various security tools and resources that are pending categorization.
 
 ## copyparty
 
-**Repository:** [[https://github.com/9001/copyparty](https://github.com/9001/copyparty)]([https://github.com/9001/copyparty](https://github.com/9001/copyparty))
+**Repository:** [https://github.com/9001/copyparty](https://github.com/9001/copyparty)
 
 **Author:** 9001
 
@@ -1216,7 +1216,7 @@ Various security tools and resources that are pending categorization.
 
 ## Covenant
 
-**Repository:** [[https://github.com/cobbr/Covenant](https://github.com/cobbr/Covenant)]([https://github.com/cobbr/Covenant](https://github.com/cobbr/Covenant))
+**Repository:** [https://github.com/cobbr/Covenant](https://github.com/cobbr/Covenant)
 
 **Author:** cobbr
 
@@ -1224,7 +1224,7 @@ Various security tools and resources that are pending categorization.
 
 ## cowrie2neo
 
-**Repository:** [[https://github.com/xlfe/cowrie2neo](https://github.com/xlfe/cowrie2neo)]([https://github.com/xlfe/cowrie2neo](https://github.com/xlfe/cowrie2neo))
+**Repository:** [https://github.com/xlfe/cowrie2neo](https://github.com/xlfe/cowrie2neo)
 
 **Author:** xlfe
 
@@ -1232,7 +1232,7 @@ Various security tools and resources that are pending categorization.
 
 ## CrackMapExec
 
-**Repository:** [[https://github.com/byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)]([https://github.com/byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec))
+**Repository:** [https://github.com/byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)
 
 **Author:** byt3bl33d3r
 
@@ -1240,7 +1240,7 @@ Various security tools and resources that are pending categorization.
 
 ## creddump
 
-**Repository:** [[https://github.com/moyix/creddump](https://github.com/moyix/creddump)]([https://github.com/moyix/creddump](https://github.com/moyix/creddump))
+**Repository:** [https://github.com/moyix/creddump](https://github.com/moyix/creddump)
 
 **Author:** moyix
 
@@ -1248,7 +1248,7 @@ Various security tools and resources that are pending categorization.
 
 ## credstash
 
-**Repository:** [[https://github.com/fugue/credstash](https://github.com/fugue/credstash)]([https://github.com/fugue/credstash](https://github.com/fugue/credstash))
+**Repository:** [https://github.com/fugue/credstash](https://github.com/fugue/credstash)
 
 **Author:** fugue
 
@@ -1256,7 +1256,7 @@ Various security tools and resources that are pending categorization.
 
 ## creepy
 
-**Repository:** [[https://github.com/ilektrojohn/creepy](https://github.com/ilektrojohn/creepy)]([https://github.com/ilektrojohn/creepy](https://github.com/ilektrojohn/creepy))
+**Repository:** [https://github.com/ilektrojohn/creepy](https://github.com/ilektrojohn/creepy)
 
 **Author:** ilektrojohn
 
@@ -1264,7 +1264,7 @@ Various security tools and resources that are pending categorization.
 
 ## CrowdFMS
 
-**Repository:** [[https://github.com/CrowdStrike/CrowdFMS](https://github.com/CrowdStrike/CrowdFMS)]([https://github.com/CrowdStrike/CrowdFMS](https://github.com/CrowdStrike/CrowdFMS))
+**Repository:** [https://github.com/CrowdStrike/CrowdFMS](https://github.com/CrowdStrike/CrowdFMS)
 
 **Author:** CrowdStrike
 
@@ -1272,7 +1272,7 @@ Various security tools and resources that are pending categorization.
 
 ## csirtg-honeypot
 
-**Repository:** [[https://github.com/csirtgadgets/csirtg-honeypot](https://github.com/csirtgadgets/csirtg-honeypot)]([https://github.com/csirtgadgets/csirtg-honeypot](https://github.com/csirtgadgets/csirtg-honeypot))
+**Repository:** [https://github.com/csirtgadgets/csirtg-honeypot](https://github.com/csirtgadgets/csirtg-honeypot)
 
 **Author:** csirtgadgets
 
@@ -1280,7 +1280,7 @@ Various security tools and resources that are pending categorization.
 
 ## csvkit
 
-**Repository:** [[https://github.com/wireservice/csvkit](https://github.com/wireservice/csvkit)]([https://github.com/wireservice/csvkit](https://github.com/wireservice/csvkit))
+**Repository:** [https://github.com/wireservice/csvkit](https://github.com/wireservice/csvkit)
 
 **Author:** wireservice
 
@@ -1288,7 +1288,7 @@ Various security tools and resources that are pending categorization.
 
 ## cuckoo-droid
 
-**Repository:** [[https://github.com/idanr1986/cuckoo-droid](https://github.com/idanr1986/cuckoo-droid)]([https://github.com/idanr1986/cuckoo-droid](https://github.com/idanr1986/cuckoo-droid))
+**Repository:** [https://github.com/idanr1986/cuckoo-droid](https://github.com/idanr1986/cuckoo-droid)
 
 **Author:** idanr1986
 
@@ -1296,7 +1296,7 @@ Various security tools and resources that are pending categorization.
 
 ## cuckoo-modified-api
 
-**Repository:** [[https://github.com/keithjjones/cuckoo-modified-api](https://github.com/keithjjones/cuckoo-modified-api)]([https://github.com/keithjjones/cuckoo-modified-api](https://github.com/keithjjones/cuckoo-modified-api))
+**Repository:** [https://github.com/keithjjones/cuckoo-modified-api](https://github.com/keithjjones/cuckoo-modified-api)
 
 **Author:** keithjjones
 
@@ -1304,7 +1304,7 @@ Various security tools and resources that are pending categorization.
 
 ## Curlwright
 
-**Repository:** [[https://github.com/seifreed/Curlwright](https://github.com/seifreed/Curlwright)]([https://github.com/seifreed/Curlwright](https://github.com/seifreed/Curlwright))
+**Repository:** [https://github.com/seifreed/Curlwright](https://github.com/seifreed/Curlwright)
 
 **Author:** seifreed
 
@@ -1312,7 +1312,7 @@ Various security tools and resources that are pending categorization.
 
 ## CVE-2018-15685
 
-**Repository:** [[https://github.com/matt-/CVE-2018-15685](https://github.com/matt-/CVE-2018-15685)]([https://github.com/matt-/CVE-2018-15685](https://github.com/matt-/CVE-2018-15685))
+**Repository:** [https://github.com/matt-/CVE-2018-15685](https://github.com/matt-/CVE-2018-15685)
 
 **Author:** matt-
 
@@ -1320,7 +1320,7 @@ Various security tools and resources that are pending categorization.
 
 ## cve-ape
 
-**Repository:** [[https://github.com/baalmor/cve-ape](https://github.com/baalmor/cve-ape)]([https://github.com/baalmor/cve-ape](https://github.com/baalmor/cve-ape))
+**Repository:** [https://github.com/baalmor/cve-ape](https://github.com/baalmor/cve-ape)
 
 **Author:** baalmor
 
@@ -1328,7 +1328,7 @@ Various security tools and resources that are pending categorization.
 
 ## cwe_checker
 
-**Repository:** [[https://github.com/fkie-cad/cwe_checker](https://github.com/fkie-cad/cwe_checker)]([https://github.com/fkie-cad/cwe_checker](https://github.com/fkie-cad/cwe_checker))
+**Repository:** [https://github.com/fkie-cad/cwe_checker](https://github.com/fkie-cad/cwe_checker)
 
 **Author:** fkie-cad
 
@@ -1336,7 +1336,7 @@ Various security tools and resources that are pending categorization.
 
 ## cyberbro
 
-**Repository:** [[https://github.com/stanfrbd/cyberbro](https://github.com/stanfrbd/cyberbro)]([https://github.com/stanfrbd/cyberbro](https://github.com/stanfrbd/cyberbro))
+**Repository:** [https://github.com/stanfrbd/cyberbro](https://github.com/stanfrbd/cyberbro)
 
 **Author:** stanfrbd
 
@@ -1344,7 +1344,7 @@ Various security tools and resources that are pending categorization.
 
 ## cyberclopaedia
 
-**Repository:** [[https://github.com/cr0mll/cyberclopaedia](https://github.com/cr0mll/cyberclopaedia)]([https://github.com/cr0mll/cyberclopaedia](https://github.com/cr0mll/cyberclopaedia))
+**Repository:** [https://github.com/cr0mll/cyberclopaedia](https://github.com/cr0mll/cyberclopaedia)
 
 **Author:** cr0mll
 
@@ -1352,7 +1352,7 @@ Various security tools and resources that are pending categorization.
 
 ## cyberowl
 
-**Repository:** [[https://github.com/karimhabush/cyberowl](https://github.com/karimhabush/cyberowl)]([https://github.com/karimhabush/cyberowl](https://github.com/karimhabush/cyberowl))
+**Repository:** [https://github.com/karimhabush/cyberowl](https://github.com/karimhabush/cyberowl)
 
 **Author:** karimhabush
 
@@ -1360,7 +1360,7 @@ Various security tools and resources that are pending categorization.
 
 ## CyLR
 
-**Repository:** [[https://github.com/orlikoski/CyLR](https://github.com/orlikoski/CyLR)]([https://github.com/orlikoski/CyLR](https://github.com/orlikoski/CyLR))
+**Repository:** [https://github.com/orlikoski/CyLR](https://github.com/orlikoski/CyLR)
 
 **Author:** orlikoski
 
@@ -1368,7 +1368,7 @@ Various security tools and resources that are pending categorization.
 
 ## Damn-Vulnerable-Bank
 
-**Repository:** [[https://github.com/rewanthtammana/Damn-Vulnerable-Bank](https://github.com/rewanthtammana/Damn-Vulnerable-Bank)]([https://github.com/rewanthtammana/Damn-Vulnerable-Bank](https://github.com/rewanthtammana/Damn-Vulnerable-Bank))
+**Repository:** [https://github.com/rewanthtammana/Damn-Vulnerable-Bank](https://github.com/rewanthtammana/Damn-Vulnerable-Bank)
 
 **Author:** rewanthtammana
 
@@ -1376,7 +1376,7 @@ Various security tools and resources that are pending categorization.
 
 ## DarunGrim
 
-**Repository:** [[https://github.com/ohjeongwook/DarunGrim](https://github.com/ohjeongwook/DarunGrim)]([https://github.com/ohjeongwook/DarunGrim](https://github.com/ohjeongwook/DarunGrim))
+**Repository:** [https://github.com/ohjeongwook/DarunGrim](https://github.com/ohjeongwook/DarunGrim)
 
 **Author:** ohjeongwook
 
@@ -1384,7 +1384,7 @@ Various security tools and resources that are pending categorization.
 
 ## DATA
 
-**Repository:** [[https://github.com/hadojae/DATA](https://github.com/hadojae/DATA)]([https://github.com/hadojae/DATA](https://github.com/hadojae/DATA))
+**Repository:** [https://github.com/hadojae/DATA](https://github.com/hadojae/DATA)
 
 **Author:** hadojae
 
@@ -1392,7 +1392,7 @@ Various security tools and resources that are pending categorization.
 
 ## data_hacking
 
-**Repository:** [[https://github.com/ClickSecurity/data_hacking](https://github.com/ClickSecurity/data_hacking)]([https://github.com/ClickSecurity/data_hacking](https://github.com/ClickSecurity/data_hacking))
+**Repository:** [https://github.com/ClickSecurity/data_hacking](https://github.com/ClickSecurity/data_hacking)
 
 **Author:** ClickSecurity
 
@@ -1400,7 +1400,7 @@ Various security tools and resources that are pending categorization.
 
 ## datasploit
 
-**Repository:** [[https://github.com/upgoingstar/datasploit](https://github.com/upgoingstar/datasploit)]([https://github.com/upgoingstar/datasploit](https://github.com/upgoingstar/datasploit))
+**Repository:** [https://github.com/upgoingstar/datasploit](https://github.com/upgoingstar/datasploit)
 
 **Author:** upgoingstar
 
@@ -1408,7 +1408,7 @@ Various security tools and resources that are pending categorization.
 
 ## DC3-MWCP
 
-**Repository:** [[https://github.com/Defense-Cyber-Crime-Center/DC3-MWCP](https://github.com/Defense-Cyber-Crime-Center/DC3-MWCP)]([https://github.com/Defense-Cyber-Crime-Center/DC3-MWCP](https://github.com/Defense-Cyber-Crime-Center/DC3-MWCP))
+**Repository:** [https://github.com/Defense-Cyber-Crime-Center/DC3-MWCP](https://github.com/Defense-Cyber-Crime-Center/DC3-MWCP)
 
 **Author:** Defense-Cyber-Crime-Center
 
@@ -1416,7 +1416,7 @@ Various security tools and resources that are pending categorization.
 
 ## dcfldd
 
-**Repository:** [[https://github.com/adulau/dcfldd](https://github.com/adulau/dcfldd)]([https://github.com/adulau/dcfldd](https://github.com/adulau/dcfldd))
+**Repository:** [https://github.com/adulau/dcfldd](https://github.com/adulau/dcfldd)
 
 **Author:** adulau
 
@@ -1424,7 +1424,7 @@ Various security tools and resources that are pending categorization.
 
 ## ddospot
 
-**Repository:** [[https://github.com/aelth/ddospot](https://github.com/aelth/ddospot)]([https://github.com/aelth/ddospot](https://github.com/aelth/ddospot))
+**Repository:** [https://github.com/aelth/ddospot](https://github.com/aelth/ddospot)
 
 **Author:** aelth
 
@@ -1432,7 +1432,7 @@ Various security tools and resources that are pending categorization.
 
 ## de4dot
 
-**Repository:** [[https://github.com/0xd4d/de4dot](https://github.com/0xd4d/de4dot)]([https://github.com/0xd4d/de4dot](https://github.com/0xd4d/de4dot))
+**Repository:** [https://github.com/0xd4d/de4dot](https://github.com/0xd4d/de4dot)
 
 **Author:** 0xd4d
 
@@ -1440,7 +1440,7 @@ Various security tools and resources that are pending categorization.
 
 ## DeHashed-API-Tool
 
-**Repository:** [[https://github.com/hmaverickadams/DeHashed-API-Tool](https://github.com/hmaverickadams/DeHashed-API-Tool)]([https://github.com/hmaverickadams/DeHashed-API-Tool](https://github.com/hmaverickadams/DeHashed-API-Tool))
+**Repository:** [https://github.com/hmaverickadams/DeHashed-API-Tool](https://github.com/hmaverickadams/DeHashed-API-Tool)
 
 **Author:** hmaverickadams
 
@@ -1448,7 +1448,7 @@ Various security tools and resources that are pending categorization.
 
 ## demovfuscator
 
-**Repository:** [[https://github.com/kirschju/demovfuscator](https://github.com/kirschju/demovfuscator)]([https://github.com/kirschju/demovfuscator](https://github.com/kirschju/demovfuscator))
+**Repository:** [https://github.com/kirschju/demovfuscator](https://github.com/kirschju/demovfuscator)
 
 **Author:** kirschju
 
@@ -1456,7 +1456,7 @@ Various security tools and resources that are pending categorization.
 
 ## Dependencies
 
-**Repository:** [[https://github.com/lucasg/Dependencies](https://github.com/lucasg/Dependencies)]([https://github.com/lucasg/Dependencies](https://github.com/lucasg/Dependencies))
+**Repository:** [https://github.com/lucasg/Dependencies](https://github.com/lucasg/Dependencies)
 
 **Author:** lucasg
 
@@ -1464,7 +1464,7 @@ Various security tools and resources that are pending categorization.
 
 ## DET
 
-**Repository:** [[https://github.com/sensepost/DET](https://github.com/sensepost/DET)]([https://github.com/sensepost/DET](https://github.com/sensepost/DET))
+**Repository:** [https://github.com/sensepost/DET](https://github.com/sensepost/DET)
 
 **Author:** sensepost
 
@@ -1472,7 +1472,7 @@ Various security tools and resources that are pending categorization.
 
 ## Detect-It-Easy
 
-**Repository:** [[https://github.com/horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy)]([https://github.com/horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy))
+**Repository:** [https://github.com/horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy)
 
 **Author:** horsicq
 
@@ -1480,7 +1480,7 @@ Various security tools and resources that are pending categorization.
 
 ## detekt
 
-**Repository:** [[https://github.com/detekt/detekt](https://github.com/detekt/detekt)]([https://github.com/detekt/detekt](https://github.com/detekt/detekt))
+**Repository:** [https://github.com/detekt/detekt](https://github.com/detekt/detekt)
 
 **Author:** detekt
 
@@ -1488,7 +1488,7 @@ Various security tools and resources that are pending categorization.
 
 ## DeviceGuardBypasses
 
-**Repository:** [[https://github.com/tyranid/DeviceGuardBypasses](https://github.com/tyranid/DeviceGuardBypasses)]([https://github.com/tyranid/DeviceGuardBypasses](https://github.com/tyranid/DeviceGuardBypasses))
+**Repository:** [https://github.com/tyranid/DeviceGuardBypasses](https://github.com/tyranid/DeviceGuardBypasses)
 
 **Author:** tyranid
 
@@ -1496,7 +1496,7 @@ Various security tools and resources that are pending categorization.
 
 ## dex2jar
 
-**Repository:** [[https://github.com/pxb1988/dex2jar](https://github.com/pxb1988/dex2jar)]([https://github.com/pxb1988/dex2jar](https://github.com/pxb1988/dex2jar))
+**Repository:** [https://github.com/pxb1988/dex2jar](https://github.com/pxb1988/dex2jar)
 
 **Author:** pxb1988
 
@@ -1504,7 +1504,7 @@ Various security tools and resources that are pending categorization.
 
 ## dexmod
 
-**Repository:** [[https://github.com/google/dexmod](https://github.com/google/dexmod)]([https://github.com/google/dexmod](https://github.com/google/dexmod))
+**Repository:** [https://github.com/google/dexmod](https://github.com/google/dexmod)
 
 **Author:** google
 
@@ -1512,7 +1512,7 @@ Various security tools and resources that are pending categorization.
 
 ## dftimewolf
 
-**Repository:** [[https://github.com/log2timeline/dftimewolf](https://github.com/log2timeline/dftimewolf)]([https://github.com/log2timeline/dftimewolf](https://github.com/log2timeline/dftimewolf))
+**Repository:** [https://github.com/log2timeline/dftimewolf](https://github.com/log2timeline/dftimewolf)
 
 **Author:** log2timeline
 
@@ -1520,7 +1520,7 @@ Various security tools and resources that are pending categorization.
 
 ## dhp
 
-**Repository:** [[https://github.com/ciscocsirt/dhp](https://github.com/ciscocsirt/dhp)]([https://github.com/ciscocsirt/dhp](https://github.com/ciscocsirt/dhp))
+**Repository:** [https://github.com/ciscocsirt/dhp](https://github.com/ciscocsirt/dhp)
 
 **Author:** ciscocsirt
 
@@ -1528,7 +1528,7 @@ Various security tools and resources that are pending categorization.
 
 ## Diamorphine
 
-**Repository:** [[https://github.com/m0nad/Diamorphine](https://github.com/m0nad/Diamorphine)]([https://github.com/m0nad/Diamorphine](https://github.com/m0nad/Diamorphine))
+**Repository:** [https://github.com/m0nad/Diamorphine](https://github.com/m0nad/Diamorphine)
 
 **Author:** m0nad
 
@@ -1536,7 +1536,7 @@ Various security tools and resources that are pending categorization.
 
 ## dicompot
 
-**Repository:** [[https://github.com/nsmfoo/dicompot](https://github.com/nsmfoo/dicompot)]([https://github.com/nsmfoo/dicompot](https://github.com/nsmfoo/dicompot))
+**Repository:** [https://github.com/nsmfoo/dicompot](https://github.com/nsmfoo/dicompot)
 
 **Author:** nsmfoo
 
@@ -1544,7 +1544,7 @@ Various security tools and resources that are pending categorization.
 
 ## diff-gui
 
-**Repository:** [[https://github.com/antojoseph/diff-gui](https://github.com/antojoseph/diff-gui)]([https://github.com/antojoseph/diff-gui](https://github.com/antojoseph/diff-gui))
+**Repository:** [https://github.com/antojoseph/diff-gui](https://github.com/antojoseph/diff-gui)
 
 **Author:** antojoseph
 
@@ -1552,7 +1552,7 @@ Various security tools and resources that are pending categorization.
 
 ## dionaea
 
-**Repository:** [[https://github.com/DinoTools/dionaea](https://github.com/DinoTools/dionaea)]([https://github.com/DinoTools/dionaea](https://github.com/DinoTools/dionaea))
+**Repository:** [https://github.com/DinoTools/dionaea](https://github.com/DinoTools/dionaea)
 
 **Author:** DinoTools
 
@@ -1560,7 +1560,7 @@ Various security tools and resources that are pending categorization.
 
 ## DionaeaFR
 
-**Repository:** [[https://github.com/rubenespadas/DionaeaFR](https://github.com/rubenespadas/DionaeaFR)]([https://github.com/rubenespadas/DionaeaFR](https://github.com/rubenespadas/DionaeaFR))
+**Repository:** [https://github.com/rubenespadas/DionaeaFR](https://github.com/rubenespadas/DionaeaFR)
 
 **Author:** rubenespadas
 
@@ -1568,7 +1568,7 @@ Various security tools and resources that are pending categorization.
 
 ## dirsearch
 
-**Repository:** [[https://github.com/maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)]([https://github.com/maurosoria/dirsearch](https://github.com/maurosoria/dirsearch))
+**Repository:** [https://github.com/maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
 
 **Author:** maurosoria
 
@@ -1576,7 +1576,7 @@ Various security tools and resources that are pending categorization.
 
 ## discoshell
 
-**Repository:** [[https://github.com/foozzi/discoshell](https://github.com/foozzi/discoshell)]([https://github.com/foozzi/discoshell](https://github.com/foozzi/discoshell))
+**Repository:** [https://github.com/foozzi/discoshell](https://github.com/foozzi/discoshell)
 
 **Author:** foozzi
 
@@ -1584,7 +1584,7 @@ Various security tools and resources that are pending categorization.
 
 ## django-admin-honeypot
 
-**Repository:** [[https://github.com/dmpayton/django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot)]([https://github.com/dmpayton/django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot))
+**Repository:** [https://github.com/dmpayton/django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot)
 
 **Author:** dmpayton
 
@@ -1592,7 +1592,7 @@ Various security tools and resources that are pending categorization.
 
 ## dnscat2
 
-**Repository:** [[https://github.com/iagox86/dnscat2](https://github.com/iagox86/dnscat2)]([https://github.com/iagox86/dnscat2](https://github.com/iagox86/dnscat2))
+**Repository:** [https://github.com/iagox86/dnscat2](https://github.com/iagox86/dnscat2)
 
 **Author:** iagox86
 
@@ -1600,7 +1600,7 @@ Various security tools and resources that are pending categorization.
 
 ## dnschef
 
-**Repository:** [[https://github.com/iphelix/dnschef](https://github.com/iphelix/dnschef)]([https://github.com/iphelix/dnschef](https://github.com/iphelix/dnschef))
+**Repository:** [https://github.com/iphelix/dnschef](https://github.com/iphelix/dnschef)
 
 **Author:** iphelix
 
@@ -1608,7 +1608,7 @@ Various security tools and resources that are pending categorization.
 
 ## dnsenum
 
-**Repository:** [[https://github.com/fwaeytens/dnsenum/](https://github.com/fwaeytens/dnsenum/)]([https://github.com/fwaeytens/dnsenum/](https://github.com/fwaeytens/dnsenum/))
+**Repository:** [https://github.com/fwaeytens/dnsenum/](https://github.com/fwaeytens/dnsenum/)
 
 **Author:** fwaeytens
 
@@ -1616,7 +1616,7 @@ Various security tools and resources that are pending categorization.
 
 ## dnsmap
 
-**Repository:** [[https://github.com/makefu/dnsmap/](https://github.com/makefu/dnsmap/)]([https://github.com/makefu/dnsmap/](https://github.com/makefu/dnsmap/))
+**Repository:** [https://github.com/makefu/dnsmap/](https://github.com/makefu/dnsmap/)
 
 **Author:** makefu
 
@@ -1624,7 +1624,7 @@ Various security tools and resources that are pending categorization.
 
 ## dnsrecon
 
-**Repository:** [[https://github.com/darkoperator/dnsrecon/](https://github.com/darkoperator/dnsrecon/)]([https://github.com/darkoperator/dnsrecon/](https://github.com/darkoperator/dnsrecon/))
+**Repository:** [https://github.com/darkoperator/dnsrecon/](https://github.com/darkoperator/dnsrecon/)
 
 **Author:** darkoperator
 
@@ -1632,7 +1632,7 @@ Various security tools and resources that are pending categorization.
 
 ## dnYara
 
-**Repository:** [[https://github.com/airbus-cert/dnYara](https://github.com/airbus-cert/dnYara)]([https://github.com/airbus-cert/dnYara](https://github.com/airbus-cert/dnYara))
+**Repository:** [https://github.com/airbus-cert/dnYara](https://github.com/airbus-cert/dnYara)
 
 **Author:** airbus-cert
 
@@ -1640,7 +1640,7 @@ Various security tools and resources that are pending categorization.
 
 ## docker-ce
 
-**Repository:** [[https://github.com/docker/docker-ce](https://github.com/docker/docker-ce)]([https://github.com/docker/docker-ce](https://github.com/docker/docker-ce))
+**Repository:** [https://github.com/docker/docker-ce](https://github.com/docker/docker-ce)
 
 **Author:** docker
 
@@ -1648,7 +1648,7 @@ Various security tools and resources that are pending categorization.
 
 ## docker-cheat-sheet
 
-**Repository:** [[https://github.com/wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)]([https://github.com/wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet))
+**Repository:** [https://github.com/wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)
 
 **Author:** wsargent
 
@@ -1656,7 +1656,7 @@ Various security tools and resources that are pending categorization.
 
 ## dockerfile-androguard
 
-**Repository:** [[https://github.com/dweinstein/dockerfile-androguard](https://github.com/dweinstein/dockerfile-androguard)]([https://github.com/dweinstein/dockerfile-androguard](https://github.com/dweinstein/dockerfile-androguard))
+**Repository:** [https://github.com/dweinstein/dockerfile-androguard](https://github.com/dweinstein/dockerfile-androguard)
 
 **Author:** dweinstein
 
@@ -1664,7 +1664,7 @@ Various security tools and resources that are pending categorization.
 
 ## DolosHoneypot
 
-**Repository:** [[https://github.com/Marist-Innovation-Lab/DolosHoneypot](https://github.com/Marist-Innovation-Lab/DolosHoneypot)]([https://github.com/Marist-Innovation-Lab/DolosHoneypot](https://github.com/Marist-Innovation-Lab/DolosHoneypot))
+**Repository:** [https://github.com/Marist-Innovation-Lab/DolosHoneypot](https://github.com/Marist-Innovation-Lab/DolosHoneypot)
 
 **Author:** Marist-Innovation-Lab
 
@@ -1672,7 +1672,7 @@ Various security tools and resources that are pending categorization.
 
 ## dorkbot
 
-**Repository:** [[https://github.com/utiso/dorkbot](https://github.com/utiso/dorkbot)]([https://github.com/utiso/dorkbot](https://github.com/utiso/dorkbot))
+**Repository:** [https://github.com/utiso/dorkbot](https://github.com/utiso/dorkbot)
 
 **Author:** utiso
 
@@ -1680,7 +1680,7 @@ Various security tools and resources that are pending categorization.
 
 ## dorks
 
-**Repository:** [[https://github.com/USSCltd/dorks](https://github.com/USSCltd/dorks)]([https://github.com/USSCltd/dorks](https://github.com/USSCltd/dorks))
+**Repository:** [https://github.com/USSCltd/dorks](https://github.com/USSCltd/dorks)
 
 **Author:** USSCltd
 
@@ -1688,7 +1688,7 @@ Various security tools and resources that are pending categorization.
 
 ## dorothy
 
-**Repository:** [[https://github.com/elastic/dorothy](https://github.com/elastic/dorothy)]([https://github.com/elastic/dorothy](https://github.com/elastic/dorothy))
+**Repository:** [https://github.com/elastic/dorothy](https://github.com/elastic/dorothy)
 
 **Author:** elastic
 
@@ -1696,7 +1696,7 @@ Various security tools and resources that are pending categorization.
 
 ## dorothy2
 
-**Repository:** [[https://github.com/m4rco-/dorothy2](https://github.com/m4rco-/dorothy2)]([https://github.com/m4rco-/dorothy2](https://github.com/m4rco-/dorothy2))
+**Repository:** [https://github.com/m4rco-/dorothy2](https://github.com/m4rco-/dorothy2)
 
 **Author:** m4rco-
 
@@ -1704,7 +1704,7 @@ Various security tools and resources that are pending categorization.
 
 ## dotgpg
 
-**Repository:** [[https://github.com/ConradIrwin/dotgpg](https://github.com/ConradIrwin/dotgpg)]([https://github.com/ConradIrwin/dotgpg](https://github.com/ConradIrwin/dotgpg))
+**Repository:** [https://github.com/ConradIrwin/dotgpg](https://github.com/ConradIrwin/dotgpg)
 
 **Author:** ConradIrwin
 
@@ -1712,7 +1712,7 @@ Various security tools and resources that are pending categorization.
 
 ## dpkt
 
-**Repository:** [[https://github.com/kbandla/dpkt](https://github.com/kbandla/dpkt)]([https://github.com/kbandla/dpkt](https://github.com/kbandla/dpkt))
+**Repository:** [https://github.com/kbandla/dpkt](https://github.com/kbandla/dpkt)
 
 **Author:** kbandla
 
@@ -1720,7 +1720,7 @@ Various security tools and resources that are pending categorization.
 
 ## drltrace
 
-**Repository:** [[https://github.com/mxmssh/drltrace](https://github.com/mxmssh/drltrace)]([https://github.com/mxmssh/drltrace](https://github.com/mxmssh/drltrace))
+**Repository:** [https://github.com/mxmssh/drltrace](https://github.com/mxmssh/drltrace)
 
 **Author:** mxmssh
 
@@ -1728,7 +1728,7 @@ Various security tools and resources that are pending categorization.
 
 ## droidbox
 
-**Repository:** [[https://github.com/pjlantz/droidbox](https://github.com/pjlantz/droidbox)]([https://github.com/pjlantz/droidbox](https://github.com/pjlantz/droidbox))
+**Repository:** [https://github.com/pjlantz/droidbox](https://github.com/pjlantz/droidbox)
 
 **Author:** pjlantz
 
@@ -1736,7 +1736,7 @@ Various security tools and resources that are pending categorization.
 
 ## drozer
 
-**Repository:** [[https://github.com/mwrlabs/drozer](https://github.com/mwrlabs/drozer)]([https://github.com/mwrlabs/drozer](https://github.com/mwrlabs/drozer))
+**Repository:** [https://github.com/mwrlabs/drozer](https://github.com/mwrlabs/drozer)
 
 **Author:** mwrlabs
 
@@ -1744,7 +1744,7 @@ Various security tools and resources that are pending categorization.
 
 ## drupot
 
-**Repository:** [[https://github.com/d1str0/drupot](https://github.com/d1str0/drupot)]([https://github.com/d1str0/drupot](https://github.com/d1str0/drupot))
+**Repository:** [https://github.com/d1str0/drupot](https://github.com/d1str0/drupot)
 
 **Author:** d1str0
 
@@ -1752,7 +1752,7 @@ Various security tools and resources that are pending categorization.
 
 ## dshield-docker
 
-**Repository:** [[https://github.com/xme/dshield-docker](https://github.com/xme/dshield-docker)]([https://github.com/xme/dshield-docker](https://github.com/xme/dshield-docker))
+**Repository:** [https://github.com/xme/dshield-docker](https://github.com/xme/dshield-docker)
 
 **Author:** xme
 
@@ -1760,7 +1760,7 @@ Various security tools and resources that are pending categorization.
 
 ## duckduckgo
 
-**Repository:** [[https://github.com/its0x08/duckduckgo](https://github.com/its0x08/duckduckgo)]([https://github.com/its0x08/duckduckgo](https://github.com/its0x08/duckduckgo))
+**Repository:** [https://github.com/its0x08/duckduckgo](https://github.com/its0x08/duckduckgo)
 
 **Author:** its0x08
 
@@ -1768,7 +1768,7 @@ Various security tools and resources that are pending categorization.
 
 ## duplicut
 
-**Repository:** [[https://github.com/nil0x42/duplicut](https://github.com/nil0x42/duplicut)]([https://github.com/nil0x42/duplicut](https://github.com/nil0x42/duplicut))
+**Repository:** [https://github.com/nil0x42/duplicut](https://github.com/nil0x42/duplicut)
 
 **Author:** nil0x42
 
@@ -1776,7 +1776,7 @@ Various security tools and resources that are pending categorization.
 
 ## dvcs-ripper
 
-**Repository:** [[https://github.com/kost/dvcs-ripper](https://github.com/kost/dvcs-ripper)]([https://github.com/kost/dvcs-ripper](https://github.com/kost/dvcs-ripper))
+**Repository:** [https://github.com/kost/dvcs-ripper](https://github.com/kost/dvcs-ripper)
 
 **Author:** kost
 
@@ -1784,7 +1784,7 @@ Various security tools and resources that are pending categorization.
 
 ## dvws-node
 
-**Repository:** [[https://github.com/snoopysecurity/dvws-node](https://github.com/snoopysecurity/dvws-node)]([https://github.com/snoopysecurity/dvws-node](https://github.com/snoopysecurity/dvws-node))
+**Repository:** [https://github.com/snoopysecurity/dvws-node](https://github.com/snoopysecurity/dvws-node)
 
 **Author:** snoopysecurity
 
@@ -1792,7 +1792,7 @@ Various security tools and resources that are pending categorization.
 
 ## dvxte
 
-**Repository:** [[https://github.com/davevs/dvxte](https://github.com/davevs/dvxte)]([https://github.com/davevs/dvxte](https://github.com/davevs/dvxte))
+**Repository:** [https://github.com/davevs/dvxte](https://github.com/davevs/dvxte)
 
 **Author:** davevs
 
@@ -1800,7 +1800,7 @@ Various security tools and resources that are pending categorization.
 
 ## Dwarf
 
-**Repository:** [[https://github.com/iGio90/Dwarf](https://github.com/iGio90/Dwarf)]([https://github.com/iGio90/Dwarf](https://github.com/iGio90/Dwarf))
+**Repository:** [https://github.com/iGio90/Dwarf](https://github.com/iGio90/Dwarf)
 
 **Author:** iGio90
 
@@ -1808,7 +1808,7 @@ Various security tools and resources that are pending categorization.
 
 ## dynStruct
 
-**Repository:** [[https://github.com/ampotos/dynStruct](https://github.com/ampotos/dynStruct)]([https://github.com/ampotos/dynStruct](https://github.com/ampotos/dynStruct))
+**Repository:** [https://github.com/ampotos/dynStruct](https://github.com/ampotos/dynStruct)
 
 **Author:** ampotos
 
@@ -1816,7 +1816,7 @@ Various security tools and resources that are pending categorization.
 
 ## Ebowla
 
-**Repository:** [[https://github.com/Genetic-Malware/Ebowla](https://github.com/Genetic-Malware/Ebowla)]([https://github.com/Genetic-Malware/Ebowla](https://github.com/Genetic-Malware/Ebowla))
+**Repository:** [https://github.com/Genetic-Malware/Ebowla](https://github.com/Genetic-Malware/Ebowla)
 
 **Author:** Genetic-Malware
 
@@ -1824,7 +1824,7 @@ Various security tools and resources that are pending categorization.
 
 ## electronegativity
 
-**Repository:** [[https://github.com/doyensec/electronegativity](https://github.com/doyensec/electronegativity)]([https://github.com/doyensec/electronegativity](https://github.com/doyensec/electronegativity))
+**Repository:** [https://github.com/doyensec/electronegativity](https://github.com/doyensec/electronegativity)
 
 **Author:** doyensec
 
@@ -1832,7 +1832,7 @@ Various security tools and resources that are pending categorization.
 
 ## endlessh
 
-**Repository:** [[https://github.com/skeeto/endlessh](https://github.com/skeeto/endlessh)]([https://github.com/skeeto/endlessh](https://github.com/skeeto/endlessh))
+**Repository:** [https://github.com/skeeto/endlessh](https://github.com/skeeto/endlessh)
 
 **Author:** skeeto
 
@@ -1840,7 +1840,7 @@ Various security tools and resources that are pending categorization.
 
 ## enjarify
 
-**Repository:** [[https://github.com/google/enjarify](https://github.com/google/enjarify)]([https://github.com/google/enjarify](https://github.com/google/enjarify))
+**Repository:** [https://github.com/google/enjarify](https://github.com/google/enjarify)
 
 **Author:** google
 
@@ -1848,7 +1848,7 @@ Various security tools and resources that are pending categorization.
 
 ## EoHoneypotBundle
 
-**Repository:** [[https://github.com/eymengunay/EoHoneypotBundle](https://github.com/eymengunay/EoHoneypotBundle)]([https://github.com/eymengunay/EoHoneypotBundle](https://github.com/eymengunay/EoHoneypotBundle))
+**Repository:** [https://github.com/eymengunay/EoHoneypotBundle](https://github.com/eymengunay/EoHoneypotBundle)
 
 **Author:** eymengunay
 
@@ -1856,7 +1856,7 @@ Various security tools and resources that are pending categorization.
 
 ## eotk
 
-**Repository:** [[https://github.com/alecmuffett/eotk](https://github.com/alecmuffett/eotk)]([https://github.com/alecmuffett/eotk](https://github.com/alecmuffett/eotk))
+**Repository:** [https://github.com/alecmuffett/eotk](https://github.com/alecmuffett/eotk)
 
 **Author:** alecmuffett
 
@@ -1864,7 +1864,7 @@ Various security tools and resources that are pending categorization.
 
 ## EvilOSX
 
-**Repository:** [[https://github.com/Marten4n6/EvilOSX](https://github.com/Marten4n6/EvilOSX)]([https://github.com/Marten4n6/EvilOSX](https://github.com/Marten4n6/EvilOSX))
+**Repository:** [https://github.com/Marten4n6/EvilOSX](https://github.com/Marten4n6/EvilOSX)
 
 **Author:** Marten4n6
 
@@ -1872,7 +1872,7 @@ Various security tools and resources that are pending categorization.
 
 ## EVTXtract
 
-**Repository:** [[https://github.com/williballenthin/EVTXtract](https://github.com/williballenthin/EVTXtract)]([https://github.com/williballenthin/EVTXtract](https://github.com/williballenthin/EVTXtract))
+**Repository:** [https://github.com/williballenthin/EVTXtract](https://github.com/williballenthin/EVTXtract)
 
 **Author:** williballenthin
 
@@ -1880,7 +1880,7 @@ Various security tools and resources that are pending categorization.
 
 ## exiflooter
 
-**Repository:** [[https://github.com/aydinnyunus/exiflooter](https://github.com/aydinnyunus/exiflooter)]([https://github.com/aydinnyunus/exiflooter](https://github.com/aydinnyunus/exiflooter))
+**Repository:** [https://github.com/aydinnyunus/exiflooter](https://github.com/aydinnyunus/exiflooter)
 
 **Author:** aydinnyunus
 
@@ -1888,7 +1888,7 @@ Various security tools and resources that are pending categorization.
 
 ## exiftool
 
-**Repository:** [[https://github.com/exiftool/exiftool](https://github.com/exiftool/exiftool)]([https://github.com/exiftool/exiftool](https://github.com/exiftool/exiftool))
+**Repository:** [https://github.com/exiftool/exiftool](https://github.com/exiftool/exiftool)
 
 **Author:** exiftool
 
@@ -1896,7 +1896,7 @@ Various security tools and resources that are pending categorization.
 
 ## exiftool.rb
 
-**Repository:** [[https://github.com/mceachen/exiftool.rb](https://github.com/mceachen/exiftool.rb)]([https://github.com/mceachen/exiftool.rb](https://github.com/mceachen/exiftool.rb))
+**Repository:** [https://github.com/mceachen/exiftool.rb](https://github.com/mceachen/exiftool.rb)
 
 **Author:** mceachen
 
@@ -1904,7 +1904,7 @@ Various security tools and resources that are pending categorization.
 
 ## factual-rules-generator
 
-**Repository:** [[https://github.com/CIRCL/factual-rules-generator](https://github.com/CIRCL/factual-rules-generator)]([https://github.com/CIRCL/factual-rules-generator](https://github.com/CIRCL/factual-rules-generator))
+**Repository:** [https://github.com/CIRCL/factual-rules-generator](https://github.com/CIRCL/factual-rules-generator)
 
 **Author:** CIRCL
 
@@ -1912,7 +1912,7 @@ Various security tools and resources that are pending categorization.
 
 ## faraday
 
-**Repository:** [[https://github.com/infobyte/faraday](https://github.com/infobyte/faraday)]([https://github.com/infobyte/faraday](https://github.com/infobyte/faraday))
+**Repository:** [https://github.com/infobyte/faraday](https://github.com/infobyte/faraday)
 
 **Author:** infobyte
 
@@ -1920,7 +1920,7 @@ Various security tools and resources that are pending categorization.
 
 ## fast-recon
 
-**Repository:** [[https://github.com/DanMcInerney/fast-recon](https://github.com/DanMcInerney/fast-recon)]([https://github.com/DanMcInerney/fast-recon](https://github.com/DanMcInerney/fast-recon))
+**Repository:** [https://github.com/DanMcInerney/fast-recon](https://github.com/DanMcInerney/fast-recon)
 
 **Author:** DanMcInerney
 
@@ -1928,7 +1928,7 @@ Various security tools and resources that are pending categorization.
 
 ## fb_friend_list_scraper
 
-**Repository:** [[https://github.com/narkopolo/fb_friend_list_scraper](https://github.com/narkopolo/fb_friend_list_scraper)]([https://github.com/narkopolo/fb_friend_list_scraper](https://github.com/narkopolo/fb_friend_list_scraper))
+**Repository:** [https://github.com/narkopolo/fb_friend_list_scraper](https://github.com/narkopolo/fb_friend_list_scraper)
 
 **Author:** narkopolo
 
@@ -1936,7 +1936,7 @@ Various security tools and resources that are pending categorization.
 
 ## fernflower
 
-**Repository:** [[https://github.com/fesh0r/fernflower](https://github.com/fesh0r/fernflower)]([https://github.com/fesh0r/fernflower](https://github.com/fesh0r/fernflower))
+**Repository:** [https://github.com/fesh0r/fernflower](https://github.com/fesh0r/fernflower)
 
 **Author:** fesh0r
 
@@ -1944,7 +1944,7 @@ Various security tools and resources that are pending categorization.
 
 ## fiddle
 
-**Repository:** [[https://github.com/electron/fiddle](https://github.com/electron/fiddle)]([https://github.com/electron/fiddle](https://github.com/electron/fiddle))
+**Repository:** [https://github.com/electron/fiddle](https://github.com/electron/fiddle)
 
 **Author:** electron
 
@@ -1952,7 +1952,7 @@ Various security tools and resources that are pending categorization.
 
 ## fierce
 
-**Repository:** [[https://github.com/mschwager/fierce](https://github.com/mschwager/fierce)]([https://github.com/mschwager/fierce](https://github.com/mschwager/fierce))
+**Repository:** [https://github.com/mschwager/fierce](https://github.com/mschwager/fierce)
 
 **Author:** mschwager
 
@@ -1960,7 +1960,7 @@ Various security tools and resources that are pending categorization.
 
 ## FiercePhish
 
-**Repository:** [[https://github.com/Raikia/FiercePhish](https://github.com/Raikia/FiercePhish)]([https://github.com/Raikia/FiercePhish](https://github.com/Raikia/FiercePhish))
+**Repository:** [https://github.com/Raikia/FiercePhish](https://github.com/Raikia/FiercePhish)
 
 **Author:** Raikia
 
@@ -1968,7 +1968,7 @@ Various security tools and resources that are pending categorization.
 
 ## findcrypt-yara
 
-**Repository:** [[https://github.com/polymorf/findcrypt-yara](https://github.com/polymorf/findcrypt-yara)]([https://github.com/polymorf/findcrypt-yara](https://github.com/polymorf/findcrypt-yara))
+**Repository:** [https://github.com/polymorf/findcrypt-yara](https://github.com/polymorf/findcrypt-yara)
 
 **Author:** polymorf
 
@@ -1976,7 +1976,7 @@ Various security tools and resources that are pending categorization.
 
 ## Firmware_extractor
 
-**Repository:** [[https://github.com/AndroidDumps/Firmware_extractor](https://github.com/AndroidDumps/Firmware_extractor)]([https://github.com/AndroidDumps/Firmware_extractor](https://github.com/AndroidDumps/Firmware_extractor))
+**Repository:** [https://github.com/AndroidDumps/Firmware_extractor](https://github.com/AndroidDumps/Firmware_extractor)
 
 **Author:** AndroidDumps
 
@@ -1984,7 +1984,7 @@ Various security tools and resources that are pending categorization.
 
 ## fit
 
-**Repository:** [[https://github.com/fit-project/fit](https://github.com/fit-project/fit)]([https://github.com/fit-project/fit](https://github.com/fit-project/fit))
+**Repository:** [https://github.com/fit-project/fit](https://github.com/fit-project/fit)
 
 **Author:** fit-project
 
@@ -1992,7 +1992,7 @@ Various security tools and resources that are pending categorization.
 
 ## flare-fakenet-ng
 
-**Repository:** [[https://github.com/fireeye/flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng)]([https://github.com/fireeye/flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng))
+**Repository:** [https://github.com/fireeye/flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng)
 
 **Author:** fireeye
 
@@ -2000,7 +2000,7 @@ Various security tools and resources that are pending categorization.
 
 ## flare-floss
 
-**Repository:** [[https://github.com/fireeye/flare-floss](https://github.com/fireeye/flare-floss)]([https://github.com/fireeye/flare-floss](https://github.com/fireeye/flare-floss))
+**Repository:** [https://github.com/fireeye/flare-floss](https://github.com/fireeye/flare-floss)
 
 **Author:** fireeye
 
@@ -2008,7 +2008,7 @@ Various security tools and resources that are pending categorization.
 
 ## flare-vm
 
-**Repository:** [[https://github.com/fireeye/flare-vm](https://github.com/fireeye/flare-vm)]([https://github.com/fireeye/flare-vm](https://github.com/fireeye/flare-vm))
+**Repository:** [https://github.com/fireeye/flare-vm](https://github.com/fireeye/flare-vm)
 
 **Author:** fireeye
 
@@ -2016,7 +2016,7 @@ Various security tools and resources that are pending categorization.
 
 ## Fnord
 
-**Repository:** [[https://github.com/Neo23x0/Fnord](https://github.com/Neo23x0/Fnord)]([https://github.com/Neo23x0/Fnord](https://github.com/Neo23x0/Fnord))
+**Repository:** [https://github.com/Neo23x0/Fnord](https://github.com/Neo23x0/Fnord)
 
 **Author:** Neo23x0
 
@@ -2024,7 +2024,7 @@ Various security tools and resources that are pending categorization.
 
 ## FOCA
 
-**Repository:** [[https://github.com/ElevenPaths/FOCA](https://github.com/ElevenPaths/FOCA)]([https://github.com/ElevenPaths/FOCA](https://github.com/ElevenPaths/FOCA))
+**Repository:** [https://github.com/ElevenPaths/FOCA](https://github.com/ElevenPaths/FOCA)
 
 **Author:** ElevenPaths
 
@@ -2032,7 +2032,7 @@ Various security tools and resources that are pending categorization.
 
 ## foremost
 
-**Repository:** [[https://github.com/jonstewart/foremost](https://github.com/jonstewart/foremost)]([https://github.com/jonstewart/foremost](https://github.com/jonstewart/foremost))
+**Repository:** [https://github.com/jonstewart/foremost](https://github.com/jonstewart/foremost)
 
 **Author:** jonstewart
 
@@ -2040,7 +2040,7 @@ Various security tools and resources that are pending categorization.
 
 ## fREedom
 
-**Repository:** [[https://github.com/cseagle/fREedom](https://github.com/cseagle/fREedom)]([https://github.com/cseagle/fREedom](https://github.com/cseagle/fREedom))
+**Repository:** [https://github.com/cseagle/fREedom](https://github.com/cseagle/fREedom)
 
 **Author:** cseagle
 
@@ -2048,7 +2048,7 @@ Various security tools and resources that are pending categorization.
 
 ## friTap
 
-**Repository:** [[https://github.com/fkie-cad/friTap](https://github.com/fkie-cad/friTap)]([https://github.com/fkie-cad/friTap](https://github.com/fkie-cad/friTap))
+**Repository:** [https://github.com/fkie-cad/friTap](https://github.com/fkie-cad/friTap)
 
 **Author:** fkie-cad
 
@@ -2056,7 +2056,7 @@ Various security tools and resources that are pending categorization.
 
 ## fsYara
 
-**Repository:** [[https://github.com/filescanio/fsYara](https://github.com/filescanio/fsYara)]([https://github.com/filescanio/fsYara](https://github.com/filescanio/fsYara))
+**Repository:** [https://github.com/filescanio/fsYara](https://github.com/filescanio/fsYara)
 
 **Author:** filescanio
 
@@ -2064,7 +2064,7 @@ Various security tools and resources that are pending categorization.
 
 ## galah
 
-**Repository:** [[https://github.com/0x4D31/galah](https://github.com/0x4D31/galah)]([https://github.com/0x4D31/galah](https://github.com/0x4D31/galah))
+**Repository:** [https://github.com/0x4D31/galah](https://github.com/0x4D31/galah)
 
 **Author:** 0x4D31
 
@@ -2072,7 +2072,7 @@ Various security tools and resources that are pending categorization.
 
 ## game
 
-**Repository:** [[https://github.com/xelenonz/game](https://github.com/xelenonz/game)]([https://github.com/xelenonz/game](https://github.com/xelenonz/game))
+**Repository:** [https://github.com/xelenonz/game](https://github.com/xelenonz/game)
 
 **Author:** xelenonz
 
@@ -2080,7 +2080,7 @@ Various security tools and resources that are pending categorization.
 
 ## GasPot
 
-**Repository:** [[https://github.com/sjhilt/GasPot](https://github.com/sjhilt/GasPot)]([https://github.com/sjhilt/GasPot](https://github.com/sjhilt/GasPot))
+**Repository:** [https://github.com/sjhilt/GasPot](https://github.com/sjhilt/GasPot)
 
 **Author:** sjhilt
 
@@ -2088,7 +2088,7 @@ Various security tools and resources that are pending categorization.
 
 ## GCPBucketBrute
 
-**Repository:** [[https://github.com/RhinoSecurityLabs/GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute)]([https://github.com/RhinoSecurityLabs/GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute))
+**Repository:** [https://github.com/RhinoSecurityLabs/GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute)
 
 **Author:** RhinoSecurityLabs
 
@@ -2096,7 +2096,7 @@ Various security tools and resources that are pending categorization.
 
 ## generic-parser
 
-**Repository:** [[https://github.com/uppusaikiran/generic-parser](https://github.com/uppusaikiran/generic-parser)]([https://github.com/uppusaikiran/generic-parser](https://github.com/uppusaikiran/generic-parser))
+**Repository:** [https://github.com/uppusaikiran/generic-parser](https://github.com/uppusaikiran/generic-parser)
 
 **Author:** uppusaikiran
 
@@ -2104,7 +2104,7 @@ Various security tools and resources that are pending categorization.
 
 ## geospy
 
-**Repository:** [[https://github.com/atiilla/geospy](https://github.com/atiilla/geospy)]([https://github.com/atiilla/geospy](https://github.com/atiilla/geospy))
+**Repository:** [https://github.com/atiilla/geospy](https://github.com/atiilla/geospy)
 
 **Author:** atiilla
 
@@ -2112,7 +2112,7 @@ Various security tools and resources that are pending categorization.
 
 ## Geotweet_GUI
 
-**Repository:** [[https://github.com/Pinperepette/Geotweet_GUI](https://github.com/Pinperepette/Geotweet_GUI)]([https://github.com/Pinperepette/Geotweet_GUI](https://github.com/Pinperepette/Geotweet_GUI))
+**Repository:** [https://github.com/Pinperepette/Geotweet_GUI](https://github.com/Pinperepette/Geotweet_GUI)
 
 **Author:** Pinperepette
 
@@ -2120,7 +2120,7 @@ Various security tools and resources that are pending categorization.
 
 ## ghidra_scripts
 
-**Repository:** [[https://github.com/ghidraninja/ghidra_scripts](https://github.com/ghidraninja/ghidra_scripts)]([https://github.com/ghidraninja/ghidra_scripts](https://github.com/ghidraninja/ghidra_scripts))
+**Repository:** [https://github.com/ghidraninja/ghidra_scripts](https://github.com/ghidraninja/ghidra_scripts)
 
 **Author:** ghidraninja
 
@@ -2128,7 +2128,7 @@ Various security tools and resources that are pending categorization.
 
 ## ghidra_yara
 
-**Repository:** [[https://github.com/subreption/ghidra_yara](https://github.com/subreption/ghidra_yara)]([https://github.com/subreption/ghidra_yara](https://github.com/subreption/ghidra_yara))
+**Repository:** [https://github.com/subreption/ghidra_yara](https://github.com/subreption/ghidra_yara)
 
 **Author:** subreption
 
@@ -2136,7 +2136,7 @@ Various security tools and resources that are pending categorization.
 
 ## ghiro
 
-**Repository:** [[https://github.com/Ghirensics/ghiro](https://github.com/Ghirensics/ghiro)]([https://github.com/Ghirensics/ghiro](https://github.com/Ghirensics/ghiro))
+**Repository:** [https://github.com/Ghirensics/ghiro](https://github.com/Ghirensics/ghiro)
 
 **Author:** Ghirensics
 
@@ -2144,7 +2144,7 @@ Various security tools and resources that are pending categorization.
 
 ## ghost-usb-honeypot
 
-**Repository:** [[https://github.com/honeynet/ghost-usb-honeypot](https://github.com/honeynet/ghost-usb-honeypot)]([https://github.com/honeynet/ghost-usb-honeypot](https://github.com/honeynet/ghost-usb-honeypot))
+**Repository:** [https://github.com/honeynet/ghost-usb-honeypot](https://github.com/honeynet/ghost-usb-honeypot)
 
 **Author:** honeynet
 
@@ -2152,7 +2152,7 @@ Various security tools and resources that are pending categorization.
 
 ## git-dumper
 
-**Repository:** [[https://github.com/arthaud/git-dumper](https://github.com/arthaud/git-dumper)]([https://github.com/arthaud/git-dumper](https://github.com/arthaud/git-dumper))
+**Repository:** [https://github.com/arthaud/git-dumper](https://github.com/arthaud/git-dumper)
 
 **Author:** arthaud
 
@@ -2160,7 +2160,7 @@ Various security tools and resources that are pending categorization.
 
 ## git-secrets
 
-**Repository:** [[https://github.com/awslabs/git-secrets](https://github.com/awslabs/git-secrets)]([https://github.com/awslabs/git-secrets](https://github.com/awslabs/git-secrets))
+**Repository:** [https://github.com/awslabs/git-secrets](https://github.com/awslabs/git-secrets)
 
 **Author:** awslabs
 
@@ -2168,7 +2168,7 @@ Various security tools and resources that are pending categorization.
 
 ## github-dorks
 
-**Repository:** [[https://github.com/techgaun/github-dorks](https://github.com/techgaun/github-dorks)]([https://github.com/techgaun/github-dorks](https://github.com/techgaun/github-dorks))
+**Repository:** [https://github.com/techgaun/github-dorks](https://github.com/techgaun/github-dorks)
 
 **Author:** techgaun
 
@@ -2176,7 +2176,7 @@ Various security tools and resources that are pending categorization.
 
 ## github_monitor
 
-**Repository:** [[https://github.com/misiektoja/github_monitor](https://github.com/misiektoja/github_monitor)]([https://github.com/misiektoja/github_monitor](https://github.com/misiektoja/github_monitor))
+**Repository:** [https://github.com/misiektoja/github_monitor](https://github.com/misiektoja/github_monitor)
 
 **Author:** misiektoja
 
@@ -2184,7 +2184,7 @@ Various security tools and resources that are pending categorization.
 
 ## GitTools
 
-**Repository:** [[https://github.com/internetwache/GitTools](https://github.com/internetwache/GitTools)]([https://github.com/internetwache/GitTools](https://github.com/internetwache/GitTools))
+**Repository:** [https://github.com/internetwache/GitTools](https://github.com/internetwache/GitTools)
 
 **Author:** internetwache
 
@@ -2192,7 +2192,7 @@ Various security tools and resources that are pending categorization.
 
 ## glastopf
 
-**Repository:** [[https://github.com/mushorg/glastopf](https://github.com/mushorg/glastopf)]([https://github.com/mushorg/glastopf](https://github.com/mushorg/glastopf))
+**Repository:** [https://github.com/mushorg/glastopf](https://github.com/mushorg/glastopf)
 
 **Author:** mushorg
 
@@ -2200,7 +2200,7 @@ Various security tools and resources that are pending categorization.
 
 ## glit
 
-**Repository:** [[https://github.com/shadawck/glit](https://github.com/shadawck/glit)]([https://github.com/shadawck/glit](https://github.com/shadawck/glit))
+**Repository:** [https://github.com/shadawck/glit](https://github.com/shadawck/glit)
 
 **Author:** shadawck
 
@@ -2208,7 +2208,7 @@ Various security tools and resources that are pending categorization.
 
 ## glutton
 
-**Repository:** [[https://github.com/mushorg/glutton](https://github.com/mushorg/glutton)]([https://github.com/mushorg/glutton](https://github.com/mushorg/glutton))
+**Repository:** [https://github.com/mushorg/glutton](https://github.com/mushorg/glutton)
 
 **Author:** mushorg
 
@@ -2216,7 +2216,7 @@ Various security tools and resources that are pending categorization.
 
 ## gmapcatcher
 
-**Repository:** [[https://github.com/heldersepu/gmapcatcher](https://github.com/heldersepu/gmapcatcher)]([https://github.com/heldersepu/gmapcatcher](https://github.com/heldersepu/gmapcatcher))
+**Repository:** [https://github.com/heldersepu/gmapcatcher](https://github.com/heldersepu/gmapcatcher)
 
 **Author:** heldersepu
 
@@ -2224,7 +2224,7 @@ Various security tools and resources that are pending categorization.
 
 ## go-emulators
 
-**Repository:** [[https://github.com/kingtuna/go-emulators](https://github.com/kingtuna/go-emulators)]([https://github.com/kingtuna/go-emulators](https://github.com/kingtuna/go-emulators))
+**Repository:** [https://github.com/kingtuna/go-emulators](https://github.com/kingtuna/go-emulators)
 
 **Author:** kingtuna
 
@@ -2232,7 +2232,7 @@ Various security tools and resources that are pending categorization.
 
 ## go-prefetch
 
-**Repository:** [[https://github.com/Velocidex/go-prefetch](https://github.com/Velocidex/go-prefetch)]([https://github.com/Velocidex/go-prefetch](https://github.com/Velocidex/go-prefetch))
+**Repository:** [https://github.com/Velocidex/go-prefetch](https://github.com/Velocidex/go-prefetch)
 
 **Author:** Velocidex
 
@@ -2240,7 +2240,7 @@ Various security tools and resources that are pending categorization.
 
 ## go-sshoney
 
-**Repository:** [[https://github.com/ashmckenzie/go-sshoney](https://github.com/ashmckenzie/go-sshoney)]([https://github.com/ashmckenzie/go-sshoney](https://github.com/ashmckenzie/go-sshoney))
+**Repository:** [https://github.com/ashmckenzie/go-sshoney](https://github.com/ashmckenzie/go-sshoney)
 
 **Author:** ashmckenzie
 
@@ -2248,7 +2248,7 @@ Various security tools and resources that are pending categorization.
 
 ## go-yara
 
-**Repository:** [[https://github.com/hillu/go-yara](https://github.com/hillu/go-yara)]([https://github.com/hillu/go-yara](https://github.com/hillu/go-yara))
+**Repository:** [https://github.com/hillu/go-yara](https://github.com/hillu/go-yara)
 
 **Author:** hillu
 
@@ -2256,7 +2256,7 @@ Various security tools and resources that are pending categorization.
 
 ## go0r
 
-**Repository:** [[https://github.com/fzerorubigd/go0r](https://github.com/fzerorubigd/go0r)]([https://github.com/fzerorubigd/go0r](https://github.com/fzerorubigd/go0r))
+**Repository:** [https://github.com/fzerorubigd/go0r](https://github.com/fzerorubigd/go0r)
 
 **Author:** fzerorubigd
 
@@ -2264,7 +2264,7 @@ Various security tools and resources that are pending categorization.
 
 ## gobuster
 
-**Repository:** [[https://github.com/OJ/gobuster](https://github.com/OJ/gobuster)]([https://github.com/OJ/gobuster](https://github.com/OJ/gobuster))
+**Repository:** [https://github.com/OJ/gobuster](https://github.com/OJ/gobuster)
 
 **Author:** OJ
 
@@ -2272,7 +2272,7 @@ Various security tools and resources that are pending categorization.
 
 ## gocrack
 
-**Repository:** [[https://github.com/fireeye/gocrack](https://github.com/fireeye/gocrack)]([https://github.com/fireeye/gocrack](https://github.com/fireeye/gocrack))
+**Repository:** [https://github.com/fireeye/gocrack](https://github.com/fireeye/gocrack)
 
 **Author:** fireeye
 
@@ -2280,7 +2280,7 @@ Various security tools and resources that are pending categorization.
 
 ## gohoney
 
-**Repository:** [[https://github.com/PaulMaddox/gohoney](https://github.com/PaulMaddox/gohoney)]([https://github.com/PaulMaddox/gohoney](https://github.com/PaulMaddox/gohoney))
+**Repository:** [https://github.com/PaulMaddox/gohoney](https://github.com/PaulMaddox/gohoney)
 
 **Author:** PaulMaddox
 
@@ -2288,7 +2288,7 @@ Various security tools and resources that are pending categorization.
 
 ## GooDork
 
-**Repository:** [[https://github.com/k3170makan/GooDork](https://github.com/k3170makan/GooDork)]([https://github.com/k3170makan/GooDork](https://github.com/k3170makan/GooDork))
+**Repository:** [https://github.com/k3170makan/GooDork](https://github.com/k3170makan/GooDork)
 
 **Author:** k3170makan
 
@@ -2296,7 +2296,7 @@ Various security tools and resources that are pending categorization.
 
 ## Google-Dorks
 
-**Repository:** [[https://github.com/arimogi/Google-Dorks](https://github.com/arimogi/Google-Dorks)]([https://github.com/arimogi/Google-Dorks](https://github.com/arimogi/Google-Dorks))
+**Repository:** [https://github.com/arimogi/Google-Dorks](https://github.com/arimogi/Google-Dorks)
 
 **Author:** arimogi
 
@@ -2304,7 +2304,7 @@ Various security tools and resources that are pending categorization.
 
 ## google-play-crawler
 
-**Repository:** [[https://github.com/Akdeniz/google-play-crawler](https://github.com/Akdeniz/google-play-crawler)]([https://github.com/Akdeniz/google-play-crawler](https://github.com/Akdeniz/google-play-crawler))
+**Repository:** [https://github.com/Akdeniz/google-play-crawler](https://github.com/Akdeniz/google-play-crawler)
 
 **Author:** Akdeniz
 
@@ -2312,7 +2312,7 @@ Various security tools and resources that are pending categorization.
 
 ## googleplay-api
 
-**Repository:** [[https://github.com/egirault/googleplay-api](https://github.com/egirault/googleplay-api)]([https://github.com/egirault/googleplay-api](https://github.com/egirault/googleplay-api))
+**Repository:** [https://github.com/egirault/googleplay-api](https://github.com/egirault/googleplay-api)
 
 **Author:** egirault
 
@@ -2320,7 +2320,7 @@ Various security tools and resources that are pending categorization.
 
 ## gOSINT
 
-**Repository:** [[https://github.com/Nhoya/gOSINT](https://github.com/Nhoya/gOSINT)]([https://github.com/Nhoya/gOSINT](https://github.com/Nhoya/gOSINT))
+**Repository:** [https://github.com/Nhoya/gOSINT](https://github.com/Nhoya/gOSINT)
 
 **Author:** Nhoya
 
@@ -2328,7 +2328,7 @@ Various security tools and resources that are pending categorization.
 
 ## gpgsync
 
-**Repository:** [[https://github.com/firstlookmedia/gpgsync](https://github.com/firstlookmedia/gpgsync)]([https://github.com/firstlookmedia/gpgsync](https://github.com/firstlookmedia/gpgsync))
+**Repository:** [https://github.com/firstlookmedia/gpgsync](https://github.com/firstlookmedia/gpgsync)
 
 **Author:** firstlookmedia
 
@@ -2336,7 +2336,7 @@ Various security tools and resources that are pending categorization.
 
 ## gvisor
 
-**Repository:** [[https://github.com/google/gvisor](https://github.com/google/gvisor)]([https://github.com/google/gvisor](https://github.com/google/gvisor))
+**Repository:** [https://github.com/google/gvisor](https://github.com/google/gvisor)
 
 **Author:** google
 
@@ -2344,7 +2344,7 @@ Various security tools and resources that are pending categorization.
 
 ## GyoiThon
 
-**Repository:** [[https://github.com/gyoisamurai/GyoiThon](https://github.com/gyoisamurai/GyoiThon)]([https://github.com/gyoisamurai/GyoiThon](https://github.com/gyoisamurai/GyoiThon))
+**Repository:** [https://github.com/gyoisamurai/GyoiThon](https://github.com/gyoisamurai/GyoiThon)
 
 **Author:** gyoisamurai
 
@@ -2352,7 +2352,7 @@ Various security tools and resources that are pending categorization.
 
 ## h8mail
 
-**Repository:** [[https://github.com/khast3x/h8mail](https://github.com/khast3x/h8mail)]([https://github.com/khast3x/h8mail](https://github.com/khast3x/h8mail))
+**Repository:** [https://github.com/khast3x/h8mail](https://github.com/khast3x/h8mail)
 
 **Author:** khast3x
 
@@ -2360,7 +2360,7 @@ Various security tools and resources that are pending categorization.
 
 ## HaboMalHunter
 
-**Repository:** [[https://github.com/Tencent/HaboMalHunter](https://github.com/Tencent/HaboMalHunter)]([https://github.com/Tencent/HaboMalHunter](https://github.com/Tencent/HaboMalHunter))
+**Repository:** [https://github.com/Tencent/HaboMalHunter](https://github.com/Tencent/HaboMalHunter)
 
 **Author:** Tencent
 
@@ -2368,7 +2368,7 @@ Various security tools and resources that are pending categorization.
 
 ## habu
 
-**Repository:** [[https://github.com/portantier/habu](https://github.com/portantier/habu)]([https://github.com/portantier/habu](https://github.com/portantier/habu))
+**Repository:** [https://github.com/portantier/habu](https://github.com/portantier/habu)
 
 **Author:** portantier
 
@@ -2376,7 +2376,7 @@ Various security tools and resources that are pending categorization.
 
 ## hachoir3
 
-**Repository:** [[https://github.com/vstinner/hachoir3](https://github.com/vstinner/hachoir3)]([https://github.com/vstinner/hachoir3](https://github.com/vstinner/hachoir3))
+**Repository:** [https://github.com/vstinner/hachoir3](https://github.com/vstinner/hachoir3)
 
 **Author:** vstinner
 
@@ -2384,7 +2384,7 @@ Various security tools and resources that are pending categorization.
 
 ## hack-the-arch
 
-**Repository:** [[https://github.com/mcpa-stlouis/hack-the-arch](https://github.com/mcpa-stlouis/hack-the-arch)]([https://github.com/mcpa-stlouis/hack-the-arch](https://github.com/mcpa-stlouis/hack-the-arch))
+**Repository:** [https://github.com/mcpa-stlouis/hack-the-arch](https://github.com/mcpa-stlouis/hack-the-arch)
 
 **Author:** mcpa-stlouis
 
@@ -2392,7 +2392,7 @@ Various security tools and resources that are pending categorization.
 
 ## hackazon
 
-**Repository:** [[https://github.com/rapid7/hackazon](https://github.com/rapid7/hackazon)]([https://github.com/rapid7/hackazon](https://github.com/rapid7/hackazon))
+**Repository:** [https://github.com/rapid7/hackazon](https://github.com/rapid7/hackazon)
 
 **Author:** rapid7
 
@@ -2400,7 +2400,7 @@ Various security tools and resources that are pending categorization.
 
 ## hackers-grep
 
-**Repository:** [[https://github.com/codypierce/hackers-grep](https://github.com/codypierce/hackers-grep)]([https://github.com/codypierce/hackers-grep](https://github.com/codypierce/hackers-grep))
+**Repository:** [https://github.com/codypierce/hackers-grep](https://github.com/codypierce/hackers-grep)
 
 **Author:** codypierce
 
@@ -2408,7 +2408,7 @@ Various security tools and resources that are pending categorization.
 
 ## hardened_malloc
 
-**Repository:** [[https://github.com/GrapheneOS/hardened_malloc](https://github.com/GrapheneOS/hardened_malloc)]([https://github.com/GrapheneOS/hardened_malloc](https://github.com/GrapheneOS/hardened_malloc))
+**Repository:** [https://github.com/GrapheneOS/hardened_malloc](https://github.com/GrapheneOS/hardened_malloc)
 
 **Author:** GrapheneOS
 
@@ -2416,7 +2416,7 @@ Various security tools and resources that are pending categorization.
 
 ## hardentools
 
-**Repository:** [[https://github.com/securitywithoutborders/hardentools](https://github.com/securitywithoutborders/hardentools)]([https://github.com/securitywithoutborders/hardentools](https://github.com/securitywithoutborders/hardentools))
+**Repository:** [https://github.com/securitywithoutborders/hardentools](https://github.com/securitywithoutborders/hardentools)
 
 **Author:** securitywithoutborders
 
@@ -2424,7 +2424,7 @@ Various security tools and resources that are pending categorization.
 
 ## HashCheck
 
-**Repository:** [[https://github.com/gurnec/HashCheck](https://github.com/gurnec/HashCheck)]([https://github.com/gurnec/HashCheck](https://github.com/gurnec/HashCheck))
+**Repository:** [https://github.com/gurnec/HashCheck](https://github.com/gurnec/HashCheck)
 
 **Author:** gurnec
 
@@ -2432,7 +2432,7 @@ Various security tools and resources that are pending categorization.
 
 ## hashdeep
 
-**Repository:** [[https://github.com/jessek/hashdeep](https://github.com/jessek/hashdeep)]([https://github.com/jessek/hashdeep](https://github.com/jessek/hashdeep))
+**Repository:** [https://github.com/jessek/hashdeep](https://github.com/jessek/hashdeep)
 
 **Author:** jessek
 
@@ -2440,7 +2440,7 @@ Various security tools and resources that are pending categorization.
 
 ## hashlookup-forensic-analyser
 
-**Repository:** [[https://github.com/hashlookup/hashlookup-forensic-analyser](https://github.com/hashlookup/hashlookup-forensic-analyser)]([https://github.com/hashlookup/hashlookup-forensic-analyser](https://github.com/hashlookup/hashlookup-forensic-analyser))
+**Repository:** [https://github.com/hashlookup/hashlookup-forensic-analyser](https://github.com/hashlookup/hashlookup-forensic-analyser)
 
 **Author:** hashlookup
 
@@ -2448,7 +2448,7 @@ Various security tools and resources that are pending categorization.
 
 ## haskell-tor
 
-**Repository:** [[https://github.com/GaloisInc/haskell-tor](https://github.com/GaloisInc/haskell-tor)]([https://github.com/GaloisInc/haskell-tor](https://github.com/GaloisInc/haskell-tor))
+**Repository:** [https://github.com/GaloisInc/haskell-tor](https://github.com/GaloisInc/haskell-tor)
 
 **Author:** GaloisInc
 
@@ -2456,7 +2456,7 @@ Various security tools and resources that are pending categorization.
 
 ## hate_crack
 
-**Repository:** [[https://github.com/trustedsec/hate_crack](https://github.com/trustedsec/hate_crack)]([https://github.com/trustedsec/hate_crack](https://github.com/trustedsec/hate_crack))
+**Repository:** [https://github.com/trustedsec/hate_crack](https://github.com/trustedsec/hate_crack)
 
 **Author:** trustedsec
 
@@ -2464,7 +2464,7 @@ Various security tools and resources that are pending categorization.
 
 ## hawk
 
-**Repository:** [[https://github.com/cloudina/hawk](https://github.com/cloudina/hawk)]([https://github.com/cloudina/hawk](https://github.com/cloudina/hawk))
+**Repository:** [https://github.com/cloudina/hawk](https://github.com/cloudina/hawk)
 
 **Author:** cloudina
 
@@ -2472,7 +2472,7 @@ Various security tools and resources that are pending categorization.
 
 ## headscale
 
-**Repository:** [[https://github.com/juanfont/headscale](https://github.com/juanfont/headscale)]([https://github.com/juanfont/headscale](https://github.com/juanfont/headscale))
+**Repository:** [https://github.com/juanfont/headscale](https://github.com/juanfont/headscale)
 
 **Author:** juanfont
 
@@ -2480,7 +2480,7 @@ Various security tools and resources that are pending categorization.
 
 ## HELK
 
-**Repository:** [[https://github.com/Cyb3rWard0g/HELK](https://github.com/Cyb3rWard0g/HELK)]([https://github.com/Cyb3rWard0g/HELK](https://github.com/Cyb3rWard0g/HELK))
+**Repository:** [https://github.com/Cyb3rWard0g/HELK](https://github.com/Cyb3rWard0g/HELK)
 
 **Author:** Cyb3rWard0g
 
@@ -2488,7 +2488,7 @@ Various security tools and resources that are pending categorization.
 
 ## HellPot
 
-**Repository:** [[https://github.com/yunginnanet/HellPot](https://github.com/yunginnanet/HellPot)]([https://github.com/yunginnanet/HellPot](https://github.com/yunginnanet/HellPot))
+**Repository:** [https://github.com/yunginnanet/HellPot](https://github.com/yunginnanet/HellPot)
 
 **Author:** yunginnanet
 
@@ -2496,7 +2496,7 @@ Various security tools and resources that are pending categorization.
 
 ## helm-gpg
 
-**Repository:** [[https://github.com/technosophos/helm-gpg](https://github.com/technosophos/helm-gpg)]([https://github.com/technosophos/helm-gpg](https://github.com/technosophos/helm-gpg))
+**Repository:** [https://github.com/technosophos/helm-gpg](https://github.com/technosophos/helm-gpg)
 
 **Author:** technosophos
 
@@ -2504,7 +2504,7 @@ Various security tools and resources that are pending categorization.
 
 ## helm-secrets
 
-**Repository:** [[https://github.com/jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets)]([https://github.com/jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets))
+**Repository:** [https://github.com/jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets)
 
 **Author:** jkroepke
 
@@ -2512,7 +2512,7 @@ Various security tools and resources that are pending categorization.
 
 ## heralding
 
-**Repository:** [[https://github.com/johnnykv/heralding](https://github.com/johnnykv/heralding)]([https://github.com/johnnykv/heralding](https://github.com/johnnykv/heralding))
+**Repository:** [https://github.com/johnnykv/heralding](https://github.com/johnnykv/heralding)
 
 **Author:** johnnykv
 
@@ -2520,7 +2520,7 @@ Various security tools and resources that are pending categorization.
 
 ## hexedit
 
-**Repository:** [[https://github.com/pixel/hexedit](https://github.com/pixel/hexedit)]([https://github.com/pixel/hexedit](https://github.com/pixel/hexedit))
+**Repository:** [https://github.com/pixel/hexedit](https://github.com/pixel/hexedit)
 
 **Author:** pixel
 
@@ -2528,7 +2528,7 @@ Various security tools and resources that are pending categorization.
 
 ## hived
 
-**Repository:** [[https://github.com/sahilm/hived](https://github.com/sahilm/hived)]([https://github.com/sahilm/hived](https://github.com/sahilm/hived))
+**Repository:** [https://github.com/sahilm/hived](https://github.com/sahilm/hived)
 
 **Author:** sahilm
 
@@ -2536,7 +2536,7 @@ Various security tools and resources that are pending categorization.
 
 ## honeycomb_plugins
 
-**Repository:** [[https://github.com/Cymmetria/honeycomb_plugins](https://github.com/Cymmetria/honeycomb_plugins)]([https://github.com/Cymmetria/honeycomb_plugins](https://github.com/Cymmetria/honeycomb_plugins))
+**Repository:** [https://github.com/Cymmetria/honeycomb_plugins](https://github.com/Cymmetria/honeycomb_plugins)
 
 **Author:** Cymmetria
 
@@ -2544,7 +2544,7 @@ Various security tools and resources that are pending categorization.
 
 ## Honeyd
 
-**Repository:** [[https://github.com/DataSoft/Honeyd](https://github.com/DataSoft/Honeyd)]([https://github.com/DataSoft/Honeyd](https://github.com/DataSoft/Honeyd))
+**Repository:** [https://github.com/DataSoft/Honeyd](https://github.com/DataSoft/Honeyd)
 
 **Author:** DataSoft
 
@@ -2552,7 +2552,7 @@ Various security tools and resources that are pending categorization.
 
 ## honeydet
 
-**Repository:** [[https://github.com/referefref/honeydet](https://github.com/referefref/honeydet)]([https://github.com/referefref/honeydet](https://github.com/referefref/honeydet))
+**Repository:** [https://github.com/referefref/honeydet](https://github.com/referefref/honeydet)
 
 **Author:** referefref
 
@@ -2560,7 +2560,7 @@ Various security tools and resources that are pending categorization.
 
 ## honeygrove
 
-**Repository:** [[https://github.com/UHH-ISS/honeygrove](https://github.com/UHH-ISS/honeygrove)]([https://github.com/UHH-ISS/honeygrove](https://github.com/UHH-ISS/honeygrove))
+**Repository:** [https://github.com/UHH-ISS/honeygrove](https://github.com/UHH-ISS/honeygrove)
 
 **Author:** UHH-ISS
 
@@ -2568,7 +2568,7 @@ Various security tools and resources that are pending categorization.
 
 ## honeyhttpd
 
-**Repository:** [[https://github.com/bocajspear1/honeyhttpd](https://github.com/bocajspear1/honeyhttpd)]([https://github.com/bocajspear1/honeyhttpd](https://github.com/bocajspear1/honeyhttpd))
+**Repository:** [https://github.com/bocajspear1/honeyhttpd](https://github.com/bocajspear1/honeyhttpd)
 
 **Author:** bocajspear1
 
@@ -2576,7 +2576,7 @@ Various security tools and resources that are pending categorization.
 
 ## honeylambda
 
-**Repository:** [[https://github.com/0x4D31/honeylambda](https://github.com/0x4D31/honeylambda)]([https://github.com/0x4D31/honeylambda](https://github.com/0x4D31/honeylambda))
+**Repository:** [https://github.com/0x4D31/honeylambda](https://github.com/0x4D31/honeylambda)
 
 **Author:** 0x4D31
 
@@ -2584,7 +2584,7 @@ Various security tools and resources that are pending categorization.
 
 ## honeymail
 
-**Repository:** [[https://github.com/sec51/honeymail](https://github.com/sec51/honeymail)]([https://github.com/sec51/honeymail](https://github.com/sec51/honeymail))
+**Repository:** [https://github.com/sec51/honeymail](https://github.com/sec51/honeymail)
 
 **Author:** sec51
 
@@ -2592,7 +2592,7 @@ Various security tools and resources that are pending categorization.
 
 ## HoneyMalt
 
-**Repository:** [[https://github.com/SneakersInc/HoneyMalt](https://github.com/SneakersInc/HoneyMalt)]([https://github.com/SneakersInc/HoneyMalt](https://github.com/SneakersInc/HoneyMalt))
+**Repository:** [https://github.com/SneakersInc/HoneyMalt](https://github.com/SneakersInc/HoneyMalt)
 
 **Author:** SneakersInc
 
@@ -2600,7 +2600,7 @@ Various security tools and resources that are pending categorization.
 
 ## honeyntp
 
-**Repository:** [[https://github.com/fygrave/honeyntp](https://github.com/fygrave/honeyntp)]([https://github.com/fygrave/honeyntp](https://github.com/fygrave/honeyntp))
+**Repository:** [https://github.com/fygrave/honeyntp](https://github.com/fygrave/honeyntp)
 
 **Author:** fygrave
 
@@ -2608,7 +2608,7 @@ Various security tools and resources that are pending categorization.
 
 ## Honeyport
 
-**Repository:** [[https://github.com/securitygeneration/Honeyport](https://github.com/securitygeneration/Honeyport)]([https://github.com/securitygeneration/Honeyport](https://github.com/securitygeneration/Honeyport))
+**Repository:** [https://github.com/securitygeneration/Honeyport](https://github.com/securitygeneration/Honeyport)
 
 **Author:** securitygeneration
 
@@ -2616,7 +2616,7 @@ Various security tools and resources that are pending categorization.
 
 ## Honeypot
 
-**Repository:** [[https://github.com/msurguy/Honeypot](https://github.com/msurguy/Honeypot)]([https://github.com/msurguy/Honeypot](https://github.com/msurguy/Honeypot))
+**Repository:** [https://github.com/msurguy/Honeypot](https://github.com/msurguy/Honeypot)
 
 **Author:** msurguy
 
@@ -2624,7 +2624,7 @@ Various security tools and resources that are pending categorization.
 
 ## honeypot
 
-**Repository:** [[https://github.com/jadb/honeypot](https://github.com/jadb/honeypot)]([https://github.com/jadb/honeypot](https://github.com/jadb/honeypot))
+**Repository:** [https://github.com/jadb/honeypot](https://github.com/jadb/honeypot)
 
 **Author:** jadb
 
@@ -2632,7 +2632,7 @@ Various security tools and resources that are pending categorization.
 
 ## honeypot-camera
 
-**Repository:** [[https://github.com/alexbredo/honeypot-camera](https://github.com/alexbredo/honeypot-camera)]([https://github.com/alexbredo/honeypot-camera](https://github.com/alexbredo/honeypot-camera))
+**Repository:** [https://github.com/alexbredo/honeypot-camera](https://github.com/alexbredo/honeypot-camera)
 
 **Author:** alexbredo
 
@@ -2640,7 +2640,7 @@ Various security tools and resources that are pending categorization.
 
 ## honeypot-for-tcp-32764
 
-**Repository:** [[https://github.com/knalli/honeypot-for-tcp-32764](https://github.com/knalli/honeypot-for-tcp-32764)]([https://github.com/knalli/honeypot-for-tcp-32764](https://github.com/knalli/honeypot-for-tcp-32764))
+**Repository:** [https://github.com/knalli/honeypot-for-tcp-32764](https://github.com/knalli/honeypot-for-tcp-32764)
 
 **Author:** knalli
 
@@ -2648,7 +2648,7 @@ Various security tools and resources that are pending categorization.
 
 ## honeypot-ftp
 
-**Repository:** [[https://github.com/alexbredo/honeypot-ftp](https://github.com/alexbredo/honeypot-ftp)]([https://github.com/alexbredo/honeypot-ftp](https://github.com/alexbredo/honeypot-ftp))
+**Repository:** [https://github.com/alexbredo/honeypot-ftp](https://github.com/alexbredo/honeypot-ftp)
 
 **Author:** alexbredo
 
@@ -2656,7 +2656,7 @@ Various security tools and resources that are pending categorization.
 
 ## honeypot-setup-script
 
-**Repository:** [[https://github.com/andrewmichaelsmith/honeypot-setup-script](https://github.com/andrewmichaelsmith/honeypot-setup-script)]([https://github.com/andrewmichaelsmith/honeypot-setup-script](https://github.com/andrewmichaelsmith/honeypot-setup-script))
+**Repository:** [https://github.com/andrewmichaelsmith/honeypot-setup-script](https://github.com/andrewmichaelsmith/honeypot-setup-script)
 
 **Author:** andrewmichaelsmith
 
@@ -2664,7 +2664,7 @@ Various security tools and resources that are pending categorization.
 
 ## honeypot.go
 
-**Repository:** [[https://github.com/mdp/honeypot.go](https://github.com/mdp/honeypot.go)]([https://github.com/mdp/honeypot.go](https://github.com/mdp/honeypot.go))
+**Repository:** [https://github.com/mdp/honeypot.go](https://github.com/mdp/honeypot.go)
 
 **Author:** mdp
 
@@ -2672,7 +2672,7 @@ Various security tools and resources that are pending categorization.
 
 ## honeypotpi
 
-**Repository:** [[https://github.com/free5ty1e/honeypotpi](https://github.com/free5ty1e/honeypotpi)]([https://github.com/free5ty1e/honeypotpi](https://github.com/free5ty1e/honeypotpi))
+**Repository:** [https://github.com/free5ty1e/honeypotpi](https://github.com/free5ty1e/honeypotpi)
 
 **Author:** free5ty1e
 
@@ -2680,7 +2680,7 @@ Various security tools and resources that are pending categorization.
 
 ## HoneyPress
 
-**Repository:** [[https://github.com/kungfuguapo/HoneyPress](https://github.com/kungfuguapo/HoneyPress)]([https://github.com/kungfuguapo/HoneyPress](https://github.com/kungfuguapo/HoneyPress))
+**Repository:** [https://github.com/kungfuguapo/HoneyPress](https://github.com/kungfuguapo/HoneyPress)
 
 **Author:** kungfuguapo
 
@@ -2688,7 +2688,7 @@ Various security tools and resources that are pending categorization.
 
 ## HoneyPy
 
-**Repository:** [[https://github.com/foospidy/HoneyPy](https://github.com/foospidy/HoneyPy)]([https://github.com/foospidy/HoneyPy](https://github.com/foospidy/HoneyPy))
+**Repository:** [https://github.com/foospidy/HoneyPy](https://github.com/foospidy/HoneyPy)
 
 **Author:** foospidy
 
@@ -2696,7 +2696,7 @@ Various security tools and resources that are pending categorization.
 
 ## HoneySMB
 
-**Repository:** [[https://github.com/r0hi7/HoneySMB](https://github.com/r0hi7/HoneySMB)]([https://github.com/r0hi7/HoneySMB](https://github.com/r0hi7/HoneySMB))
+**Repository:** [https://github.com/r0hi7/HoneySMB](https://github.com/r0hi7/HoneySMB)
 
 **Author:** r0hi7
 
@@ -2704,7 +2704,7 @@ Various security tools and resources that are pending categorization.
 
 ## honeything
 
-**Repository:** [[https://github.com/omererdem/honeything](https://github.com/omererdem/honeything)]([https://github.com/omererdem/honeything](https://github.com/omererdem/honeything))
+**Repository:** [https://github.com/omererdem/honeything](https://github.com/omererdem/honeything)
 
 **Author:** omererdem
 
@@ -2712,7 +2712,7 @@ Various security tools and resources that are pending categorization.
 
 ## honeyup
 
-**Repository:** [[https://github.com/LogoiLab/honeyup](https://github.com/LogoiLab/honeyup)]([https://github.com/LogoiLab/honeyup](https://github.com/LogoiLab/honeyup))
+**Repository:** [https://github.com/LogoiLab/honeyup](https://github.com/LogoiLab/honeyup)
 
 **Author:** LogoiLab
 
@@ -2720,7 +2720,7 @@ Various security tools and resources that are pending categorization.
 
 ## honeywrt
 
-**Repository:** [[https://github.com/CanadianJeff/honeywrt](https://github.com/CanadianJeff/honeywrt)]([https://github.com/CanadianJeff/honeywrt](https://github.com/CanadianJeff/honeywrt))
+**Repository:** [https://github.com/CanadianJeff/honeywrt](https://github.com/CanadianJeff/honeywrt)
 
 **Author:** CanadianJeff
 
@@ -2728,7 +2728,7 @@ Various security tools and resources that are pending categorization.
 
 ## honggfuzz
 
-**Repository:** [[https://github.com/google/honggfuzz](https://github.com/google/honggfuzz)]([https://github.com/google/honggfuzz](https://github.com/google/honggfuzz))
+**Repository:** [https://github.com/google/honggfuzz](https://github.com/google/honggfuzz)
 
 **Author:** google
 
@@ -2736,7 +2736,7 @@ Various security tools and resources that are pending categorization.
 
 ## honssh
 
-**Repository:** [[https://github.com/tnich/honssh](https://github.com/tnich/honssh)]([https://github.com/tnich/honssh](https://github.com/tnich/honssh))
+**Repository:** [https://github.com/tnich/honssh](https://github.com/tnich/honssh)
 
 **Author:** tnich
 
@@ -2744,7 +2744,7 @@ Various security tools and resources that are pending categorization.
 
 ## hooker
 
-**Repository:** [[https://github.com/AndroidHooker/hooker](https://github.com/AndroidHooker/hooker)]([https://github.com/AndroidHooker/hooker](https://github.com/AndroidHooker/hooker))
+**Repository:** [https://github.com/AndroidHooker/hooker](https://github.com/AndroidHooker/hooker)
 
 **Author:** AndroidHooker
 
@@ -2752,7 +2752,7 @@ Various security tools and resources that are pending categorization.
 
 ## hornet
 
-**Repository:** [[https://github.com/czardoz/hornet](https://github.com/czardoz/hornet)]([https://github.com/czardoz/hornet](https://github.com/czardoz/hornet))
+**Repository:** [https://github.com/czardoz/hornet](https://github.com/czardoz/hornet)
 
 **Author:** czardoz
 
@@ -2760,7 +2760,7 @@ Various security tools and resources that are pending categorization.
 
 ## house
 
-**Repository:** [[https://github.com/nccgroup/house](https://github.com/nccgroup/house)]([https://github.com/nccgroup/house](https://github.com/nccgroup/house))
+**Repository:** [https://github.com/nccgroup/house](https://github.com/nccgroup/house)
 
 **Author:** nccgroup
 
@@ -2768,7 +2768,7 @@ Various security tools and resources that are pending categorization.
 
 ## hpfeeds
 
-**Repository:** [[https://github.com/rep/hpfeeds](https://github.com/rep/hpfeeds)]([https://github.com/rep/hpfeeds](https://github.com/rep/hpfeeds))
+**Repository:** [https://github.com/rep/hpfeeds](https://github.com/rep/hpfeeds)
 
 **Author:** rep
 
@@ -2776,7 +2776,7 @@ Various security tools and resources that are pending categorization.
 
 ## HpfeedsHoneyGraph
 
-**Repository:** [[https://github.com/yuchincheng/HpfeedsHoneyGraph](https://github.com/yuchincheng/HpfeedsHoneyGraph)]([https://github.com/yuchincheng/HpfeedsHoneyGraph](https://github.com/yuchincheng/HpfeedsHoneyGraph))
+**Repository:** [https://github.com/yuchincheng/HpfeedsHoneyGraph](https://github.com/yuchincheng/HpfeedsHoneyGraph)
 
 **Author:** yuchincheng
 
@@ -2784,7 +2784,7 @@ Various security tools and resources that are pending categorization.
 
 ## Hyara
 
-**Repository:** [[https://github.com/hyuunnn/Hyara](https://github.com/hyuunnn/Hyara)]([https://github.com/hyuunnn/Hyara](https://github.com/hyuunnn/Hyara))
+**Repository:** [https://github.com/hyuunnn/Hyara](https://github.com/hyuunnn/Hyara)
 
 **Author:** hyuunnn
 
@@ -2792,7 +2792,7 @@ Various security tools and resources that are pending categorization.
 
 ## I-ISMS
 
-**Repository:** [[https://github.com/nathanpocock/I-ISMS](https://github.com/nathanpocock/I-ISMS)]([https://github.com/nathanpocock/I-ISMS](https://github.com/nathanpocock/I-ISMS))
+**Repository:** [https://github.com/nathanpocock/I-ISMS](https://github.com/nathanpocock/I-ISMS)
 
 **Author:** nathanpocock
 
@@ -2800,7 +2800,7 @@ Various security tools and resources that are pending categorization.
 
 ## iCepa
 
-**Repository:** [[https://github.com/iCepa/iCepa](https://github.com/iCepa/iCepa)]([https://github.com/iCepa/iCepa](https://github.com/iCepa/iCepa))
+**Repository:** [https://github.com/iCepa/iCepa](https://github.com/iCepa/iCepa)
 
 **Author:** iCepa
 
@@ -2808,7 +2808,7 @@ Various security tools and resources that are pending categorization.
 
 ## ICSFuzz
 
-**Repository:** [[https://github.com/momalab/ICSFuzz](https://github.com/momalab/ICSFuzz)]([https://github.com/momalab/ICSFuzz](https://github.com/momalab/ICSFuzz))
+**Repository:** [https://github.com/momalab/ICSFuzz](https://github.com/momalab/ICSFuzz)
 
 **Author:** momalab
 
@@ -2816,7 +2816,7 @@ Various security tools and resources that are pending categorization.
 
 ## ICSREF
 
-**Repository:** [[https://github.com/momalab/ICSREF](https://github.com/momalab/ICSREF)]([https://github.com/momalab/ICSREF](https://github.com/momalab/ICSREF))
+**Repository:** [https://github.com/momalab/ICSREF](https://github.com/momalab/ICSREF)
 
 **Author:** momalab
 
@@ -2824,7 +2824,7 @@ Various security tools and resources that are pending categorization.
 
 ## ida-yara-processor
 
-**Repository:** [[https://github.com/bnbdr/ida-yara-processor](https://github.com/bnbdr/ida-yara-processor)]([https://github.com/bnbdr/ida-yara-processor](https://github.com/bnbdr/ida-yara-processor))
+**Repository:** [https://github.com/bnbdr/ida-yara-processor](https://github.com/bnbdr/ida-yara-processor)
 
 **Author:** bnbdr
 
@@ -2832,7 +2832,7 @@ Various security tools and resources that are pending categorization.
 
 ## idaplugins-list
 
-**Repository:** [[https://github.com/onethawt/idaplugins-list](https://github.com/onethawt/idaplugins-list)]([https://github.com/onethawt/idaplugins-list](https://github.com/onethawt/idaplugins-list))
+**Repository:** [https://github.com/onethawt/idaplugins-list](https://github.com/onethawt/idaplugins-list)
 
 **Author:** onethawt
 
@@ -2840,7 +2840,7 @@ Various security tools and resources that are pending categorization.
 
 ## Idisagree
 
-**Repository:** [[https://github.com/UndeadSec/Idisagree](https://github.com/UndeadSec/Idisagree)]([https://github.com/UndeadSec/Idisagree](https://github.com/UndeadSec/Idisagree))
+**Repository:** [https://github.com/UndeadSec/Idisagree](https://github.com/UndeadSec/Idisagree)
 
 **Author:** UndeadSec
 
@@ -2848,7 +2848,7 @@ Various security tools and resources that are pending categorization.
 
 ## IDR
 
-**Repository:** [[https://github.com/crypto2011/IDR](https://github.com/crypto2011/IDR)]([https://github.com/crypto2011/IDR](https://github.com/crypto2011/IDR))
+**Repository:** [https://github.com/crypto2011/IDR](https://github.com/crypto2011/IDR)
 
 **Author:** crypto2011
 
@@ -2856,7 +2856,7 @@ Various security tools and resources that are pending categorization.
 
 ## image-match
 
-**Repository:** [[https://github.com/ascribe/image-match](https://github.com/ascribe/image-match)]([https://github.com/ascribe/image-match](https://github.com/ascribe/image-match))
+**Repository:** [https://github.com/ascribe/image-match](https://github.com/ascribe/image-match)
 
 **Author:** ascribe
 
@@ -2864,7 +2864,7 @@ Various security tools and resources that are pending categorization.
 
 ## imagemounter
 
-**Repository:** [[https://github.com/ralphje/imagemounter](https://github.com/ralphje/imagemounter)]([https://github.com/ralphje/imagemounter](https://github.com/ralphje/imagemounter))
+**Repository:** [https://github.com/ralphje/imagemounter](https://github.com/ralphje/imagemounter)
 
 **Author:** ralphje
 
@@ -2872,7 +2872,7 @@ Various security tools and resources that are pending categorization.
 
 ## imap-honey
 
-**Repository:** [[https://github.com/yvesago/imap-honey](https://github.com/yvesago/imap-honey)]([https://github.com/yvesago/imap-honey](https://github.com/yvesago/imap-honey))
+**Repository:** [https://github.com/yvesago/imap-honey](https://github.com/yvesago/imap-honey)
 
 **Author:** yvesago
 
@@ -2880,7 +2880,7 @@ Various security tools and resources that are pending categorization.
 
 ## imhoneypot
 
-**Repository:** [[https://github.com/mushorg/imhoneypot](https://github.com/mushorg/imhoneypot)]([https://github.com/mushorg/imhoneypot](https://github.com/mushorg/imhoneypot))
+**Repository:** [https://github.com/mushorg/imhoneypot](https://github.com/mushorg/imhoneypot)
 
 **Author:** mushorg
 
@@ -2888,7 +2888,7 @@ Various security tools and resources that are pending categorization.
 
 ## incubator-metron
 
-**Repository:** [[https://github.com/apache/incubator-metron](https://github.com/apache/incubator-metron)]([https://github.com/apache/incubator-metron](https://github.com/apache/incubator-metron))
+**Repository:** [https://github.com/apache/incubator-metron](https://github.com/apache/incubator-metron)
 
 **Author:** apache
 
@@ -2896,7 +2896,7 @@ Various security tools and resources that are pending categorization.
 
 ## infernal-twin
 
-**Repository:** [[https://github.com/entropy1337/infernal-twin](https://github.com/entropy1337/infernal-twin)]([https://github.com/entropy1337/infernal-twin](https://github.com/entropy1337/infernal-twin))
+**Repository:** [https://github.com/entropy1337/infernal-twin](https://github.com/entropy1337/infernal-twin)
 
 **Author:** entropy1337
 
@@ -2904,7 +2904,7 @@ Various security tools and resources that are pending categorization.
 
 ## innernet
 
-**Repository:** [[https://github.com/tonarino/innernet](https://github.com/tonarino/innernet)]([https://github.com/tonarino/innernet](https://github.com/tonarino/innernet))
+**Repository:** [https://github.com/tonarino/innernet](https://github.com/tonarino/innernet)
 
 **Author:** tonarino
 
@@ -2912,7 +2912,7 @@ Various security tools and resources that are pending categorization.
 
 ## InsecureShop
 
-**Repository:** [[https://github.com/optiv/InsecureShop](https://github.com/optiv/InsecureShop)]([https://github.com/optiv/InsecureShop](https://github.com/optiv/InsecureShop))
+**Repository:** [https://github.com/optiv/InsecureShop](https://github.com/optiv/InsecureShop)
 
 **Author:** optiv
 
@@ -2920,7 +2920,7 @@ Various security tools and resources that are pending categorization.
 
 ## insecureshop
 
-**Repository:** [[https://github.com/optiv/insecureshop](https://github.com/optiv/insecureshop)]([https://github.com/optiv/insecureshop](https://github.com/optiv/insecureshop))
+**Repository:** [https://github.com/optiv/insecureshop](https://github.com/optiv/insecureshop)
 
 **Author:** optiv
 
@@ -2928,7 +2928,7 @@ Various security tools and resources that are pending categorization.
 
 ## Inspeckage
 
-**Repository:** [[https://github.com/ac-pm/Inspeckage](https://github.com/ac-pm/Inspeckage)]([https://github.com/ac-pm/Inspeckage](https://github.com/ac-pm/Inspeckage))
+**Repository:** [https://github.com/ac-pm/Inspeckage](https://github.com/ac-pm/Inspeckage)
 
 **Author:** ac-pm
 
@@ -2936,7 +2936,7 @@ Various security tools and resources that are pending categorization.
 
 ## IntelligentHoneyNet
 
-**Repository:** [[https://github.com/jpyorre/IntelligentHoneyNet](https://github.com/jpyorre/IntelligentHoneyNet)]([https://github.com/jpyorre/IntelligentHoneyNet](https://github.com/jpyorre/IntelligentHoneyNet))
+**Repository:** [https://github.com/jpyorre/IntelligentHoneyNet](https://github.com/jpyorre/IntelligentHoneyNet)
 
 **Author:** jpyorre
 
@@ -2944,7 +2944,7 @@ Various security tools and resources that are pending categorization.
 
 ## intellyweave
 
-**Repository:** [[https://github.com/vericle/intellyweave](https://github.com/vericle/intellyweave)]([https://github.com/vericle/intellyweave](https://github.com/vericle/intellyweave))
+**Repository:** [https://github.com/vericle/intellyweave](https://github.com/vericle/intellyweave)
 
 **Author:** vericle
 
@@ -2952,7 +2952,7 @@ Various security tools and resources that are pending categorization.
 
 ## Introspy-Android
 
-**Repository:** [[https://github.com/iSECPartners/Introspy-Android](https://github.com/iSECPartners/Introspy-Android)]([https://github.com/iSECPartners/Introspy-Android](https://github.com/iSECPartners/Introspy-Android))
+**Repository:** [https://github.com/iSECPartners/Introspy-Android](https://github.com/iSECPartners/Introspy-Android)
 
 **Author:** iSECPartners
 
@@ -2960,7 +2960,7 @@ Various security tools and resources that are pending categorization.
 
 ## inVtero.net
 
-**Repository:** [[https://github.com/ShaneK2/inVtero.net](https://github.com/ShaneK2/inVtero.net)]([https://github.com/ShaneK2/inVtero.net](https://github.com/ShaneK2/inVtero.net))
+**Repository:** [https://github.com/ShaneK2/inVtero.net](https://github.com/ShaneK2/inVtero.net)
 
 **Author:** ShaneK2
 
@@ -2968,7 +2968,7 @@ Various security tools and resources that are pending categorization.
 
 ## iOS-Frequent-Locations-Dumper
 
-**Repository:** [[https://github.com/mac4n6/iOS-Frequent-Locations-Dumper](https://github.com/mac4n6/iOS-Frequent-Locations-Dumper)]([https://github.com/mac4n6/iOS-Frequent-Locations-Dumper](https://github.com/mac4n6/iOS-Frequent-Locations-Dumper))
+**Repository:** [https://github.com/mac4n6/iOS-Frequent-Locations-Dumper](https://github.com/mac4n6/iOS-Frequent-Locations-Dumper)
 
 **Author:** mac4n6
 
@@ -2976,7 +2976,7 @@ Various security tools and resources that are pending categorization.
 
 ## iOSAppReverseEngineering
 
-**Repository:** [[https://github.com/iosre/iOSAppReverseEngineering](https://github.com/iosre/iOSAppReverseEngineering)]([https://github.com/iosre/iOSAppReverseEngineering](https://github.com/iosre/iOSAppReverseEngineering))
+**Repository:** [https://github.com/iosre/iOSAppReverseEngineering](https://github.com/iosre/iOSAppReverseEngineering)
 
 **Author:** iosre
 
@@ -2984,7 +2984,7 @@ Various security tools and resources that are pending categorization.
 
 ## IPED
 
-**Repository:** [[https://github.com/sepinf-inc/IPED](https://github.com/sepinf-inc/IPED)]([https://github.com/sepinf-inc/IPED](https://github.com/sepinf-inc/IPED))
+**Repository:** [https://github.com/sepinf-inc/IPED](https://github.com/sepinf-inc/IPED)
 
 **Author:** sepinf-inc
 
@@ -2992,7 +2992,7 @@ Various security tools and resources that are pending categorization.
 
 ## is-website-vulnerable
 
-**Repository:** [[https://github.com/lirantal/is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable)]([https://github.com/lirantal/is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable))
+**Repository:** [https://github.com/lirantal/is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable)
 
 **Author:** lirantal
 
@@ -3000,7 +3000,7 @@ Various security tools and resources that are pending categorization.
 
 ## ivre
 
-**Repository:** [[https://github.com/ivre/ivre](https://github.com/ivre/ivre)]([https://github.com/ivre/ivre](https://github.com/ivre/ivre))
+**Repository:** [https://github.com/ivre/ivre](https://github.com/ivre/ivre)
 
 **Author:** ivre
 
@@ -3008,7 +3008,7 @@ Various security tools and resources that are pending categorization.
 
 ## IWA-DotNet
 
-**Repository:** [[https://github.com/fortify/IWA-DotNet](https://github.com/fortify/IWA-DotNet)]([https://github.com/fortify/IWA-DotNet](https://github.com/fortify/IWA-DotNet))
+**Repository:** [https://github.com/fortify/IWA-DotNet](https://github.com/fortify/IWA-DotNet)
 
 **Author:** fortify
 
@@ -3016,7 +3016,7 @@ Various security tools and resources that are pending categorization.
 
 ## JAADAS
 
-**Repository:** [[https://github.com/flankerhqd/JAADAS](https://github.com/flankerhqd/JAADAS)]([https://github.com/flankerhqd/JAADAS](https://github.com/flankerhqd/JAADAS))
+**Repository:** [https://github.com/flankerhqd/JAADAS](https://github.com/flankerhqd/JAADAS)
 
 **Author:** flankerhqd
 
@@ -3024,7 +3024,7 @@ Various security tools and resources that are pending categorization.
 
 ## jadx
 
-**Repository:** [[https://github.com/skylot/jadx](https://github.com/skylot/jadx)]([https://github.com/skylot/jadx](https://github.com/skylot/jadx))
+**Repository:** [https://github.com/skylot/jadx](https://github.com/skylot/jadx)
 
 **Author:** skylot
 
@@ -3032,7 +3032,7 @@ Various security tools and resources that are pending categorization.
 
 ## java2yara
 
-**Repository:** [[https://github.com/fxb-cocacoding/java2yara](https://github.com/fxb-cocacoding/java2yara)]([https://github.com/fxb-cocacoding/java2yara](https://github.com/fxb-cocacoding/java2yara))
+**Repository:** [https://github.com/fxb-cocacoding/java2yara](https://github.com/fxb-cocacoding/java2yara)
 
 **Author:** fxb-cocacoding
 
@@ -3040,7 +3040,7 @@ Various security tools and resources that are pending categorization.
 
 ## Java_IDX_Parser
 
-**Repository:** [[https://github.com/Rurik/Java_IDX_Parser](https://github.com/Rurik/Java_IDX_Parser)]([https://github.com/Rurik/Java_IDX_Parser](https://github.com/Rurik/Java_IDX_Parser))
+**Repository:** [https://github.com/Rurik/Java_IDX_Parser](https://github.com/Rurik/Java_IDX_Parser)
 
 **Author:** Rurik
 
@@ -3048,7 +3048,7 @@ Various security tools and resources that are pending categorization.
 
 ## javascript-in-one-pic
 
-**Repository:** [[https://github.com/coodict/javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic)]([https://github.com/coodict/javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic))
+**Repository:** [https://github.com/coodict/javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic)
 
 **Author:** coodict
 
@@ -3056,7 +3056,7 @@ Various security tools and resources that are pending categorization.
 
 ## jd-gui
 
-**Repository:** [[https://github.com/java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui)]([https://github.com/java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui))
+**Repository:** [https://github.com/java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui)
 
 **Author:** java-decompiler
 
@@ -3064,7 +3064,7 @@ Various security tools and resources that are pending categorization.
 
 ## JohnTheRipper
 
-**Repository:** [[https://github.com/magnumripper/JohnTheRipper](https://github.com/magnumripper/JohnTheRipper)]([https://github.com/magnumripper/JohnTheRipper](https://github.com/magnumripper/JohnTheRipper))
+**Repository:** [https://github.com/magnumripper/JohnTheRipper](https://github.com/magnumripper/JohnTheRipper)
 
 **Author:** magnumripper
 
@@ -3072,7 +3072,7 @@ Various security tools and resources that are pending categorization.
 
 ## js-beautify
 
-**Repository:** [[https://github.com/beautify-web/js-beautify](https://github.com/beautify-web/js-beautify)]([https://github.com/beautify-web/js-beautify](https://github.com/beautify-web/js-beautify))
+**Repository:** [https://github.com/beautify-web/js-beautify](https://github.com/beautify-web/js-beautify)
 
 **Author:** beautify-web
 
@@ -3080,7 +3080,7 @@ Various security tools and resources that are pending categorization.
 
 ## jwt-cracker
 
-**Repository:** [[https://github.com/lmammino/jwt-cracker](https://github.com/lmammino/jwt-cracker)]([https://github.com/lmammino/jwt-cracker](https://github.com/lmammino/jwt-cracker))
+**Repository:** [https://github.com/lmammino/jwt-cracker](https://github.com/lmammino/jwt-cracker)
 
 **Author:** lmammino
 
@@ -3088,7 +3088,7 @@ Various security tools and resources that are pending categorization.
 
 ## k-rail
 
-**Repository:** [[https://github.com/cruise-automation/k-rail](https://github.com/cruise-automation/k-rail)]([https://github.com/cruise-automation/k-rail](https://github.com/cruise-automation/k-rail))
+**Repository:** [https://github.com/cruise-automation/k-rail](https://github.com/cruise-automation/k-rail)
 
 **Author:** cruise-automation
 
@@ -3096,7 +3096,7 @@ Various security tools and resources that are pending categorization.
 
 ## Kadimus
 
-**Repository:** [[https://github.com/P0cL4bs/Kadimus](https://github.com/P0cL4bs/Kadimus)]([https://github.com/P0cL4bs/Kadimus](https://github.com/P0cL4bs/Kadimus))
+**Repository:** [https://github.com/P0cL4bs/Kadimus](https://github.com/P0cL4bs/Kadimus)
 
 **Author:** P0cL4bs
 
@@ -3104,7 +3104,7 @@ Various security tools and resources that are pending categorization.
 
 ## kaitai_struct
 
-**Repository:** [[https://github.com/kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct)]([https://github.com/kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct))
+**Repository:** [https://github.com/kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct)
 
 **Author:** kaitai-io
 
@@ -3112,7 +3112,7 @@ Various security tools and resources that are pending categorization.
 
 ## kalitorify
 
-**Repository:** [[https://github.com/brainfuckSec/kalitorify](https://github.com/brainfuckSec/kalitorify)]([https://github.com/brainfuckSec/kalitorify](https://github.com/brainfuckSec/kalitorify))
+**Repository:** [https://github.com/brainfuckSec/kalitorify](https://github.com/brainfuckSec/kalitorify)
 
 **Author:** brainfuckSec
 
@@ -3120,7 +3120,7 @@ Various security tools and resources that are pending categorization.
 
 ## Kamerka-GUI
 
-**Repository:** [[https://github.com/woj-ciech/Kamerka-GUI](https://github.com/woj-ciech/Kamerka-GUI)]([https://github.com/woj-ciech/Kamerka-GUI](https://github.com/woj-ciech/Kamerka-GUI))
+**Repository:** [https://github.com/woj-ciech/Kamerka-GUI](https://github.com/woj-ciech/Kamerka-GUI)
 
 **Author:** woj-ciech
 
@@ -3128,7 +3128,7 @@ Various security tools and resources that are pending categorization.
 
 ## KeeFarce
 
-**Repository:** [[https://github.com/denandz/KeeFarce](https://github.com/denandz/KeeFarce)]([https://github.com/denandz/KeeFarce](https://github.com/denandz/KeeFarce))
+**Repository:** [https://github.com/denandz/KeeFarce](https://github.com/denandz/KeeFarce)
 
 **Author:** denandz
 
@@ -3136,7 +3136,7 @@ Various security tools and resources that are pending categorization.
 
 ## kics
 
-**Repository:** [[https://github.com/Checkmarx/kics](https://github.com/Checkmarx/kics)]([https://github.com/Checkmarx/kics](https://github.com/Checkmarx/kics))
+**Repository:** [https://github.com/Checkmarx/kics](https://github.com/Checkmarx/kics)
 
 **Author:** Checkmarx
 
@@ -3144,7 +3144,7 @@ Various security tools and resources that are pending categorization.
 
 ## king-phisher
 
-**Repository:** [[https://github.com/securestate/king-phisher](https://github.com/securestate/king-phisher)]([https://github.com/securestate/king-phisher](https://github.com/securestate/king-phisher))
+**Repository:** [https://github.com/securestate/king-phisher](https://github.com/securestate/king-phisher)
 
 **Author:** securestate
 
@@ -3152,7 +3152,7 @@ Various security tools and resources that are pending categorization.
 
 ## kippo_detect
 
-**Repository:** [[https://github.com/andrew-morris/kippo_detect](https://github.com/andrew-morris/kippo_detect)]([https://github.com/andrew-morris/kippo_detect](https://github.com/andrew-morris/kippo_detect))
+**Repository:** [https://github.com/andrew-morris/kippo_detect](https://github.com/andrew-morris/kippo_detect)
 
 **Author:** andrew-morris
 
@@ -3160,7 +3160,7 @@ Various security tools and resources that are pending categorization.
 
 ## kismet
 
-**Repository:** [[https://github.com/kismetwireless/kismet](https://github.com/kismetwireless/kismet)]([https://github.com/kismetwireless/kismet](https://github.com/kismetwireless/kismet))
+**Repository:** [https://github.com/kismetwireless/kismet](https://github.com/kismetwireless/kismet)
 
 **Author:** kismetwireless
 
@@ -3168,7 +3168,7 @@ Various security tools and resources that are pending categorization.
 
 ## kojoney2
 
-**Repository:** [[https://github.com/madirish/kojoney2](https://github.com/madirish/kojoney2)]([https://github.com/madirish/kojoney2](https://github.com/madirish/kojoney2))
+**Repository:** [https://github.com/madirish/kojoney2](https://github.com/madirish/kojoney2)
 
 **Author:** madirish
 
@@ -3176,7 +3176,7 @@ Various security tools and resources that are pending categorization.
 
 ## Krakatau
 
-**Repository:** [[https://github.com/Storyyeller/Krakatau](https://github.com/Storyyeller/Krakatau)]([https://github.com/Storyyeller/Krakatau](https://github.com/Storyyeller/Krakatau))
+**Repository:** [https://github.com/Storyyeller/Krakatau](https://github.com/Storyyeller/Krakatau)
 
 **Author:** Storyyeller
 
@@ -3184,7 +3184,7 @@ Various security tools and resources that are pending categorization.
 
 ## kubepwn
 
-**Repository:** [[https://github.com/alexivkin/kubepwn](https://github.com/alexivkin/kubepwn)]([https://github.com/alexivkin/kubepwn](https://github.com/alexivkin/kubepwn))
+**Repository:** [https://github.com/alexivkin/kubepwn](https://github.com/alexivkin/kubepwn)
 
 **Author:** alexivkin
 
@@ -3192,7 +3192,7 @@ Various security tools and resources that are pending categorization.
 
 ## kubernetes-event-exporter
 
-**Repository:** [[https://github.com/opsgenie/kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter)]([https://github.com/opsgenie/kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter))
+**Repository:** [https://github.com/opsgenie/kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter)
 
 **Author:** opsgenie
 
@@ -3200,7 +3200,7 @@ Various security tools and resources that are pending categorization.
 
 ## Kuiper
 
-**Repository:** [[https://github.com/DFIRKuiper/Kuiper](https://github.com/DFIRKuiper/Kuiper)]([https://github.com/DFIRKuiper/Kuiper](https://github.com/DFIRKuiper/Kuiper))
+**Repository:** [https://github.com/DFIRKuiper/Kuiper](https://github.com/DFIRKuiper/Kuiper)
 
 **Author:** DFIRKuiper
 
@@ -3208,7 +3208,7 @@ Various security tools and resources that are pending categorization.
 
 ## language-yara
 
-**Repository:** [[https://github.com/blacktop/language-yara](https://github.com/blacktop/language-yara)]([https://github.com/blacktop/language-yara](https://github.com/blacktop/language-yara))
+**Repository:** [https://github.com/blacktop/language-yara](https://github.com/blacktop/language-yara)
 
 **Author:** blacktop
 
@@ -3216,7 +3216,7 @@ Various security tools and resources that are pending categorization.
 
 ## LaZagne
 
-**Repository:** [[https://github.com/AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne)]([https://github.com/AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne))
+**Repository:** [https://github.com/AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne)
 
 **Author:** AlessandroZ
 
@@ -3224,7 +3224,7 @@ Various security tools and resources that are pending categorization.
 
 ## lazykali
 
-**Repository:** [[https://github.com/jlevitsk/lazykali](https://github.com/jlevitsk/lazykali)]([https://github.com/jlevitsk/lazykali](https://github.com/jlevitsk/lazykali))
+**Repository:** [https://github.com/jlevitsk/lazykali](https://github.com/jlevitsk/lazykali)
 
 **Author:** jlevitsk
 
@@ -3232,7 +3232,7 @@ Various security tools and resources that are pending categorization.
 
 ## legion
 
-**Repository:** [[https://github.com/GoVanguard/legion](https://github.com/GoVanguard/legion)]([https://github.com/GoVanguard/legion](https://github.com/GoVanguard/legion))
+**Repository:** [https://github.com/GoVanguard/legion](https://github.com/GoVanguard/legion)
 
 **Author:** GoVanguard
 
@@ -3240,7 +3240,7 @@ Various security tools and resources that are pending categorization.
 
 ## LFISuite
 
-**Repository:** [[https://github.com/D35m0nd142/LFISuite](https://github.com/D35m0nd142/LFISuite)]([https://github.com/D35m0nd142/LFISuite](https://github.com/D35m0nd142/LFISuite))
+**Repository:** [https://github.com/D35m0nd142/LFISuite](https://github.com/D35m0nd142/LFISuite)
 
 **Author:** D35m0nd142
 
@@ -3248,7 +3248,7 @@ Various security tools and resources that are pending categorization.
 
 ## libagdb
 
-**Repository:** [[https://github.com/libyal/libagdb](https://github.com/libyal/libagdb)]([https://github.com/libyal/libagdb](https://github.com/libyal/libagdb))
+**Repository:** [https://github.com/libyal/libagdb](https://github.com/libyal/libagdb)
 
 **Author:** libyal
 
@@ -3256,7 +3256,7 @@ Various security tools and resources that are pending categorization.
 
 ## libbde
 
-**Repository:** [[https://github.com/libyal/libbde](https://github.com/libyal/libbde)]([https://github.com/libyal/libbde](https://github.com/libyal/libbde))
+**Repository:** [https://github.com/libyal/libbde](https://github.com/libyal/libbde)
 
 **Author:** libyal
 
@@ -3264,7 +3264,7 @@ Various security tools and resources that are pending categorization.
 
 ## libbfio
 
-**Repository:** [[https://github.com/libyal/libbfio](https://github.com/libyal/libbfio)]([https://github.com/libyal/libbfio](https://github.com/libyal/libbfio))
+**Repository:** [https://github.com/libyal/libbfio](https://github.com/libyal/libbfio)
 
 **Author:** libyal
 
@@ -3272,7 +3272,7 @@ Various security tools and resources that are pending categorization.
 
 ## libcaes
 
-**Repository:** [[https://github.com/libyal/libcaes](https://github.com/libyal/libcaes)]([https://github.com/libyal/libcaes](https://github.com/libyal/libcaes))
+**Repository:** [https://github.com/libyal/libcaes](https://github.com/libyal/libcaes)
 
 **Author:** libyal
 
@@ -3280,7 +3280,7 @@ Various security tools and resources that are pending categorization.
 
 ## libcdata
 
-**Repository:** [[https://github.com/libyal/libcdata](https://github.com/libyal/libcdata)]([https://github.com/libyal/libcdata](https://github.com/libyal/libcdata))
+**Repository:** [https://github.com/libyal/libcdata](https://github.com/libyal/libcdata)
 
 **Author:** libyal
 
@@ -3288,7 +3288,7 @@ Various security tools and resources that are pending categorization.
 
 ## libcdatetime
 
-**Repository:** [[https://github.com/libyal/libcdatetime](https://github.com/libyal/libcdatetime)]([https://github.com/libyal/libcdatetime](https://github.com/libyal/libcdatetime))
+**Repository:** [https://github.com/libyal/libcdatetime](https://github.com/libyal/libcdatetime)
 
 **Author:** libyal
 
@@ -3296,7 +3296,7 @@ Various security tools and resources that are pending categorization.
 
 ## libcdirectory
 
-**Repository:** [[https://github.com/libyal/libcdirectory](https://github.com/libyal/libcdirectory)]([https://github.com/libyal/libcdirectory](https://github.com/libyal/libcdirectory))
+**Repository:** [https://github.com/libyal/libcdirectory](https://github.com/libyal/libcdirectory)
 
 **Author:** libyal
 
@@ -3304,7 +3304,7 @@ Various security tools and resources that are pending categorization.
 
 ## libcerror
 
-**Repository:** [[https://github.com/libyal/libcerror](https://github.com/libyal/libcerror)]([https://github.com/libyal/libcerror](https://github.com/libyal/libcerror))
+**Repository:** [https://github.com/libyal/libcerror](https://github.com/libyal/libcerror)
 
 **Author:** libyal
 
@@ -3312,7 +3312,7 @@ Various security tools and resources that are pending categorization.
 
 ## libcfile
 
-**Repository:** [[https://github.com/libyal/libcfile](https://github.com/libyal/libcfile)]([https://github.com/libyal/libcfile](https://github.com/libyal/libcfile))
+**Repository:** [https://github.com/libyal/libcfile](https://github.com/libyal/libcfile)
 
 **Author:** libyal
 
@@ -3320,7 +3320,7 @@ Various security tools and resources that are pending categorization.
 
 ## libclocale
 
-**Repository:** [[https://github.com/libyal/libclocale](https://github.com/libyal/libclocale)]([https://github.com/libyal/libclocale](https://github.com/libyal/libclocale))
+**Repository:** [https://github.com/libyal/libclocale](https://github.com/libyal/libclocale)
 
 **Author:** libyal
 
@@ -3328,7 +3328,7 @@ Various security tools and resources that are pending categorization.
 
 ## libcnotify
 
-**Repository:** [[https://github.com/libyal/libcnotify](https://github.com/libyal/libcnotify)]([https://github.com/libyal/libcnotify](https://github.com/libyal/libcnotify))
+**Repository:** [https://github.com/libyal/libcnotify](https://github.com/libyal/libcnotify)
 
 **Author:** libyal
 
@@ -3336,7 +3336,7 @@ Various security tools and resources that are pending categorization.
 
 ## libcpath
 
-**Repository:** [[https://github.com/libyal/libcpath](https://github.com/libyal/libcpath)]([https://github.com/libyal/libcpath](https://github.com/libyal/libcpath))
+**Repository:** [https://github.com/libyal/libcpath](https://github.com/libyal/libcpath)
 
 **Author:** libyal
 
@@ -3344,7 +3344,7 @@ Various security tools and resources that are pending categorization.
 
 ## libcreg
 
-**Repository:** [[https://github.com/libyal/libcreg](https://github.com/libyal/libcreg)]([https://github.com/libyal/libcreg](https://github.com/libyal/libcreg))
+**Repository:** [https://github.com/libyal/libcreg](https://github.com/libyal/libcreg)
 
 **Author:** libyal
 
@@ -3352,7 +3352,7 @@ Various security tools and resources that are pending categorization.
 
 ## libcsplit
 
-**Repository:** [[https://github.com/libyal/libcsplit](https://github.com/libyal/libcsplit)]([https://github.com/libyal/libcsplit](https://github.com/libyal/libcsplit))
+**Repository:** [https://github.com/libyal/libcsplit](https://github.com/libyal/libcsplit)
 
 **Author:** libyal
 
@@ -3360,7 +3360,7 @@ Various security tools and resources that are pending categorization.
 
 ## libcthreads
 
-**Repository:** [[https://github.com/libyal/libcthreads](https://github.com/libyal/libcthreads)]([https://github.com/libyal/libcthreads](https://github.com/libyal/libcthreads))
+**Repository:** [https://github.com/libyal/libcthreads](https://github.com/libyal/libcthreads)
 
 **Author:** libyal
 
@@ -3368,7 +3368,7 @@ Various security tools and resources that are pending categorization.
 
 ## libemu
 
-**Repository:** [[https://github.com/buffer/libemu](https://github.com/buffer/libemu)]([https://github.com/buffer/libemu](https://github.com/buffer/libemu))
+**Repository:** [https://github.com/buffer/libemu](https://github.com/buffer/libemu)
 
 **Author:** buffer
 
@@ -3376,7 +3376,7 @@ Various security tools and resources that are pending categorization.
 
 ## libesedb
 
-**Repository:** [[https://github.com/libyal/libesedb](https://github.com/libyal/libesedb)]([https://github.com/libyal/libesedb](https://github.com/libyal/libesedb))
+**Repository:** [https://github.com/libyal/libesedb](https://github.com/libyal/libesedb)
 
 **Author:** libyal
 
@@ -3384,7 +3384,7 @@ Various security tools and resources that are pending categorization.
 
 ## libevt
 
-**Repository:** [[https://github.com/libyal/libevt](https://github.com/libyal/libevt)]([https://github.com/libyal/libevt](https://github.com/libyal/libevt))
+**Repository:** [https://github.com/libyal/libevt](https://github.com/libyal/libevt)
 
 **Author:** libyal
 
@@ -3392,7 +3392,7 @@ Various security tools and resources that are pending categorization.
 
 ## libevtx
 
-**Repository:** [[https://github.com/libyal/libevtx](https://github.com/libyal/libevtx)]([https://github.com/libyal/libevtx](https://github.com/libyal/libevtx))
+**Repository:** [https://github.com/libyal/libevtx](https://github.com/libyal/libevtx)
 
 **Author:** libyal
 
@@ -3400,7 +3400,7 @@ Various security tools and resources that are pending categorization.
 
 ## libewf
 
-**Repository:** [[https://github.com/libyal/libewf](https://github.com/libyal/libewf)]([https://github.com/libyal/libewf](https://github.com/libyal/libewf))
+**Repository:** [https://github.com/libyal/libewf](https://github.com/libyal/libewf)
 
 **Author:** libyal
 
@@ -3408,7 +3408,7 @@ Various security tools and resources that are pending categorization.
 
 ## libexe
 
-**Repository:** [[https://github.com/libyal/libexe](https://github.com/libyal/libexe)]([https://github.com/libyal/libexe](https://github.com/libyal/libexe))
+**Repository:** [https://github.com/libyal/libexe](https://github.com/libyal/libexe)
 
 **Author:** libyal
 
@@ -3416,7 +3416,7 @@ Various security tools and resources that are pending categorization.
 
 ## libfcache
 
-**Repository:** [[https://github.com/libyal/libfcache](https://github.com/libyal/libfcache)]([https://github.com/libyal/libfcache](https://github.com/libyal/libfcache))
+**Repository:** [https://github.com/libyal/libfcache](https://github.com/libyal/libfcache)
 
 **Author:** libyal
 
@@ -3424,7 +3424,7 @@ Various security tools and resources that are pending categorization.
 
 ## libfcrypto
 
-**Repository:** [[https://github.com/libyal/libfcrypto](https://github.com/libyal/libfcrypto)]([https://github.com/libyal/libfcrypto](https://github.com/libyal/libfcrypto))
+**Repository:** [https://github.com/libyal/libfcrypto](https://github.com/libyal/libfcrypto)
 
 **Author:** libyal
 
@@ -3432,7 +3432,7 @@ Various security tools and resources that are pending categorization.
 
 ## libfdata
 
-**Repository:** [[https://github.com/libyal/libfdata](https://github.com/libyal/libfdata)]([https://github.com/libyal/libfdata](https://github.com/libyal/libfdata))
+**Repository:** [https://github.com/libyal/libfdata](https://github.com/libyal/libfdata)
 
 **Author:** libyal
 
@@ -3440,7 +3440,7 @@ Various security tools and resources that are pending categorization.
 
 ## libfdatetime
 
-**Repository:** [[https://github.com/libyal/libfdatetime](https://github.com/libyal/libfdatetime)]([https://github.com/libyal/libfdatetime](https://github.com/libyal/libfdatetime))
+**Repository:** [https://github.com/libyal/libfdatetime](https://github.com/libyal/libfdatetime)
 
 **Author:** libyal
 
@@ -3448,7 +3448,7 @@ Various security tools and resources that are pending categorization.
 
 ## libfguid
 
-**Repository:** [[https://github.com/libyal/libfguid](https://github.com/libyal/libfguid)]([https://github.com/libyal/libfguid](https://github.com/libyal/libfguid))
+**Repository:** [https://github.com/libyal/libfguid](https://github.com/libyal/libfguid)
 
 **Author:** libyal
 
@@ -3456,7 +3456,7 @@ Various security tools and resources that are pending categorization.
 
 ## libfmapi
 
-**Repository:** [[https://github.com/libyal/libfmapi](https://github.com/libyal/libfmapi)]([https://github.com/libyal/libfmapi](https://github.com/libyal/libfmapi))
+**Repository:** [https://github.com/libyal/libfmapi](https://github.com/libyal/libfmapi)
 
 **Author:** libyal
 
@@ -3464,7 +3464,7 @@ Various security tools and resources that are pending categorization.
 
 ## libfole
 
-**Repository:** [[https://github.com/libyal/libfole](https://github.com/libyal/libfole)]([https://github.com/libyal/libfole](https://github.com/libyal/libfole))
+**Repository:** [https://github.com/libyal/libfole](https://github.com/libyal/libfole)
 
 **Author:** libyal
 
@@ -3472,7 +3472,7 @@ Various security tools and resources that are pending categorization.
 
 ## libfplist
 
-**Repository:** [[https://github.com/libyal/libfplist](https://github.com/libyal/libfplist)]([https://github.com/libyal/libfplist](https://github.com/libyal/libfplist))
+**Repository:** [https://github.com/libyal/libfplist](https://github.com/libyal/libfplist)
 
 **Author:** libyal
 
@@ -3480,7 +3480,7 @@ Various security tools and resources that are pending categorization.
 
 ## libfsapfs
 
-**Repository:** [[https://github.com/libyal/libfsapfs](https://github.com/libyal/libfsapfs)]([https://github.com/libyal/libfsapfs](https://github.com/libyal/libfsapfs))
+**Repository:** [https://github.com/libyal/libfsapfs](https://github.com/libyal/libfsapfs)
 
 **Author:** libyal
 
@@ -3488,7 +3488,7 @@ Various security tools and resources that are pending categorization.
 
 ## libfsclfs
 
-**Repository:** [[https://github.com/libyal/libfsclfs](https://github.com/libyal/libfsclfs)]([https://github.com/libyal/libfsclfs](https://github.com/libyal/libfsclfs))
+**Repository:** [https://github.com/libyal/libfsclfs](https://github.com/libyal/libfsclfs)
 
 **Author:** libyal
 
@@ -3496,7 +3496,7 @@ Various security tools and resources that are pending categorization.
 
 ## libfsext
 
-**Repository:** [[https://github.com/libyal/libfsext](https://github.com/libyal/libfsext)]([https://github.com/libyal/libfsext](https://github.com/libyal/libfsext))
+**Repository:** [https://github.com/libyal/libfsext](https://github.com/libyal/libfsext)
 
 **Author:** libyal
 
@@ -3504,7 +3504,7 @@ Various security tools and resources that are pending categorization.
 
 ## libfshfs
 
-**Repository:** [[https://github.com/libyal/libfshfs](https://github.com/libyal/libfshfs)]([https://github.com/libyal/libfshfs](https://github.com/libyal/libfshfs))
+**Repository:** [https://github.com/libyal/libfshfs](https://github.com/libyal/libfshfs)
 
 **Author:** libyal
 
@@ -3512,7 +3512,7 @@ Various security tools and resources that are pending categorization.
 
 ## libfsntfs
 
-**Repository:** [[https://github.com/libyal/libfsntfs](https://github.com/libyal/libfsntfs)]([https://github.com/libyal/libfsntfs](https://github.com/libyal/libfsntfs))
+**Repository:** [https://github.com/libyal/libfsntfs](https://github.com/libyal/libfsntfs)
 
 **Author:** libyal
 
@@ -3520,7 +3520,7 @@ Various security tools and resources that are pending categorization.
 
 ## libfsrefs
 
-**Repository:** [[https://github.com/libyal/libfsrefs](https://github.com/libyal/libfsrefs)]([https://github.com/libyal/libfsrefs](https://github.com/libyal/libfsrefs))
+**Repository:** [https://github.com/libyal/libfsrefs](https://github.com/libyal/libfsrefs)
 
 **Author:** libyal
 
@@ -3528,7 +3528,7 @@ Various security tools and resources that are pending categorization.
 
 ## libftxf
 
-**Repository:** [[https://github.com/libyal/libftxf](https://github.com/libyal/libftxf)]([https://github.com/libyal/libftxf](https://github.com/libyal/libftxf))
+**Repository:** [https://github.com/libyal/libftxf](https://github.com/libyal/libftxf)
 
 **Author:** libyal
 
@@ -3536,7 +3536,7 @@ Various security tools and resources that are pending categorization.
 
 ## libftxr
 
-**Repository:** [[https://github.com/libyal/libftxr](https://github.com/libyal/libftxr)]([https://github.com/libyal/libftxr](https://github.com/libyal/libftxr))
+**Repository:** [https://github.com/libyal/libftxr](https://github.com/libyal/libftxr)
 
 **Author:** libyal
 
@@ -3544,7 +3544,7 @@ Various security tools and resources that are pending categorization.
 
 ## libfusn
 
-**Repository:** [[https://github.com/libyal/libfusn](https://github.com/libyal/libfusn)]([https://github.com/libyal/libfusn](https://github.com/libyal/libfusn))
+**Repository:** [https://github.com/libyal/libfusn](https://github.com/libyal/libfusn)
 
 **Author:** libyal
 
@@ -3552,7 +3552,7 @@ Various security tools and resources that are pending categorization.
 
 ## libfvalue
 
-**Repository:** [[https://github.com/libyal/libfvalue](https://github.com/libyal/libfvalue)]([https://github.com/libyal/libfvalue](https://github.com/libyal/libfvalue))
+**Repository:** [https://github.com/libyal/libfvalue](https://github.com/libyal/libfvalue)
 
 **Author:** libyal
 
@@ -3560,7 +3560,7 @@ Various security tools and resources that are pending categorization.
 
 ## libfvde
 
-**Repository:** [[https://github.com/libyal/libfvde](https://github.com/libyal/libfvde)]([https://github.com/libyal/libfvde](https://github.com/libyal/libfvde))
+**Repository:** [https://github.com/libyal/libfvde](https://github.com/libyal/libfvde)
 
 **Author:** libyal
 
@@ -3568,7 +3568,7 @@ Various security tools and resources that are pending categorization.
 
 ## libfwevt
 
-**Repository:** [[https://github.com/libyal/libfwevt](https://github.com/libyal/libfwevt)]([https://github.com/libyal/libfwevt](https://github.com/libyal/libfwevt))
+**Repository:** [https://github.com/libyal/libfwevt](https://github.com/libyal/libfwevt)
 
 **Author:** libyal
 
@@ -3576,7 +3576,7 @@ Various security tools and resources that are pending categorization.
 
 ## libfwnt
 
-**Repository:** [[https://github.com/libyal/libfwnt](https://github.com/libyal/libfwnt)]([https://github.com/libyal/libfwnt](https://github.com/libyal/libfwnt))
+**Repository:** [https://github.com/libyal/libfwnt](https://github.com/libyal/libfwnt)
 
 **Author:** libyal
 
@@ -3584,7 +3584,7 @@ Various security tools and resources that are pending categorization.
 
 ## libfwps
 
-**Repository:** [[https://github.com/libyal/libfwps](https://github.com/libyal/libfwps)]([https://github.com/libyal/libfwps](https://github.com/libyal/libfwps))
+**Repository:** [https://github.com/libyal/libfwps](https://github.com/libyal/libfwps)
 
 **Author:** libyal
 
@@ -3592,7 +3592,7 @@ Various security tools and resources that are pending categorization.
 
 ## libfwsi
 
-**Repository:** [[https://github.com/libyal/libfwsi](https://github.com/libyal/libfwsi)]([https://github.com/libyal/libfwsi](https://github.com/libyal/libfwsi))
+**Repository:** [https://github.com/libyal/libfwsi](https://github.com/libyal/libfwsi)
 
 **Author:** libyal
 
@@ -3600,7 +3600,7 @@ Various security tools and resources that are pending categorization.
 
 ## libgzipf
 
-**Repository:** [[https://github.com/libyal/libgzipf](https://github.com/libyal/libgzipf)]([https://github.com/libyal/libgzipf](https://github.com/libyal/libgzipf))
+**Repository:** [https://github.com/libyal/libgzipf](https://github.com/libyal/libgzipf)
 
 **Author:** libyal
 
@@ -3608,7 +3608,7 @@ Various security tools and resources that are pending categorization.
 
 ## libhibr
 
-**Repository:** [[https://github.com/libyal/libhibr](https://github.com/libyal/libhibr)]([https://github.com/libyal/libhibr](https://github.com/libyal/libhibr))
+**Repository:** [https://github.com/libyal/libhibr](https://github.com/libyal/libhibr)
 
 **Author:** libyal
 
@@ -3616,7 +3616,7 @@ Various security tools and resources that are pending categorization.
 
 ## libhmac
 
-**Repository:** [[https://github.com/libyal/libhmac](https://github.com/libyal/libhmac)]([https://github.com/libyal/libhmac](https://github.com/libyal/libhmac))
+**Repository:** [https://github.com/libyal/libhmac](https://github.com/libyal/libhmac)
 
 **Author:** libyal
 
@@ -3624,7 +3624,7 @@ Various security tools and resources that are pending categorization.
 
 ## liblnk
 
-**Repository:** [[https://github.com/libyal/liblnk](https://github.com/libyal/liblnk)]([https://github.com/libyal/liblnk](https://github.com/libyal/liblnk))
+**Repository:** [https://github.com/libyal/liblnk](https://github.com/libyal/liblnk)
 
 **Author:** libyal
 
@@ -3632,7 +3632,7 @@ Various security tools and resources that are pending categorization.
 
 ## libluksde
 
-**Repository:** [[https://github.com/libyal/libluksde](https://github.com/libyal/libluksde)]([https://github.com/libyal/libluksde](https://github.com/libyal/libluksde))
+**Repository:** [https://github.com/libyal/libluksde](https://github.com/libyal/libluksde)
 
 **Author:** libyal
 
@@ -3640,7 +3640,7 @@ Various security tools and resources that are pending categorization.
 
 ## libmapidb
 
-**Repository:** [[https://github.com/libyal/libmapidb](https://github.com/libyal/libmapidb)]([https://github.com/libyal/libmapidb](https://github.com/libyal/libmapidb))
+**Repository:** [https://github.com/libyal/libmapidb](https://github.com/libyal/libmapidb)
 
 **Author:** libyal
 
@@ -3648,7 +3648,7 @@ Various security tools and resources that are pending categorization.
 
 ## libmdmp
 
-**Repository:** [[https://github.com/libyal/libmdmp](https://github.com/libyal/libmdmp)]([https://github.com/libyal/libmdmp](https://github.com/libyal/libmdmp))
+**Repository:** [https://github.com/libyal/libmdmp](https://github.com/libyal/libmdmp)
 
 **Author:** libyal
 
@@ -3656,7 +3656,7 @@ Various security tools and resources that are pending categorization.
 
 ## libmodi
 
-**Repository:** [[https://github.com/libyal/libmodi](https://github.com/libyal/libmodi)]([https://github.com/libyal/libmodi](https://github.com/libyal/libmodi))
+**Repository:** [https://github.com/libyal/libmodi](https://github.com/libyal/libmodi)
 
 **Author:** libyal
 
@@ -3664,7 +3664,7 @@ Various security tools and resources that are pending categorization.
 
 ## libmsiecf
 
-**Repository:** [[https://github.com/libyal/libmsiecf](https://github.com/libyal/libmsiecf)]([https://github.com/libyal/libmsiecf](https://github.com/libyal/libmsiecf))
+**Repository:** [https://github.com/libyal/libmsiecf](https://github.com/libyal/libmsiecf)
 
 **Author:** libyal
 
@@ -3672,7 +3672,7 @@ Various security tools and resources that are pending categorization.
 
 ## libnk2
 
-**Repository:** [[https://github.com/libyal/libnk2](https://github.com/libyal/libnk2)]([https://github.com/libyal/libnk2](https://github.com/libyal/libnk2))
+**Repository:** [https://github.com/libyal/libnk2](https://github.com/libyal/libnk2)
 
 **Author:** libyal
 
@@ -3680,7 +3680,7 @@ Various security tools and resources that are pending categorization.
 
 ## libnsfdb
 
-**Repository:** [[https://github.com/libyal/libnsfdb](https://github.com/libyal/libnsfdb)]([https://github.com/libyal/libnsfdb](https://github.com/libyal/libnsfdb))
+**Repository:** [https://github.com/libyal/libnsfdb](https://github.com/libyal/libnsfdb)
 
 **Author:** libyal
 
@@ -3688,7 +3688,7 @@ Various security tools and resources that are pending categorization.
 
 ## libodraw
 
-**Repository:** [[https://github.com/libyal/libodraw](https://github.com/libyal/libodraw)]([https://github.com/libyal/libodraw](https://github.com/libyal/libodraw))
+**Repository:** [https://github.com/libyal/libodraw](https://github.com/libyal/libodraw)
 
 **Author:** libyal
 
@@ -3696,7 +3696,7 @@ Various security tools and resources that are pending categorization.
 
 ## libolecf
 
-**Repository:** [[https://github.com/libyal/libolecf](https://github.com/libyal/libolecf)]([https://github.com/libyal/libolecf](https://github.com/libyal/libolecf))
+**Repository:** [https://github.com/libyal/libolecf](https://github.com/libyal/libolecf)
 
 **Author:** libyal
 
@@ -3704,7 +3704,7 @@ Various security tools and resources that are pending categorization.
 
 ## libpff
 
-**Repository:** [[https://github.com/libyal/libpff](https://github.com/libyal/libpff)]([https://github.com/libyal/libpff](https://github.com/libyal/libpff))
+**Repository:** [https://github.com/libyal/libpff](https://github.com/libyal/libpff)
 
 **Author:** libyal
 
@@ -3712,7 +3712,7 @@ Various security tools and resources that are pending categorization.
 
 ## libphdi
 
-**Repository:** [[https://github.com/libyal/libphdi](https://github.com/libyal/libphdi)]([https://github.com/libyal/libphdi](https://github.com/libyal/libphdi))
+**Repository:** [https://github.com/libyal/libphdi](https://github.com/libyal/libphdi)
 
 **Author:** libyal
 
@@ -3720,7 +3720,7 @@ Various security tools and resources that are pending categorization.
 
 ## libqcow
 
-**Repository:** [[https://github.com/libyal/libqcow](https://github.com/libyal/libqcow)]([https://github.com/libyal/libqcow](https://github.com/libyal/libqcow))
+**Repository:** [https://github.com/libyal/libqcow](https://github.com/libyal/libqcow)
 
 **Author:** libyal
 
@@ -3728,7 +3728,7 @@ Various security tools and resources that are pending categorization.
 
 ## libregf
 
-**Repository:** [[https://github.com/libyal/libregf](https://github.com/libyal/libregf)]([https://github.com/libyal/libregf](https://github.com/libyal/libregf))
+**Repository:** [https://github.com/libyal/libregf](https://github.com/libyal/libregf)
 
 **Author:** libyal
 
@@ -3736,7 +3736,7 @@ Various security tools and resources that are pending categorization.
 
 ## libscca
 
-**Repository:** [[https://github.com/libyal/libscca](https://github.com/libyal/libscca)]([https://github.com/libyal/libscca](https://github.com/libyal/libscca))
+**Repository:** [https://github.com/libyal/libscca](https://github.com/libyal/libscca)
 
 **Author:** libyal
 
@@ -3744,7 +3744,7 @@ Various security tools and resources that are pending categorization.
 
 ## libsigscan
 
-**Repository:** [[https://github.com/libyal/libsigscan](https://github.com/libyal/libsigscan)]([https://github.com/libyal/libsigscan](https://github.com/libyal/libsigscan))
+**Repository:** [https://github.com/libyal/libsigscan](https://github.com/libyal/libsigscan)
 
 **Author:** libyal
 
@@ -3752,7 +3752,7 @@ Various security tools and resources that are pending categorization.
 
 ## libsmdev
 
-**Repository:** [[https://github.com/libyal/libsmdev](https://github.com/libyal/libsmdev)]([https://github.com/libyal/libsmdev](https://github.com/libyal/libsmdev))
+**Repository:** [https://github.com/libyal/libsmdev](https://github.com/libyal/libsmdev)
 
 **Author:** libyal
 
@@ -3760,7 +3760,7 @@ Various security tools and resources that are pending categorization.
 
 ## libsmraw
 
-**Repository:** [[https://github.com/libyal/libsmraw](https://github.com/libyal/libsmraw)]([https://github.com/libyal/libsmraw](https://github.com/libyal/libsmraw))
+**Repository:** [https://github.com/libyal/libsmraw](https://github.com/libyal/libsmraw)
 
 **Author:** libyal
 
@@ -3768,7 +3768,7 @@ Various security tools and resources that are pending categorization.
 
 ## libtableau
 
-**Repository:** [[https://github.com/libyal/libtableau](https://github.com/libyal/libtableau)]([https://github.com/libyal/libtableau](https://github.com/libyal/libtableau))
+**Repository:** [https://github.com/libyal/libtableau](https://github.com/libyal/libtableau)
 
 **Author:** libyal
 
@@ -3776,7 +3776,7 @@ Various security tools and resources that are pending categorization.
 
 ## libuna
 
-**Repository:** [[https://github.com/libyal/libuna](https://github.com/libyal/libuna)]([https://github.com/libyal/libuna](https://github.com/libyal/libuna))
+**Repository:** [https://github.com/libyal/libuna](https://github.com/libyal/libuna)
 
 **Author:** libyal
 
@@ -3784,7 +3784,7 @@ Various security tools and resources that are pending categorization.
 
 ## libvhdi
 
-**Repository:** [[https://github.com/libyal/libvhdi](https://github.com/libyal/libvhdi)]([https://github.com/libyal/libvhdi](https://github.com/libyal/libvhdi))
+**Repository:** [https://github.com/libyal/libvhdi](https://github.com/libyal/libvhdi)
 
 **Author:** libyal
 
@@ -3792,7 +3792,7 @@ Various security tools and resources that are pending categorization.
 
 ## libvmdk
 
-**Repository:** [[https://github.com/libyal/libvmdk](https://github.com/libyal/libvmdk)]([https://github.com/libyal/libvmdk](https://github.com/libyal/libvmdk))
+**Repository:** [https://github.com/libyal/libvmdk](https://github.com/libyal/libvmdk)
 
 **Author:** libyal
 
@@ -3800,7 +3800,7 @@ Various security tools and resources that are pending categorization.
 
 ## libvsgpt
 
-**Repository:** [[https://github.com/libyal/libvsgpt](https://github.com/libyal/libvsgpt)]([https://github.com/libyal/libvsgpt](https://github.com/libyal/libvsgpt))
+**Repository:** [https://github.com/libyal/libvsgpt](https://github.com/libyal/libvsgpt)
 
 **Author:** libyal
 
@@ -3808,7 +3808,7 @@ Various security tools and resources that are pending categorization.
 
 ## libvslvm
 
-**Repository:** [[https://github.com/libyal/libvslvm](https://github.com/libyal/libvslvm)]([https://github.com/libyal/libvslvm](https://github.com/libyal/libvslvm))
+**Repository:** [https://github.com/libyal/libvslvm](https://github.com/libyal/libvslvm)
 
 **Author:** libyal
 
@@ -3816,7 +3816,7 @@ Various security tools and resources that are pending categorization.
 
 ## libvsmbr
 
-**Repository:** [[https://github.com/libyal/libvsmbr](https://github.com/libyal/libvsmbr)]([https://github.com/libyal/libvsmbr](https://github.com/libyal/libvsmbr))
+**Repository:** [https://github.com/libyal/libvsmbr](https://github.com/libyal/libvsmbr)
 
 **Author:** libyal
 
@@ -3824,7 +3824,7 @@ Various security tools and resources that are pending categorization.
 
 ## libwrc
 
-**Repository:** [[https://github.com/libyal/libwrc](https://github.com/libyal/libwrc)]([https://github.com/libyal/libwrc](https://github.com/libyal/libwrc))
+**Repository:** [https://github.com/libyal/libwrc](https://github.com/libyal/libwrc)
 
 **Author:** libyal
 
@@ -3832,7 +3832,7 @@ Various security tools and resources that are pending categorization.
 
 ## libwtcdb
 
-**Repository:** [[https://github.com/libyal/libwtcdb](https://github.com/libyal/libwtcdb)]([https://github.com/libyal/libwtcdb](https://github.com/libyal/libwtcdb))
+**Repository:** [https://github.com/libyal/libwtcdb](https://github.com/libyal/libwtcdb)
 
 **Author:** libyal
 
@@ -3840,7 +3840,7 @@ Various security tools and resources that are pending categorization.
 
 ## libyara.NET
 
-**Repository:** [[https://github.com/microsoft/libyara.NET](https://github.com/microsoft/libyara.NET)]([https://github.com/microsoft/libyara.NET](https://github.com/microsoft/libyara.NET))
+**Repository:** [https://github.com/microsoft/libyara.NET](https://github.com/microsoft/libyara.NET)
 
 **Author:** microsoft
 
@@ -3848,7 +3848,7 @@ Various security tools and resources that are pending categorization.
 
 ## LiME
 
-**Repository:** [[https://github.com/504ensicsLabs/LiME](https://github.com/504ensicsLabs/LiME)]([https://github.com/504ensicsLabs/LiME](https://github.com/504ensicsLabs/LiME))
+**Repository:** [https://github.com/504ensicsLabs/LiME](https://github.com/504ensicsLabs/LiME)
 
 **Author:** 504ensicsLabs
 
@@ -3856,7 +3856,7 @@ Various security tools and resources that are pending categorization.
 
 ## LinEnum
 
-**Repository:** [[https://github.com/rebootuser/LinEnum](https://github.com/rebootuser/LinEnum)]([https://github.com/rebootuser/LinEnum](https://github.com/rebootuser/LinEnum))
+**Repository:** [https://github.com/rebootuser/LinEnum](https://github.com/rebootuser/LinEnum)
 
 **Author:** rebootuser
 
@@ -3864,7 +3864,7 @@ Various security tools and resources that are pending categorization.
 
 ## LinkScope_Client
 
-**Repository:** [[https://github.com/AccentuSoft/LinkScope_Client](https://github.com/AccentuSoft/LinkScope_Client)]([https://github.com/AccentuSoft/LinkScope_Client](https://github.com/AccentuSoft/LinkScope_Client))
+**Repository:** [https://github.com/AccentuSoft/LinkScope_Client](https://github.com/AccentuSoft/LinkScope_Client)
 
 **Author:** AccentuSoft
 
@@ -3872,7 +3872,7 @@ Various security tools and resources that are pending categorization.
 
 ## logdissect
 
-**Repository:** [[https://github.com/dogoncouch/logdissect](https://github.com/dogoncouch/logdissect)]([https://github.com/dogoncouch/logdissect](https://github.com/dogoncouch/logdissect))
+**Repository:** [https://github.com/dogoncouch/logdissect](https://github.com/dogoncouch/logdissect)
 
 **Author:** dogoncouch
 
@@ -3880,7 +3880,7 @@ Various security tools and resources that are pending categorization.
 
 ## LogESP
 
-**Repository:** [[https://github.com/dogoncouch/LogESP](https://github.com/dogoncouch/LogESP)]([https://github.com/dogoncouch/LogESP](https://github.com/dogoncouch/LogESP))
+**Repository:** [https://github.com/dogoncouch/LogESP](https://github.com/dogoncouch/LogESP)
 
 **Author:** dogoncouch
 
@@ -3888,7 +3888,7 @@ Various security tools and resources that are pending categorization.
 
 ## LogonTracer
 
-**Repository:** [[https://github.com/JPCERTCC/LogonTracer](https://github.com/JPCERTCC/LogonTracer)]([https://github.com/JPCERTCC/LogonTracer](https://github.com/JPCERTCC/LogonTracer))
+**Repository:** [https://github.com/JPCERTCC/LogonTracer](https://github.com/JPCERTCC/LogonTracer)
 
 **Author:** JPCERTCC
 
@@ -3896,7 +3896,7 @@ Various security tools and resources that are pending categorization.
 
 ## Loki
 
-**Repository:** [[https://github.com/Neo23x0/Loki](https://github.com/Neo23x0/Loki)]([https://github.com/Neo23x0/Loki](https://github.com/Neo23x0/Loki))
+**Repository:** [https://github.com/Neo23x0/Loki](https://github.com/Neo23x0/Loki)
 
 **Author:** Neo23x0
 
@@ -3904,7 +3904,7 @@ Various security tools and resources that are pending categorization.
 
 ## longitudinal-analysis-cowrie
 
-**Repository:** [[https://github.com/deroux/longitudinal-analysis-cowrie](https://github.com/deroux/longitudinal-analysis-cowrie)]([https://github.com/deroux/longitudinal-analysis-cowrie](https://github.com/deroux/longitudinal-analysis-cowrie))
+**Repository:** [https://github.com/deroux/longitudinal-analysis-cowrie](https://github.com/deroux/longitudinal-analysis-cowrie)
 
 **Author:** deroux
 
@@ -3912,7 +3912,7 @@ Various security tools and resources that are pending categorization.
 
 ## lw-yara
 
-**Repository:** [[https://github.com/Hestat/lw-yara](https://github.com/Hestat/lw-yara)]([https://github.com/Hestat/lw-yara](https://github.com/Hestat/lw-yara))
+**Repository:** [https://github.com/Hestat/lw-yara](https://github.com/Hestat/lw-yara)
 
 **Author:** Hestat
 
@@ -3920,7 +3920,7 @@ Various security tools and resources that are pending categorization.
 
 ## mac-a-mal
 
-**Repository:** [[https://github.com/phdphuc/mac-a-mal](https://github.com/phdphuc/mac-a-mal)]([https://github.com/phdphuc/mac-a-mal](https://github.com/phdphuc/mac-a-mal))
+**Repository:** [https://github.com/phdphuc/mac-a-mal](https://github.com/phdphuc/mac-a-mal)
 
 **Author:** phdphuc
 
@@ -3928,7 +3928,7 @@ Various security tools and resources that are pending categorization.
 
 ## Mac-Locations-Scraper
 
-**Repository:** [[https://github.com/mac4n6/Mac-Locations-Scraper](https://github.com/mac4n6/Mac-Locations-Scraper)]([https://github.com/mac4n6/Mac-Locations-Scraper](https://github.com/mac4n6/Mac-Locations-Scraper))
+**Repository:** [https://github.com/mac4n6/Mac-Locations-Scraper](https://github.com/mac4n6/Mac-Locations-Scraper)
 
 **Author:** mac4n6
 
@@ -3936,7 +3936,7 @@ Various security tools and resources that are pending categorization.
 
 ## machine
 
-**Repository:** [[https://github.com/docker/machine](https://github.com/docker/machine)]([https://github.com/docker/machine](https://github.com/docker/machine))
+**Repository:** [https://github.com/docker/machine](https://github.com/docker/machine)
 
 **Author:** docker
 
@@ -3944,7 +3944,7 @@ Various security tools and resources that are pending categorization.
 
 ## MachOView
 
-**Repository:** [[https://github.com/gdbinit/MachOView](https://github.com/gdbinit/MachOView)]([https://github.com/gdbinit/MachOView](https://github.com/gdbinit/MachOView))
+**Repository:** [https://github.com/gdbinit/MachOView](https://github.com/gdbinit/MachOView)
 
 **Author:** gdbinit
 
@@ -3952,7 +3952,7 @@ Various security tools and resources that are pending categorization.
 
 ## macMRU-Parser
 
-**Repository:** [[https://github.com/mac4n6/macMRU-Parser](https://github.com/mac4n6/macMRU-Parser)]([https://github.com/mac4n6/macMRU-Parser](https://github.com/mac4n6/macMRU-Parser))
+**Repository:** [https://github.com/mac4n6/macMRU-Parser](https://github.com/mac4n6/macMRU-Parser)
 
 **Author:** mac4n6
 
@@ -3960,7 +3960,7 @@ Various security tools and resources that are pending categorization.
 
 ## macOS-Security-and-Privacy-Guide
 
-**Repository:** [[https://github.com/drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)]([https://github.com/drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide))
+**Repository:** [https://github.com/drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
 
 **Author:** drduh
 
@@ -3968,7 +3968,7 @@ Various security tools and resources that are pending categorization.
 
 ## magspoof
 
-**Repository:** [[https://github.com/samyk/magspoof](https://github.com/samyk/magspoof)]([https://github.com/samyk/magspoof](https://github.com/samyk/magspoof))
+**Repository:** [https://github.com/samyk/magspoof](https://github.com/samyk/magspoof)
 
 **Author:** samyk
 
@@ -3976,7 +3976,7 @@ Various security tools and resources that are pending categorization.
 
 ## mailchecker
 
-**Repository:** [[https://github.com/FGRibreau/mailchecker](https://github.com/FGRibreau/mailchecker)]([https://github.com/FGRibreau/mailchecker](https://github.com/FGRibreau/mailchecker))
+**Repository:** [https://github.com/FGRibreau/mailchecker](https://github.com/FGRibreau/mailchecker)
 
 **Author:** FGRibreau
 
@@ -3984,7 +3984,7 @@ Various security tools and resources that are pending categorization.
 
 ## mailspoof
 
-**Repository:** [[https://github.com/serain/mailspoof](https://github.com/serain/mailspoof)]([https://github.com/serain/mailspoof](https://github.com/serain/mailspoof))
+**Repository:** [https://github.com/serain/mailspoof](https://github.com/serain/mailspoof)
 
 **Author:** serain
 
@@ -3992,7 +3992,7 @@ Various security tools and resources that are pending categorization.
 
 ## Malbait
 
-**Repository:** [[https://github.com/batchmcnulty/Malbait](https://github.com/batchmcnulty/Malbait)]([https://github.com/batchmcnulty/Malbait](https://github.com/batchmcnulty/Malbait))
+**Repository:** [https://github.com/batchmcnulty/Malbait](https://github.com/batchmcnulty/Malbait)
 
 **Author:** batchmcnulty
 
@@ -4000,7 +4000,7 @@ Various security tools and resources that are pending categorization.
 
 ## malcom
 
-**Repository:** [[https://github.com/tomchop/malcom](https://github.com/tomchop/malcom)]([https://github.com/tomchop/malcom](https://github.com/tomchop/malcom))
+**Repository:** [https://github.com/tomchop/malcom](https://github.com/tomchop/malcom)
 
 **Author:** tomchop
 
@@ -4008,7 +4008,7 @@ Various security tools and resources that are pending categorization.
 
 ## Malfunction
 
-**Repository:** [[https://github.com/Dynetics/Malfunction](https://github.com/Dynetics/Malfunction)]([https://github.com/Dynetics/Malfunction](https://github.com/Dynetics/Malfunction))
+**Repository:** [https://github.com/Dynetics/Malfunction](https://github.com/Dynetics/Malfunction)
 
 **Author:** Dynetics
 
@@ -4016,7 +4016,7 @@ Various security tools and resources that are pending categorization.
 
 ## malheur
 
-**Repository:** [[https://github.com/rieck/malheur](https://github.com/rieck/malheur)]([https://github.com/rieck/malheur](https://github.com/rieck/malheur))
+**Repository:** [https://github.com/rieck/malheur](https://github.com/rieck/malheur)
 
 **Author:** rieck
 
@@ -4024,7 +4024,7 @@ Various security tools and resources that are pending categorization.
 
 ## malice
 
-**Repository:** [[https://github.com/maliceio/malice](https://github.com/maliceio/malice)]([https://github.com/maliceio/malice](https://github.com/maliceio/malice))
+**Repository:** [https://github.com/maliceio/malice](https://github.com/maliceio/malice)
 
 **Author:** maliceio
 
@@ -4032,7 +4032,7 @@ Various security tools and resources that are pending categorization.
 
 ## mallory
 
-**Repository:** [[https://github.com/justmao945/mallory](https://github.com/justmao945/mallory)]([https://github.com/justmao945/mallory](https://github.com/justmao945/mallory))
+**Repository:** [https://github.com/justmao945/mallory](https://github.com/justmao945/mallory)
 
 **Author:** justmao945
 
@@ -4040,7 +4040,7 @@ Various security tools and resources that are pending categorization.
 
 ## MalPipe
 
-**Repository:** [[https://github.com/silascutler/MalPipe](https://github.com/silascutler/MalPipe)]([https://github.com/silascutler/MalPipe](https://github.com/silascutler/MalPipe))
+**Repository:** [https://github.com/silascutler/MalPipe](https://github.com/silascutler/MalPipe)
 
 **Author:** silascutler
 
@@ -4048,7 +4048,7 @@ Various security tools and resources that are pending categorization.
 
 ## malscan
 
-**Repository:** [[https://github.com/usualsuspect/malscan](https://github.com/usualsuspect/malscan)]([https://github.com/usualsuspect/malscan](https://github.com/usualsuspect/malscan))
+**Repository:** [https://github.com/usualsuspect/malscan](https://github.com/usualsuspect/malscan)
 
 **Author:** usualsuspect
 
@@ -4056,7 +4056,7 @@ Various security tools and resources that are pending categorization.
 
 ## malsub
 
-**Repository:** [[https://github.com/diogo-fernan/malsub](https://github.com/diogo-fernan/malsub)]([https://github.com/diogo-fernan/malsub](https://github.com/diogo-fernan/malsub))
+**Repository:** [https://github.com/diogo-fernan/malsub](https://github.com/diogo-fernan/malsub)
 
 **Author:** diogo-fernan
 
@@ -4064,7 +4064,7 @@ Various security tools and resources that are pending categorization.
 
 ## maltego-telegram
 
-**Repository:** [[https://github.com/vognik/maltego-telegram](https://github.com/vognik/maltego-telegram)]([https://github.com/vognik/maltego-telegram](https://github.com/vognik/maltego-telegram))
+**Repository:** [https://github.com/vognik/maltego-telegram](https://github.com/vognik/maltego-telegram)
 
 **Author:** vognik
 
@@ -4072,7 +4072,7 @@ Various security tools and resources that are pending categorization.
 
 ## MaltegoVT
 
-**Repository:** [[https://github.com/michael-yip/MaltegoVT](https://github.com/michael-yip/MaltegoVT)]([https://github.com/michael-yip/MaltegoVT](https://github.com/michael-yip/MaltegoVT))
+**Repository:** [https://github.com/michael-yip/MaltegoVT](https://github.com/michael-yip/MaltegoVT)
 
 **Author:** michael-yip
 
@@ -4080,7 +4080,7 @@ Various security tools and resources that are pending categorization.
 
 ## maltrail
 
-**Repository:** [[https://github.com/stamparm/maltrail](https://github.com/stamparm/maltrail)]([https://github.com/stamparm/maltrail](https://github.com/stamparm/maltrail))
+**Repository:** [https://github.com/stamparm/maltrail](https://github.com/stamparm/maltrail)
 
 **Author:** stamparm
 
@@ -4088,7 +4088,7 @@ Various security tools and resources that are pending categorization.
 
 ## malware-organiser
 
-**Repository:** [[https://github.com/uppusaikiran/malware-organiser](https://github.com/uppusaikiran/malware-organiser)]([https://github.com/uppusaikiran/malware-organiser](https://github.com/uppusaikiran/malware-organiser))
+**Repository:** [https://github.com/uppusaikiran/malware-organiser](https://github.com/uppusaikiran/malware-organiser)
 
 **Author:** uppusaikiran
 
@@ -4096,7 +4096,7 @@ Various security tools and resources that are pending categorization.
 
 ## malware-persistence
 
-**Repository:** [[https://github.com/Karneades/malware-persistence](https://github.com/Karneades/malware-persistence)]([https://github.com/Karneades/malware-persistence](https://github.com/Karneades/malware-persistence))
+**Repository:** [https://github.com/Karneades/malware-persistence](https://github.com/Karneades/malware-persistence)
 
 **Author:** Karneades
 
@@ -4104,7 +4104,7 @@ Various security tools and resources that are pending categorization.
 
 ## malwatch
 
-**Repository:** [[https://github.com/defended-net/malwatch](https://github.com/defended-net/malwatch)]([https://github.com/defended-net/malwatch](https://github.com/defended-net/malwatch))
+**Repository:** [https://github.com/defended-net/malwatch](https://github.com/defended-net/malwatch)
 
 **Author:** defended-net
 
@@ -4112,7 +4112,7 @@ Various security tools and resources that are pending categorization.
 
 ## Manalyze
 
-**Repository:** [[https://github.com/JusticeRage/Manalyze](https://github.com/JusticeRage/Manalyze)]([https://github.com/JusticeRage/Manalyze](https://github.com/JusticeRage/Manalyze))
+**Repository:** [https://github.com/JusticeRage/Manalyze](https://github.com/JusticeRage/Manalyze)
 
 **Author:** JusticeRage
 
@@ -4120,7 +4120,7 @@ Various security tools and resources that are pending categorization.
 
 ## mangle
 
-**Repository:** [[https://github.com/google/mangle](https://github.com/google/mangle)]([https://github.com/google/mangle](https://github.com/google/mangle))
+**Repository:** [https://github.com/google/mangle](https://github.com/google/mangle)
 
 **Author:** google
 
@@ -4128,7 +4128,7 @@ Various security tools and resources that are pending categorization.
 
 ## manuka
 
-**Repository:** [[https://github.com/andrewmichaelsmith/manuka](https://github.com/andrewmichaelsmith/manuka)]([https://github.com/andrewmichaelsmith/manuka](https://github.com/andrewmichaelsmith/manuka))
+**Repository:** [https://github.com/andrewmichaelsmith/manuka](https://github.com/andrewmichaelsmith/manuka)
 
 **Author:** andrewmichaelsmith
 
@@ -4136,7 +4136,7 @@ Various security tools and resources that are pending categorization.
 
 ## masscan
 
-**Repository:** [[https://github.com/robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan)]([https://github.com/robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan))
+**Repository:** [https://github.com/robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan)
 
 **Author:** robertdavidgraham
 
@@ -4144,7 +4144,7 @@ Various security tools and resources that are pending categorization.
 
 ## massive-octo-spice
 
-**Repository:** [[https://github.com/csirtgadgets/massive-octo-spice](https://github.com/csirtgadgets/massive-octo-spice)]([https://github.com/csirtgadgets/massive-octo-spice](https://github.com/csirtgadgets/massive-octo-spice))
+**Repository:** [https://github.com/csirtgadgets/massive-octo-spice](https://github.com/csirtgadgets/massive-octo-spice)
 
 **Author:** csirtgadgets
 
@@ -4152,7 +4152,7 @@ Various security tools and resources that are pending categorization.
 
 ## mastiff
 
-**Repository:** [[https://github.com/KoreLogicSecurity/mastiff](https://github.com/KoreLogicSecurity/mastiff)]([https://github.com/KoreLogicSecurity/mastiff](https://github.com/KoreLogicSecurity/mastiff))
+**Repository:** [https://github.com/KoreLogicSecurity/mastiff](https://github.com/KoreLogicSecurity/mastiff)
 
 **Author:** KoreLogicSecurity
 
@@ -4160,7 +4160,7 @@ Various security tools and resources that are pending categorization.
 
 ## mcafee-xpass
 
-**Repository:** [[https://github.com/SujalMeghwal/mcafee-xpass](https://github.com/SujalMeghwal/mcafee-xpass)]([https://github.com/SujalMeghwal/mcafee-xpass](https://github.com/SujalMeghwal/mcafee-xpass))
+**Repository:** [https://github.com/SujalMeghwal/mcafee-xpass](https://github.com/SujalMeghwal/mcafee-xpass)
 
 **Author:** SujalMeghwal
 
@@ -4168,7 +4168,7 @@ Various security tools and resources that are pending categorization.
 
 ## MEAT
 
-**Repository:** [[https://github.com/jfarley248/MEAT](https://github.com/jfarley248/MEAT)]([https://github.com/jfarley248/MEAT](https://github.com/jfarley248/MEAT))
+**Repository:** [https://github.com/jfarley248/MEAT](https://github.com/jfarley248/MEAT)
 
 **Author:** jfarley248
 
@@ -4176,7 +4176,7 @@ Various security tools and resources that are pending categorization.
 
 ## medpot
 
-**Repository:** [[https://github.com/schmalle/medpot](https://github.com/schmalle/medpot)]([https://github.com/schmalle/medpot](https://github.com/schmalle/medpot))
+**Repository:** [https://github.com/schmalle/medpot](https://github.com/schmalle/medpot)
 
 **Author:** schmalle
 
@@ -4184,7 +4184,7 @@ Various security tools and resources that are pending categorization.
 
 ## medusa
 
-**Repository:** [[https://github.com/wisk/medusa](https://github.com/wisk/medusa)]([https://github.com/wisk/medusa](https://github.com/wisk/medusa))
+**Repository:** [https://github.com/wisk/medusa](https://github.com/wisk/medusa)
 
 **Author:** wisk
 
@@ -4192,7 +4192,7 @@ Various security tools and resources that are pending categorization.
 
 ## melkor-android
 
-**Repository:** [[https://github.com/anestisb/melkor-android](https://github.com/anestisb/melkor-android)]([https://github.com/anestisb/melkor-android](https://github.com/anestisb/melkor-android))
+**Repository:** [https://github.com/anestisb/melkor-android](https://github.com/anestisb/melkor-android)
 
 **Author:** anestisb
 
@@ -4200,7 +4200,7 @@ Various security tools and resources that are pending categorization.
 
 ## MemProcFS
 
-**Repository:** [[https://github.com/ufrisk/MemProcFS](https://github.com/ufrisk/MemProcFS)]([https://github.com/ufrisk/MemProcFS](https://github.com/ufrisk/MemProcFS))
+**Repository:** [https://github.com/ufrisk/MemProcFS](https://github.com/ufrisk/MemProcFS)
 
 **Author:** ufrisk
 
@@ -4208,7 +4208,7 @@ Various security tools and resources that are pending categorization.
 
 ## metagoofil
 
-**Repository:** [[https://github.com/laramies/metagoofil](https://github.com/laramies/metagoofil)]([https://github.com/laramies/metagoofil](https://github.com/laramies/metagoofil))
+**Repository:** [https://github.com/laramies/metagoofil](https://github.com/laramies/metagoofil)
 
 **Author:** laramies
 
@@ -4216,7 +4216,7 @@ Various security tools and resources that are pending categorization.
 
 ## metasploit-framework
 
-**Repository:** [[https://github.com/rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)]([https://github.com/rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework))
+**Repository:** [https://github.com/rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
 
 **Author:** rapid7
 
@@ -4224,7 +4224,7 @@ Various security tools and resources that are pending categorization.
 
 ## mftmactime
 
-**Repository:** [[https://github.com/kero99/mftmactime](https://github.com/kero99/mftmactime)]([https://github.com/kero99/mftmactime](https://github.com/kero99/mftmactime))
+**Repository:** [https://github.com/kero99/mftmactime](https://github.com/kero99/mftmactime)
 
 **Author:** kero99
 
@@ -4232,7 +4232,7 @@ Various security tools and resources that are pending categorization.
 
 ## mig
 
-**Repository:** [[https://github.com/mozilla/mig](https://github.com/mozilla/mig)]([https://github.com/mozilla/mig](https://github.com/mozilla/mig))
+**Repository:** [https://github.com/mozilla/mig](https://github.com/mozilla/mig)
 
 **Author:** mozilla
 
@@ -4240,7 +4240,7 @@ Various security tools and resources that are pending categorization.
 
 ## mimikatz
 
-**Repository:** [[https://github.com/gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz)]([https://github.com/gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz))
+**Repository:** [https://github.com/gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz)
 
 **Author:** gentilkiwi
 
@@ -4248,7 +4248,7 @@ Various security tools and resources that are pending categorization.
 
 ## minicps
 
-**Repository:** [[https://github.com/scy-phy/minicps](https://github.com/scy-phy/minicps)]([https://github.com/scy-phy/minicps](https://github.com/scy-phy/minicps))
+**Repository:** [https://github.com/scy-phy/minicps](https://github.com/scy-phy/minicps)
 
 **Author:** scy-phy
 
@@ -4256,7 +4256,7 @@ Various security tools and resources that are pending categorization.
 
 ## MITMf
 
-**Repository:** [[https://github.com/byt3bl33d3r/MITMf](https://github.com/byt3bl33d3r/MITMf)]([https://github.com/byt3bl33d3r/MITMf](https://github.com/byt3bl33d3r/MITMf))
+**Repository:** [https://github.com/byt3bl33d3r/MITMf](https://github.com/byt3bl33d3r/MITMf)
 
 **Author:** byt3bl33d3r
 
@@ -4264,7 +4264,7 @@ Various security tools and resources that are pending categorization.
 
 ## mitmproxy
 
-**Repository:** [[https://github.com/mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)]([https://github.com/mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy))
+**Repository:** [https://github.com/mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)
 
 **Author:** mitmproxy
 
@@ -4272,7 +4272,7 @@ Various security tools and resources that are pending categorization.
 
 ## mkit
 
-**Repository:** [[https://github.com/darkbitio/mkit](https://github.com/darkbitio/mkit)]([https://github.com/darkbitio/mkit](https://github.com/darkbitio/mkit))
+**Repository:** [https://github.com/darkbitio/mkit](https://github.com/darkbitio/mkit)
 
 **Author:** darkbitio
 
@@ -4280,7 +4280,7 @@ Various security tools and resources that are pending categorization.
 
 ## mkYARA
 
-**Repository:** [[https://github.com/fox-it/mkYARA](https://github.com/fox-it/mkYARA)]([https://github.com/fox-it/mkYARA](https://github.com/fox-it/mkYARA))
+**Repository:** [https://github.com/fox-it/mkYARA](https://github.com/fox-it/mkYARA)
 
 **Author:** fox-it
 
@@ -4288,7 +4288,7 @@ Various security tools and resources that are pending categorization.
 
 ## mnemosyne
 
-**Repository:** [[https://github.com/johnnykv/mnemosyne](https://github.com/johnnykv/mnemosyne)]([https://github.com/johnnykv/mnemosyne](https://github.com/johnnykv/mnemosyne))
+**Repository:** [https://github.com/johnnykv/mnemosyne](https://github.com/johnnykv/mnemosyne)
 
 **Author:** johnnykv
 
@@ -4296,7 +4296,7 @@ Various security tools and resources that are pending categorization.
 
 ## MockSSH
 
-**Repository:** [[https://github.com/ncouture/MockSSH](https://github.com/ncouture/MockSSH)]([https://github.com/ncouture/MockSSH](https://github.com/ncouture/MockSSH))
+**Repository:** [https://github.com/ncouture/MockSSH](https://github.com/ncouture/MockSSH)
 
 **Author:** ncouture
 
@@ -4304,7 +4304,7 @@ Various security tools and resources that are pending categorization.
 
 ## modpot
 
-**Repository:** [[https://github.com/referefref/modpot](https://github.com/referefref/modpot)]([https://github.com/referefref/modpot](https://github.com/referefref/modpot))
+**Repository:** [https://github.com/referefref/modpot](https://github.com/referefref/modpot)
 
 **Author:** referefref
 
@@ -4312,7 +4312,7 @@ Various security tools and resources that are pending categorization.
 
 ## mongo-express
 
-**Repository:** [[https://github.com/mongo-express/mongo-express](https://github.com/mongo-express/mongo-express)]([https://github.com/mongo-express/mongo-express](https://github.com/mongo-express/mongo-express))
+**Repository:** [https://github.com/mongo-express/mongo-express](https://github.com/mongo-express/mongo-express)
 
 **Author:** mongo-express
 
@@ -4320,7 +4320,7 @@ Various security tools and resources that are pending categorization.
 
 ## monkey
 
-**Repository:** [[https://github.com/guardicore/monkey](https://github.com/guardicore/monkey)]([https://github.com/guardicore/monkey](https://github.com/guardicore/monkey))
+**Repository:** [https://github.com/guardicore/monkey](https://github.com/guardicore/monkey)
 
 **Author:** guardicore
 
@@ -4328,7 +4328,7 @@ Various security tools and resources that are pending categorization.
 
 ## morpheus
 
-**Repository:** [[https://github.com/r00t-3xp10it/morpheus](https://github.com/r00t-3xp10it/morpheus)]([https://github.com/r00t-3xp10it/morpheus](https://github.com/r00t-3xp10it/morpheus))
+**Repository:** [https://github.com/r00t-3xp10it/morpheus](https://github.com/r00t-3xp10it/morpheus)
 
 **Author:** r00t-3xp10it
 
@@ -4336,7 +4336,7 @@ Various security tools and resources that are pending categorization.
 
 ## MozDef
 
-**Repository:** [[https://github.com/mozilla/MozDef](https://github.com/mozilla/MozDef)]([https://github.com/mozilla/MozDef](https://github.com/mozilla/MozDef))
+**Repository:** [https://github.com/mozilla/MozDef](https://github.com/mozilla/MozDef)
 
 **Author:** mozilla
 
@@ -4344,7 +4344,7 @@ Various security tools and resources that are pending categorization.
 
 ## mquery
 
-**Repository:** [[https://github.com/CERT-Polska/mquery](https://github.com/CERT-Polska/mquery)]([https://github.com/CERT-Polska/mquery](https://github.com/CERT-Polska/mquery))
+**Repository:** [https://github.com/CERT-Polska/mquery](https://github.com/CERT-Polska/mquery)
 
 **Author:** CERT-Polska
 
@@ -4352,7 +4352,7 @@ Various security tools and resources that are pending categorization.
 
 ## ms-teams-rce
 
-**Repository:** [[https://github.com/oskarsve/ms-teams-rce](https://github.com/oskarsve/ms-teams-rce)]([https://github.com/oskarsve/ms-teams-rce](https://github.com/oskarsve/ms-teams-rce))
+**Repository:** [https://github.com/oskarsve/ms-teams-rce](https://github.com/oskarsve/ms-teams-rce)
 
 **Author:** oskarsve
 
@@ -4360,7 +4360,7 @@ Various security tools and resources that are pending categorization.
 
 ## msitools
 
-**Repository:** [[https://github.com/GNOME/msitools](https://github.com/GNOME/msitools)]([https://github.com/GNOME/msitools](https://github.com/GNOME/msitools))
+**Repository:** [https://github.com/GNOME/msitools](https://github.com/GNOME/msitools)
 
 **Author:** GNOME
 
@@ -4368,7 +4368,7 @@ Various security tools and resources that are pending categorization.
 
 ## multiscanner
 
-**Repository:** [[https://github.com/mitre/multiscanner](https://github.com/mitre/multiscanner)]([https://github.com/mitre/multiscanner](https://github.com/mitre/multiscanner))
+**Repository:** [https://github.com/mitre/multiscanner](https://github.com/mitre/multiscanner)
 
 **Author:** mitre
 
@@ -4376,7 +4376,7 @@ Various security tools and resources that are pending categorization.
 
 ## multitor
 
-**Repository:** [[https://github.com/trimstray/multitor](https://github.com/trimstray/multitor)]([https://github.com/trimstray/multitor](https://github.com/trimstray/multitor))
+**Repository:** [https://github.com/trimstray/multitor](https://github.com/trimstray/multitor)
 
 **Author:** trimstray
 
@@ -4384,7 +4384,7 @@ Various security tools and resources that are pending categorization.
 
 ## mutablesecurity
 
-**Repository:** [[https://github.com/MutableSecurity/mutablesecurity](https://github.com/MutableSecurity/mutablesecurity)]([https://github.com/MutableSecurity/mutablesecurity](https://github.com/MutableSecurity/mutablesecurity))
+**Repository:** [https://github.com/MutableSecurity/mutablesecurity](https://github.com/MutableSecurity/mutablesecurity)
 
 **Author:** MutableSecurity
 
@@ -4392,7 +4392,7 @@ Various security tools and resources that are pending categorization.
 
 ## mvt
 
-**Repository:** [[https://github.com/mvt-project/mvt](https://github.com/mvt-project/mvt)]([https://github.com/mvt-project/mvt](https://github.com/mvt-project/mvt))
+**Repository:** [https://github.com/mvt-project/mvt](https://github.com/mvt-project/mvt)
 
 **Author:** mvt-project
 
@@ -4400,7 +4400,7 @@ Various security tools and resources that are pending categorization.
 
 ## mysql-honeypotd
 
-**Repository:** [[https://github.com/sjinks/mysql-honeypotd](https://github.com/sjinks/mysql-honeypotd)]([https://github.com/sjinks/mysql-honeypotd](https://github.com/sjinks/mysql-honeypotd))
+**Repository:** [https://github.com/sjinks/mysql-honeypotd](https://github.com/sjinks/mysql-honeypotd)
 
 **Author:** sjinks
 
@@ -4408,7 +4408,7 @@ Various security tools and resources that are pending categorization.
 
 ## MysqlPot
 
-**Repository:** [[https://github.com/schmalle/MysqlPot](https://github.com/schmalle/MysqlPot)]([https://github.com/schmalle/MysqlPot](https://github.com/schmalle/MysqlPot))
+**Repository:** [https://github.com/schmalle/MysqlPot](https://github.com/schmalle/MysqlPot)
 
 **Author:** schmalle
 
@@ -4416,7 +4416,7 @@ Various security tools and resources that are pending categorization.
 
 ## Mythic
 
-**Repository:** [[https://github.com/its-a-feature/Mythic](https://github.com/its-a-feature/Mythic)]([https://github.com/its-a-feature/Mythic](https://github.com/its-a-feature/Mythic))
+**Repository:** [https://github.com/its-a-feature/Mythic](https://github.com/its-a-feature/Mythic)
 
 **Author:** its-a-feature
 
@@ -4424,7 +4424,7 @@ Various security tools and resources that are pending categorization.
 
 ## mythweb
 
-**Repository:** [[https://github.com/MythTV/mythweb](https://github.com/MythTV/mythweb)]([https://github.com/MythTV/mythweb](https://github.com/MythTV/mythweb))
+**Repository:** [https://github.com/MythTV/mythweb](https://github.com/MythTV/mythweb)
 
 **Author:** MythTV
 
@@ -4432,7 +4432,7 @@ Various security tools and resources that are pending categorization.
 
 ## Nauz-File-Detector
 
-**Repository:** [[https://github.com/horsicq/Nauz-File-Detector](https://github.com/horsicq/Nauz-File-Detector)]([https://github.com/horsicq/Nauz-File-Detector](https://github.com/horsicq/Nauz-File-Detector))
+**Repository:** [https://github.com/horsicq/Nauz-File-Detector](https://github.com/horsicq/Nauz-File-Detector)
 
 **Author:** horsicq
 
@@ -4440,7 +4440,7 @@ Various security tools and resources that are pending categorization.
 
 ## naxsi
 
-**Repository:** [[https://github.com/nbs-system/naxsi](https://github.com/nbs-system/naxsi)]([https://github.com/nbs-system/naxsi](https://github.com/nbs-system/naxsi))
+**Repository:** [https://github.com/nbs-system/naxsi](https://github.com/nbs-system/naxsi)
 
 **Author:** nbs-system
 
@@ -4448,7 +4448,7 @@ Various security tools and resources that are pending categorization.
 
 ## netdiscover
 
-**Repository:** [[https://github.com/netdiscover-scanner/netdiscover](https://github.com/netdiscover-scanner/netdiscover)]([https://github.com/netdiscover-scanner/netdiscover](https://github.com/netdiscover-scanner/netdiscover))
+**Repository:** [https://github.com/netdiscover-scanner/netdiscover](https://github.com/netdiscover-scanner/netdiscover)
 
 **Author:** netdiscover-scanner
 
@@ -4456,7 +4456,7 @@ Various security tools and resources that are pending categorization.
 
 ## netz
 
-**Repository:** [[https://github.com/spectralops/netz](https://github.com/spectralops/netz)]([https://github.com/spectralops/netz](https://github.com/spectralops/netz))
+**Repository:** [https://github.com/spectralops/netz](https://github.com/spectralops/netz)
 
 **Author:** spectralops
 
@@ -4464,7 +4464,7 @@ Various security tools and resources that are pending categorization.
 
 ## netzob
 
-**Repository:** [[https://github.com/netzob/netzob](https://github.com/netzob/netzob)]([https://github.com/netzob/netzob](https://github.com/netzob/netzob))
+**Repository:** [https://github.com/netzob/netzob](https://github.com/netzob/netzob)
 
 **Author:** netzob
 
@@ -4472,7 +4472,7 @@ Various security tools and resources that are pending categorization.
 
 ## nexfil
 
-**Repository:** [[https://github.com/thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil)]([https://github.com/thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil))
+**Repository:** [https://github.com/thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil)
 
 **Author:** thewhiteh4t
 
@@ -4480,7 +4480,7 @@ Various security tools and resources that are pending categorization.
 
 ## nfstream
 
-**Repository:** [[https://github.com/nfstream/nfstream](https://github.com/nfstream/nfstream)]([https://github.com/nfstream/nfstream](https://github.com/nfstream/nfstream))
+**Repository:** [https://github.com/nfstream/nfstream](https://github.com/nfstream/nfstream)
 
 **Author:** nfstream
 
@@ -4488,7 +4488,7 @@ Various security tools and resources that are pending categorization.
 
 ## nikto
 
-**Repository:** [[https://github.com/sullo/nikto](https://github.com/sullo/nikto)]([https://github.com/sullo/nikto](https://github.com/sullo/nikto))
+**Repository:** [https://github.com/sullo/nikto](https://github.com/sullo/nikto)
 
 **Author:** sullo
 
@@ -4496,7 +4496,7 @@ Various security tools and resources that are pending categorization.
 
 ## node-appland
 
-**Repository:** [[https://github.com/dweinstein/node-appland](https://github.com/dweinstein/node-appland)]([https://github.com/dweinstein/node-appland](https://github.com/dweinstein/node-appland))
+**Repository:** [https://github.com/dweinstein/node-appland](https://github.com/dweinstein/node-appland)
 
 **Author:** dweinstein
 
@@ -4504,7 +4504,7 @@ Various security tools and resources that are pending categorization.
 
 ## node-ftp-honeypot
 
-**Repository:** [[https://github.com/christophe77/node-ftp-honeypot](https://github.com/christophe77/node-ftp-honeypot)]([https://github.com/christophe77/node-ftp-honeypot](https://github.com/christophe77/node-ftp-honeypot))
+**Repository:** [https://github.com/christophe77/node-ftp-honeypot](https://github.com/christophe77/node-ftp-honeypot)
 
 **Author:** christophe77
 
@@ -4512,7 +4512,7 @@ Various security tools and resources that are pending categorization.
 
 ## node-google-play
 
-**Repository:** [[https://github.com/dweinstein/node-google-play](https://github.com/dweinstein/node-google-play)]([https://github.com/dweinstein/node-google-play](https://github.com/dweinstein/node-google-play))
+**Repository:** [https://github.com/dweinstein/node-google-play](https://github.com/dweinstein/node-google-play)
 
 **Author:** dweinstein
 
@@ -4520,7 +4520,7 @@ Various security tools and resources that are pending categorization.
 
 ## node-yara
 
-**Repository:** [[https://github.com/nospaceships/node-yara](https://github.com/nospaceships/node-yara)]([https://github.com/nospaceships/node-yara](https://github.com/nospaceships/node-yara))
+**Repository:** [https://github.com/nospaceships/node-yara](https://github.com/nospaceships/node-yara)
 
 **Author:** nospaceships
 
@@ -4528,7 +4528,7 @@ Various security tools and resources that are pending categorization.
 
 ## Nodepot
 
-**Repository:** [[https://github.com/schmalle/Nodepot](https://github.com/schmalle/Nodepot)]([https://github.com/schmalle/Nodepot](https://github.com/schmalle/Nodepot))
+**Repository:** [https://github.com/schmalle/Nodepot](https://github.com/schmalle/Nodepot)
 
 **Author:** schmalle
 
@@ -4536,7 +4536,7 @@ Various security tools and resources that are pending categorization.
 
 ## NoSQLMap
 
-**Repository:** [[https://github.com/codingo/NoSQLMap](https://github.com/codingo/NoSQLMap)]([https://github.com/codingo/NoSQLMap](https://github.com/codingo/NoSQLMap))
+**Repository:** [https://github.com/codingo/NoSQLMap](https://github.com/codingo/NoSQLMap)
 
 **Author:** codingo
 
@@ -4544,7 +4544,7 @@ Various security tools and resources that are pending categorization.
 
 ## notary
 
-**Repository:** [[https://github.com/theupdateframework/notary](https://github.com/theupdateframework/notary)]([https://github.com/theupdateframework/notary](https://github.com/theupdateframework/notary))
+**Repository:** [https://github.com/theupdateframework/notary](https://github.com/theupdateframework/notary)
 
 **Author:** theupdateframework
 
@@ -4552,7 +4552,7 @@ Various security tools and resources that are pending categorization.
 
 ## ntfstool
 
-**Repository:** [[https://github.com/thewhiteninja/ntfstool](https://github.com/thewhiteninja/ntfstool)]([https://github.com/thewhiteninja/ntfstool](https://github.com/thewhiteninja/ntfstool))
+**Repository:** [https://github.com/thewhiteninja/ntfstool](https://github.com/thewhiteninja/ntfstool)
 
 **Author:** thewhiteninja
 
@@ -4560,7 +4560,7 @@ Various security tools and resources that are pending categorization.
 
 ## nudge4j
 
-**Repository:** [[https://github.com/lorenzoongithub/nudge4j](https://github.com/lorenzoongithub/nudge4j)]([https://github.com/lorenzoongithub/nudge4j](https://github.com/lorenzoongithub/nudge4j))
+**Repository:** [https://github.com/lorenzoongithub/nudge4j](https://github.com/lorenzoongithub/nudge4j)
 
 **Author:** lorenzoongithub
 
@@ -4568,7 +4568,7 @@ Various security tools and resources that are pending categorization.
 
 ## oauth2-server
 
-**Repository:** [[https://github.com/thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server)]([https://github.com/thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server))
+**Repository:** [https://github.com/thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server)
 
 **Author:** thephpleague
 
@@ -4576,7 +4576,7 @@ Various security tools and resources that are pending categorization.
 
 ## Obfuscapk
 
-**Repository:** [[https://github.com/ClaudiuGeorgiu/Obfuscapk](https://github.com/ClaudiuGeorgiu/Obfuscapk)]([https://github.com/ClaudiuGeorgiu/Obfuscapk](https://github.com/ClaudiuGeorgiu/Obfuscapk))
+**Repository:** [https://github.com/ClaudiuGeorgiu/Obfuscapk](https://github.com/ClaudiuGeorgiu/Obfuscapk)
 
 **Author:** ClaudiuGeorgiu
 
@@ -4584,7 +4584,7 @@ Various security tools and resources that are pending categorization.
 
 ## objection
 
-**Repository:** [[https://github.com/sensepost/objection](https://github.com/sensepost/objection)]([https://github.com/sensepost/objection](https://github.com/sensepost/objection))
+**Repository:** [https://github.com/sensepost/objection](https://github.com/sensepost/objection)
 
 **Author:** sensepost
 
@@ -4592,7 +4592,7 @@ Various security tools and resources that are pending categorization.
 
 ## Oblivion
 
-**Repository:** [[https://github.com/loseys/Oblivion](https://github.com/loseys/Oblivion)]([https://github.com/loseys/Oblivion](https://github.com/loseys/Oblivion))
+**Repository:** [https://github.com/loseys/Oblivion](https://github.com/loseys/Oblivion)
 
 **Author:** loseys
 
@@ -4600,7 +4600,7 @@ Various security tools and resources that are pending categorization.
 
 ## OCyara
 
-**Repository:** [[https://github.com/bandrel/OCyara](https://github.com/bandrel/OCyara)]([https://github.com/bandrel/OCyara](https://github.com/bandrel/OCyara))
+**Repository:** [https://github.com/bandrel/OCyara](https://github.com/bandrel/OCyara)
 
 **Author:** bandrel
 
@@ -4608,7 +4608,7 @@ Various security tools and resources that are pending categorization.
 
 ## odex-patcher
 
-**Repository:** [[https://github.com/giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)]([https://github.com/giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher))
+**Repository:** [https://github.com/giacomoferretti/odex-patcher](https://github.com/giacomoferretti/odex-patcher)
 
 **Author:** giacomoferretti
 
@@ -4616,7 +4616,7 @@ Various security tools and resources that are pending categorization.
 
 ## ofpot
 
-**Repository:** [[https://github.com/upa/ofpot](https://github.com/upa/ofpot)]([https://github.com/upa/ofpot](https://github.com/upa/ofpot))
+**Repository:** [https://github.com/upa/ofpot](https://github.com/upa/ofpot)
 
 **Author:** upa
 
@@ -4624,7 +4624,7 @@ Various security tools and resources that are pending categorization.
 
 ## one_gadget
 
-**Repository:** [[https://github.com/david942j/one_gadget](https://github.com/david942j/one_gadget)]([https://github.com/david942j/one_gadget](https://github.com/david942j/one_gadget))
+**Repository:** [https://github.com/david942j/one_gadget](https://github.com/david942j/one_gadget)
 
 **Author:** david942j
 
@@ -4632,7 +4632,7 @@ Various security tools and resources that are pending categorization.
 
 ## onefuzz
 
-**Repository:** [[https://github.com/microsoft/onefuzz](https://github.com/microsoft/onefuzz)]([https://github.com/microsoft/onefuzz](https://github.com/microsoft/onefuzz))
+**Repository:** [https://github.com/microsoft/onefuzz](https://github.com/microsoft/onefuzz)
 
 **Author:** microsoft
 
@@ -4640,7 +4640,7 @@ Various security tools and resources that are pending categorization.
 
 ## onion-grater
 
-**Repository:** [[https://github.com/Whonix/onion-grater](https://github.com/Whonix/onion-grater)]([https://github.com/Whonix/onion-grater](https://github.com/Whonix/onion-grater))
+**Repository:** [https://github.com/Whonix/onion-grater](https://github.com/Whonix/onion-grater)
 
 **Author:** Whonix
 
@@ -4648,7 +4648,7 @@ Various security tools and resources that are pending categorization.
 
 ## onionscan
 
-**Repository:** [[https://github.com/s-rah/onionscan](https://github.com/s-rah/onionscan)]([https://github.com/s-rah/onionscan](https://github.com/s-rah/onionscan))
+**Repository:** [https://github.com/s-rah/onionscan](https://github.com/s-rah/onionscan)
 
 **Author:** s-rah
 
@@ -4656,7 +4656,7 @@ Various security tools and resources that are pending categorization.
 
 ## OpenBackupExtractor
 
-**Repository:** [[https://github.com/vgmoose/OpenBackupExtractor](https://github.com/vgmoose/OpenBackupExtractor)]([https://github.com/vgmoose/OpenBackupExtractor](https://github.com/vgmoose/OpenBackupExtractor))
+**Repository:** [https://github.com/vgmoose/OpenBackupExtractor](https://github.com/vgmoose/OpenBackupExtractor)
 
 **Author:** vgmoose
 
@@ -4664,7 +4664,7 @@ Various security tools and resources that are pending categorization.
 
 ## opencanary
 
-**Repository:** [[https://github.com/thinkst/opencanary](https://github.com/thinkst/opencanary)]([https://github.com/thinkst/opencanary](https://github.com/thinkst/opencanary))
+**Repository:** [https://github.com/thinkst/opencanary](https://github.com/thinkst/opencanary)
 
 **Author:** thinkst
 
@@ -4672,7 +4672,7 @@ Various security tools and resources that are pending categorization.
 
 ## openrasp
 
-**Repository:** [[https://github.com/baidu/openrasp](https://github.com/baidu/openrasp)]([https://github.com/baidu/openrasp](https://github.com/baidu/openrasp))
+**Repository:** [https://github.com/baidu/openrasp](https://github.com/baidu/openrasp)
 
 **Author:** baidu
 
@@ -4680,7 +4680,7 @@ Various security tools and resources that are pending categorization.
 
 ## Orbit
 
-**Repository:** [[https://github.com/s0md3v/Orbit](https://github.com/s0md3v/Orbit)]([https://github.com/s0md3v/Orbit](https://github.com/s0md3v/Orbit))
+**Repository:** [https://github.com/s0md3v/Orbit](https://github.com/s0md3v/Orbit)
 
 **Author:** s0md3v
 
@@ -4688,7 +4688,7 @@ Various security tools and resources that are pending categorization.
 
 ## origami-pdf
 
-**Repository:** [[https://github.com/cogent/origami-pdf](https://github.com/cogent/origami-pdf)]([https://github.com/cogent/origami-pdf](https://github.com/cogent/origami-pdf))
+**Repository:** [https://github.com/cogent/origami-pdf](https://github.com/cogent/origami-pdf)
 
 **Author:** cogent
 
@@ -4696,7 +4696,7 @@ Various security tools and resources that are pending categorization.
 
 ## orochi
 
-**Repository:** [[https://github.com/LDO-CERT/orochi](https://github.com/LDO-CERT/orochi)]([https://github.com/LDO-CERT/orochi](https://github.com/LDO-CERT/orochi))
+**Repository:** [https://github.com/LDO-CERT/orochi](https://github.com/LDO-CERT/orochi)
 
 **Author:** LDO-CERT
 
@@ -4704,7 +4704,7 @@ Various security tools and resources that are pending categorization.
 
 ## OSCP-2022
 
-**Repository:** [[https://github.com/brianlam38/OSCP-2022](https://github.com/brianlam38/OSCP-2022)]([https://github.com/brianlam38/OSCP-2022](https://github.com/brianlam38/OSCP-2022))
+**Repository:** [https://github.com/brianlam38/OSCP-2022](https://github.com/brianlam38/OSCP-2022)
 
 **Author:** brianlam38
 
@@ -4712,7 +4712,7 @@ Various security tools and resources that are pending categorization.
 
 ## oscp-enumeration-cheat-sheet
 
-**Repository:** [[https://github.com/oncybersec/oscp-enumeration-cheat-sheet](https://github.com/oncybersec/oscp-enumeration-cheat-sheet)]([https://github.com/oncybersec/oscp-enumeration-cheat-sheet](https://github.com/oncybersec/oscp-enumeration-cheat-sheet))
+**Repository:** [https://github.com/oncybersec/oscp-enumeration-cheat-sheet](https://github.com/oncybersec/oscp-enumeration-cheat-sheet)
 
 **Author:** oncybersec
 
@@ -4720,7 +4720,7 @@ Various security tools and resources that are pending categorization.
 
 ## Osintgram
 
-**Repository:** [[https://github.com/Datalux/Osintgram](https://github.com/Datalux/Osintgram)]([https://github.com/Datalux/Osintgram](https://github.com/Datalux/Osintgram))
+**Repository:** [https://github.com/Datalux/Osintgram](https://github.com/Datalux/Osintgram)
 
 **Author:** Datalux
 
@@ -4728,7 +4728,7 @@ Various security tools and resources that are pending categorization.
 
 ## oss-oopssec-store
 
-**Repository:** [[https://github.com/kOaDT/oss-oopssec-store](https://github.com/kOaDT/oss-oopssec-store)]([https://github.com/kOaDT/oss-oopssec-store](https://github.com/kOaDT/oss-oopssec-store))
+**Repository:** [https://github.com/kOaDT/oss-oopssec-store](https://github.com/kOaDT/oss-oopssec-store)
 
 **Author:** kOaDT
 
@@ -4736,7 +4736,7 @@ Various security tools and resources that are pending categorization.
 
 ## osx-security-awesome
 
-**Repository:** [[https://github.com/kai5263499/osx-security-awesome](https://github.com/kai5263499/osx-security-awesome)]([https://github.com/kai5263499/osx-security-awesome](https://github.com/kai5263499/osx-security-awesome))
+**Repository:** [https://github.com/kai5263499/osx-security-awesome](https://github.com/kai5263499/osx-security-awesome)
 
 **Author:** kai5263499
 
@@ -4744,7 +4744,7 @@ Various security tools and resources that are pending categorization.
 
 ## osxcollector
 
-**Repository:** [[https://github.com/Yelp/osxcollector](https://github.com/Yelp/osxcollector)]([https://github.com/Yelp/osxcollector](https://github.com/Yelp/osxcollector))
+**Repository:** [https://github.com/Yelp/osxcollector](https://github.com/Yelp/osxcollector)
 
 **Author:** Yelp
 
@@ -4752,7 +4752,7 @@ Various security tools and resources that are pending categorization.
 
 ## owa-honeypot
 
-**Repository:** [[https://github.com/joda32/owa-honeypot](https://github.com/joda32/owa-honeypot)]([https://github.com/joda32/owa-honeypot](https://github.com/joda32/owa-honeypot))
+**Repository:** [https://github.com/joda32/owa-honeypot](https://github.com/joda32/owa-honeypot)
 
 **Author:** joda32
 
@@ -4760,7 +4760,7 @@ Various security tools and resources that are pending categorization.
 
 ## packerid
 
-**Repository:** [[https://github.com/sooshie/packerid](https://github.com/sooshie/packerid)]([https://github.com/sooshie/packerid](https://github.com/sooshie/packerid))
+**Repository:** [https://github.com/sooshie/packerid](https://github.com/sooshie/packerid)
 
 **Author:** sooshie
 
@@ -4768,7 +4768,7 @@ Various security tools and resources that are pending categorization.
 
 ## pagodo
 
-**Repository:** [[https://github.com/opsdisk/pagodo](https://github.com/opsdisk/pagodo)]([https://github.com/opsdisk/pagodo](https://github.com/opsdisk/pagodo))
+**Repository:** [https://github.com/opsdisk/pagodo](https://github.com/opsdisk/pagodo)
 
 **Author:** opsdisk
 
@@ -4776,7 +4776,7 @@ Various security tools and resources that are pending categorization.
 
 ## PancakeViewer
 
-**Repository:** [[https://github.com/forensicmatt/PancakeViewer](https://github.com/forensicmatt/PancakeViewer)]([https://github.com/forensicmatt/PancakeViewer](https://github.com/forensicmatt/PancakeViewer))
+**Repository:** [https://github.com/forensicmatt/PancakeViewer](https://github.com/forensicmatt/PancakeViewer)
 
 **Author:** forensicmatt
 
@@ -4784,7 +4784,7 @@ Various security tools and resources that are pending categorization.
 
 ## panda
 
-**Repository:** [[https://github.com/moyix/panda](https://github.com/moyix/panda)]([https://github.com/moyix/panda](https://github.com/moyix/panda))
+**Repository:** [https://github.com/moyix/panda](https://github.com/moyix/panda)
 
 **Author:** moyix
 
@@ -4792,7 +4792,7 @@ Various security tools and resources that are pending categorization.
 
 ## passivedns-client
 
-**Repository:** [[https://github.com/chrislee35/passivedns-client](https://github.com/chrislee35/passivedns-client)]([https://github.com/chrislee35/passivedns-client](https://github.com/chrislee35/passivedns-client))
+**Repository:** [https://github.com/chrislee35/passivedns-client](https://github.com/chrislee35/passivedns-client)
 
 **Author:** chrislee35
 
@@ -4800,7 +4800,7 @@ Various security tools and resources that are pending categorization.
 
 ## passpie
 
-**Repository:** [[https://github.com/marcwebbie/passpie](https://github.com/marcwebbie/passpie)]([https://github.com/marcwebbie/passpie](https://github.com/marcwebbie/passpie))
+**Repository:** [https://github.com/marcwebbie/passpie](https://github.com/marcwebbie/passpie)
 
 **Author:** marcwebbie
 
@@ -4808,7 +4808,7 @@ Various security tools and resources that are pending categorization.
 
 ## password_compat
 
-**Repository:** [[https://github.com/ircmaxell/password_compat](https://github.com/ircmaxell/password_compat)]([https://github.com/ircmaxell/password_compat](https://github.com/ircmaxell/password_compat))
+**Repository:** [https://github.com/ircmaxell/password_compat](https://github.com/ircmaxell/password_compat)
 
 **Author:** ircmaxell
 
@@ -4816,7 +4816,7 @@ Various security tools and resources that are pending categorization.
 
 ## PasteHunter
 
-**Repository:** [[https://github.com/kevthehermit/PasteHunter](https://github.com/kevthehermit/PasteHunter)]([https://github.com/kevthehermit/PasteHunter](https://github.com/kevthehermit/PasteHunter))
+**Repository:** [https://github.com/kevthehermit/PasteHunter](https://github.com/kevthehermit/PasteHunter)
 
 **Author:** kevthehermit
 
@@ -4824,7 +4824,7 @@ Various security tools and resources that are pending categorization.
 
 ## pcc
 
-**Repository:** [[https://github.com/sektioneins/pcc](https://github.com/sektioneins/pcc)]([https://github.com/sektioneins/pcc](https://github.com/sektioneins/pcc))
+**Repository:** [https://github.com/sektioneins/pcc](https://github.com/sektioneins/pcc)
 
 **Author:** sektioneins
 
@@ -4832,7 +4832,7 @@ Various security tools and resources that are pending categorization.
 
 ## pdfxray_lite
 
-**Repository:** [[https://github.com/9b/pdfxray_lite](https://github.com/9b/pdfxray_lite)]([https://github.com/9b/pdfxray_lite](https://github.com/9b/pdfxray_lite))
+**Repository:** [https://github.com/9b/pdfxray_lite](https://github.com/9b/pdfxray_lite)
 
 **Author:** 9b
 
@@ -4840,7 +4840,7 @@ Various security tools and resources that are pending categorization.
 
 ## peCloakCapstone
 
-**Repository:** [[https://github.com/v-p-b/peCloakCapstone](https://github.com/v-p-b/peCloakCapstone)]([https://github.com/v-p-b/peCloakCapstone](https://github.com/v-p-b/peCloakCapstone))
+**Repository:** [https://github.com/v-p-b/peCloakCapstone](https://github.com/v-p-b/peCloakCapstone)
 
 **Author:** v-p-b
 
@@ -4848,7 +4848,7 @@ Various security tools and resources that are pending categorization.
 
 ## pefile
 
-**Repository:** [[https://github.com/erocarrera/pefile](https://github.com/erocarrera/pefile)]([https://github.com/erocarrera/pefile](https://github.com/erocarrera/pefile))
+**Repository:** [https://github.com/erocarrera/pefile](https://github.com/erocarrera/pefile)
 
 **Author:** erocarrera
 
@@ -4856,7 +4856,7 @@ Various security tools and resources that are pending categorization.
 
 ## perspective
 
-**Repository:** [[https://github.com/finos/perspective](https://github.com/finos/perspective)]([https://github.com/finos/perspective](https://github.com/finos/perspective))
+**Repository:** [https://github.com/finos/perspective](https://github.com/finos/perspective)
 
 **Author:** finos
 
@@ -4864,7 +4864,7 @@ Various security tools and resources that are pending categorization.
 
 ## PFQ
 
-**Repository:** [[https://github.com/pfq/PFQ](https://github.com/pfq/PFQ)]([https://github.com/pfq/PFQ](https://github.com/pfq/PFQ))
+**Repository:** [https://github.com/pfq/PFQ](https://github.com/pfq/PFQ)
 
 **Author:** pfq
 
@@ -4872,7 +4872,7 @@ Various security tools and resources that are pending categorization.
 
 ## pghoney
 
-**Repository:** [[https://github.com/betheroot/pghoney](https://github.com/betheroot/pghoney)]([https://github.com/betheroot/pghoney](https://github.com/betheroot/pghoney))
+**Repository:** [https://github.com/betheroot/pghoney](https://github.com/betheroot/pghoney)
 
 **Author:** betheroot
 
@@ -4880,7 +4880,7 @@ Various security tools and resources that are pending categorization.
 
 ## pharos
 
-**Repository:** [[https://github.com/cmu-sei/pharos](https://github.com/cmu-sei/pharos)]([https://github.com/cmu-sei/pharos](https://github.com/cmu-sei/pharos))
+**Repository:** [https://github.com/cmu-sei/pharos](https://github.com/cmu-sei/pharos)
 
 **Author:** cmu-sei
 
@@ -4888,7 +4888,7 @@ Various security tools and resources that are pending categorization.
 
 ## phishery
 
-**Repository:** [[https://github.com/ryhanson/phishery](https://github.com/ryhanson/phishery)]([https://github.com/ryhanson/phishery](https://github.com/ryhanson/phishery))
+**Repository:** [https://github.com/ryhanson/phishery](https://github.com/ryhanson/phishery)
 
 **Author:** ryhanson
 
@@ -4896,7 +4896,7 @@ Various security tools and resources that are pending categorization.
 
 ## phishing_catcher
 
-**Repository:** [[https://github.com/x0rz/phishing_catcher](https://github.com/x0rz/phishing_catcher)]([https://github.com/x0rz/phishing_catcher](https://github.com/x0rz/phishing_catcher))
+**Repository:** [https://github.com/x0rz/phishing_catcher](https://github.com/x0rz/phishing_catcher)
 
 **Author:** x0rz
 
@@ -4904,7 +4904,7 @@ Various security tools and resources that are pending categorization.
 
 ## PhishingKit-Yara-Rules
 
-**Repository:** [[https://github.com/t4d/PhishingKit-Yara-Rules](https://github.com/t4d/PhishingKit-Yara-Rules)]([https://github.com/t4d/PhishingKit-Yara-Rules](https://github.com/t4d/PhishingKit-Yara-Rules))
+**Repository:** [https://github.com/t4d/PhishingKit-Yara-Rules](https://github.com/t4d/PhishingKit-Yara-Rules)
 
 **Author:** t4d
 
@@ -4912,7 +4912,7 @@ Various security tools and resources that are pending categorization.
 
 ## PhoneInfoga
 
-**Repository:** [[https://github.com/sundowndev/PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)]([https://github.com/sundowndev/PhoneInfoga](https://github.com/sundowndev/PhoneInfoga))
+**Repository:** [https://github.com/sundowndev/PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)
 
 **Author:** sundowndev
 
@@ -4920,7 +4920,7 @@ Various security tools and resources that are pending categorization.
 
 ## phoneyc
 
-**Repository:** [[https://github.com/honeynet/phoneyc](https://github.com/honeynet/phoneyc)]([https://github.com/honeynet/phoneyc](https://github.com/honeynet/phoneyc))
+**Repository:** [https://github.com/honeynet/phoneyc](https://github.com/honeynet/phoneyc)
 
 **Author:** honeynet
 
@@ -4928,7 +4928,7 @@ Various security tools and resources that are pending categorization.
 
 ## Photon
 
-**Repository:** [[https://github.com/s0md3v/Photon](https://github.com/s0md3v/Photon)]([https://github.com/s0md3v/Photon](https://github.com/s0md3v/Photon))
+**Repository:** [https://github.com/s0md3v/Photon](https://github.com/s0md3v/Photon)
 
 **Author:** s0md3v
 
@@ -4936,7 +4936,7 @@ Various security tools and resources that are pending categorization.
 
 ## php-encryption
 
-**Repository:** [[https://github.com/defuse/php-encryption](https://github.com/defuse/php-encryption)]([https://github.com/defuse/php-encryption](https://github.com/defuse/php-encryption))
+**Repository:** [https://github.com/defuse/php-encryption](https://github.com/defuse/php-encryption)
 
 **Author:** defuse
 
@@ -4944,7 +4944,7 @@ Various security tools and resources that are pending categorization.
 
 ## php-torcontrol
 
-**Repository:** [[https://github.com/dunglas/php-torcontrol](https://github.com/dunglas/php-torcontrol)]([https://github.com/dunglas/php-torcontrol](https://github.com/dunglas/php-torcontrol))
+**Repository:** [https://github.com/dunglas/php-torcontrol](https://github.com/dunglas/php-torcontrol)
 
 **Author:** dunglas
 
@@ -4952,7 +4952,7 @@ Various security tools and resources that are pending categorization.
 
 ## php-webshells
 
-**Repository:** [[https://github.com/JohnTroony/php-webshells](https://github.com/JohnTroony/php-webshells)]([https://github.com/JohnTroony/php-webshells](https://github.com/JohnTroony/php-webshells))
+**Repository:** [https://github.com/JohnTroony/php-webshells](https://github.com/JohnTroony/php-webshells)
 
 **Author:** JohnTroony
 
@@ -4960,7 +4960,7 @@ Various security tools and resources that are pending categorization.
 
 ## phpmyadmin_honeypot
 
-**Repository:** [[https://github.com/gfoss/phpmyadmin_honeypot](https://github.com/gfoss/phpmyadmin_honeypot)]([https://github.com/gfoss/phpmyadmin_honeypot](https://github.com/gfoss/phpmyadmin_honeypot))
+**Repository:** [https://github.com/gfoss/phpmyadmin_honeypot](https://github.com/gfoss/phpmyadmin_honeypot)
 
 **Author:** gfoss
 
@@ -4968,7 +4968,7 @@ Various security tools and resources that are pending categorization.
 
 ## PINCE
 
-**Repository:** [[https://github.com/korcankaraokcu/PINCE](https://github.com/korcankaraokcu/PINCE)]([https://github.com/korcankaraokcu/PINCE](https://github.com/korcankaraokcu/PINCE))
+**Repository:** [https://github.com/korcankaraokcu/PINCE](https://github.com/korcankaraokcu/PINCE)
 
 **Author:** korcankaraokcu
 
@@ -4976,7 +4976,7 @@ Various security tools and resources that are pending categorization.
 
 ## pint
 
-**Repository:** [[https://github.com/hexgolems/pint](https://github.com/hexgolems/pint)]([https://github.com/hexgolems/pint](https://github.com/hexgolems/pint))
+**Repository:** [https://github.com/hexgolems/pint](https://github.com/hexgolems/pint)
 
 **Author:** hexgolems
 
@@ -4984,7 +4984,7 @@ Various security tools and resources that are pending categorization.
 
 ## pkt2flow
 
-**Repository:** [[https://github.com/caesar0301/pkt2flow](https://github.com/caesar0301/pkt2flow)]([https://github.com/caesar0301/pkt2flow](https://github.com/caesar0301/pkt2flow))
+**Repository:** [https://github.com/caesar0301/pkt2flow](https://github.com/caesar0301/pkt2flow)
 
 **Author:** caesar0301
 
@@ -4992,7 +4992,7 @@ Various security tools and resources that are pending categorization.
 
 ## plasma
 
-**Repository:** [[https://github.com/joelpx/plasma](https://github.com/joelpx/plasma)]([https://github.com/joelpx/plasma](https://github.com/joelpx/plasma))
+**Repository:** [https://github.com/joelpx/plasma](https://github.com/joelpx/plasma)
 
 **Author:** joelpx
 
@@ -5000,7 +5000,7 @@ Various security tools and resources that are pending categorization.
 
 ## plaso
 
-**Repository:** [[https://github.com/log2timeline/plaso](https://github.com/log2timeline/plaso)]([https://github.com/log2timeline/plaso](https://github.com/log2timeline/plaso))
+**Repository:** [https://github.com/log2timeline/plaso](https://github.com/log2timeline/plaso)
 
 **Author:** log2timeline
 
@@ -5008,7 +5008,7 @@ Various security tools and resources that are pending categorization.
 
 ## PlaystoreDownloader
 
-**Repository:** [[https://github.com/ClaudiuGeorgiu/PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader)]([https://github.com/ClaudiuGeorgiu/PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader))
+**Repository:** [https://github.com/ClaudiuGeorgiu/PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader)
 
 **Author:** ClaudiuGeorgiu
 
@@ -5016,7 +5016,7 @@ Various security tools and resources that are pending categorization.
 
 ## PLCinject
 
-**Repository:** [[https://github.com/SCADACS/PLCinject](https://github.com/SCADACS/PLCinject)]([https://github.com/SCADACS/PLCinject](https://github.com/SCADACS/PLCinject))
+**Repository:** [https://github.com/SCADACS/PLCinject](https://github.com/SCADACS/PLCinject)
 
 **Author:** SCADACS
 
@@ -5024,7 +5024,7 @@ Various security tools and resources that are pending categorization.
 
 ## PlumHound
 
-**Repository:** [[https://github.com/PlumHound/PlumHound](https://github.com/PlumHound/PlumHound)]([https://github.com/PlumHound/PlumHound](https://github.com/PlumHound/PlumHound))
+**Repository:** [https://github.com/PlumHound/PlumHound](https://github.com/PlumHound/PlumHound)
 
 **Author:** PlumHound
 
@@ -5032,7 +5032,7 @@ Various security tools and resources that are pending categorization.
 
 ## pmacct
 
-**Repository:** [[https://github.com/pmacct/pmacct](https://github.com/pmacct/pmacct)]([https://github.com/pmacct/pmacct](https://github.com/pmacct/pmacct))
+**Repository:** [https://github.com/pmacct/pmacct](https://github.com/pmacct/pmacct)
 
 **Author:** pmacct
 
@@ -5040,7 +5040,7 @@ Various security tools and resources that are pending categorization.
 
 ## pnaf
 
-**Repository:** [[https://github.com/jusafing/pnaf](https://github.com/jusafing/pnaf)]([https://github.com/jusafing/pnaf](https://github.com/jusafing/pnaf))
+**Repository:** [https://github.com/jusafing/pnaf](https://github.com/jusafing/pnaf)
 
 **Author:** jusafing
 
@@ -5048,7 +5048,7 @@ Various security tools and resources that are pending categorization.
 
 ## polichombr
 
-**Repository:** [[https://github.com/ANSSI-FR/polichombr](https://github.com/ANSSI-FR/polichombr)]([https://github.com/ANSSI-FR/polichombr](https://github.com/ANSSI-FR/polichombr))
+**Repository:** [https://github.com/ANSSI-FR/polichombr](https://github.com/ANSSI-FR/polichombr)
 
 **Author:** ANSSI-FR
 
@@ -5056,7 +5056,7 @@ Various security tools and resources that are pending categorization.
 
 ## pompelmi
 
-**Repository:** [[https://github.com/pompelmi/pompelmi](https://github.com/pompelmi/pompelmi)]([https://github.com/pompelmi/pompelmi](https://github.com/pompelmi/pompelmi))
+**Repository:** [https://github.com/pompelmi/pompelmi](https://github.com/pompelmi/pompelmi)
 
 **Author:** pompelmi
 
@@ -5064,7 +5064,7 @@ Various security tools and resources that are pending categorization.
 
 ## Posh-VirusTotal
 
-**Repository:** [[https://github.com/darkoperator/Posh-VirusTotal](https://github.com/darkoperator/Posh-VirusTotal)]([https://github.com/darkoperator/Posh-VirusTotal](https://github.com/darkoperator/Posh-VirusTotal))
+**Repository:** [https://github.com/darkoperator/Posh-VirusTotal](https://github.com/darkoperator/Posh-VirusTotal)
 
 **Author:** darkoperator
 
@@ -5072,7 +5072,7 @@ Various security tools and resources that are pending categorization.
 
 ## post-o-llama
 
-**Repository:** [[https://github.com/BerserkiKun/post-o-llama](https://github.com/BerserkiKun/post-o-llama)]([https://github.com/BerserkiKun/post-o-llama](https://github.com/BerserkiKun/post-o-llama))
+**Repository:** [https://github.com/BerserkiKun/post-o-llama](https://github.com/BerserkiKun/post-o-llama)
 
 **Author:** BerserkiKun
 
@@ -5080,7 +5080,7 @@ Various security tools and resources that are pending categorization.
 
 ## PowerSploit
 
-**Repository:** [[https://github.com/PowerShellMafia/PowerSploit](https://github.com/PowerShellMafia/PowerSploit)]([https://github.com/PowerShellMafia/PowerSploit](https://github.com/PowerShellMafia/PowerSploit))
+**Repository:** [https://github.com/PowerShellMafia/PowerSploit](https://github.com/PowerShellMafia/PowerSploit)
 
 **Author:** PowerShellMafia
 
@@ -5088,7 +5088,7 @@ Various security tools and resources that are pending categorization.
 
 ## ProbeDroid
 
-**Repository:** [[https://github.com/ZSShen/ProbeDroid](https://github.com/ZSShen/ProbeDroid)]([https://github.com/ZSShen/ProbeDroid](https://github.com/ZSShen/ProbeDroid))
+**Repository:** [https://github.com/ZSShen/ProbeDroid](https://github.com/ZSShen/ProbeDroid)
 
 **Author:** ZSShen
 
@@ -5096,7 +5096,7 @@ Various security tools and resources that are pending categorization.
 
 ## procfilter
 
-**Repository:** [[https://github.com/godaddy/procfilter](https://github.com/godaddy/procfilter)]([https://github.com/godaddy/procfilter](https://github.com/godaddy/procfilter))
+**Repository:** [https://github.com/godaddy/procfilter](https://github.com/godaddy/procfilter)
 
 **Author:** godaddy
 
@@ -5104,7 +5104,7 @@ Various security tools and resources that are pending categorization.
 
 ## protobuf-inspector
 
-**Repository:** [[https://github.com/jmendeth/protobuf-inspector](https://github.com/jmendeth/protobuf-inspector)]([https://github.com/jmendeth/protobuf-inspector](https://github.com/jmendeth/protobuf-inspector))
+**Repository:** [https://github.com/jmendeth/protobuf-inspector](https://github.com/jmendeth/protobuf-inspector)
 
 **Author:** jmendeth
 
@@ -5112,7 +5112,7 @@ Various security tools and resources that are pending categorization.
 
 ## PSKracker
 
-**Repository:** [[https://github.com/soxrok2212/PSKracker](https://github.com/soxrok2212/PSKracker)]([https://github.com/soxrok2212/PSKracker](https://github.com/soxrok2212/PSKracker))
+**Repository:** [https://github.com/soxrok2212/PSKracker](https://github.com/soxrok2212/PSKracker)
 
 **Author:** soxrok2212
 
@@ -5120,7 +5120,7 @@ Various security tools and resources that are pending categorization.
 
 ## pupy
 
-**Repository:** [[https://github.com/n1nj4sec/pupy](https://github.com/n1nj4sec/pupy)]([https://github.com/n1nj4sec/pupy](https://github.com/n1nj4sec/pupy))
+**Repository:** [https://github.com/n1nj4sec/pupy](https://github.com/n1nj4sec/pupy)
 
 **Author:** n1nj4sec
 
@@ -5128,7 +5128,7 @@ Various security tools and resources that are pending categorization.
 
 ## pwnat
 
-**Repository:** [[https://github.com/samyk/pwnat](https://github.com/samyk/pwnat)]([https://github.com/samyk/pwnat](https://github.com/samyk/pwnat))
+**Repository:** [https://github.com/samyk/pwnat](https://github.com/samyk/pwnat)
 
 **Author:** samyk
 
@@ -5136,7 +5136,7 @@ Various security tools and resources that are pending categorization.
 
 ## pwndbg
 
-**Repository:** [[https://github.com/pwndbg/pwndbg](https://github.com/pwndbg/pwndbg)]([https://github.com/pwndbg/pwndbg](https://github.com/pwndbg/pwndbg))
+**Repository:** [https://github.com/pwndbg/pwndbg](https://github.com/pwndbg/pwndbg)
 
 **Author:** pwndbg
 
@@ -5144,7 +5144,7 @@ Various security tools and resources that are pending categorization.
 
 ## pwntools
 
-**Repository:** [[https://github.com/Gallopsled/pwntools](https://github.com/Gallopsled/pwntools)]([https://github.com/Gallopsled/pwntools](https://github.com/Gallopsled/pwntools))
+**Repository:** [https://github.com/Gallopsled/pwntools](https://github.com/Gallopsled/pwntools)
 
 **Author:** Gallopsled
 
@@ -5152,7 +5152,7 @@ Various security tools and resources that are pending categorization.
 
 ## PyBrowserAutomation
 
-**Repository:** [[https://github.com/fauvidoTechnologies/PyBrowserAutomation](https://github.com/fauvidoTechnologies/PyBrowserAutomation)]([https://github.com/fauvidoTechnologies/PyBrowserAutomation](https://github.com/fauvidoTechnologies/PyBrowserAutomation))
+**Repository:** [https://github.com/fauvidoTechnologies/PyBrowserAutomation](https://github.com/fauvidoTechnologies/PyBrowserAutomation)
 
 **Author:** fauvidoTechnologies
 
@@ -5160,7 +5160,7 @@ Various security tools and resources that are pending categorization.
 
 ## pyinstxtractor
 
-**Repository:** [[https://github.com/extremecoders-re/pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor)]([https://github.com/extremecoders-re/pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor))
+**Repository:** [https://github.com/extremecoders-re/pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor)
 
 **Author:** extremecoders-re
 
@@ -5168,7 +5168,7 @@ Various security tools and resources that are pending categorization.
 
 ## pylibemu
 
-**Repository:** [[https://github.com/buffer/pylibemu](https://github.com/buffer/pylibemu)]([https://github.com/buffer/pylibemu](https://github.com/buffer/pylibemu))
+**Repository:** [https://github.com/buffer/pylibemu](https://github.com/buffer/pylibemu)
 
 **Author:** buffer
 
@@ -5176,7 +5176,7 @@ Various security tools and resources that are pending categorization.
 
 ## PyPhishing
 
-**Repository:** [[https://github.com/redteamsecurity/PyPhishing](https://github.com/redteamsecurity/PyPhishing)]([https://github.com/redteamsecurity/PyPhishing](https://github.com/redteamsecurity/PyPhishing))
+**Repository:** [https://github.com/redteamsecurity/PyPhishing](https://github.com/redteamsecurity/PyPhishing)
 
 **Author:** redteamsecurity
 
@@ -5184,7 +5184,7 @@ Various security tools and resources that are pending categorization.
 
 ## pyrdp
 
-**Repository:** [[https://github.com/gosecure/pyrdp](https://github.com/gosecure/pyrdp)]([https://github.com/gosecure/pyrdp](https://github.com/gosecure/pyrdp))
+**Repository:** [https://github.com/gosecure/pyrdp](https://github.com/gosecure/pyrdp)
 
 **Author:** gosecure
 
@@ -5192,7 +5192,7 @@ Various security tools and resources that are pending categorization.
 
 ## pyrebox
 
-**Repository:** [[https://github.com/Cisco-Talos/pyrebox](https://github.com/Cisco-Talos/pyrebox)]([https://github.com/Cisco-Talos/pyrebox](https://github.com/Cisco-Talos/pyrebox))
+**Repository:** [https://github.com/Cisco-Talos/pyrebox](https://github.com/Cisco-Talos/pyrebox)
 
 **Author:** Cisco-Talos
 
@@ -5200,7 +5200,7 @@ Various security tools and resources that are pending categorization.
 
 ## python-dshield
 
-**Repository:** [[https://github.com/rshipp/python-dshield](https://github.com/rshipp/python-dshield)]([https://github.com/rshipp/python-dshield](https://github.com/rshipp/python-dshield))
+**Repository:** [https://github.com/rshipp/python-dshield](https://github.com/rshipp/python-dshield)
 
 **Author:** rshipp
 
@@ -5208,7 +5208,7 @@ Various security tools and resources that are pending categorization.
 
 ## python-evt
 
-**Repository:** [[https://github.com/williballenthin/python-evt](https://github.com/williballenthin/python-evt)]([https://github.com/williballenthin/python-evt](https://github.com/williballenthin/python-evt))
+**Repository:** [https://github.com/williballenthin/python-evt](https://github.com/williballenthin/python-evt)
 
 **Author:** williballenthin
 
@@ -5216,7 +5216,7 @@ Various security tools and resources that are pending categorization.
 
 ## python-evtx
 
-**Repository:** [[https://github.com/williballenthin/python-evtx](https://github.com/williballenthin/python-evtx)]([https://github.com/williballenthin/python-evtx](https://github.com/williballenthin/python-evtx))
+**Repository:** [https://github.com/williballenthin/python-evtx](https://github.com/williballenthin/python-evtx)
 
 **Author:** williballenthin
 
@@ -5224,7 +5224,7 @@ Various security tools and resources that are pending categorization.
 
 ## python-icap-yara
 
-**Repository:** [[https://github.com/RamadhanAmizudin/python-icap-yara](https://github.com/RamadhanAmizudin/python-icap-yara)]([https://github.com/RamadhanAmizudin/python-icap-yara](https://github.com/RamadhanAmizudin/python-icap-yara))
+**Repository:** [https://github.com/RamadhanAmizudin/python-icap-yara](https://github.com/RamadhanAmizudin/python-icap-yara)
 
 **Author:** RamadhanAmizudin
 
@@ -5232,7 +5232,7 @@ Various security tools and resources that are pending categorization.
 
 ## python-ntfs
 
-**Repository:** [[https://github.com/williballenthin/python-ntfs](https://github.com/williballenthin/python-ntfs)]([https://github.com/williballenthin/python-ntfs](https://github.com/williballenthin/python-ntfs))
+**Repository:** [https://github.com/williballenthin/python-ntfs](https://github.com/williballenthin/python-ntfs)
 
 **Author:** williballenthin
 
@@ -5240,7 +5240,7 @@ Various security tools and resources that are pending categorization.
 
 ## python-sdb
 
-**Repository:** [[https://github.com/williballenthin/python-sdb](https://github.com/williballenthin/python-sdb)]([https://github.com/williballenthin/python-sdb](https://github.com/williballenthin/python-sdb))
+**Repository:** [https://github.com/williballenthin/python-sdb](https://github.com/williballenthin/python-sdb)
 
 **Author:** williballenthin
 
@@ -5248,7 +5248,7 @@ Various security tools and resources that are pending categorization.
 
 ## python-uncompyle6
 
-**Repository:** [[https://github.com/rocky/python-uncompyle6](https://github.com/rocky/python-uncompyle6)]([https://github.com/rocky/python-uncompyle6](https://github.com/rocky/python-uncompyle6))
+**Repository:** [https://github.com/rocky/python-uncompyle6](https://github.com/rocky/python-uncompyle6)
 
 **Author:** rocky
 
@@ -5256,7 +5256,7 @@ Various security tools and resources that are pending categorization.
 
 ## python3-in-one-pic
 
-**Repository:** [[https://github.com/coodict/python3-in-one-pic](https://github.com/coodict/python3-in-one-pic)]([https://github.com/coodict/python3-in-one-pic](https://github.com/coodict/python3-in-one-pic))
+**Repository:** [https://github.com/coodict/python3-in-one-pic](https://github.com/coodict/python3-in-one-pic)
 
 **Author:** coodict
 
@@ -5264,7 +5264,7 @@ Various security tools and resources that are pending categorization.
 
 ## pythonidae
 
-**Repository:** [[https://github.com/svaksha/pythonidae](https://github.com/svaksha/pythonidae)]([https://github.com/svaksha/pythonidae](https://github.com/svaksha/pythonidae))
+**Repository:** [https://github.com/svaksha/pythonidae](https://github.com/svaksha/pythonidae)
 
 **Author:** svaksha
 
@@ -5272,7 +5272,7 @@ Various security tools and resources that are pending categorization.
 
 ## pytsk
 
-**Repository:** [[https://github.com/py4n6/pytsk](https://github.com/py4n6/pytsk)]([https://github.com/py4n6/pytsk](https://github.com/py4n6/pytsk))
+**Repository:** [https://github.com/py4n6/pytsk](https://github.com/py4n6/pytsk)
 
 **Author:** py4n6
 
@@ -5280,7 +5280,7 @@ Various security tools and resources that are pending categorization.
 
 ## qemu
 
-**Repository:** [[https://github.com/ispras/qemu](https://github.com/ispras/qemu)]([https://github.com/ispras/qemu](https://github.com/ispras/qemu))
+**Repository:** [https://github.com/ispras/qemu](https://github.com/ispras/qemu)
 
 **Author:** ispras
 
@@ -5288,7 +5288,7 @@ Various security tools and resources that are pending categorization.
 
 ## qira
 
-**Repository:** [[https://github.com/BinaryAnalysisPlatform/qira](https://github.com/BinaryAnalysisPlatform/qira)]([https://github.com/BinaryAnalysisPlatform/qira](https://github.com/BinaryAnalysisPlatform/qira))
+**Repository:** [https://github.com/BinaryAnalysisPlatform/qira](https://github.com/BinaryAnalysisPlatform/qira)
 
 **Author:** BinaryAnalysisPlatform
 
@@ -5296,7 +5296,7 @@ Various security tools and resources that are pending categorization.
 
 ## quark-engine
 
-**Repository:** [[https://github.com/quark-engine/quark-engine](https://github.com/quark-engine/quark-engine)]([https://github.com/quark-engine/quark-engine](https://github.com/quark-engine/quark-engine))
+**Repository:** [https://github.com/quark-engine/quark-engine](https://github.com/quark-engine/quark-engine)
 
 **Author:** quark-engine
 
@@ -5304,7 +5304,7 @@ Various security tools and resources that are pending categorization.
 
 ## RABCDAsm
 
-**Repository:** [[https://github.com/CyberShadow/RABCDAsm](https://github.com/CyberShadow/RABCDAsm)]([https://github.com/CyberShadow/RABCDAsm](https://github.com/CyberShadow/RABCDAsm))
+**Repository:** [https://github.com/CyberShadow/RABCDAsm](https://github.com/CyberShadow/RABCDAsm)
 
 **Author:** CyberShadow
 
@@ -5312,7 +5312,7 @@ Various security tools and resources that are pending categorization.
 
 ## Raccoon
 
-**Repository:** [[https://github.com/evyatarmeged/Raccoon](https://github.com/evyatarmeged/Raccoon)]([https://github.com/evyatarmeged/Raccoon](https://github.com/evyatarmeged/Raccoon))
+**Repository:** [https://github.com/evyatarmeged/Raccoon](https://github.com/evyatarmeged/Raccoon)
 
 **Author:** evyatarmeged
 
@@ -5320,7 +5320,7 @@ Various security tools and resources that are pending categorization.
 
 ## radamsa-android
 
-**Repository:** [[https://github.com/anestisb/radamsa-android](https://github.com/anestisb/radamsa-android)]([https://github.com/anestisb/radamsa-android](https://github.com/anestisb/radamsa-android))
+**Repository:** [https://github.com/anestisb/radamsa-android](https://github.com/anestisb/radamsa-android)
 
 **Author:** anestisb
 
@@ -5328,7 +5328,7 @@ Various security tools and resources that are pending categorization.
 
 ## radare2
 
-**Repository:** [[https://github.com/radare/radare2](https://github.com/radare/radare2)]([https://github.com/radare/radare2](https://github.com/radare/radare2))
+**Repository:** [https://github.com/radare/radare2](https://github.com/radare/radare2)
 
 **Author:** radare
 
@@ -5336,7 +5336,7 @@ Various security tools and resources that are pending categorization.
 
 ## RamScraper
 
-**Repository:** [[https://github.com/joren485/RamScraper](https://github.com/joren485/RamScraper)]([https://github.com/joren485/RamScraper](https://github.com/joren485/RamScraper))
+**Repository:** [https://github.com/joren485/RamScraper](https://github.com/joren485/RamScraper)
 
 **Author:** joren485
 
@@ -5344,7 +5344,7 @@ Various security tools and resources that are pending categorization.
 
 ## random_compat
 
-**Repository:** [[https://github.com/paragonie/random_compat](https://github.com/paragonie/random_compat)]([https://github.com/paragonie/random_compat](https://github.com/paragonie/random_compat))
+**Repository:** [https://github.com/paragonie/random_compat](https://github.com/paragonie/random_compat)
 
 **Author:** paragonie
 
@@ -5352,7 +5352,7 @@ Various security tools and resources that are pending categorization.
 
 ## RandomLib
 
-**Repository:** [[https://github.com/ircmaxell/RandomLib](https://github.com/ircmaxell/RandomLib)]([https://github.com/ircmaxell/RandomLib](https://github.com/ircmaxell/RandomLib))
+**Repository:** [https://github.com/ircmaxell/RandomLib](https://github.com/ircmaxell/RandomLib)
 
 **Author:** ircmaxell
 
@@ -5360,7 +5360,7 @@ Various security tools and resources that are pending categorization.
 
 ## rastrea2r
 
-**Repository:** [[https://github.com/rastrea2r/rastrea2r](https://github.com/rastrea2r/rastrea2r)]([https://github.com/rastrea2r/rastrea2r](https://github.com/rastrea2r/rastrea2r))
+**Repository:** [https://github.com/rastrea2r/rastrea2r](https://github.com/rastrea2r/rastrea2r)
 
 **Author:** rastrea2r
 
@@ -5368,7 +5368,7 @@ Various security tools and resources that are pending categorization.
 
 ## readmem
 
-**Repository:** [[https://github.com/gdbinit/readmem](https://github.com/gdbinit/readmem)]([https://github.com/gdbinit/readmem](https://github.com/gdbinit/readmem))
+**Repository:** [https://github.com/gdbinit/readmem](https://github.com/gdbinit/readmem)
 
 **Author:** gdbinit
 
@@ -5376,7 +5376,7 @@ Various security tools and resources that are pending categorization.
 
 ## reasonably-secure-electron
 
-**Repository:** [[https://github.com/moloch--/reasonably-secure-electron](https://github.com/moloch--/reasonably-secure-electron)]([https://github.com/moloch--/reasonably-secure-electron](https://github.com/moloch--/reasonably-secure-electron))
+**Repository:** [https://github.com/moloch--/reasonably-secure-electron](https://github.com/moloch--/reasonably-secure-electron)
 
 **Author:** moloch--
 
@@ -5384,7 +5384,7 @@ Various security tools and resources that are pending categorization.
 
 ## recomposer
 
-**Repository:** [[https://github.com/secretsquirrel/recomposer](https://github.com/secretsquirrel/recomposer)]([https://github.com/secretsquirrel/recomposer](https://github.com/secretsquirrel/recomposer))
+**Repository:** [https://github.com/secretsquirrel/recomposer](https://github.com/secretsquirrel/recomposer)
 
 **Author:** secretsquirrel
 
@@ -5392,7 +5392,7 @@ Various security tools and resources that are pending categorization.
 
 ## recon
 
-**Repository:** [[https://github.com/rusty-ferris-club/recon](https://github.com/rusty-ferris-club/recon)]([https://github.com/rusty-ferris-club/recon](https://github.com/rusty-ferris-club/recon))
+**Repository:** [https://github.com/rusty-ferris-club/recon](https://github.com/rusty-ferris-club/recon)
 
 **Author:** rusty-ferris-club
 
@@ -5400,7 +5400,7 @@ Various security tools and resources that are pending categorization.
 
 ## RecuperaBit
 
-**Repository:** [[https://github.com/Lazza/RecuperaBit](https://github.com/Lazza/RecuperaBit)]([https://github.com/Lazza/RecuperaBit](https://github.com/Lazza/RecuperaBit))
+**Repository:** [https://github.com/Lazza/RecuperaBit](https://github.com/Lazza/RecuperaBit)
 
 **Author:** Lazza
 
@@ -5408,7 +5408,7 @@ Various security tools and resources that are pending categorization.
 
 ## recursebuster
 
-**Repository:** [[https://github.com/c-sto/recursebuster](https://github.com/c-sto/recursebuster)]([https://github.com/c-sto/recursebuster](https://github.com/c-sto/recursebuster))
+**Repository:** [https://github.com/c-sto/recursebuster](https://github.com/c-sto/recursebuster)
 
 **Author:** c-sto
 
@@ -5416,7 +5416,7 @@ Various security tools and resources that are pending categorization.
 
 ## Redcloud
 
-**Repository:** [[https://github.com/khast3x/Redcloud](https://github.com/khast3x/Redcloud)]([https://github.com/khast3x/Redcloud](https://github.com/khast3x/Redcloud))
+**Repository:** [https://github.com/khast3x/Redcloud](https://github.com/khast3x/Redcloud)
 
 **Author:** khast3x
 
@@ -5424,7 +5424,7 @@ Various security tools and resources that are pending categorization.
 
 ## RedELK
 
-**Repository:** [[https://github.com/outflanknl/RedELK](https://github.com/outflanknl/RedELK)]([https://github.com/outflanknl/RedELK](https://github.com/outflanknl/RedELK))
+**Repository:** [https://github.com/outflanknl/RedELK](https://github.com/outflanknl/RedELK)
 
 **Author:** outflanknl
 
@@ -5432,7 +5432,7 @@ Various security tools and resources that are pending categorization.
 
 ## redexer
 
-**Repository:** [[https://github.com/plum-umd/redexer](https://github.com/plum-umd/redexer)]([https://github.com/plum-umd/redexer](https://github.com/plum-umd/redexer))
+**Repository:** [https://github.com/plum-umd/redexer](https://github.com/plum-umd/redexer)
 
 **Author:** plum-umd
 
@@ -5440,7 +5440,7 @@ Various security tools and resources that are pending categorization.
 
 ## RedGuard
 
-**Repository:** [[https://github.com/wikiZ/RedGuard](https://github.com/wikiZ/RedGuard)]([https://github.com/wikiZ/RedGuard](https://github.com/wikiZ/RedGuard))
+**Repository:** [https://github.com/wikiZ/RedGuard](https://github.com/wikiZ/RedGuard)
 
 **Author:** wikiZ
 
@@ -5448,7 +5448,7 @@ Various security tools and resources that are pending categorization.
 
 ## RedisHoneyPot
 
-**Repository:** [[https://github.com/cypwnpwnsocute/RedisHoneyPot](https://github.com/cypwnpwnsocute/RedisHoneyPot)]([https://github.com/cypwnpwnsocute/RedisHoneyPot](https://github.com/cypwnpwnsocute/RedisHoneyPot))
+**Repository:** [https://github.com/cypwnpwnsocute/RedisHoneyPot](https://github.com/cypwnpwnsocute/RedisHoneyPot)
 
 **Author:** cypwnpwnsocute
 
@@ -5456,7 +5456,7 @@ Various security tools and resources that are pending categorization.
 
 ## redoctober
 
-**Repository:** [[https://github.com/cloudflare/redoctober](https://github.com/cloudflare/redoctober)]([https://github.com/cloudflare/redoctober](https://github.com/cloudflare/redoctober))
+**Repository:** [https://github.com/cloudflare/redoctober](https://github.com/cloudflare/redoctober)
 
 **Author:** cloudflare
 
@@ -5464,7 +5464,7 @@ Various security tools and resources that are pending categorization.
 
 ## RedPeanut
 
-**Repository:** [[https://github.com/b4rtik/RedPeanut](https://github.com/b4rtik/RedPeanut)]([https://github.com/b4rtik/RedPeanut](https://github.com/b4rtik/RedPeanut))
+**Repository:** [https://github.com/b4rtik/RedPeanut](https://github.com/b4rtik/RedPeanut)
 
 **Author:** b4rtik
 
@@ -5472,7 +5472,7 @@ Various security tools and resources that are pending categorization.
 
 ## refinery
 
-**Repository:** [[https://github.com/binref/refinery](https://github.com/binref/refinery)]([https://github.com/binref/refinery](https://github.com/binref/refinery))
+**Repository:** [https://github.com/binref/refinery](https://github.com/binref/refinery)
 
 **Author:** binref
 
@@ -5480,7 +5480,7 @@ Various security tools and resources that are pending categorization.
 
 ## reFlutter
 
-**Repository:** [[https://github.com/ptswarm/reFlutter](https://github.com/ptswarm/reFlutter)]([https://github.com/ptswarm/reFlutter](https://github.com/ptswarm/reFlutter))
+**Repository:** [https://github.com/ptswarm/reFlutter](https://github.com/ptswarm/reFlutter)
 
 **Author:** ptswarm
 
@@ -5488,7 +5488,7 @@ Various security tools and resources that are pending categorization.
 
 ## RegRipper3.0
 
-**Repository:** [[https://github.com/keydet89/RegRipper3.0](https://github.com/keydet89/RegRipper3.0)]([https://github.com/keydet89/RegRipper3.0](https://github.com/keydet89/RegRipper3.0))
+**Repository:** [https://github.com/keydet89/RegRipper3.0](https://github.com/keydet89/RegRipper3.0)
 
 **Author:** keydet89
 
@@ -5496,7 +5496,7 @@ Various security tools and resources that are pending categorization.
 
 ## regrippy
 
-**Repository:** [[https://github.com/airbus-cert/regrippy](https://github.com/airbus-cert/regrippy)]([https://github.com/airbus-cert/regrippy](https://github.com/airbus-cert/regrippy))
+**Repository:** [https://github.com/airbus-cert/regrippy](https://github.com/airbus-cert/regrippy)
 
 **Author:** airbus-cert
 
@@ -5504,7 +5504,7 @@ Various security tools and resources that are pending categorization.
 
 ## retdec
 
-**Repository:** [[https://github.com/avast-tl/retdec](https://github.com/avast-tl/retdec)]([https://github.com/avast-tl/retdec](https://github.com/avast-tl/retdec))
+**Repository:** [https://github.com/avast-tl/retdec](https://github.com/avast-tl/retdec)
 
 **Author:** avast-tl
 
@@ -5512,7 +5512,7 @@ Various security tools and resources that are pending categorization.
 
 ## reyara
 
-**Repository:** [[https://github.com/VectraThreatLab/reyara](https://github.com/VectraThreatLab/reyara)]([https://github.com/VectraThreatLab/reyara](https://github.com/VectraThreatLab/reyara))
+**Repository:** [https://github.com/VectraThreatLab/reyara](https://github.com/VectraThreatLab/reyara)
 
 **Author:** VectraThreatLab
 
@@ -5520,7 +5520,7 @@ Various security tools and resources that are pending categorization.
 
 ## ridenum
 
-**Repository:** [[https://github.com/trustedsec/ridenum](https://github.com/trustedsec/ridenum)]([https://github.com/trustedsec/ridenum](https://github.com/trustedsec/ridenum))
+**Repository:** [https://github.com/trustedsec/ridenum](https://github.com/trustedsec/ridenum)
 
 **Author:** trustedsec
 
@@ -5528,7 +5528,7 @@ Various security tools and resources that are pending categorization.
 
 ## ripgrep
 
-**Repository:** [[https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)]([https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep))
+**Repository:** [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
 
 **Author:** BurntSushi
 
@@ -5536,7 +5536,7 @@ Various security tools and resources that are pending categorization.
 
 ## rita
 
-**Repository:** [[https://github.com/activecm/rita](https://github.com/activecm/rita)]([https://github.com/activecm/rita](https://github.com/activecm/rita))
+**Repository:** [https://github.com/activecm/rita](https://github.com/activecm/rita)
 
 **Author:** activecm
 
@@ -5544,7 +5544,7 @@ Various security tools and resources that are pending categorization.
 
 ## RMS-Runtime-Mobile-Security
 
-**Repository:** [[https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)]([https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security))
+**Repository:** [https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
 
 **Author:** m0bilesecurity
 
@@ -5552,7 +5552,7 @@ Various security tools and resources that are pending categorization.
 
 ## RootTheBox
 
-**Repository:** [[https://github.com/moloch--/RootTheBox](https://github.com/moloch--/RootTheBox)]([https://github.com/moloch--/RootTheBox](https://github.com/moloch--/RootTheBox))
+**Repository:** [https://github.com/moloch--/RootTheBox](https://github.com/moloch--/RootTheBox)
 
 **Author:** moloch--
 
@@ -5560,7 +5560,7 @@ Various security tools and resources that are pending categorization.
 
 ## rsatool
 
-**Repository:** [[https://github.com/ius/rsatool](https://github.com/ius/rsatool)]([https://github.com/ius/rsatool](https://github.com/ius/rsatool))
+**Repository:** [https://github.com/ius/rsatool](https://github.com/ius/rsatool)
 
 **Author:** ius
 
@@ -5568,7 +5568,7 @@ Various security tools and resources that are pending categorization.
 
 ## rshijack
 
-**Repository:** [[https://github.com/kpcyrd/rshijack](https://github.com/kpcyrd/rshijack)]([https://github.com/kpcyrd/rshijack](https://github.com/kpcyrd/rshijack))
+**Repository:** [https://github.com/kpcyrd/rshijack](https://github.com/kpcyrd/rshijack)
 
 **Author:** kpcyrd
 
@@ -5576,7 +5576,7 @@ Various security tools and resources that are pending categorization.
 
 ## rspamd
 
-**Repository:** [[https://github.com/rspamd/rspamd](https://github.com/rspamd/rspamd)]([https://github.com/rspamd/rspamd](https://github.com/rspamd/rspamd))
+**Repository:** [https://github.com/rspamd/rspamd](https://github.com/rspamd/rspamd)
 
 **Author:** rspamd
 
@@ -5584,7 +5584,7 @@ Various security tools and resources that are pending categorization.
 
 ## rtfsig
 
-**Repository:** [[https://github.com/PwCUK-CTO/rtfsig](https://github.com/PwCUK-CTO/rtfsig)]([https://github.com/PwCUK-CTO/rtfsig](https://github.com/PwCUK-CTO/rtfsig))
+**Repository:** [https://github.com/PwCUK-CTO/rtfsig](https://github.com/PwCUK-CTO/rtfsig)
 
 **Author:** PwCUK-CTO
 
@@ -5592,7 +5592,7 @@ Various security tools and resources that are pending categorization.
 
 ## ruby-bookmarks
 
-**Repository:** [[https://github.com/dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks)]([https://github.com/dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks))
+**Repository:** [https://github.com/dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks)
 
 **Author:** dreikanter
 
@@ -5600,7 +5600,7 @@ Various security tools and resources that are pending categorization.
 
 ## ruler
 
-**Repository:** [[https://github.com/sensepost/ruler](https://github.com/sensepost/ruler)]([https://github.com/sensepost/ruler](https://github.com/sensepost/ruler))
+**Repository:** [https://github.com/sensepost/ruler](https://github.com/sensepost/ruler)
 
 **Author:** sensepost
 
@@ -5608,7 +5608,7 @@ Various security tools and resources that are pending categorization.
 
 ## rustnet
 
-**Repository:** [[https://github.com/domcyrus/rustnet](https://github.com/domcyrus/rustnet)]([https://github.com/domcyrus/rustnet](https://github.com/domcyrus/rustnet))
+**Repository:** [https://github.com/domcyrus/rustnet](https://github.com/domcyrus/rustnet)
 
 **Author:** domcyrus
 
@@ -5616,7 +5616,7 @@ Various security tools and resources that are pending categorization.
 
 ## safe
 
-**Repository:** [[https://github.com/starkandwayne/safe](https://github.com/starkandwayne/safe)]([https://github.com/starkandwayne/safe](https://github.com/starkandwayne/safe))
+**Repository:** [https://github.com/starkandwayne/safe](https://github.com/starkandwayne/safe)
 
 **Author:** starkandwayne
 
@@ -5624,7 +5624,7 @@ Various security tools and resources that are pending categorization.
 
 ## santa
 
-**Repository:** [[https://github.com/google/santa](https://github.com/google/santa)]([https://github.com/google/santa](https://github.com/google/santa))
+**Repository:** [https://github.com/google/santa](https://github.com/google/santa)
 
 **Author:** google
 
@@ -5632,7 +5632,7 @@ Various security tools and resources that are pending categorization.
 
 ## SatIntel
 
-**Repository:** [[https://github.com/ANG13T/SatIntel](https://github.com/ANG13T/SatIntel)]([https://github.com/ANG13T/SatIntel](https://github.com/ANG13T/SatIntel))
+**Repository:** [https://github.com/ANG13T/SatIntel](https://github.com/ANG13T/SatIntel)
 
 **Author:** ANG13T
 
@@ -5640,7 +5640,7 @@ Various security tools and resources that are pending categorization.
 
 ## scapy
 
-**Repository:** [[https://github.com/secdev/scapy](https://github.com/secdev/scapy)]([https://github.com/secdev/scapy](https://github.com/secdev/scapy))
+**Repository:** [https://github.com/secdev/scapy](https://github.com/secdev/scapy)
 
 **Author:** secdev
 
@@ -5648,7 +5648,7 @@ Various security tools and resources that are pending categorization.
 
 ## schem
 
-**Repository:** [[https://github.com/hexgolems/schem](https://github.com/hexgolems/schem)]([https://github.com/hexgolems/schem](https://github.com/hexgolems/schem))
+**Repository:** [https://github.com/hexgolems/schem](https://github.com/hexgolems/schem)
 
 **Author:** hexgolems
 
@@ -5656,7 +5656,7 @@ Various security tools and resources that are pending categorization.
 
 ## ScoutSuite
 
-**Repository:** [[https://github.com/nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite)]([https://github.com/nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite))
+**Repository:** [https://github.com/nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite)
 
 **Author:** nccgroup
 
@@ -5664,7 +5664,7 @@ Various security tools and resources that are pending categorization.
 
 ## ScratchABit
 
-**Repository:** [[https://github.com/pfalcon/ScratchABit](https://github.com/pfalcon/ScratchABit)]([https://github.com/pfalcon/ScratchABit](https://github.com/pfalcon/ScratchABit))
+**Repository:** [https://github.com/pfalcon/ScratchABit](https://github.com/pfalcon/ScratchABit)
 
 **Author:** pfalcon
 
@@ -5672,7 +5672,7 @@ Various security tools and resources that are pending categorization.
 
 ## Scylla
 
-**Repository:** [[https://github.com/NtQuery/Scylla](https://github.com/NtQuery/Scylla)]([https://github.com/NtQuery/Scylla](https://github.com/NtQuery/Scylla))
+**Repository:** [https://github.com/NtQuery/Scylla](https://github.com/NtQuery/Scylla)
 
 **Author:** NtQuery
 
@@ -5680,7 +5680,7 @@ Various security tools and resources that are pending categorization.
 
 ## ScyllaHide
 
-**Repository:** [[https://github.com/x64dbg/ScyllaHide](https://github.com/x64dbg/ScyllaHide)]([https://github.com/x64dbg/ScyllaHide](https://github.com/x64dbg/ScyllaHide))
+**Repository:** [https://github.com/x64dbg/ScyllaHide](https://github.com/x64dbg/ScyllaHide)
 
 **Author:** x64dbg
 
@@ -5688,7 +5688,7 @@ Various security tools and resources that are pending categorization.
 
 ## sdc
 
-**Repository:** [[https://github.com/joyent/sdc](https://github.com/joyent/sdc)]([https://github.com/joyent/sdc](https://github.com/joyent/sdc))
+**Repository:** [https://github.com/joyent/sdc](https://github.com/joyent/sdc)
 
 **Author:** joyent
 
@@ -5696,7 +5696,7 @@ Various security tools and resources that are pending categorization.
 
 ## SecretScanner
 
-**Repository:** [[https://github.com/deepfence/SecretScanner](https://github.com/deepfence/SecretScanner)]([https://github.com/deepfence/SecretScanner](https://github.com/deepfence/SecretScanner))
+**Repository:** [https://github.com/deepfence/SecretScanner](https://github.com/deepfence/SecretScanner)
 
 **Author:** deepfence
 
@@ -5704,7 +5704,7 @@ Various security tools and resources that are pending categorization.
 
 ## securedrop
 
-**Repository:** [[https://github.com/freedomofpress/securedrop](https://github.com/freedomofpress/securedrop)]([https://github.com/freedomofpress/securedrop](https://github.com/freedomofpress/securedrop))
+**Repository:** [https://github.com/freedomofpress/securedrop](https://github.com/freedomofpress/securedrop)
 
 **Author:** freedomofpress
 
@@ -5712,7 +5712,7 @@ Various security tools and resources that are pending categorization.
 
 ## security-cheatsheets
 
-**Repository:** [[https://github.com/teamghsoftware/security-cheatsheets](https://github.com/teamghsoftware/security-cheatsheets)]([https://github.com/teamghsoftware/security-cheatsheets](https://github.com/teamghsoftware/security-cheatsheets))
+**Repository:** [https://github.com/teamghsoftware/security-cheatsheets](https://github.com/teamghsoftware/security-cheatsheets)
 
 **Author:** teamghsoftware
 
@@ -5720,7 +5720,7 @@ Various security tools and resources that are pending categorization.
 
 ## Security_list
 
-**Repository:** [[https://github.com/zbetcheckin/Security_list](https://github.com/zbetcheckin/Security_list)]([https://github.com/zbetcheckin/Security_list](https://github.com/zbetcheckin/Security_list))
+**Repository:** [https://github.com/zbetcheckin/Security_list](https://github.com/zbetcheckin/Security_list)
 
 **Author:** zbetcheckin
 
@@ -5728,7 +5728,7 @@ Various security tools and resources that are pending categorization.
 
 ## SentryPeer
 
-**Repository:** [[https://github.com/SentryPeer/SentryPeer](https://github.com/SentryPeer/SentryPeer)]([https://github.com/SentryPeer/SentryPeer](https://github.com/SentryPeer/SentryPeer))
+**Repository:** [https://github.com/SentryPeer/SentryPeer](https://github.com/SentryPeer/SentryPeer)
 
 **Author:** SentryPeer
 
@@ -5736,7 +5736,7 @@ Various security tools and resources that are pending categorization.
 
 ## SerpScan
 
-**Repository:** [[https://github.com/Alaa-abdulridha/SerpScan](https://github.com/Alaa-abdulridha/SerpScan)]([https://github.com/Alaa-abdulridha/SerpScan](https://github.com/Alaa-abdulridha/SerpScan))
+**Repository:** [https://github.com/Alaa-abdulridha/SerpScan](https://github.com/Alaa-abdulridha/SerpScan)
 
 **Author:** Alaa-abdulridha
 
@@ -5744,7 +5744,7 @@ Various security tools and resources that are pending categorization.
 
 ## serviceradar
 
-**Repository:** [[https://github.com/carverauto/serviceradar](https://github.com/carverauto/serviceradar)]([https://github.com/carverauto/serviceradar](https://github.com/carverauto/serviceradar))
+**Repository:** [https://github.com/carverauto/serviceradar](https://github.com/carverauto/serviceradar)
 
 **Author:** carverauto
 
@@ -5752,7 +5752,7 @@ Various security tools and resources that are pending categorization.
 
 ## setup-tor
 
-**Repository:** [[https://github.com/tor-actions/setup-tor](https://github.com/tor-actions/setup-tor)]([https://github.com/tor-actions/setup-tor](https://github.com/tor-actions/setup-tor))
+**Repository:** [https://github.com/tor-actions/setup-tor](https://github.com/tor-actions/setup-tor)
 
 **Author:** tor-actions
 
@@ -5760,7 +5760,7 @@ Various security tools and resources that are pending categorization.
 
 ## sflock
 
-**Repository:** [[https://github.com/jbremer/sflock](https://github.com/jbremer/sflock)]([https://github.com/jbremer/sflock](https://github.com/jbremer/sflock))
+**Repository:** [https://github.com/jbremer/sflock](https://github.com/jbremer/sflock)
 
 **Author:** jbremer
 
@@ -5768,7 +5768,7 @@ Various security tools and resources that are pending categorization.
 
 ## shellclear
 
-**Repository:** [[https://github.com/rusty-ferris-club/shellclear](https://github.com/rusty-ferris-club/shellclear)]([https://github.com/rusty-ferris-club/shellclear](https://github.com/rusty-ferris-club/shellclear))
+**Repository:** [https://github.com/rusty-ferris-club/shellclear](https://github.com/rusty-ferris-club/shellclear)
 
 **Author:** rusty-ferris-club
 
@@ -5776,7 +5776,7 @@ Various security tools and resources that are pending categorization.
 
 ## shellfirm
 
-**Repository:** [[https://github.com/kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm)]([https://github.com/kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm))
+**Repository:** [https://github.com/kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm)
 
 **Author:** kaplanelad
 
@@ -5784,7 +5784,7 @@ Various security tools and resources that are pending categorization.
 
 ## sherloq
 
-**Repository:** [[https://github.com/GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq)]([https://github.com/GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq))
+**Repository:** [https://github.com/GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq)
 
 **Author:** GuidoBartoli
 
@@ -5792,7 +5792,7 @@ Various security tools and resources that are pending categorization.
 
 ## Shockpot-Frontend
 
-**Repository:** [[https://github.com/GovCERT-CZ/Shockpot-Frontend](https://github.com/GovCERT-CZ/Shockpot-Frontend)]([https://github.com/GovCERT-CZ/Shockpot-Frontend](https://github.com/GovCERT-CZ/Shockpot-Frontend))
+**Repository:** [https://github.com/GovCERT-CZ/Shockpot-Frontend](https://github.com/GovCERT-CZ/Shockpot-Frontend)
 
 **Author:** GovCERT-CZ
 
@@ -5800,7 +5800,7 @@ Various security tools and resources that are pending categorization.
 
 ## shotgunyara
 
-**Repository:** [[https://github.com/darienhuss/shotgunyara](https://github.com/darienhuss/shotgunyara)]([https://github.com/darienhuss/shotgunyara](https://github.com/darienhuss/shotgunyara))
+**Repository:** [https://github.com/darienhuss/shotgunyara](https://github.com/darienhuss/shotgunyara)
 
 **Author:** darienhuss
 
@@ -5808,7 +5808,7 @@ Various security tools and resources that are pending categorization.
 
 ## shotstars
 
-**Repository:** [[https://github.com/snooppr/shotstars](https://github.com/snooppr/shotstars)]([https://github.com/snooppr/shotstars](https://github.com/snooppr/shotstars))
+**Repository:** [https://github.com/snooppr/shotstars](https://github.com/snooppr/shotstars)
 
 **Author:** snooppr
 
@@ -5816,7 +5816,7 @@ Various security tools and resources that are pending categorization.
 
 ## SIET
 
-**Repository:** [[https://github.com/Sab0tag3d/SIET](https://github.com/Sab0tag3d/SIET)]([https://github.com/Sab0tag3d/SIET](https://github.com/Sab0tag3d/SIET))
+**Repository:** [https://github.com/Sab0tag3d/SIET](https://github.com/Sab0tag3d/SIET)
 
 **Author:** Sab0tag3d
 
@@ -5824,7 +5824,7 @@ Various security tools and resources that are pending categorization.
 
 ## Sigma2SPL
 
-**Repository:** [[https://github.com/Khadinxc/Sigma2SPL](https://github.com/Khadinxc/Sigma2SPL)]([https://github.com/Khadinxc/Sigma2SPL](https://github.com/Khadinxc/Sigma2SPL))
+**Repository:** [https://github.com/Khadinxc/Sigma2SPL](https://github.com/Khadinxc/Sigma2SPL)
 
 **Author:** Khadinxc
 
@@ -5832,7 +5832,7 @@ Various security tools and resources that are pending categorization.
 
 ## signature-base
 
-**Repository:** [[https://github.com/Neo23x0/signature-base](https://github.com/Neo23x0/signature-base)]([https://github.com/Neo23x0/signature-base](https://github.com/Neo23x0/signature-base))
+**Repository:** [https://github.com/Neo23x0/signature-base](https://github.com/Neo23x0/signature-base)
 
 **Author:** Neo23x0
 
@@ -5840,7 +5840,7 @@ Various security tools and resources that are pending categorization.
 
 ## simplify
 
-**Repository:** [[https://github.com/CalebFenton/simplify](https://github.com/CalebFenton/simplify)]([https://github.com/CalebFenton/simplify](https://github.com/CalebFenton/simplify))
+**Repository:** [https://github.com/CalebFenton/simplify](https://github.com/CalebFenton/simplify)
 
 **Author:** CalebFenton
 
@@ -5848,7 +5848,7 @@ Various security tools and resources that are pending categorization.
 
 ## SimplyEmail
 
-**Repository:** [[https://github.com/SimplySecurity/SimplyEmail](https://github.com/SimplySecurity/SimplyEmail)]([https://github.com/SimplySecurity/SimplyEmail](https://github.com/SimplySecurity/SimplyEmail))
+**Repository:** [https://github.com/SimplySecurity/SimplyEmail](https://github.com/SimplySecurity/SimplyEmail)
 
 **Author:** SimplySecurity
 
@@ -5856,7 +5856,7 @@ Various security tools and resources that are pending categorization.
 
 ## sleuthkit
 
-**Repository:** [[https://github.com/sleuthkit/sleuthkit](https://github.com/sleuthkit/sleuthkit)]([https://github.com/sleuthkit/sleuthkit](https://github.com/sleuthkit/sleuthkit))
+**Repository:** [https://github.com/sleuthkit/sleuthkit](https://github.com/sleuthkit/sleuthkit)
 
 **Author:** sleuthkit
 
@@ -5864,7 +5864,7 @@ Various security tools and resources that are pending categorization.
 
 ## smali
 
-**Repository:** [[https://github.com/JesusFreke/smali](https://github.com/JesusFreke/smali)]([https://github.com/JesusFreke/smali](https://github.com/JesusFreke/smali))
+**Repository:** [https://github.com/JesusFreke/smali](https://github.com/JesusFreke/smali)
 
 **Author:** JesusFreke
 
@@ -5872,7 +5872,7 @@ Various security tools and resources that are pending categorization.
 
 ## smart-honeypot
 
-**Repository:** [[https://github.com/freak3dot/smart-honeypot](https://github.com/freak3dot/smart-honeypot)]([https://github.com/freak3dot/smart-honeypot](https://github.com/freak3dot/smart-honeypot))
+**Repository:** [https://github.com/freak3dot/smart-honeypot](https://github.com/freak3dot/smart-honeypot)
 
 **Author:** freak3dot
 
@@ -5880,7 +5880,7 @@ Various security tools and resources that are pending categorization.
 
 ## SmartDeblur
 
-**Repository:** [[https://github.com/Y-Vladimir/SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur)]([https://github.com/Y-Vladimir/SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur))
+**Repository:** [https://github.com/Y-Vladimir/SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur)
 
 **Author:** Y-Vladimir
 
@@ -5888,7 +5888,7 @@ Various security tools and resources that are pending categorization.
 
 ## smbmap
 
-**Repository:** [[https://github.com/ShawnDEvans/smbmap](https://github.com/ShawnDEvans/smbmap)]([https://github.com/ShawnDEvans/smbmap](https://github.com/ShawnDEvans/smbmap))
+**Repository:** [https://github.com/ShawnDEvans/smbmap](https://github.com/ShawnDEvans/smbmap)
 
 **Author:** ShawnDEvans
 
@@ -5896,7 +5896,7 @@ Various security tools and resources that are pending categorization.
 
 ## sn0int
 
-**Repository:** [[https://github.com/kpcyrd/sn0int](https://github.com/kpcyrd/sn0int)]([https://github.com/kpcyrd/sn0int](https://github.com/kpcyrd/sn0int))
+**Repository:** [https://github.com/kpcyrd/sn0int](https://github.com/kpcyrd/sn0int)
 
 **Author:** kpcyrd
 
@@ -5904,7 +5904,7 @@ Various security tools and resources that are pending categorization.
 
 ## snare
 
-**Repository:** [[https://github.com/mushorg/snare](https://github.com/mushorg/snare)]([https://github.com/mushorg/snare](https://github.com/mushorg/snare))
+**Repository:** [https://github.com/mushorg/snare](https://github.com/mushorg/snare)
 
 **Author:** mushorg
 
@@ -5912,7 +5912,7 @@ Various security tools and resources that are pending categorization.
 
 ## sniffglue
 
-**Repository:** [[https://github.com/kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue)]([https://github.com/kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue))
+**Repository:** [https://github.com/kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue)
 
 **Author:** kpcyrd
 
@@ -5920,7 +5920,7 @@ Various security tools and resources that are pending categorization.
 
 ## snoop
 
-**Repository:** [[https://github.com/snooppr/snoop](https://github.com/snooppr/snoop)]([https://github.com/snooppr/snoop](https://github.com/snooppr/snoop))
+**Repository:** [https://github.com/snooppr/snoop](https://github.com/snooppr/snoop)
 
 **Author:** snooppr
 
@@ -5928,7 +5928,7 @@ Various security tools and resources that are pending categorization.
 
 ## sobelow
 
-**Repository:** [[https://github.com/nccgroup/sobelow](https://github.com/nccgroup/sobelow)]([https://github.com/nccgroup/sobelow](https://github.com/nccgroup/sobelow))
+**Repository:** [https://github.com/nccgroup/sobelow](https://github.com/nccgroup/sobelow)
 
 **Author:** nccgroup
 
@@ -5936,7 +5936,7 @@ Various security tools and resources that are pending categorization.
 
 ## sops
 
-**Repository:** [[https://github.com/mozilla/sops](https://github.com/mozilla/sops)]([https://github.com/mozilla/sops](https://github.com/mozilla/sops))
+**Repository:** [https://github.com/mozilla/sops](https://github.com/mozilla/sops)
 
 **Author:** mozilla
 
@@ -5944,7 +5944,7 @@ Various security tools and resources that are pending categorization.
 
 ## spiderfoot
 
-**Repository:** [[https://github.com/smicallef/spiderfoot](https://github.com/smicallef/spiderfoot)]([https://github.com/smicallef/spiderfoot](https://github.com/smicallef/spiderfoot))
+**Repository:** [https://github.com/smicallef/spiderfoot](https://github.com/smicallef/spiderfoot)
 
 **Author:** smicallef
 
@@ -5952,7 +5952,7 @@ Various security tools and resources that are pending categorization.
 
 ## SpoofSpotter
 
-**Repository:** [[https://github.com/NetSPI/SpoofSpotter](https://github.com/NetSPI/SpoofSpotter)]([https://github.com/NetSPI/SpoofSpotter](https://github.com/NetSPI/SpoofSpotter))
+**Repository:** [https://github.com/NetSPI/SpoofSpotter](https://github.com/NetSPI/SpoofSpotter)
 
 **Author:** NetSPI
 
@@ -5960,7 +5960,7 @@ Various security tools and resources that are pending categorization.
 
 ## spotify_monitor
 
-**Repository:** [[https://github.com/misiektoja/spotify_monitor](https://github.com/misiektoja/spotify_monitor)]([https://github.com/misiektoja/spotify_monitor](https://github.com/misiektoja/spotify_monitor))
+**Repository:** [https://github.com/misiektoja/spotify_monitor](https://github.com/misiektoja/spotify_monitor)
 
 **Author:** misiektoja
 
@@ -5968,7 +5968,7 @@ Various security tools and resources that are pending categorization.
 
 ## SprayingToolkit
 
-**Repository:** [[https://github.com/byt3bl33d3r/SprayingToolkit](https://github.com/byt3bl33d3r/SprayingToolkit)]([https://github.com/byt3bl33d3r/SprayingToolkit](https://github.com/byt3bl33d3r/SprayingToolkit))
+**Repository:** [https://github.com/byt3bl33d3r/SprayingToolkit](https://github.com/byt3bl33d3r/SprayingToolkit)
 
 **Author:** byt3bl33d3r
 
@@ -5976,7 +5976,7 @@ Various security tools and resources that are pending categorization.
 
 ## sqlmap
 
-**Repository:** [[https://github.com/sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap)]([https://github.com/sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap))
+**Repository:** [https://github.com/sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap)
 
 **Author:** sqlmapproject
 
@@ -5984,7 +5984,7 @@ Various security tools and resources that are pending categorization.
 
 ## src
 
-**Repository:** [[https://github.com/idapython/src](https://github.com/idapython/src)]([https://github.com/idapython/src](https://github.com/idapython/src))
+**Repository:** [https://github.com/idapython/src](https://github.com/idapython/src)
 
 **Author:** idapython
 
@@ -5992,7 +5992,7 @@ Various security tools and resources that are pending categorization.
 
 ## ssh-honeypot
 
-**Repository:** [[https://github.com/droberson/ssh-honeypot](https://github.com/droberson/ssh-honeypot)]([https://github.com/droberson/ssh-honeypot](https://github.com/droberson/ssh-honeypot))
+**Repository:** [https://github.com/droberson/ssh-honeypot](https://github.com/droberson/ssh-honeypot)
 
 **Author:** droberson
 
@@ -6000,7 +6000,7 @@ Various security tools and resources that are pending categorization.
 
 ## ssh-honeypotd
 
-**Repository:** [[https://github.com/sjinks/ssh-honeypotd](https://github.com/sjinks/ssh-honeypotd)]([https://github.com/sjinks/ssh-honeypotd](https://github.com/sjinks/ssh-honeypotd))
+**Repository:** [https://github.com/sjinks/ssh-honeypotd](https://github.com/sjinks/ssh-honeypotd)
 
 **Author:** sjinks
 
@@ -6008,7 +6008,7 @@ Various security tools and resources that are pending categorization.
 
 ## sshesame
 
-**Repository:** [[https://github.com/jaksi/sshesame](https://github.com/jaksi/sshesame)]([https://github.com/jaksi/sshesame](https://github.com/jaksi/sshesame))
+**Repository:** [https://github.com/jaksi/sshesame](https://github.com/jaksi/sshesame)
 
 **Author:** jaksi
 
@@ -6016,7 +6016,7 @@ Various security tools and resources that are pending categorization.
 
 ## sshForShits
 
-**Repository:** [[https://github.com/traetox/sshForShits](https://github.com/traetox/sshForShits)]([https://github.com/traetox/sshForShits](https://github.com/traetox/sshForShits))
+**Repository:** [https://github.com/traetox/sshForShits](https://github.com/traetox/sshForShits)
 
 **Author:** traetox
 
@@ -6024,7 +6024,7 @@ Various security tools and resources that are pending categorization.
 
 ## sshhipot
 
-**Repository:** [[https://github.com/magisterquis/sshhipot](https://github.com/magisterquis/sshhipot)]([https://github.com/magisterquis/sshhipot](https://github.com/magisterquis/sshhipot))
+**Repository:** [https://github.com/magisterquis/sshhipot](https://github.com/magisterquis/sshhipot)
 
 **Author:** magisterquis
 
@@ -6032,7 +6032,7 @@ Various security tools and resources that are pending categorization.
 
 ## sshlowpot
 
-**Repository:** [[https://github.com/magisterquis/sshlowpot](https://github.com/magisterquis/sshlowpot)]([https://github.com/magisterquis/sshlowpot](https://github.com/magisterquis/sshlowpot))
+**Repository:** [https://github.com/magisterquis/sshlowpot](https://github.com/magisterquis/sshlowpot)
 
 **Author:** magisterquis
 
@@ -6040,7 +6040,7 @@ Various security tools and resources that are pending categorization.
 
 ## sshsyrup
 
-**Repository:** [[https://github.com/mkishere/sshsyrup](https://github.com/mkishere/sshsyrup)]([https://github.com/mkishere/sshsyrup](https://github.com/mkishere/sshsyrup))
+**Repository:** [https://github.com/mkishere/sshsyrup](https://github.com/mkishere/sshsyrup)
 
 **Author:** mkishere
 
@@ -6048,7 +6048,7 @@ Various security tools and resources that are pending categorization.
 
 ## sslyze
 
-**Repository:** [[https://github.com/nabla-c0d3/sslyze](https://github.com/nabla-c0d3/sslyze)]([https://github.com/nabla-c0d3/sslyze](https://github.com/nabla-c0d3/sslyze))
+**Repository:** [https://github.com/nabla-c0d3/sslyze](https://github.com/nabla-c0d3/sslyze)
 
 **Author:** nabla-c0d3
 
@@ -6056,7 +6056,7 @@ Various security tools and resources that are pending categorization.
 
 ## static-analysis
 
-**Repository:** [[https://github.com/analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)]([https://github.com/analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis))
+**Repository:** [https://github.com/analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)
 
 **Author:** analysis-tools-dev
 
@@ -6064,7 +6064,7 @@ Various security tools and resources that are pending categorization.
 
 ## statiStrings
 
-**Repository:** [[https://github.com/Sh3llyR/statiStrings](https://github.com/Sh3llyR/statiStrings)]([https://github.com/Sh3llyR/statiStrings](https://github.com/Sh3llyR/statiStrings))
+**Repository:** [https://github.com/Sh3llyR/statiStrings](https://github.com/Sh3llyR/statiStrings)
 
 **Author:** Sh3llyR
 
@@ -6072,7 +6072,7 @@ Various security tools and resources that are pending categorization.
 
 ## StegCracker
 
-**Repository:** [[https://github.com/Paradoxis/StegCracker](https://github.com/Paradoxis/StegCracker)]([https://github.com/Paradoxis/StegCracker](https://github.com/Paradoxis/StegCracker))
+**Repository:** [https://github.com/Paradoxis/StegCracker](https://github.com/Paradoxis/StegCracker)
 
 **Author:** Paradoxis
 
@@ -6080,7 +6080,7 @@ Various security tools and resources that are pending categorization.
 
 ## steghide
 
-**Repository:** [[https://github.com/StegHigh/steghide](https://github.com/StegHigh/steghide)]([https://github.com/StegHigh/steghide](https://github.com/StegHigh/steghide))
+**Repository:** [https://github.com/StegHigh/steghide](https://github.com/StegHigh/steghide)
 
 **Author:** StegHigh
 
@@ -6088,7 +6088,7 @@ Various security tools and resources that are pending categorization.
 
 ## Sticky-Keys-Slayer
 
-**Repository:** [[https://github.com/linuz/Sticky-Keys-Slayer](https://github.com/linuz/Sticky-Keys-Slayer)]([https://github.com/linuz/Sticky-Keys-Slayer](https://github.com/linuz/Sticky-Keys-Slayer))
+**Repository:** [https://github.com/linuz/Sticky-Keys-Slayer](https://github.com/linuz/Sticky-Keys-Slayer)
 
 **Author:** linuz
 
@@ -6096,7 +6096,7 @@ Various security tools and resources that are pending categorization.
 
 ## sticky_elephant
 
-**Repository:** [[https://github.com/betheroot/sticky_elephant](https://github.com/betheroot/sticky_elephant)]([https://github.com/betheroot/sticky_elephant](https://github.com/betheroot/sticky_elephant))
+**Repository:** [https://github.com/betheroot/sticky_elephant](https://github.com/betheroot/sticky_elephant)
 
 **Author:** betheroot
 
@@ -6104,7 +6104,7 @@ Various security tools and resources that are pending categorization.
 
 ## stoq
 
-**Repository:** [[https://github.com/PUNCH-Cyber/stoq](https://github.com/PUNCH-Cyber/stoq)]([https://github.com/PUNCH-Cyber/stoq](https://github.com/PUNCH-Cyber/stoq))
+**Repository:** [https://github.com/PUNCH-Cyber/stoq](https://github.com/PUNCH-Cyber/stoq)
 
 **Author:** PUNCH-Cyber
 
@@ -6112,7 +6112,7 @@ Various security tools and resources that are pending categorization.
 
 ## strelka
 
-**Repository:** [[https://github.com/target/strelka](https://github.com/target/strelka)]([https://github.com/target/strelka](https://github.com/target/strelka))
+**Repository:** [https://github.com/target/strelka](https://github.com/target/strelka)
 
 **Author:** target
 
@@ -6120,7 +6120,7 @@ Various security tools and resources that are pending categorization.
 
 ## strong-node
 
-**Repository:** [[https://github.com/jesusprubio/strong-node](https://github.com/jesusprubio/strong-node)]([https://github.com/jesusprubio/strong-node](https://github.com/jesusprubio/strong-node))
+**Repository:** [https://github.com/jesusprubio/strong-node](https://github.com/jesusprubio/strong-node)
 
 **Author:** jesusprubio
 
@@ -6128,7 +6128,7 @@ Various security tools and resources that are pending categorization.
 
 ## stronghold
 
-**Repository:** [[https://github.com/alichtman/stronghold](https://github.com/alichtman/stronghold)]([https://github.com/alichtman/stronghold](https://github.com/alichtman/stronghold))
+**Repository:** [https://github.com/alichtman/stronghold](https://github.com/alichtman/stronghold)
 
 **Author:** alichtman
 
@@ -6136,7 +6136,7 @@ Various security tools and resources that are pending categorization.
 
 ## subfinder
 
-**Repository:** [[https://github.com/subfinder/subfinder](https://github.com/subfinder/subfinder)]([https://github.com/subfinder/subfinder](https://github.com/subfinder/subfinder))
+**Repository:** [https://github.com/subfinder/subfinder](https://github.com/subfinder/subfinder)
 
 **Author:** subfinder
 
@@ -6144,7 +6144,7 @@ Various security tools and resources that are pending categorization.
 
 ## substation
 
-**Repository:** [[https://github.com/brexhq/substation](https://github.com/brexhq/substation)]([https://github.com/brexhq/substation](https://github.com/brexhq/substation))
+**Repository:** [https://github.com/brexhq/substation](https://github.com/brexhq/substation)
 
 **Author:** brexhq
 
@@ -6152,7 +6152,7 @@ Various security tools and resources that are pending categorization.
 
 ## super
 
-**Repository:** [[https://github.com/SUPERAndroidAnalyzer/super](https://github.com/SUPERAndroidAnalyzer/super)]([https://github.com/SUPERAndroidAnalyzer/super](https://github.com/SUPERAndroidAnalyzer/super))
+**Repository:** [https://github.com/SUPERAndroidAnalyzer/super](https://github.com/SUPERAndroidAnalyzer/super)
 
 **Author:** SUPERAndroidAnalyzer
 
@@ -6160,7 +6160,7 @@ Various security tools and resources that are pending categorization.
 
 ## surfraw
 
-**Repository:** [[https://github.com/kisom/surfraw](https://github.com/kisom/surfraw)]([https://github.com/kisom/surfraw](https://github.com/kisom/surfraw))
+**Repository:** [https://github.com/kisom/surfraw](https://github.com/kisom/surfraw)
 
 **Author:** kisom
 
@@ -6168,7 +6168,7 @@ Various security tools and resources that are pending categorization.
 
 ## swordphish-awareness
 
-**Repository:** [[https://github.com/certsocietegenerale/swordphish-awareness](https://github.com/certsocietegenerale/swordphish-awareness)]([https://github.com/certsocietegenerale/swordphish-awareness](https://github.com/certsocietegenerale/swordphish-awareness))
+**Repository:** [https://github.com/certsocietegenerale/swordphish-awareness](https://github.com/certsocietegenerale/swordphish-awareness)
 
 **Author:** certsocietegenerale
 
@@ -6176,7 +6176,7 @@ Various security tools and resources that are pending categorization.
 
 ## tang
 
-**Repository:** [[https://github.com/latchset/tang](https://github.com/latchset/tang)]([https://github.com/latchset/tang](https://github.com/latchset/tang))
+**Repository:** [https://github.com/latchset/tang](https://github.com/latchset/tang)
 
 **Author:** latchset
 
@@ -6184,7 +6184,7 @@ Various security tools and resources that are pending categorization.
 
 ## tanner
 
-**Repository:** [[https://github.com/mushorg/tanner](https://github.com/mushorg/tanner)]([https://github.com/mushorg/tanner](https://github.com/mushorg/tanner))
+**Repository:** [https://github.com/mushorg/tanner](https://github.com/mushorg/tanner)
 
 **Author:** mushorg
 
@@ -6192,7 +6192,7 @@ Various security tools and resources that are pending categorization.
 
 ## tcpflow
 
-**Repository:** [[https://github.com/simsong/tcpflow](https://github.com/simsong/tcpflow)]([https://github.com/simsong/tcpflow](https://github.com/simsong/tcpflow))
+**Repository:** [https://github.com/simsong/tcpflow](https://github.com/simsong/tcpflow)
 
 **Author:** simsong
 
@@ -6200,7 +6200,7 @@ Various security tools and resources that are pending categorization.
 
 ## tcpreplay
 
-**Repository:** [[https://github.com/appneta/tcpreplay](https://github.com/appneta/tcpreplay)]([https://github.com/appneta/tcpreplay](https://github.com/appneta/tcpreplay))
+**Repository:** [https://github.com/appneta/tcpreplay](https://github.com/appneta/tcpreplay)
 
 **Author:** appneta
 
@@ -6208,7 +6208,7 @@ Various security tools and resources that are pending categorization.
 
 ## tcpsplice
 
-**Repository:** [[https://github.com/pyke369/tcpsplice](https://github.com/pyke369/tcpsplice)]([https://github.com/pyke369/tcpsplice](https://github.com/pyke369/tcpsplice))
+**Repository:** [https://github.com/pyke369/tcpsplice](https://github.com/pyke369/tcpsplice)
 
 **Author:** pyke369
 
@@ -6216,7 +6216,7 @@ Various security tools and resources that are pending categorization.
 
 ## tcptrace
 
-**Repository:** [[https://github.com/blitz/tcptrace](https://github.com/blitz/tcptrace)]([https://github.com/blitz/tcptrace](https://github.com/blitz/tcptrace))
+**Repository:** [https://github.com/blitz/tcptrace](https://github.com/blitz/tcptrace)
 
 **Author:** blitz
 
@@ -6224,7 +6224,7 @@ Various security tools and resources that are pending categorization.
 
 ## technowlogger
 
-**Repository:** [[https://github.com/Technowlogy-Pushpender/technowlogger](https://github.com/Technowlogy-Pushpender/technowlogger)]([https://github.com/Technowlogy-Pushpender/technowlogger](https://github.com/Technowlogy-Pushpender/technowlogger))
+**Repository:** [https://github.com/Technowlogy-Pushpender/technowlogger](https://github.com/Technowlogy-Pushpender/technowlogger)
 
 **Author:** Technowlogy-Pushpender
 
@@ -6232,7 +6232,7 @@ Various security tools and resources that are pending categorization.
 
 ## telegram-nearby-map
 
-**Repository:** [[https://github.com/tejado/telegram-nearby-map](https://github.com/tejado/telegram-nearby-map)]([https://github.com/tejado/telegram-nearby-map](https://github.com/tejado/telegram-nearby-map))
+**Repository:** [https://github.com/tejado/telegram-nearby-map](https://github.com/tejado/telegram-nearby-map)
 
 **Author:** tejado
 
@@ -6240,7 +6240,7 @@ Various security tools and resources that are pending categorization.
 
 ## telegram-scraper-TeleGraphite
 
-**Repository:** [[https://github.com/hamodywe/telegram-scraper-TeleGraphite](https://github.com/hamodywe/telegram-scraper-TeleGraphite)]([https://github.com/hamodywe/telegram-scraper-TeleGraphite](https://github.com/hamodywe/telegram-scraper-TeleGraphite))
+**Repository:** [https://github.com/hamodywe/telegram-scraper-TeleGraphite](https://github.com/hamodywe/telegram-scraper-TeleGraphite)
 
 **Author:** hamodywe
 
@@ -6248,7 +6248,7 @@ Various security tools and resources that are pending categorization.
 
 ## telnetlogger
 
-**Repository:** [[https://github.com/robertdavidgraham/telnetlogger](https://github.com/robertdavidgraham/telnetlogger)]([https://github.com/robertdavidgraham/telnetlogger](https://github.com/robertdavidgraham/telnetlogger))
+**Repository:** [https://github.com/robertdavidgraham/telnetlogger](https://github.com/robertdavidgraham/telnetlogger)
 
 **Author:** robertdavidgraham
 
@@ -6256,7 +6256,7 @@ Various security tools and resources that are pending categorization.
 
 ## tfsec
 
-**Repository:** [[https://github.com/tfsec/tfsec](https://github.com/tfsec/tfsec)]([https://github.com/tfsec/tfsec](https://github.com/tfsec/tfsec))
+**Repository:** [https://github.com/tfsec/tfsec](https://github.com/tfsec/tfsec)
 
 **Author:** tfsec
 
@@ -6264,7 +6264,7 @@ Various security tools and resources that are pending categorization.
 
 ## theHarvester
 
-**Repository:** [[https://github.com/laramies/theHarvester](https://github.com/laramies/theHarvester)]([https://github.com/laramies/theHarvester](https://github.com/laramies/theHarvester))
+**Repository:** [https://github.com/laramies/theHarvester](https://github.com/laramies/theHarvester)
 
 **Author:** laramies
 
@@ -6272,7 +6272,7 @@ Various security tools and resources that are pending categorization.
 
 ## themis
 
-**Repository:** [[https://github.com/cossacklabs/themis](https://github.com/cossacklabs/themis)]([https://github.com/cossacklabs/themis](https://github.com/cossacklabs/themis))
+**Repository:** [https://github.com/cossacklabs/themis](https://github.com/cossacklabs/themis)
 
 **Author:** cossacklabs
 
@@ -6280,7 +6280,7 @@ Various security tools and resources that are pending categorization.
 
 ## theZoo
 
-**Repository:** [[https://github.com/ytisf/theZoo](https://github.com/ytisf/theZoo)]([https://github.com/ytisf/theZoo](https://github.com/ytisf/theZoo))
+**Repository:** [https://github.com/ytisf/theZoo](https://github.com/ytisf/theZoo)
 
 **Author:** ytisf
 
@@ -6288,7 +6288,7 @@ Various security tools and resources that are pending categorization.
 
 ## timeliner
 
-**Repository:** [[https://github.com/airbus-cert/timeliner](https://github.com/airbus-cert/timeliner)]([https://github.com/airbus-cert/timeliner](https://github.com/airbus-cert/timeliner))
+**Repository:** [https://github.com/airbus-cert/timeliner](https://github.com/airbus-cert/timeliner)
 
 **Author:** airbus-cert
 
@@ -6296,7 +6296,7 @@ Various security tools and resources that are pending categorization.
 
 ## tls_prober
 
-**Repository:** [[https://github.com/WestpointLtd/tls_prober](https://github.com/WestpointLtd/tls_prober)]([https://github.com/WestpointLtd/tls_prober](https://github.com/WestpointLtd/tls_prober))
+**Repository:** [https://github.com/WestpointLtd/tls_prober](https://github.com/WestpointLtd/tls_prober)
 
 **Author:** WestpointLtd
 
@@ -6304,7 +6304,7 @@ Various security tools and resources that are pending categorization.
 
 ## toolkit
 
-**Repository:** [[https://github.com/docker-forensics-toolkit/toolkit](https://github.com/docker-forensics-toolkit/toolkit)]([https://github.com/docker-forensics-toolkit/toolkit](https://github.com/docker-forensics-toolkit/toolkit))
+**Repository:** [https://github.com/docker-forensics-toolkit/toolkit](https://github.com/docker-forensics-toolkit/toolkit)
 
 **Author:** docker-forensics-toolkit
 
@@ -6312,7 +6312,7 @@ Various security tools and resources that are pending categorization.
 
 ## tor-controller
 
-**Repository:** [[https://github.com/kragniz/tor-controller](https://github.com/kragniz/tor-controller)]([https://github.com/kragniz/tor-controller](https://github.com/kragniz/tor-controller))
+**Repository:** [https://github.com/kragniz/tor-controller](https://github.com/kragniz/tor-controller)
 
 **Author:** kragniz
 
@@ -6320,7 +6320,7 @@ Various security tools and resources that are pending categorization.
 
 ## tor-relay-bootstrap
 
-**Repository:** [[https://github.com/micahflee/tor-relay-bootstrap](https://github.com/micahflee/tor-relay-bootstrap)]([https://github.com/micahflee/tor-relay-bootstrap](https://github.com/micahflee/tor-relay-bootstrap))
+**Repository:** [https://github.com/micahflee/tor-relay-bootstrap](https://github.com/micahflee/tor-relay-bootstrap)
 
 **Author:** micahflee
 
@@ -6328,7 +6328,7 @@ Various security tools and resources that are pending categorization.
 
 ## Tor.framework
 
-**Repository:** [[https://github.com/iCepa/Tor.framework](https://github.com/iCepa/Tor.framework)]([https://github.com/iCepa/Tor.framework](https://github.com/iCepa/Tor.framework))
+**Repository:** [https://github.com/iCepa/Tor.framework](https://github.com/iCepa/Tor.framework)
 
 **Author:** iCepa
 
@@ -6336,7 +6336,7 @@ Various security tools and resources that are pending categorization.
 
 ## tor.rb
 
-**Repository:** [[https://github.com/dryruby/tor.rb](https://github.com/dryruby/tor.rb)]([https://github.com/dryruby/tor.rb](https://github.com/dryruby/tor.rb))
+**Repository:** [https://github.com/dryruby/tor.rb](https://github.com/dryruby/tor.rb)
 
 **Author:** dryruby
 
@@ -6344,7 +6344,7 @@ Various security tools and resources that are pending categorization.
 
 ## Tor_Onion_Proxy_Library
 
-**Repository:** [[https://github.com/thaliproject/Tor_Onion_Proxy_Library](https://github.com/thaliproject/Tor_Onion_Proxy_Library)]([https://github.com/thaliproject/Tor_Onion_Proxy_Library](https://github.com/thaliproject/Tor_Onion_Proxy_Library))
+**Repository:** [https://github.com/thaliproject/Tor_Onion_Proxy_Library](https://github.com/thaliproject/Tor_Onion_Proxy_Library)
 
 **Author:** thaliproject
 
@@ -6352,7 +6352,7 @@ Various security tools and resources that are pending categorization.
 
 ## ToRat
 
-**Repository:** [[https://github.com/lu4p/ToRat](https://github.com/lu4p/ToRat)]([https://github.com/lu4p/ToRat](https://github.com/lu4p/ToRat))
+**Repository:** [https://github.com/lu4p/ToRat](https://github.com/lu4p/ToRat)
 
 **Author:** lu4p
 
@@ -6360,7 +6360,7 @@ Various security tools and resources that are pending categorization.
 
 ## TorBot
 
-**Repository:** [[https://github.com/DedSecInside/TorBot](https://github.com/DedSecInside/TorBot)]([https://github.com/DedSecInside/TorBot](https://github.com/DedSecInside/TorBot))
+**Repository:** [https://github.com/DedSecInside/TorBot](https://github.com/DedSecInside/TorBot)
 
 **Author:** DedSecInside
 
@@ -6368,7 +6368,7 @@ Various security tools and resources that are pending categorization.
 
 ## torforge
 
-**Repository:** [[https://github.com/jery0843/torforge](https://github.com/jery0843/torforge)]([https://github.com/jery0843/torforge](https://github.com/jery0843/torforge))
+**Repository:** [https://github.com/jery0843/torforge](https://github.com/jery0843/torforge)
 
 **Author:** jery0843
 
@@ -6376,7 +6376,7 @@ Various security tools and resources that are pending categorization.
 
 ## traefik
 
-**Repository:** [[https://github.com/traefik/traefik](https://github.com/traefik/traefik)]([https://github.com/traefik/traefik](https://github.com/traefik/traefik))
+**Repository:** [https://github.com/traefik/traefik](https://github.com/traefik/traefik)
 
 **Author:** traefik
 
@@ -6384,7 +6384,7 @@ Various security tools and resources that are pending categorization.
 
 ## Triton
 
-**Repository:** [[https://github.com/JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton)]([https://github.com/JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton))
+**Repository:** [https://github.com/JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton)
 
 **Author:** JonathanSalwan
 
@@ -6392,7 +6392,7 @@ Various security tools and resources that are pending categorization.
 
 ## trivy
 
-**Repository:** [[https://github.com/aquasecurity/trivy](https://github.com/aquasecurity/trivy)]([https://github.com/aquasecurity/trivy](https://github.com/aquasecurity/trivy))
+**Repository:** [https://github.com/aquasecurity/trivy](https://github.com/aquasecurity/trivy)
 
 **Author:** aquasecurity
 
@@ -6400,7 +6400,7 @@ Various security tools and resources that are pending categorization.
 
 ## trufflehog
 
-**Repository:** [[https://github.com/trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)]([https://github.com/trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog))
+**Repository:** [https://github.com/trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
 
 **Author:** trufflesecurity
 
@@ -6408,7 +6408,7 @@ Various security tools and resources that are pending categorization.
 
 ## trust-scan
 
-**Repository:** [[https://github.com/undeadlist/trust-scan](https://github.com/undeadlist/trust-scan)]([https://github.com/undeadlist/trust-scan](https://github.com/undeadlist/trust-scan))
+**Repository:** [https://github.com/undeadlist/trust-scan](https://github.com/undeadlist/trust-scan)
 
 **Author:** undeadlist
 
@@ -6416,7 +6416,7 @@ Various security tools and resources that are pending categorization.
 
 ## tubeup
 
-**Repository:** [[https://github.com/bibanon/tubeup](https://github.com/bibanon/tubeup)]([https://github.com/bibanon/tubeup](https://github.com/bibanon/tubeup))
+**Repository:** [https://github.com/bibanon/tubeup](https://github.com/bibanon/tubeup)
 
 **Author:** bibanon
 
@@ -6424,7 +6424,7 @@ Various security tools and resources that are pending categorization.
 
 ## tun2tor
 
-**Repository:** [[https://github.com/iCepa/tun2tor](https://github.com/iCepa/tun2tor)]([https://github.com/iCepa/tun2tor](https://github.com/iCepa/tun2tor))
+**Repository:** [https://github.com/iCepa/tun2tor](https://github.com/iCepa/tun2tor)
 
 **Author:** iCepa
 
@@ -6432,7 +6432,7 @@ Various security tools and resources that are pending categorization.
 
 ## turbinia
 
-**Repository:** [[https://github.com/google/turbinia](https://github.com/google/turbinia)]([https://github.com/google/turbinia](https://github.com/google/turbinia))
+**Repository:** [https://github.com/google/turbinia](https://github.com/google/turbinia)
 
 **Author:** google
 
@@ -6440,7 +6440,7 @@ Various security tools and resources that are pending categorization.
 
 ## uBlock
 
-**Repository:** [[https://github.com/gorhill/uBlock](https://github.com/gorhill/uBlock)]([https://github.com/gorhill/uBlock](https://github.com/gorhill/uBlock))
+**Repository:** [https://github.com/gorhill/uBlock](https://github.com/gorhill/uBlock)
 
 **Author:** gorhill
 
@@ -6448,7 +6448,7 @@ Various security tools and resources that are pending categorization.
 
 ## udis86
 
-**Repository:** [[https://github.com/vmt/udis86](https://github.com/vmt/udis86)]([https://github.com/vmt/udis86](https://github.com/vmt/udis86))
+**Repository:** [https://github.com/vmt/udis86](https://github.com/vmt/udis86)
 
 **Author:** vmt
 
@@ -6456,7 +6456,7 @@ Various security tools and resources that are pending categorization.
 
 ## UglifyJS
 
-**Repository:** [[https://github.com/mishoo/UglifyJS](https://github.com/mishoo/UglifyJS)]([https://github.com/mishoo/UglifyJS](https://github.com/mishoo/UglifyJS))
+**Repository:** [https://github.com/mishoo/UglifyJS](https://github.com/mishoo/UglifyJS)
 
 **Author:** mishoo
 
@@ -6464,7 +6464,7 @@ Various security tools and resources that are pending categorization.
 
 ## UltimateAppLockerByPassList
 
-**Repository:** [[https://github.com/api0cradle/UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList)]([https://github.com/api0cradle/UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList))
+**Repository:** [https://github.com/api0cradle/UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList)
 
 **Author:** api0cradle
 
@@ -6472,7 +6472,7 @@ Various security tools and resources that are pending categorization.
 
 ## uncompyle
 
-**Repository:** [[https://github.com/gstarnberger/uncompyle](https://github.com/gstarnberger/uncompyle)]([https://github.com/gstarnberger/uncompyle](https://github.com/gstarnberger/uncompyle))
+**Repository:** [https://github.com/gstarnberger/uncompyle](https://github.com/gstarnberger/uncompyle)
 
 **Author:** gstarnberger
 
@@ -6480,7 +6480,7 @@ Various security tools and resources that are pending categorization.
 
 ## unfurl
 
-**Repository:** [[https://github.com/obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl)]([https://github.com/obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl))
+**Repository:** [https://github.com/obsidianforensics/unfurl](https://github.com/obsidianforensics/unfurl)
 
 **Author:** obsidianforensics
 
@@ -6488,7 +6488,7 @@ Various security tools and resources that are pending categorization.
 
 ## unguard
 
-**Repository:** [[https://github.com/dynatrace-oss/unguard](https://github.com/dynatrace-oss/unguard)]([https://github.com/dynatrace-oss/unguard](https://github.com/dynatrace-oss/unguard))
+**Repository:** [https://github.com/dynatrace-oss/unguard](https://github.com/dynatrace-oss/unguard)
 
 **Author:** dynatrace-oss
 
@@ -6496,7 +6496,7 @@ Various security tools and resources that are pending categorization.
 
 ## unipacker
 
-**Repository:** [[https://github.com/unipacker/unipacker](https://github.com/unipacker/unipacker)]([https://github.com/unipacker/unipacker](https://github.com/unipacker/unipacker))
+**Repository:** [https://github.com/unipacker/unipacker](https://github.com/unipacker/unipacker)
 
 **Author:** unipacker
 
@@ -6504,7 +6504,7 @@ Various security tools and resources that are pending categorization.
 
 ## unix_collector
 
-**Repository:** [[https://github.com/op7ic/unix_collector](https://github.com/op7ic/unix_collector)]([https://github.com/op7ic/unix_collector](https://github.com/op7ic/unix_collector))
+**Repository:** [https://github.com/op7ic/unix_collector](https://github.com/op7ic/unix_collector)
 
 **Author:** op7ic
 
@@ -6512,7 +6512,7 @@ Various security tools and resources that are pending categorization.
 
 ## unpacker
 
-**Repository:** [[https://github.com/malwaremusings/unpacker](https://github.com/malwaremusings/unpacker)]([https://github.com/malwaremusings/unpacker](https://github.com/malwaremusings/unpacker))
+**Repository:** [https://github.com/malwaremusings/unpacker](https://github.com/malwaremusings/unpacker)
 
 **Author:** malwaremusings
 
@@ -6520,7 +6520,7 @@ Various security tools and resources that are pending categorization.
 
 ## unpy2exe
 
-**Repository:** [[https://github.com/matiasb/unpy2exe](https://github.com/matiasb/unpy2exe)]([https://github.com/matiasb/unpy2exe](https://github.com/matiasb/unpy2exe))
+**Repository:** [https://github.com/matiasb/unpy2exe](https://github.com/matiasb/unpy2exe)
 
 **Author:** matiasb
 
@@ -6528,7 +6528,7 @@ Various security tools and resources that are pending categorization.
 
 ## untitledgoosetool
 
-**Repository:** [[https://github.com/cisagov/untitledgoosetool](https://github.com/cisagov/untitledgoosetool)]([https://github.com/cisagov/untitledgoosetool](https://github.com/cisagov/untitledgoosetool))
+**Repository:** [https://github.com/cisagov/untitledgoosetool](https://github.com/cisagov/untitledgoosetool)
 
 **Author:** cisagov
 
@@ -6536,7 +6536,7 @@ Various security tools and resources that are pending categorization.
 
 ## unxor
 
-**Repository:** [[https://github.com/tomchop/unxor](https://github.com/tomchop/unxor)]([https://github.com/tomchop/unxor](https://github.com/tomchop/unxor))
+**Repository:** [https://github.com/tomchop/unxor](https://github.com/tomchop/unxor)
 
 **Author:** tomchop
 
@@ -6544,7 +6544,7 @@ Various security tools and resources that are pending categorization.
 
 ## urlhs
 
-**Repository:** [[https://github.com/andpalmier/urlhs](https://github.com/andpalmier/urlhs)]([https://github.com/andpalmier/urlhs](https://github.com/andpalmier/urlhs))
+**Repository:** [https://github.com/andpalmier/urlhs](https://github.com/andpalmier/urlhs)
 
 **Author:** andpalmier
 
@@ -6552,7 +6552,7 @@ Various security tools and resources that are pending categorization.
 
 ## user-scanner
 
-**Repository:** [[https://github.com/kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner)]([https://github.com/kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner))
+**Repository:** [https://github.com/kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner)
 
 **Author:** kaifcodec
 
@@ -6560,7 +6560,7 @@ Various security tools and resources that are pending categorization.
 
 ## USN-Journal-Parser
 
-**Repository:** [[https://github.com/PoorBillionaire/USN-Journal-Parser](https://github.com/PoorBillionaire/USN-Journal-Parser)]([https://github.com/PoorBillionaire/USN-Journal-Parser](https://github.com/PoorBillionaire/USN-Journal-Parser))
+**Repository:** [https://github.com/PoorBillionaire/USN-Journal-Parser](https://github.com/PoorBillionaire/USN-Journal-Parser)
 
 **Author:** PoorBillionaire
 
@@ -6568,7 +6568,7 @@ Various security tools and resources that are pending categorization.
 
 ## VAmPI
 
-**Repository:** [[https://github.com/erev0s/VAmPI](https://github.com/erev0s/VAmPI)]([https://github.com/erev0s/VAmPI](https://github.com/erev0s/VAmPI))
+**Repository:** [https://github.com/erev0s/VAmPI](https://github.com/erev0s/VAmPI)
 
 **Author:** erev0s
 
@@ -6576,7 +6576,7 @@ Various security tools and resources that are pending categorization.
 
 ## vanguards
 
-**Repository:** [[https://github.com/mikeperry-tor/vanguards](https://github.com/mikeperry-tor/vanguards)]([https://github.com/mikeperry-tor/vanguards](https://github.com/mikeperry-tor/vanguards))
+**Repository:** [https://github.com/mikeperry-tor/vanguards](https://github.com/mikeperry-tor/vanguards)
 
 **Author:** mikeperry-tor
 
@@ -6584,7 +6584,7 @@ Various security tools and resources that are pending categorization.
 
 ## vast
 
-**Repository:** [[https://github.com/tenzir/vast](https://github.com/tenzir/vast)]([https://github.com/tenzir/vast](https://github.com/tenzir/vast))
+**Repository:** [https://github.com/tenzir/vast](https://github.com/tenzir/vast)
 
 **Author:** tenzir
 
@@ -6592,7 +6592,7 @@ Various security tools and resources that are pending categorization.
 
 ## veles
 
-**Repository:** [[https://github.com/codilime/veles](https://github.com/codilime/veles)]([https://github.com/codilime/veles](https://github.com/codilime/veles))
+**Repository:** [https://github.com/codilime/veles](https://github.com/codilime/veles)
 
 **Author:** codilime
 
@@ -6600,7 +6600,7 @@ Various security tools and resources that are pending categorization.
 
 ## VHostScan
 
-**Repository:** [[https://github.com/codingo/VHostScan](https://github.com/codingo/VHostScan)]([https://github.com/codingo/VHostScan](https://github.com/codingo/VHostScan))
+**Repository:** [https://github.com/codingo/VHostScan](https://github.com/codingo/VHostScan)
 
 **Author:** codingo
 
@@ -6608,7 +6608,7 @@ Various security tools and resources that are pending categorization.
 
 ## vim-syntax-yara
 
-**Repository:** [[https://github.com/s3rvac/vim-syntax-yara](https://github.com/s3rvac/vim-syntax-yara)]([https://github.com/s3rvac/vim-syntax-yara](https://github.com/s3rvac/vim-syntax-yara))
+**Repository:** [https://github.com/s3rvac/vim-syntax-yara](https://github.com/s3rvac/vim-syntax-yara)
 
 **Author:** s3rvac
 
@@ -6616,7 +6616,7 @@ Various security tools and resources that are pending categorization.
 
 ## VirtualDeobfuscator
 
-**Repository:** [[https://github.com/jnraber/VirtualDeobfuscator](https://github.com/jnraber/VirtualDeobfuscator)]([https://github.com/jnraber/VirtualDeobfuscator](https://github.com/jnraber/VirtualDeobfuscator))
+**Repository:** [https://github.com/jnraber/VirtualDeobfuscator](https://github.com/jnraber/VirtualDeobfuscator)
 
 **Author:** jnraber
 
@@ -6624,7 +6624,7 @@ Various security tools and resources that are pending categorization.
 
 ## VirusTotalTools
 
-**Repository:** [[https://github.com/silascutler/VirusTotalTools](https://github.com/silascutler/VirusTotalTools)]([https://github.com/silascutler/VirusTotalTools](https://github.com/silascutler/VirusTotalTools))
+**Repository:** [https://github.com/silascutler/VirusTotalTools](https://github.com/silascutler/VirusTotalTools)
 
 **Author:** silascutler
 
@@ -6632,7 +6632,7 @@ Various security tools and resources that are pending categorization.
 
 ## visualize_logs
 
-**Repository:** [[https://github.com/keithjjones/visualize_logs](https://github.com/keithjjones/visualize_logs)]([https://github.com/keithjjones/visualize_logs](https://github.com/keithjjones/visualize_logs))
+**Repository:** [https://github.com/keithjjones/visualize_logs](https://github.com/keithjjones/visualize_logs)
 
 **Author:** keithjjones
 
@@ -6640,7 +6640,7 @@ Various security tools and resources that are pending categorization.
 
 ## vivisect
 
-**Repository:** [[https://github.com/vivisect/vivisect](https://github.com/vivisect/vivisect)]([https://github.com/vivisect/vivisect](https://github.com/vivisect/vivisect))
+**Repository:** [https://github.com/vivisect/vivisect](https://github.com/vivisect/vivisect)
 
 **Author:** vivisect
 
@@ -6648,7 +6648,7 @@ Various security tools and resources that are pending categorization.
 
 ## voltron
 
-**Repository:** [[https://github.com/snare/voltron](https://github.com/snare/voltron)]([https://github.com/snare/voltron](https://github.com/snare/voltron))
+**Repository:** [https://github.com/snare/voltron](https://github.com/snare/voltron)
 
 **Author:** snare
 
@@ -6656,7 +6656,7 @@ Various security tools and resources that are pending categorization.
 
 ## vscode-yara
 
-**Repository:** [[https://github.com/infosec-intern/vscode-yara](https://github.com/infosec-intern/vscode-yara)]([https://github.com/infosec-intern/vscode-yara](https://github.com/infosec-intern/vscode-yara))
+**Repository:** [https://github.com/infosec-intern/vscode-yara](https://github.com/infosec-intern/vscode-yara)
 
 **Author:** infosec-intern
 
@@ -6664,7 +6664,7 @@ Various security tools and resources that are pending categorization.
 
 ## VTCodeSimilarity-YaraGen
 
-**Repository:** [[https://github.com/arieljt/VTCodeSimilarity-YaraGen](https://github.com/arieljt/VTCodeSimilarity-YaraGen)]([https://github.com/arieljt/VTCodeSimilarity-YaraGen](https://github.com/arieljt/VTCodeSimilarity-YaraGen))
+**Repository:** [https://github.com/arieljt/VTCodeSimilarity-YaraGen](https://github.com/arieljt/VTCodeSimilarity-YaraGen)
 
 **Author:** arieljt
 
@@ -6672,7 +6672,7 @@ Various security tools and resources that are pending categorization.
 
 ## Vuldroid
 
-**Repository:** [[https://github.com/jaiswalakshansh/Vuldroid](https://github.com/jaiswalakshansh/Vuldroid)]([https://github.com/jaiswalakshansh/Vuldroid](https://github.com/jaiswalakshansh/Vuldroid))
+**Repository:** [https://github.com/jaiswalakshansh/Vuldroid](https://github.com/jaiswalakshansh/Vuldroid)
 
 **Author:** jaiswalakshansh
 
@@ -6680,7 +6680,7 @@ Various security tools and resources that are pending categorization.
 
 ## vuln
 
-**Repository:** [[https://github.com/golang/vuln](https://github.com/golang/vuln)]([https://github.com/golang/vuln](https://github.com/golang/vuln))
+**Repository:** [https://github.com/golang/vuln](https://github.com/golang/vuln)
 
 **Author:** golang
 
@@ -6688,7 +6688,7 @@ Various security tools and resources that are pending categorization.
 
 ## VulnerableLightApp
 
-**Repository:** [[https://github.com/Aif4thah/VulnerableLightApp](https://github.com/Aif4thah/VulnerableLightApp)]([https://github.com/Aif4thah/VulnerableLightApp](https://github.com/Aif4thah/VulnerableLightApp))
+**Repository:** [https://github.com/Aif4thah/VulnerableLightApp](https://github.com/Aif4thah/VulnerableLightApp)
 
 **Author:** Aif4thah
 
@@ -6696,7 +6696,7 @@ Various security tools and resources that are pending categorization.
 
 ## vuls
 
-**Repository:** [[https://github.com/future-architect/vuls](https://github.com/future-architect/vuls)]([https://github.com/future-architect/vuls](https://github.com/future-architect/vuls))
+**Repository:** [https://github.com/future-architect/vuls](https://github.com/future-architect/vuls)
 
 **Author:** future-architect
 
@@ -6704,7 +6704,7 @@ Various security tools and resources that are pending categorization.
 
 ## vxsig
 
-**Repository:** [[https://github.com/google/vxsig](https://github.com/google/vxsig)]([https://github.com/google/vxsig](https://github.com/google/vxsig))
+**Repository:** [https://github.com/google/vxsig](https://github.com/google/vxsig)
 
 **Author:** google
 
@@ -6712,7 +6712,7 @@ Various security tools and resources that are pending categorization.
 
 ## wafw00f
 
-**Repository:** [[https://github.com/EnableSecurity/wafw00f](https://github.com/EnableSecurity/wafw00f)]([https://github.com/EnableSecurity/wafw00f](https://github.com/EnableSecurity/wafw00f))
+**Repository:** [https://github.com/EnableSecurity/wafw00f](https://github.com/EnableSecurity/wafw00f)
 
 **Author:** EnableSecurity
 
@@ -6720,7 +6720,7 @@ Various security tools and resources that are pending categorization.
 
 ## WAPot
 
-**Repository:** [[https://github.com/lcashdol/WAPot](https://github.com/lcashdol/WAPot)]([https://github.com/lcashdol/WAPot](https://github.com/lcashdol/WAPot))
+**Repository:** [https://github.com/lcashdol/WAPot](https://github.com/lcashdol/WAPot)
 
 **Author:** lcashdol
 
@@ -6728,7 +6728,7 @@ Various security tools and resources that are pending categorization.
 
 ## wavsteg
 
-**Repository:** [[https://github.com/samolds/wavsteg](https://github.com/samolds/wavsteg)]([https://github.com/samolds/wavsteg](https://github.com/samolds/wavsteg))
+**Repository:** [https://github.com/samolds/wavsteg](https://github.com/samolds/wavsteg)
 
 **Author:** samolds
 
@@ -6736,7 +6736,7 @@ Various security tools and resources that are pending categorization.
 
 ## waybackpack
 
-**Repository:** [[https://github.com/jsvine/waybackpack](https://github.com/jsvine/waybackpack)]([https://github.com/jsvine/waybackpack](https://github.com/jsvine/waybackpack))
+**Repository:** [https://github.com/jsvine/waybackpack](https://github.com/jsvine/waybackpack)
 
 **Author:** jsvine
 
@@ -6744,7 +6744,7 @@ Various security tools and resources that are pending categorization.
 
 ## waybackpy
 
-**Repository:** [[https://github.com/akamhy/waybackpy](https://github.com/akamhy/waybackpy)]([https://github.com/akamhy/waybackpy](https://github.com/akamhy/waybackpy))
+**Repository:** [https://github.com/akamhy/waybackpy](https://github.com/akamhy/waybackpy)
 
 **Author:** akamhy
 
@@ -6752,7 +6752,7 @@ Various security tools and resources that are pending categorization.
 
 ## wazuh
 
-**Repository:** [[https://github.com/wazuh/wazuh](https://github.com/wazuh/wazuh)]([https://github.com/wazuh/wazuh](https://github.com/wazuh/wazuh))
+**Repository:** [https://github.com/wazuh/wazuh](https://github.com/wazuh/wazuh)
 
 **Author:** wazuh
 
@@ -6760,7 +6760,7 @@ Various security tools and resources that are pending categorization.
 
 ## WebGoat
 
-**Repository:** [[https://github.com/WebGoat/WebGoat](https://github.com/WebGoat/WebGoat)]([https://github.com/WebGoat/WebGoat](https://github.com/WebGoat/WebGoat))
+**Repository:** [https://github.com/WebGoat/WebGoat](https://github.com/WebGoat/WebGoat)
 
 **Author:** WebGoat
 
@@ -6768,7 +6768,7 @@ Various security tools and resources that are pending categorization.
 
 ## webgoat
 
-**Repository:** [[https://github.com/webgoat/webgoat](https://github.com/webgoat/webgoat)]([https://github.com/webgoat/webgoat](https://github.com/webgoat/webgoat))
+**Repository:** [https://github.com/webgoat/webgoat](https://github.com/webgoat/webgoat)
 
 **Author:** webgoat
 
@@ -6776,7 +6776,7 @@ Various security tools and resources that are pending categorization.
 
 ## WebGoat.NET
 
-**Repository:** [[https://github.com/jerryhoff/WebGoat.NET](https://github.com/jerryhoff/WebGoat.NET)]([https://github.com/jerryhoff/WebGoat.NET](https://github.com/jerryhoff/WebGoat.NET))
+**Repository:** [https://github.com/jerryhoff/WebGoat.NET](https://github.com/jerryhoff/WebGoat.NET)
 
 **Author:** jerryhoff
 
@@ -6784,7 +6784,7 @@ Various security tools and resources that are pending categorization.
 
 ## webscreenshot
 
-**Repository:** [[https://github.com/maaaaz/webscreenshot](https://github.com/maaaaz/webscreenshot)]([https://github.com/maaaaz/webscreenshot](https://github.com/maaaaz/webscreenshot))
+**Repository:** [https://github.com/maaaaz/webscreenshot](https://github.com/maaaaz/webscreenshot)
 
 **Author:** maaaaz
 
@@ -6792,7 +6792,7 @@ Various security tools and resources that are pending categorization.
 
 ## webshells
 
-**Repository:** [[https://github.com/BlackArch/webshells](https://github.com/BlackArch/webshells)]([https://github.com/BlackArch/webshells](https://github.com/BlackArch/webshells))
+**Repository:** [https://github.com/BlackArch/webshells](https://github.com/BlackArch/webshells)
 
 **Author:** BlackArch
 
@@ -6800,7 +6800,7 @@ Various security tools and resources that are pending categorization.
 
 ## WebsiteTechMiner-py
 
-**Repository:** [[https://github.com/cybersader/WebsiteTechMiner-py](https://github.com/cybersader/WebsiteTechMiner-py)]([https://github.com/cybersader/WebsiteTechMiner-py](https://github.com/cybersader/WebsiteTechMiner-py))
+**Repository:** [https://github.com/cybersader/WebsiteTechMiner-py](https://github.com/cybersader/WebsiteTechMiner-py)
 
 **Author:** cybersader
 
@@ -6808,7 +6808,7 @@ Various security tools and resources that are pending categorization.
 
 ## WhatWaf
 
-**Repository:** [[https://github.com/Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf)]([https://github.com/Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf))
+**Repository:** [https://github.com/Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf)
 
 **Author:** Ekultek
 
@@ -6816,7 +6816,7 @@ Various security tools and resources that are pending categorization.
 
 ## WhatWeb
 
-**Repository:** [[https://github.com/urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb)]([https://github.com/urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb))
+**Repository:** [https://github.com/urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb)
 
 **Author:** urbanadventurer
 
@@ -6824,7 +6824,7 @@ Various security tools and resources that are pending categorization.
 
 ## whosthere
 
-**Repository:** [[https://github.com/ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere)]([https://github.com/ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere))
+**Repository:** [https://github.com/ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere)
 
 **Author:** ramonvermeulen
 
@@ -6832,7 +6832,7 @@ Various security tools and resources that are pending categorization.
 
 ## wifi-arsenal
 
-**Repository:** [[https://github.com/0x90/wifi-arsenal](https://github.com/0x90/wifi-arsenal)]([https://github.com/0x90/wifi-arsenal](https://github.com/0x90/wifi-arsenal))
+**Repository:** [https://github.com/0x90/wifi-arsenal](https://github.com/0x90/wifi-arsenal)
 
 **Author:** 0x90
 
@@ -6840,7 +6840,7 @@ Various security tools and resources that are pending categorization.
 
 ## wifiphisher
 
-**Repository:** [[https://github.com/sophron/wifiphisher](https://github.com/sophron/wifiphisher)]([https://github.com/sophron/wifiphisher](https://github.com/sophron/wifiphisher))
+**Repository:** [https://github.com/sophron/wifiphisher](https://github.com/sophron/wifiphisher)
 
 **Author:** sophron
 
@@ -6848,7 +6848,7 @@ Various security tools and resources that are pending categorization.
 
 ## Windows-Secure-Host-Baseline
 
-**Repository:** [[https://github.com/nsacyber/Windows-Secure-Host-Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline)]([https://github.com/nsacyber/Windows-Secure-Host-Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline))
+**Repository:** [https://github.com/nsacyber/Windows-Secure-Host-Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline)
 
 **Author:** nsacyber
 
@@ -6856,7 +6856,7 @@ Various security tools and resources that are pending categorization.
 
 ## Windows-SignedBinary
 
-**Repository:** [[https://github.com/vysec/Windows-SignedBinary](https://github.com/vysec/Windows-SignedBinary)]([https://github.com/vysec/Windows-SignedBinary](https://github.com/vysec/Windows-SignedBinary))
+**Repository:** [https://github.com/vysec/Windows-SignedBinary](https://github.com/vysec/Windows-SignedBinary)
 
 **Author:** vysec
 
@@ -6864,7 +6864,7 @@ Various security tools and resources that are pending categorization.
 
 ## WinPwn
 
-**Repository:** [[https://github.com/SecureThisShit/WinPwn](https://github.com/SecureThisShit/WinPwn)]([https://github.com/SecureThisShit/WinPwn](https://github.com/SecureThisShit/WinPwn))
+**Repository:** [https://github.com/SecureThisShit/WinPwn](https://github.com/SecureThisShit/WinPwn)
 
 **Author:** SecureThisShit
 
@@ -6872,7 +6872,7 @@ Various security tools and resources that are pending categorization.
 
 ## wire-desktop
 
-**Repository:** [[https://github.com/wireapp/wire-desktop](https://github.com/wireapp/wire-desktop)]([https://github.com/wireapp/wire-desktop](https://github.com/wireapp/wire-desktop))
+**Repository:** [https://github.com/wireapp/wire-desktop](https://github.com/wireapp/wire-desktop)
 
 **Author:** wireapp
 
@@ -6880,7 +6880,7 @@ Various security tools and resources that are pending categorization.
 
 ## wordpot
 
-**Repository:** [[https://github.com/gbrindisi/wordpot](https://github.com/gbrindisi/wordpot)]([https://github.com/gbrindisi/wordpot](https://github.com/gbrindisi/wordpot))
+**Repository:** [https://github.com/gbrindisi/wordpot](https://github.com/gbrindisi/wordpot)
 
 **Author:** gbrindisi
 
@@ -6888,7 +6888,7 @@ Various security tools and resources that are pending categorization.
 
 ## Wordpot-Frontend
 
-**Repository:** [[https://github.com/GovCERT-CZ/Wordpot-Frontend](https://github.com/GovCERT-CZ/Wordpot-Frontend)]([https://github.com/GovCERT-CZ/Wordpot-Frontend](https://github.com/GovCERT-CZ/Wordpot-Frontend))
+**Repository:** [https://github.com/GovCERT-CZ/Wordpot-Frontend](https://github.com/GovCERT-CZ/Wordpot-Frontend)
 
 **Author:** GovCERT-CZ
 
@@ -6896,7 +6896,7 @@ Various security tools and resources that are pending categorization.
 
 ## wp-smart-honeypot
 
-**Repository:** [[https://github.com/freak3dot/wp-smart-honeypot](https://github.com/freak3dot/wp-smart-honeypot)]([https://github.com/freak3dot/wp-smart-honeypot](https://github.com/freak3dot/wp-smart-honeypot))
+**Repository:** [https://github.com/freak3dot/wp-smart-honeypot](https://github.com/freak3dot/wp-smart-honeypot)
 
 **Author:** freak3dot
 
@@ -6904,7 +6904,7 @@ Various security tools and resources that are pending categorization.
 
 ## wxHexEditor
 
-**Repository:** [[https://github.com/EUA/wxHexEditor](https://github.com/EUA/wxHexEditor)]([https://github.com/EUA/wxHexEditor](https://github.com/EUA/wxHexEditor))
+**Repository:** [https://github.com/EUA/wxHexEditor](https://github.com/EUA/wxHexEditor)
 
 **Author:** EUA
 
@@ -6912,7 +6912,7 @@ Various security tools and resources that are pending categorization.
 
 ## x64dbg
 
-**Repository:** [[https://github.com/x64dbg/x64dbg](https://github.com/x64dbg/x64dbg)]([https://github.com/x64dbg/x64dbg](https://github.com/x64dbg/x64dbg))
+**Repository:** [https://github.com/x64dbg/x64dbg](https://github.com/x64dbg/x64dbg)
 
 **Author:** x64dbg
 
@@ -6920,7 +6920,7 @@ Various security tools and resources that are pending categorization.
 
 ## xortool
 
-**Repository:** [[https://github.com/hellman/xortool](https://github.com/hellman/xortool)]([https://github.com/hellman/xortool](https://github.com/hellman/xortool))
+**Repository:** [https://github.com/hellman/xortool](https://github.com/hellman/xortool)
 
 **Author:** hellman
 
@@ -6928,7 +6928,7 @@ Various security tools and resources that are pending categorization.
 
 ## yabin
 
-**Repository:** [[https://github.com/AlienVault-OTX/yabin](https://github.com/AlienVault-OTX/yabin)]([https://github.com/AlienVault-OTX/yabin](https://github.com/AlienVault-OTX/yabin))
+**Repository:** [https://github.com/AlienVault-OTX/yabin](https://github.com/AlienVault-OTX/yabin)
 
 **Author:** AlienVault-OTX
 
@@ -6936,7 +6936,7 @@ Various security tools and resources that are pending categorization.
 
 ## yaffs2-forensic-tool
 
-**Repository:** [[https://github.com/hashment/yaffs2-forensic-tool](https://github.com/hashment/yaffs2-forensic-tool)]([https://github.com/hashment/yaffs2-forensic-tool](https://github.com/hashment/yaffs2-forensic-tool))
+**Repository:** [https://github.com/hashment/yaffs2-forensic-tool](https://github.com/hashment/yaffs2-forensic-tool)
 
 **Author:** hashment
 
@@ -6944,7 +6944,7 @@ Various security tools and resources that are pending categorization.
 
 ## yalih
 
-**Repository:** [[https://github.com/Masood-M/yalih](https://github.com/Masood-M/yalih)]([https://github.com/Masood-M/yalih](https://github.com/Masood-M/yalih))
+**Repository:** [https://github.com/Masood-M/yalih](https://github.com/Masood-M/yalih)
 
 **Author:** Masood-M
 
@@ -6952,7 +6952,7 @@ Various security tools and resources that are pending categorization.
 
 ## yaml2yara
 
-**Repository:** [[https://github.com/nccgroup/yaml2yara](https://github.com/nccgroup/yaml2yara)]([https://github.com/nccgroup/yaml2yara](https://github.com/nccgroup/yaml2yara))
+**Repository:** [https://github.com/nccgroup/yaml2yara](https://github.com/nccgroup/yaml2yara)
 
 **Author:** nccgroup
 
@@ -6960,7 +6960,7 @@ Various security tools and resources that are pending categorization.
 
 ## yar
 
-**Repository:** [[https://github.com/Furduhlutur/yar](https://github.com/Furduhlutur/yar)]([https://github.com/Furduhlutur/yar](https://github.com/Furduhlutur/yar))
+**Repository:** [https://github.com/Furduhlutur/yar](https://github.com/Furduhlutur/yar)
 
 **Author:** Furduhlutur
 
@@ -6968,7 +6968,7 @@ Various security tools and resources that are pending categorization.
 
 ## YARA
 
-**Repository:** [[https://github.com/anyrun/YARA](https://github.com/anyrun/YARA)]([https://github.com/anyrun/YARA](https://github.com/anyrun/YARA))
+**Repository:** [https://github.com/anyrun/YARA](https://github.com/anyrun/YARA)
 
 **Author:** anyrun
 
@@ -6976,7 +6976,7 @@ Various security tools and resources that are pending categorization.
 
 ## yara
 
-**Repository:** [[https://github.com/securitymagic/yara](https://github.com/securitymagic/yara)]([https://github.com/securitymagic/yara](https://github.com/securitymagic/yara))
+**Repository:** [https://github.com/securitymagic/yara](https://github.com/securitymagic/yara)
 
 **Author:** securitymagic
 
@@ -6984,7 +6984,7 @@ Various security tools and resources that are pending categorization.
 
 ## yara-java
 
-**Repository:** [[https://github.com/p8a/yara-java](https://github.com/p8a/yara-java)]([https://github.com/p8a/yara-java](https://github.com/p8a/yara-java))
+**Repository:** [https://github.com/p8a/yara-java](https://github.com/p8a/yara-java)
 
 **Author:** p8a
 
@@ -6992,7 +6992,7 @@ Various security tools and resources that are pending categorization.
 
 ## yara-ocaml
 
-**Repository:** [[https://github.com/XVilka/yara-ocaml](https://github.com/XVilka/yara-ocaml)]([https://github.com/XVilka/yara-ocaml](https://github.com/XVilka/yara-ocaml))
+**Repository:** [https://github.com/XVilka/yara-ocaml](https://github.com/XVilka/yara-ocaml)
 
 **Author:** XVilka
 
@@ -7000,7 +7000,7 @@ Various security tools and resources that are pending categorization.
 
 ## yara-parser
 
-**Repository:** [[https://github.com/Northern-Lights/yara-parser](https://github.com/Northern-Lights/yara-parser)]([https://github.com/Northern-Lights/yara-parser](https://github.com/Northern-Lights/yara-parser))
+**Repository:** [https://github.com/Northern-Lights/yara-parser](https://github.com/Northern-Lights/yara-parser)
 
 **Author:** Northern-Lights
 
@@ -7008,7 +7008,7 @@ Various security tools and resources that are pending categorization.
 
 ## YARA-PE-Features
 
-**Repository:** [[https://github.com/g-les/YARA-PE-Features](https://github.com/g-les/YARA-PE-Features)]([https://github.com/g-les/YARA-PE-Features](https://github.com/g-les/YARA-PE-Features))
+**Repository:** [https://github.com/g-les/YARA-PE-Features](https://github.com/g-les/YARA-PE-Features)
 
 **Author:** g-les
 
@@ -7016,7 +7016,7 @@ Various security tools and resources that are pending categorization.
 
 ## yara-procdump-python
 
-**Repository:** [[https://github.com/google/yara-procdump-python](https://github.com/google/yara-procdump-python)]([https://github.com/google/yara-procdump-python](https://github.com/google/yara-procdump-python))
+**Repository:** [https://github.com/google/yara-procdump-python](https://github.com/google/yara-procdump-python)
 
 **Author:** google
 
@@ -7024,7 +7024,7 @@ Various security tools and resources that are pending categorization.
 
 ## Yara-Repo
 
-**Repository:** [[https://github.com/Fadavvi/Yara-Repo](https://github.com/Fadavvi/Yara-Repo)]([https://github.com/Fadavvi/Yara-Repo](https://github.com/Fadavvi/Yara-Repo))
+**Repository:** [https://github.com/Fadavvi/Yara-Repo](https://github.com/Fadavvi/Yara-Repo)
 
 **Author:** Fadavvi
 
@@ -7032,7 +7032,7 @@ Various security tools and resources that are pending categorization.
 
 ## YARA-rules
 
-**Repository:** [[https://github.com/fboldewin/YARA-rules](https://github.com/fboldewin/YARA-rules)]([https://github.com/fboldewin/YARA-rules](https://github.com/fboldewin/YARA-rules))
+**Repository:** [https://github.com/fboldewin/YARA-rules](https://github.com/fboldewin/YARA-rules)
 
 **Author:** fboldewin
 
@@ -7040,7 +7040,7 @@ Various security tools and resources that are pending categorization.
 
 ## yara-rules-public
 
-**Repository:** [[https://github.com/jipegit/yara-rules-public](https://github.com/jipegit/yara-rules-public)]([https://github.com/jipegit/yara-rules-public](https://github.com/jipegit/yara-rules-public))
+**Repository:** [https://github.com/jipegit/yara-rules-public](https://github.com/jipegit/yara-rules-public)
 
 **Author:** jipegit
 
@@ -7048,7 +7048,7 @@ Various security tools and resources that are pending categorization.
 
 ## yara-rust
 
-**Repository:** [[https://github.com/Hugal31/yara-rust](https://github.com/Hugal31/yara-rust)]([https://github.com/Hugal31/yara-rust](https://github.com/Hugal31/yara-rust))
+**Repository:** [https://github.com/Hugal31/yara-rust](https://github.com/Hugal31/yara-rust)
 
 **Author:** Hugal31
 
@@ -7056,7 +7056,7 @@ Various security tools and resources that are pending categorization.
 
 ## yara-signator
 
-**Repository:** [[https://github.com/fxb-cocacoding/yara-signator](https://github.com/fxb-cocacoding/yara-signator)]([https://github.com/fxb-cocacoding/yara-signator](https://github.com/fxb-cocacoding/yara-signator))
+**Repository:** [https://github.com/fxb-cocacoding/yara-signator](https://github.com/fxb-cocacoding/yara-signator)
 
 **Author:** fxb-cocacoding
 
@@ -7064,7 +7064,7 @@ Various security tools and resources that are pending categorization.
 
 ## YARA-sort
 
-**Repository:** [[https://github.com/horsicq/YARA-sort](https://github.com/horsicq/YARA-sort)]([https://github.com/horsicq/YARA-sort](https://github.com/horsicq/YARA-sort))
+**Repository:** [https://github.com/horsicq/YARA-sort](https://github.com/horsicq/YARA-sort)
 
 **Author:** horsicq
 
@@ -7072,7 +7072,7 @@ Various security tools and resources that are pending categorization.
 
 ## Yara-Unprotect
 
-**Repository:** [[https://github.com/fr0gger/Yara-Unprotect](https://github.com/fr0gger/Yara-Unprotect)]([https://github.com/fr0gger/Yara-Unprotect](https://github.com/fr0gger/Yara-Unprotect))
+**Repository:** [https://github.com/fr0gger/Yara-Unprotect](https://github.com/fr0gger/Yara-Unprotect)
 
 **Author:** fr0gger
 
@@ -7080,7 +7080,7 @@ Various security tools and resources that are pending categorization.
 
 ## yara-validator
 
-**Repository:** [[https://github.com/CIRCL/yara-validator](https://github.com/CIRCL/yara-validator)]([https://github.com/CIRCL/yara-validator](https://github.com/CIRCL/yara-validator))
+**Repository:** [https://github.com/CIRCL/yara-validator](https://github.com/CIRCL/yara-validator)
 
 **Author:** CIRCL
 
@@ -7088,7 +7088,7 @@ Various security tools and resources that are pending categorization.
 
 ## yara_repo
 
-**Repository:** [[https://github.com/tjnel/yara_repo](https://github.com/tjnel/yara_repo)]([https://github.com/tjnel/yara_repo](https://github.com/tjnel/yara_repo))
+**Repository:** [https://github.com/tjnel/yara_repo](https://github.com/tjnel/yara_repo)
 
 **Author:** tjnel
 
@@ -7096,7 +7096,7 @@ Various security tools and resources that are pending categorization.
 
 ## YARA_Rules
 
-**Repository:** [[https://github.com/MalGamy/YARA_Rules](https://github.com/MalGamy/YARA_Rules)]([https://github.com/MalGamy/YARA_Rules](https://github.com/MalGamy/YARA_Rules))
+**Repository:** [https://github.com/MalGamy/YARA_Rules](https://github.com/MalGamy/YARA_Rules)
 
 **Author:** MalGamy
 
@@ -7104,7 +7104,7 @@ Various security tools and resources that are pending categorization.
 
 ## yara_scanner
 
-**Repository:** [[https://github.com/ace-ecosystem/yara_scanner](https://github.com/ace-ecosystem/yara_scanner)]([https://github.com/ace-ecosystem/yara_scanner](https://github.com/ace-ecosystem/yara_scanner))
+**Repository:** [https://github.com/ace-ecosystem/yara_scanner](https://github.com/ace-ecosystem/yara_scanner)
 
 **Author:** ace-ecosystem
 
@@ -7112,7 +7112,7 @@ Various security tools and resources that are pending categorization.
 
 ## YaraFileCheckerLib
 
-**Repository:** [[https://github.com/k-sec-tools/YaraFileCheckerLib](https://github.com/k-sec-tools/YaraFileCheckerLib)]([https://github.com/k-sec-tools/YaraFileCheckerLib](https://github.com/k-sec-tools/YaraFileCheckerLib))
+**Repository:** [https://github.com/k-sec-tools/YaraFileCheckerLib](https://github.com/k-sec-tools/YaraFileCheckerLib)
 
 **Author:** k-sec-tools
 
@@ -7120,7 +7120,7 @@ Various security tools and resources that are pending categorization.
 
 ## YaraGen
 
-**Repository:** [[https://github.com/mrexodia/YaraGen](https://github.com/mrexodia/YaraGen)]([https://github.com/mrexodia/YaraGen](https://github.com/mrexodia/YaraGen))
+**Repository:** [https://github.com/mrexodia/YaraGen](https://github.com/mrexodia/YaraGen)
 
 **Author:** mrexodia
 
@@ -7128,7 +7128,7 @@ Various security tools and resources that are pending categorization.
 
 ## YaraGenerator
 
-**Repository:** [[https://github.com/Xen0ph0n/YaraGenerator](https://github.com/Xen0ph0n/YaraGenerator)]([https://github.com/Xen0ph0n/YaraGenerator](https://github.com/Xen0ph0n/YaraGenerator))
+**Repository:** [https://github.com/Xen0ph0n/YaraGenerator](https://github.com/Xen0ph0n/YaraGenerator)
 
 **Author:** Xen0ph0n
 
@@ -7136,7 +7136,7 @@ Various security tools and resources that are pending categorization.
 
 ## YaraGuardian
 
-**Repository:** [[https://github.com/PUNCH-Cyber/YaraGuardian](https://github.com/PUNCH-Cyber/YaraGuardian)]([https://github.com/PUNCH-Cyber/YaraGuardian](https://github.com/PUNCH-Cyber/YaraGuardian))
+**Repository:** [https://github.com/PUNCH-Cyber/YaraGuardian](https://github.com/PUNCH-Cyber/YaraGuardian)
 
 **Author:** PUNCH-Cyber
 
@@ -7144,7 +7144,7 @@ Various security tools and resources that are pending categorization.
 
 ## YaraHunter
 
-**Repository:** [[https://github.com/deepfence/YaraHunter](https://github.com/deepfence/YaraHunter)]([https://github.com/deepfence/YaraHunter](https://github.com/deepfence/YaraHunter))
+**Repository:** [https://github.com/deepfence/YaraHunter](https://github.com/deepfence/YaraHunter)
 
 **Author:** deepfence
 
@@ -7152,7 +7152,7 @@ Various security tools and resources that are pending categorization.
 
 ## yaralyzer
 
-**Repository:** [[https://github.com/michelcrypt4d4mus/yaralyzer](https://github.com/michelcrypt4d4mus/yaralyzer)]([https://github.com/michelcrypt4d4mus/yaralyzer](https://github.com/michelcrypt4d4mus/yaralyzer))
+**Repository:** [https://github.com/michelcrypt4d4mus/yaralyzer](https://github.com/michelcrypt4d4mus/yaralyzer)
 
 **Author:** michelcrypt4d4mus
 
@@ -7160,7 +7160,7 @@ Various security tools and resources that are pending categorization.
 
 ## yaraMail
 
-**Repository:** [[https://github.com/kevthehermit/yaraMail](https://github.com/kevthehermit/yaraMail)]([https://github.com/kevthehermit/yaraMail](https://github.com/kevthehermit/yaraMail))
+**Repository:** [https://github.com/kevthehermit/yaraMail](https://github.com/kevthehermit/yaraMail)
 
 **Author:** kevthehermit
 
@@ -7168,7 +7168,7 @@ Various security tools and resources that are pending categorization.
 
 ## YaraManager
 
-**Repository:** [[https://github.com/kevthehermit/YaraManager](https://github.com/kevthehermit/YaraManager)]([https://github.com/kevthehermit/YaraManager](https://github.com/kevthehermit/YaraManager))
+**Repository:** [https://github.com/kevthehermit/YaraManager](https://github.com/kevthehermit/YaraManager)
 
 **Author:** kevthehermit
 
@@ -7176,7 +7176,7 @@ Various security tools and resources that are pending categorization.
 
 ## yaramod
 
-**Repository:** [[https://github.com/avast/yaramod](https://github.com/avast/yaramod)]([https://github.com/avast/yaramod](https://github.com/avast/yaramod))
+**Repository:** [https://github.com/avast/yaramod](https://github.com/avast/yaramod)
 
 **Author:** avast
 
@@ -7184,7 +7184,7 @@ Various security tools and resources that are pending categorization.
 
 ## yarAnalyzer
 
-**Repository:** [[https://github.com/Neo23x0/yarAnalyzer](https://github.com/Neo23x0/yarAnalyzer)]([https://github.com/Neo23x0/yarAnalyzer](https://github.com/Neo23x0/yarAnalyzer))
+**Repository:** [https://github.com/Neo23x0/yarAnalyzer](https://github.com/Neo23x0/yarAnalyzer)
 
 **Author:** Neo23x0
 
@@ -7192,7 +7192,7 @@ Various security tools and resources that are pending categorization.
 
 ## yaraparser
 
-**Repository:** [[https://github.com/BitsOfBinary/yaraparser](https://github.com/BitsOfBinary/yaraparser)]([https://github.com/BitsOfBinary/yaraparser](https://github.com/BitsOfBinary/yaraparser))
+**Repository:** [https://github.com/BitsOfBinary/yaraparser](https://github.com/BitsOfBinary/yaraparser)
 
 **Author:** BitsOfBinary
 
@@ -7200,7 +7200,7 @@ Various security tools and resources that are pending categorization.
 
 ## YaraRules
 
-**Repository:** [[https://github.com/kevthehermit/YaraRules](https://github.com/kevthehermit/YaraRules)]([https://github.com/kevthehermit/YaraRules](https://github.com/kevthehermit/YaraRules))
+**Repository:** [https://github.com/kevthehermit/YaraRules](https://github.com/kevthehermit/YaraRules)
 
 **Author:** kevthehermit
 
@@ -7208,7 +7208,7 @@ Various security tools and resources that are pending categorization.
 
 ## yarasafe
 
-**Repository:** [[https://github.com/lucamassarelli/yarasafe](https://github.com/lucamassarelli/yarasafe)]([https://github.com/lucamassarelli/yarasafe](https://github.com/lucamassarelli/yarasafe))
+**Repository:** [https://github.com/lucamassarelli/yarasafe](https://github.com/lucamassarelli/yarasafe)
 
 **Author:** lucamassarelli
 
@@ -7216,7 +7216,7 @@ Various security tools and resources that are pending categorization.
 
 ## yaraScanParser
 
-**Repository:** [[https://github.com/Sh3llyR/yaraScanParser](https://github.com/Sh3llyR/yaraScanParser)]([https://github.com/Sh3llyR/yaraScanParser](https://github.com/Sh3llyR/yaraScanParser))
+**Repository:** [https://github.com/Sh3llyR/yaraScanParser](https://github.com/Sh3llyR/yaraScanParser)
 
 **Author:** Sh3llyR
 
@@ -7224,7 +7224,7 @@ Various security tools and resources that are pending categorization.
 
 ## YaraSharp
 
-**Repository:** [[https://github.com/stellarbear/YaraSharp](https://github.com/stellarbear/YaraSharp)]([https://github.com/stellarbear/YaraSharp](https://github.com/stellarbear/YaraSharp))
+**Repository:** [https://github.com/stellarbear/YaraSharp](https://github.com/stellarbear/YaraSharp)
 
 **Author:** stellarbear
 
@@ -7232,7 +7232,7 @@ Various security tools and resources that are pending categorization.
 
 ## yarasilly2
 
-**Repository:** [[https://github.com/YARA-Silly-Silly/yarasilly2](https://github.com/YARA-Silly-Silly/yarasilly2)]([https://github.com/YARA-Silly-Silly/yarasilly2](https://github.com/YARA-Silly-Silly/yarasilly2))
+**Repository:** [https://github.com/YARA-Silly-Silly/yarasilly2](https://github.com/YARA-Silly-Silly/yarasilly2)
 
 **Author:** YARA-Silly-Silly
 
@@ -7240,7 +7240,7 @@ Various security tools and resources that are pending categorization.
 
 ## yarastation
 
-**Repository:** [[https://github.com/NumLocK15/yarastation](https://github.com/NumLocK15/yarastation)]([https://github.com/NumLocK15/yarastation](https://github.com/NumLocK15/yarastation))
+**Repository:** [https://github.com/NumLocK15/yarastation](https://github.com/NumLocK15/yarastation)
 
 **Author:** NumLocK15
 
@@ -7248,7 +7248,7 @@ Various security tools and resources that are pending categorization.
 
 ## YaraSyntax
 
-**Repository:** [[https://github.com/nyx0/YaraSyntax](https://github.com/nyx0/YaraSyntax)]([https://github.com/nyx0/YaraSyntax](https://github.com/nyx0/YaraSyntax))
+**Repository:** [https://github.com/nyx0/YaraSyntax](https://github.com/nyx0/YaraSyntax)
 
 **Author:** nyx0
 
@@ -7256,7 +7256,7 @@ Various security tools and resources that are pending categorization.
 
 ## yaraVT
 
-**Repository:** [[https://github.com/deadbits/yaraVT](https://github.com/deadbits/yaraVT)]([https://github.com/deadbits/yaraVT](https://github.com/deadbits/yaraVT))
+**Repository:** [https://github.com/deadbits/yaraVT](https://github.com/deadbits/yaraVT)
 
 **Author:** deadbits
 
@@ -7264,7 +7264,7 @@ Various security tools and resources that are pending categorization.
 
 ## yarg
 
-**Repository:** [[https://github.com/immortalp0ny/yarg](https://github.com/immortalp0ny/yarg)]([https://github.com/immortalp0ny/yarg](https://github.com/immortalp0ny/yarg))
+**Repository:** [https://github.com/immortalp0ny/yarg](https://github.com/immortalp0ny/yarg)
 
 **Author:** immortalp0ny
 
@@ -7272,7 +7272,7 @@ Various security tools and resources that are pending categorization.
 
 ## yarGen
 
-**Repository:** [[https://github.com/Neo23x0/yarGen](https://github.com/Neo23x0/yarGen)]([https://github.com/Neo23x0/yarGen](https://github.com/Neo23x0/yarGen))
+**Repository:** [https://github.com/Neo23x0/yarGen](https://github.com/Neo23x0/yarGen)
 
 **Author:** Neo23x0
 
@@ -7280,7 +7280,7 @@ Various security tools and resources that are pending categorization.
 
 ## yari
 
-**Repository:** [[https://github.com/avast/yari](https://github.com/avast/yari)]([https://github.com/avast/yari](https://github.com/avast/yari))
+**Repository:** [https://github.com/avast/yari](https://github.com/avast/yari)
 
 **Author:** avast
 
@@ -7288,7 +7288,7 @@ Various security tools and resources that are pending categorization.
 
 ## yaya
 
-**Repository:** [[https://github.com/EFForg/yaya](https://github.com/EFForg/yaya)]([https://github.com/EFForg/yaya](https://github.com/EFForg/yaya))
+**Repository:** [https://github.com/EFForg/yaya](https://github.com/EFForg/yaya)
 
 **Author:** EFForg
 
@@ -7296,7 +7296,7 @@ Various security tools and resources that are pending categorization.
 
 ## YaYaGen
 
-**Repository:** [[https://github.com/jimmy-sonny/YaYaGen](https://github.com/jimmy-sonny/YaYaGen)]([https://github.com/jimmy-sonny/YaYaGen](https://github.com/jimmy-sonny/YaYaGen))
+**Repository:** [https://github.com/jimmy-sonny/YaYaGen](https://github.com/jimmy-sonny/YaYaGen)
 
 **Author:** jimmy-sonny
 
@@ -7304,7 +7304,7 @@ Various security tools and resources that are pending categorization.
 
 ## yersinia
 
-**Repository:** [[https://github.com/tomac/yersinia](https://github.com/tomac/yersinia)]([https://github.com/tomac/yersinia](https://github.com/tomac/yersinia))
+**Repository:** [https://github.com/tomac/yersinia](https://github.com/tomac/yersinia)
 
 **Author:** tomac
 
@@ -7312,7 +7312,7 @@ Various security tools and resources that are pending categorization.
 
 ## yextend
 
-**Repository:** [[https://github.com/BayshoreNetworks/yextend](https://github.com/BayshoreNetworks/yextend)]([https://github.com/BayshoreNetworks/yextend](https://github.com/BayshoreNetworks/yextend))
+**Repository:** [https://github.com/BayshoreNetworks/yextend](https://github.com/BayshoreNetworks/yextend)
 
 **Author:** BayshoreNetworks
 
@@ -7320,7 +7320,7 @@ Various security tools and resources that are pending categorization.
 
 ## yrfy
 
-**Repository:** [[https://github.com/andpalmier/yrfy](https://github.com/andpalmier/yrfy)]([https://github.com/andpalmier/yrfy](https://github.com/andpalmier/yrfy))
+**Repository:** [https://github.com/andpalmier/yrfy](https://github.com/andpalmier/yrfy)
 
 **Author:** andpalmier
 
@@ -7328,7 +7328,7 @@ Various security tools and resources that are pending categorization.
 
 ## zap-api-nodejs
 
-**Repository:** [[https://github.com/zaproxy/zap-api-nodejs](https://github.com/zaproxy/zap-api-nodejs)]([https://github.com/zaproxy/zap-api-nodejs](https://github.com/zaproxy/zap-api-nodejs))
+**Repository:** [https://github.com/zaproxy/zap-api-nodejs](https://github.com/zaproxy/zap-api-nodejs)
 
 **Author:** zaproxy
 
@@ -7336,7 +7336,7 @@ Various security tools and resources that are pending categorization.
 
 ## zaproxy
 
-**Repository:** [[https://github.com/zaproxy/zaproxy](https://github.com/zaproxy/zaproxy)]([https://github.com/zaproxy/zaproxy](https://github.com/zaproxy/zaproxy))
+**Repository:** [https://github.com/zaproxy/zaproxy](https://github.com/zaproxy/zaproxy)
 
 **Author:** zaproxy
 
@@ -7344,7 +7344,7 @@ Various security tools and resources that are pending categorization.
 
 ## Zen
 
-**Repository:** [[https://github.com/s0md3v/Zen](https://github.com/s0md3v/Zen)]([https://github.com/s0md3v/Zen](https://github.com/s0md3v/Zen))
+**Repository:** [https://github.com/s0md3v/Zen](https://github.com/s0md3v/Zen)
 
 **Author:** s0md3v
 
@@ -7352,7 +7352,7 @@ Various security tools and resources that are pending categorization.
 
 ## Zeus
 
-**Repository:** [[https://github.com/Visgean/Zeus](https://github.com/Visgean/Zeus)]([https://github.com/Visgean/Zeus](https://github.com/Visgean/Zeus))
+**Repository:** [https://github.com/Visgean/Zeus](https://github.com/Visgean/Zeus)
 
 **Author:** Visgean
 
@@ -7360,7 +7360,7 @@ Various security tools and resources that are pending categorization.
 
 ## zsteg
 
-**Repository:** [[https://github.com/zed-0xff/zsteg](https://github.com/zed-0xff/zsteg)]([https://github.com/zed-0xff/zsteg](https://github.com/zed-0xff/zsteg))
+**Repository:** [https://github.com/zed-0xff/zsteg](https://github.com/zed-0xff/zsteg)
 
 **Author:** zed-0xff
 

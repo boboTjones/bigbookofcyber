@@ -8,7 +8,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## acquire
 
-**Repository:** [[https://github.com/fox-it/acquire](https://github.com/fox-it/acquire)]([https://github.com/fox-it/acquire](https://github.com/fox-it/acquire))
+**Repository:** [https://github.com/fox-it/acquire](https://github.com/fox-it/acquire)
 
 **Author:** fox-it
 
@@ -16,7 +16,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## AMExtractor
 
-**Repository:** [[https://github.com/ir193/AMExtractor](https://github.com/ir193/AMExtractor)]([https://github.com/ir193/AMExtractor](https://github.com/ir193/AMExtractor))
+**Repository:** [https://github.com/ir193/AMExtractor](https://github.com/ir193/AMExtractor)
 
 **Author:** ir193
 
@@ -24,7 +24,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## automactc
 
-**Repository:** [[https://github.com/CrowdStrike/automactc](https://github.com/CrowdStrike/automactc)]([https://github.com/CrowdStrike/automactc](https://github.com/CrowdStrike/automactc))
+**Repository:** [https://github.com/CrowdStrike/automactc](https://github.com/CrowdStrike/automactc)
 
 **Author:** CrowdStrike
 
@@ -32,7 +32,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## awesome-cybersecurity-blueteam
 
-**Repository:** [[https://github.com/fabacab/awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam)]([https://github.com/fabacab/awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam))
+**Repository:** [https://github.com/fabacab/awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam)
 
 **Author:** fabacab
 
@@ -40,7 +40,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## awesome-forensics
 
-**Repository:** [[https://github.com/Cugu/awesome-forensics](https://github.com/Cugu/awesome-forensics)]([https://github.com/Cugu/awesome-forensics](https://github.com/Cugu/awesome-forensics))
+**Repository:** [https://github.com/Cugu/awesome-forensics](https://github.com/Cugu/awesome-forensics)
 
 **Author:** Cugu
 
@@ -48,7 +48,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## awesome-incident-response
 
-**Repository:** [[https://github.com/meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response)]([https://github.com/meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response))
+**Repository:** [https://github.com/meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response)
 
 **Author:** meirwah
 
@@ -56,7 +56,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## bitscout
 
-**Repository:** [[https://github.com/vitaly-kamluk/bitscout](https://github.com/vitaly-kamluk/bitscout)]([https://github.com/vitaly-kamluk/bitscout](https://github.com/vitaly-kamluk/bitscout))
+**Repository:** [https://github.com/vitaly-kamluk/bitscout](https://github.com/vitaly-kamluk/bitscout)
 
 **Author:** vitaly-kamluk
 
@@ -64,7 +64,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## bulk_extractor
 
-**Repository:** [[https://github.com/simsong/bulk_extractor](https://github.com/simsong/bulk_extractor)]([https://github.com/simsong/bulk_extractor](https://github.com/simsong/bulk_extractor))
+**Repository:** [https://github.com/simsong/bulk_extractor](https://github.com/simsong/bulk_extractor)
 
 **Author:** simsong
 
@@ -72,7 +72,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## c-aff4
 
-**Repository:** [[https://github.com/Velocidex/c-aff4](https://github.com/Velocidex/c-aff4)]([https://github.com/Velocidex/c-aff4](https://github.com/Velocidex/c-aff4))
+**Repository:** [https://github.com/Velocidex/c-aff4](https://github.com/Velocidex/c-aff4)
 
 **Author:** Velocidex
 
@@ -80,7 +80,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## catalyst
 
-**Repository:** [[https://github.com/SecurityBrewery/catalyst](https://github.com/SecurityBrewery/catalyst)]([https://github.com/SecurityBrewery/catalyst](https://github.com/SecurityBrewery/catalyst))
+**Repository:** [https://github.com/SecurityBrewery/catalyst](https://github.com/SecurityBrewery/catalyst)
 
 **Author:** SecurityBrewery
 
@@ -88,7 +88,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## chrome-url-dumper
 
-**Repository:** [[https://github.com/eLoopWoo/chrome-url-dumper](https://github.com/eLoopWoo/chrome-url-dumper)]([https://github.com/eLoopWoo/chrome-url-dumper](https://github.com/eLoopWoo/chrome-url-dumper))
+**Repository:** [https://github.com/eLoopWoo/chrome-url-dumper](https://github.com/eLoopWoo/chrome-url-dumper)
 
 **Author:** eLoopWoo
 
@@ -96,7 +96,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## Cyber-Defence
 
-**Repository:** [[https://github.com/nccgroup/Cyber-Defence](https://github.com/nccgroup/Cyber-Defence)]([https://github.com/nccgroup/Cyber-Defence](https://github.com/nccgroup/Cyber-Defence))
+**Repository:** [https://github.com/nccgroup/Cyber-Defence](https://github.com/nccgroup/Cyber-Defence)
 
 **Author:** nccgroup
 
@@ -104,7 +104,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## DAMM
 
-**Repository:** [[https://github.com/504ensicsLabs/DAMM](https://github.com/504ensicsLabs/DAMM)]([https://github.com/504ensicsLabs/DAMM](https://github.com/504ensicsLabs/DAMM))
+**Repository:** [https://github.com/504ensicsLabs/DAMM](https://github.com/504ensicsLabs/DAMM)
 
 **Author:** 504ensicsLabs
 
@@ -112,7 +112,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## defendnot
 
-**Repository:** [[https://github.com/es3n1n/defendnot](https://github.com/es3n1n/defendnot)]([https://github.com/es3n1n/defendnot](https://github.com/es3n1n/defendnot))
+**Repository:** [https://github.com/es3n1n/defendnot](https://github.com/es3n1n/defendnot)
 
 **Author:** es3n1n
 
@@ -120,7 +120,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## dexter
 
-**Repository:** [[https://github.com/coinbase/dexter](https://github.com/coinbase/dexter)]([https://github.com/coinbase/dexter](https://github.com/coinbase/dexter))
+**Repository:** [https://github.com/coinbase/dexter](https://github.com/coinbase/dexter)
 
 **Author:** coinbase
 
@@ -128,7 +128,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## dfdatetime
 
-**Repository:** [[https://github.com/log2timeline/dfdatetime](https://github.com/log2timeline/dfdatetime)]([https://github.com/log2timeline/dfdatetime](https://github.com/log2timeline/dfdatetime))
+**Repository:** [https://github.com/log2timeline/dfdatetime](https://github.com/log2timeline/dfdatetime)
 
 **Author:** log2timeline
 
@@ -136,7 +136,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## dff
 
-**Repository:** [[https://github.com/arxsys/dff](https://github.com/arxsys/dff)]([https://github.com/arxsys/dff](https://github.com/arxsys/dff))
+**Repository:** [https://github.com/arxsys/dff](https://github.com/arxsys/dff)
 
 **Author:** arxsys
 
@@ -144,7 +144,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## dfirtrack
 
-**Repository:** [[https://github.com/dfirtrack/dfirtrack](https://github.com/dfirtrack/dfirtrack)]([https://github.com/dfirtrack/dfirtrack](https://github.com/dfirtrack/dfirtrack))
+**Repository:** [https://github.com/dfirtrack/dfirtrack](https://github.com/dfirtrack/dfirtrack)
 
 **Author:** dfirtrack
 
@@ -152,7 +152,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## dfvfs
 
-**Repository:** [[https://github.com/log2timeline/dfvfs](https://github.com/log2timeline/dfvfs)]([https://github.com/log2timeline/dfvfs](https://github.com/log2timeline/dfvfs))
+**Repository:** [https://github.com/log2timeline/dfvfs](https://github.com/log2timeline/dfvfs)
 
 **Author:** log2timeline
 
@@ -160,7 +160,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## dfwinreg
 
-**Repository:** [[https://github.com/log2timeline/dfwinreg](https://github.com/log2timeline/dfwinreg)]([https://github.com/log2timeline/dfwinreg](https://github.com/log2timeline/dfwinreg))
+**Repository:** [https://github.com/log2timeline/dfwinreg](https://github.com/log2timeline/dfwinreg)
 
 **Author:** log2timeline
 
@@ -168,7 +168,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## dissect
 
-**Repository:** [[https://github.com/fox-it/dissect](https://github.com/fox-it/dissect)]([https://github.com/fox-it/dissect](https://github.com/fox-it/dissect))
+**Repository:** [https://github.com/fox-it/dissect](https://github.com/fox-it/dissect)
 
 **Author:** fox-it
 
@@ -176,7 +176,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## docker-explorer
 
-**Repository:** [[https://github.com/google/docker-explorer](https://github.com/google/docker-explorer)]([https://github.com/google/docker-explorer](https://github.com/google/docker-explorer))
+**Repository:** [https://github.com/google/docker-explorer](https://github.com/google/docker-explorer)
 
 **Author:** google
 
@@ -184,7 +184,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## DumpsterFire
 
-**Repository:** [[https://github.com/TryCatchHCF/DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)]([https://github.com/TryCatchHCF/DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire))
+**Repository:** [https://github.com/TryCatchHCF/DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)
 
 **Author:** TryCatchHCF
 
@@ -192,7 +192,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## evolve
 
-**Repository:** [[https://github.com/JamesHabben/evolve](https://github.com/JamesHabben/evolve)]([https://github.com/JamesHabben/evolve](https://github.com/JamesHabben/evolve))
+**Repository:** [https://github.com/JamesHabben/evolve](https://github.com/JamesHabben/evolve)
 
 **Author:** JamesHabben
 
@@ -200,7 +200,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## evtx
 
-**Repository:** [[https://github.com/Velocidex/evtx](https://github.com/Velocidex/evtx)]([https://github.com/Velocidex/evtx](https://github.com/Velocidex/evtx))
+**Repository:** [https://github.com/Velocidex/evtx](https://github.com/Velocidex/evtx)
 
 **Author:** Velocidex
 
@@ -208,7 +208,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## Fastir_Collector
 
-**Repository:** [[https://github.com/SekoiaLab/Fastir_Collector](https://github.com/SekoiaLab/Fastir_Collector)]([https://github.com/SekoiaLab/Fastir_Collector](https://github.com/SekoiaLab/Fastir_Collector))
+**Repository:** [https://github.com/SekoiaLab/Fastir_Collector](https://github.com/SekoiaLab/Fastir_Collector)
 
 **Author:** SekoiaLab
 
@@ -216,7 +216,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## FIR
 
-**Repository:** [[https://github.com/certsocietegenerale/FIR](https://github.com/certsocietegenerale/FIR)]([https://github.com/certsocietegenerale/FIR](https://github.com/certsocietegenerale/FIR))
+**Repository:** [https://github.com/certsocietegenerale/FIR](https://github.com/certsocietegenerale/FIR)
 
 **Author:** certsocietegenerale
 
@@ -224,7 +224,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## ForensicMiner
 
-**Repository:** [[https://github.com/securityjoes/ForensicMiner](https://github.com/securityjoes/ForensicMiner)]([https://github.com/securityjoes/ForensicMiner](https://github.com/securityjoes/ForensicMiner))
+**Repository:** [https://github.com/securityjoes/ForensicMiner](https://github.com/securityjoes/ForensicMiner)
 
 **Author:** securityjoes
 
@@ -232,7 +232,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## fsf
 
-**Repository:** [[https://github.com/EmersonElectricCo/fsf](https://github.com/EmersonElectricCo/fsf)]([https://github.com/EmersonElectricCo/fsf](https://github.com/EmersonElectricCo/fsf))
+**Repository:** [https://github.com/EmersonElectricCo/fsf](https://github.com/EmersonElectricCo/fsf)
 
 **Author:** EmersonElectricCo
 
@@ -240,7 +240,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## grr
 
-**Repository:** [[https://github.com/google/grr](https://github.com/google/grr)]([https://github.com/google/grr](https://github.com/google/grr))
+**Repository:** [https://github.com/google/grr](https://github.com/google/grr)
 
 **Author:** google
 
@@ -248,7 +248,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## hindsight
 
-**Repository:** [[https://github.com/obsidianforensics/hindsight](https://github.com/obsidianforensics/hindsight)]([https://github.com/obsidianforensics/hindsight](https://github.com/obsidianforensics/hindsight))
+**Repository:** [https://github.com/obsidianforensics/hindsight](https://github.com/obsidianforensics/hindsight)
 
 **Author:** obsidianforensics
 
@@ -256,7 +256,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## incidents
 
-**Repository:** [[https://github.com/veeral-patel/incidents](https://github.com/veeral-patel/incidents)]([https://github.com/veeral-patel/incidents](https://github.com/veeral-patel/incidents))
+**Repository:** [https://github.com/veeral-patel/incidents](https://github.com/veeral-patel/incidents)
 
 **Author:** veeral-patel
 
@@ -264,7 +264,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## ir-rescue
 
-**Repository:** [[https://github.com/diogo-fernan/ir-rescue](https://github.com/diogo-fernan/ir-rescue)]([https://github.com/diogo-fernan/ir-rescue](https://github.com/diogo-fernan/ir-rescue))
+**Repository:** [https://github.com/diogo-fernan/ir-rescue](https://github.com/diogo-fernan/ir-rescue)
 
 **Author:** diogo-fernan
 
@@ -272,7 +272,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## iris-web
 
-**Repository:** [[https://github.com/dfir-iris/iris-web](https://github.com/dfir-iris/iris-web)]([https://github.com/dfir-iris/iris-web](https://github.com/dfir-iris/iris-web))
+**Repository:** [https://github.com/dfir-iris/iris-web](https://github.com/dfir-iris/iris-web)
 
 **Author:** dfir-iris
 
@@ -280,7 +280,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## kube-forensics
 
-**Repository:** [[https://github.com/keikoproj/kube-forensics](https://github.com/keikoproj/kube-forensics)]([https://github.com/keikoproj/kube-forensics](https://github.com/keikoproj/kube-forensics))
+**Repository:** [https://github.com/keikoproj/kube-forensics](https://github.com/keikoproj/kube-forensics)
 
 **Author:** keikoproj
 
@@ -288,7 +288,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## linux-explorer
 
-**Repository:** [[https://github.com/intezer/linux-explorer](https://github.com/intezer/linux-explorer)]([https://github.com/intezer/linux-explorer](https://github.com/intezer/linux-explorer))
+**Repository:** [https://github.com/intezer/linux-explorer](https://github.com/intezer/linux-explorer)
 
 **Author:** intezer
 
@@ -296,7 +296,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## mac_apt
 
-**Repository:** [[https://github.com/ydkhatri/mac_apt](https://github.com/ydkhatri/mac_apt)]([https://github.com/ydkhatri/mac_apt](https://github.com/ydkhatri/mac_apt))
+**Repository:** [https://github.com/ydkhatri/mac_apt](https://github.com/ydkhatri/mac_apt)
 
 **Author:** ydkhatri
 
@@ -304,7 +304,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## MalConfScan
 
-**Repository:** [[https://github.com/JPCERTCC/MalConfScan](https://github.com/JPCERTCC/MalConfScan)]([https://github.com/JPCERTCC/MalConfScan](https://github.com/JPCERTCC/MalConfScan))
+**Repository:** [https://github.com/JPCERTCC/MalConfScan](https://github.com/JPCERTCC/MalConfScan)
 
 **Author:** JPCERTCC
 
@@ -312,7 +312,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## malwarehouse
 
-**Repository:** [[https://github.com/sroberts/malwarehouse](https://github.com/sroberts/malwarehouse)]([https://github.com/sroberts/malwarehouse](https://github.com/sroberts/malwarehouse))
+**Repository:** [https://github.com/sroberts/malwarehouse](https://github.com/sroberts/malwarehouse)
 
 **Author:** sroberts
 
@@ -320,7 +320,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## muninn
 
-**Repository:** [[https://github.com/ytisf/muninn](https://github.com/ytisf/muninn)]([https://github.com/ytisf/muninn](https://github.com/ytisf/muninn))
+**Repository:** [https://github.com/ytisf/muninn](https://github.com/ytisf/muninn)
 
 **Author:** ytisf
 
@@ -328,7 +328,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## nsrllookup
 
-**Repository:** [[https://github.com/rjhansen/nsrllookup](https://github.com/rjhansen/nsrllookup)]([https://github.com/rjhansen/nsrllookup](https://github.com/rjhansen/nsrllookup))
+**Repository:** [https://github.com/rjhansen/nsrllookup](https://github.com/rjhansen/nsrllookup)
 
 **Author:** rjhansen
 
@@ -336,7 +336,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## OSXAuditor
 
-**Repository:** [[https://github.com/jipegit/OSXAuditor](https://github.com/jipegit/OSXAuditor)]([https://github.com/jipegit/OSXAuditor](https://github.com/jipegit/OSXAuditor))
+**Repository:** [https://github.com/jipegit/OSXAuditor](https://github.com/jipegit/OSXAuditor)
 
 **Author:** jipegit
 
@@ -344,7 +344,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## PowerForensics
 
-**Repository:** [[https://github.com/Invoke-IR/PowerForensics](https://github.com/Invoke-IR/PowerForensics)]([https://github.com/Invoke-IR/PowerForensics](https://github.com/Invoke-IR/PowerForensics))
+**Repository:** [https://github.com/Invoke-IR/PowerForensics](https://github.com/Invoke-IR/PowerForensics)
 
 **Author:** Invoke-IR
 
@@ -352,7 +352,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## PSRecon
 
-**Repository:** [[https://github.com/gfoss/PSRecon](https://github.com/gfoss/PSRecon)]([https://github.com/gfoss/PSRecon](https://github.com/gfoss/PSRecon))
+**Repository:** [https://github.com/gfoss/PSRecon](https://github.com/gfoss/PSRecon)
 
 **Author:** gfoss
 
@@ -360,7 +360,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## pyaff4
 
-**Repository:** [[https://github.com/aff4/pyaff4](https://github.com/aff4/pyaff4)]([https://github.com/aff4/pyaff4](https://github.com/aff4/pyaff4))
+**Repository:** [https://github.com/aff4/pyaff4](https://github.com/aff4/pyaff4)
 
 **Author:** aff4
 
@@ -368,7 +368,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## pyshadow
 
-**Repository:** [[https://github.com/alicangnll/pyshadow](https://github.com/alicangnll/pyshadow)]([https://github.com/alicangnll/pyshadow](https://github.com/alicangnll/pyshadow))
+**Repository:** [https://github.com/alicangnll/pyshadow](https://github.com/alicangnll/pyshadow)
 
 **Author:** alicangnll
 
@@ -376,7 +376,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## redteam-plan
 
-**Repository:** [[https://github.com/magoo/redteam-plan](https://github.com/magoo/redteam-plan)]([https://github.com/magoo/redteam-plan](https://github.com/magoo/redteam-plan))
+**Repository:** [https://github.com/magoo/redteam-plan](https://github.com/magoo/redteam-plan)
 
 **Author:** magoo
 
@@ -384,7 +384,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## rekall
 
-**Repository:** [[https://github.com/google/rekall](https://github.com/google/rekall)]([https://github.com/google/rekall](https://github.com/google/rekall))
+**Repository:** [https://github.com/google/rekall](https://github.com/google/rekall)
 
 **Author:** google
 
@@ -392,7 +392,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## rVMI
 
-**Repository:** [[https://github.com/fireeye/rVMI](https://github.com/fireeye/rVMI)]([https://github.com/fireeye/rVMI](https://github.com/fireeye/rVMI))
+**Repository:** [https://github.com/fireeye/rVMI](https://github.com/fireeye/rVMI)
 
 **Author:** fireeye
 
@@ -400,7 +400,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## shellbags
 
-**Repository:** [[https://github.com/williballenthin/shellbags](https://github.com/williballenthin/shellbags)]([https://github.com/williballenthin/shellbags](https://github.com/williballenthin/shellbags))
+**Repository:** [https://github.com/williballenthin/shellbags](https://github.com/williballenthin/shellbags)
 
 **Author:** williballenthin
 
@@ -408,7 +408,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## sift
 
-**Repository:** [[https://github.com/teamdfir/sift](https://github.com/teamdfir/sift)]([https://github.com/teamdfir/sift](https://github.com/teamdfir/sift))
+**Repository:** [https://github.com/teamdfir/sift](https://github.com/teamdfir/sift)
 
 **Author:** teamdfir
 
@@ -416,7 +416,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## Sigma2KQL
 
-**Repository:** [[https://github.com/Khadinxc/Sigma2KQL](https://github.com/Khadinxc/Sigma2KQL)]([https://github.com/Khadinxc/Sigma2KQL](https://github.com/Khadinxc/Sigma2KQL))
+**Repository:** [https://github.com/Khadinxc/Sigma2KQL](https://github.com/Khadinxc/Sigma2KQL)
 
 **Author:** Khadinxc
 
@@ -424,7 +424,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## SPECTR3
 
-**Repository:** [[https://github.com/alpine-sec/SPECTR3](https://github.com/alpine-sec/SPECTR3)]([https://github.com/alpine-sec/SPECTR3](https://github.com/alpine-sec/SPECTR3))
+**Repository:** [https://github.com/alpine-sec/SPECTR3](https://github.com/alpine-sec/SPECTR3)
 
 **Author:** alpine-sec
 
@@ -432,7 +432,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## tapir
 
-**Repository:** [[https://github.com/tap-ir/tapir](https://github.com/tap-ir/tapir)]([https://github.com/tap-ir/tapir](https://github.com/tap-ir/tapir))
+**Repository:** [https://github.com/tap-ir/tapir](https://github.com/tap-ir/tapir)
 
 **Author:** tap-ir
 
@@ -440,7 +440,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## TotalRecall
 
-**Repository:** [[https://github.com/sketchymoose/TotalRecall](https://github.com/sketchymoose/TotalRecall)]([https://github.com/sketchymoose/TotalRecall](https://github.com/sketchymoose/TotalRecall))
+**Repository:** [https://github.com/sketchymoose/TotalRecall](https://github.com/sketchymoose/TotalRecall)
 
 **Author:** sketchymoose
 
@@ -448,7 +448,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## TriageHasher
 
-**Repository:** [[https://github.com/FlipForensics/TriageHasher](https://github.com/FlipForensics/TriageHasher)]([https://github.com/FlipForensics/TriageHasher](https://github.com/FlipForensics/TriageHasher))
+**Repository:** [https://github.com/FlipForensics/TriageHasher](https://github.com/FlipForensics/TriageHasher)
 
 **Author:** FlipForensics
 
@@ -456,7 +456,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## uac
 
-**Repository:** [[https://github.com/tclahr/uac](https://github.com/tclahr/uac)]([https://github.com/tclahr/uac](https://github.com/tclahr/uac))
+**Repository:** [https://github.com/tclahr/uac](https://github.com/tclahr/uac)
 
 **Author:** tclahr
 
@@ -464,7 +464,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## UFADE
 
-**Repository:** [[https://github.com/prosch88/UFADE](https://github.com/prosch88/UFADE)]([https://github.com/prosch88/UFADE](https://github.com/prosch88/UFADE))
+**Repository:** [https://github.com/prosch88/UFADE](https://github.com/prosch88/UFADE)
 
 **Author:** prosch88
 
@@ -472,7 +472,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## usbrip
 
-**Repository:** [[https://github.com/snovvcrash/usbrip](https://github.com/snovvcrash/usbrip)]([https://github.com/snovvcrash/usbrip](https://github.com/snovvcrash/usbrip))
+**Repository:** [https://github.com/snovvcrash/usbrip](https://github.com/snovvcrash/usbrip)
 
 **Author:** snovvcrash
 
@@ -480,7 +480,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## volatility
 
-**Repository:** [[https://github.com/volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility)]([https://github.com/volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility))
+**Repository:** [https://github.com/volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility)
 
 **Author:** volatilityfoundation
 
@@ -488,7 +488,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## VolUtility
 
-**Repository:** [[https://github.com/kevthehermit/VolUtility](https://github.com/kevthehermit/VolUtility)]([https://github.com/kevthehermit/VolUtility](https://github.com/kevthehermit/VolUtility))
+**Repository:** [https://github.com/kevthehermit/VolUtility](https://github.com/kevthehermit/VolUtility)
 
 **Author:** kevthehermit
 
@@ -496,7 +496,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## wombatforensics
 
-**Repository:** [[https://github.com/pjrinaldi/wombatforensics](https://github.com/pjrinaldi/wombatforensics)]([https://github.com/pjrinaldi/wombatforensics](https://github.com/pjrinaldi/wombatforensics))
+**Repository:** [https://github.com/pjrinaldi/wombatforensics](https://github.com/pjrinaldi/wombatforensics)
 
 **Author:** pjrinaldi
 
@@ -504,7 +504,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## yara-forensics
 
-**Repository:** [[https://github.com/Xumeiquer/yara-forensics](https://github.com/Xumeiquer/yara-forensics)]([https://github.com/Xumeiquer/yara-forensics](https://github.com/Xumeiquer/yara-forensics))
+**Repository:** [https://github.com/Xumeiquer/yara-forensics](https://github.com/Xumeiquer/yara-forensics)
 
 **Author:** Xumeiquer
 
@@ -512,7 +512,7 @@ Tools and resources for incident response, forensics, and defensive security ope
 
 ## yeti
 
-**Repository:** [[https://github.com/yeti-platform/yeti](https://github.com/yeti-platform/yeti)]([https://github.com/yeti-platform/yeti](https://github.com/yeti-platform/yeti))
+**Repository:** [https://github.com/yeti-platform/yeti](https://github.com/yeti-platform/yeti)
 
 **Author:** yeti-platform
 
