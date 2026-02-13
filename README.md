@@ -53,6 +53,8 @@ Tools awaiting categorization or that don't fit neatly into other categories.
 
 ## ToDo
 
-- Links to demo videos
+- Links to demo videos, CTFs and other educational resources
+- Links for hosted services (e.g., shodan)
 - Books
 - Sources for news
+- Master list of lingo and acronyms
