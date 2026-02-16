@@ -9,9 +9,9 @@
 - [Educational stuff](#educational-stuff) (207 tools)
 - [Governance, Risk Management, Compliance and Audit](#governance-risk-management-compliance-and-audit) (23 tools)
 - [Incident Response (Blue Team)](#incident-response-blue-team) (64 tools)
-- [Miscellaneous stuff to sort out later](#miscellaneous-stuff-to-sort-out-later) (920 tools)
+- [Miscellaneous stuff to sort out later](#miscellaneous-stuff-to-sort-out-later) (919 tools)
 - [Network/Infrastructure Security](#network/infrastructure-security) (70 tools)
-- [Offensive Security (Red Team)](#offensive-security-red-team) (215 tools)
+- [Offensive Security (Red Team)](#offensive-security-red-team) (216 tools)
 - [Security Operations (SOC)](#security-operations-soc) (78 tools)
 - [Security blogs](#security-blogs) (65 tools)
 - [Threat intelligence](#threat-intelligence) (146 tools)
@@ -16988,22 +16988,6 @@
 
 ---
 
-### subfinder
-
-**Repository:** [https://github.com/subfinder/subfinder](https://github.com/subfinder/subfinder)
-
-**Author:** subfinder
-
-**Last Updated:** 2026-02-05
-
-**Requirements:** Docker, Go, Make/C/C++
-
-**Build Instructions:** See README.md, Makefile
-
-**Description:** `subfinder` is a subdomain discovery tool that returns valid subdomains for websites, using passive online sources. It has a simple, modular architecture and is optimized for speed. `subfinder` is built for
-
----
-
 ### substation
 
 **Repository:** [https://github.com/brexhq/substation](https://github.com/brexhq/substation)
@@ -23211,6 +23195,24 @@
 **Build Instructions:** See README.md, CONTRIBUTING.md
 
 **Description:** OSINT Template Engine is a research-grade tool for OSINT Information gathering & Attack Surface Mapping which uses customizable templates to collect data from sources. It allows for new template creation and modification of existing ones which gives it a competitive advantage over other tools of the same category. For more information see the [documentation](https://github.com/3nock/OTE/wiki).
+
+---
+
+### subfinder
+
+**Repository:** [https://github.com/subfinder/subfinder](https://github.com/subfinder/subfinder)
+
+**Author:** subfinder
+
+**Last Updated:** 2026-02-05
+
+**Requirements:** Docker, Go, Make/C/C++
+
+**Build Instructions:** See README.md, Makefile. Can be installed with `go install`.
+
+**Description:** `subfinder` is a subdomain discovery tool that returns valid subdomains for websites, using passive online sources. It has a simple, modular architecture and is optimized for speed. `subfinder` is built for
+
+**Blog post**: [ProjectDiscovery Part 1](https://bobotjones.com/2026/02/projectdiscovery-part-1/)
 
 ---
 

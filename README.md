@@ -27,7 +27,7 @@ This is a curated collection of links to open source security tools, blogs, reso
 ### [Threat Intelligence](threatintel/) (146 tools)
 Tools for gathering, analyzing, and acting on threat intelligence data.
 
-### [Offensive Security (Red Team)](offsec/) (215 tools)
+### [Offensive Security (Red Team)](offsec/) (216 tools)
 Penetration testing, exploitation, and red team tools for security assessment.
 
 ### [Application Security](appsec/) (66 tools)
@@ -48,7 +48,7 @@ GRC, audit, and compliance management tools.
 ### [Education & Resources](education/) (272 tools)
 Educational resources, tutorials, security blogs, and learning materials.
 
-### [Miscellaneous](misc/) (920 tools)
+### [Miscellaneous](misc/) (919 tools)
 Tools awaiting categorization or that don't fit neatly into other categories.
 
 ## ToDo

@@ -2,7 +2,7 @@
 
 Various security tools and resources that are pending categorization.
 
-**Total Tools:** 920
+**Total Tools:** 919
 
 ---
 
@@ -6131,14 +6131,6 @@ Various security tools and resources that are pending categorization.
 **Repository:** [https://github.com/alichtman/stronghold](https://github.com/alichtman/stronghold)
 
 **Author:** alichtman
-
----
-
-## subfinder
-
-**Repository:** [https://github.com/subfinder/subfinder](https://github.com/subfinder/subfinder)
-
-**Author:** subfinder
 
 ---
 

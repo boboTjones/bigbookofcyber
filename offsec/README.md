@@ -2,7 +2,7 @@
 
 Penetration testing, exploitation, and red team tools for security assessment and adversarial simulation.
 
-**Total Tools:** 215
+**Total Tools:** 216
 
 ---
 
@@ -1508,6 +1508,15 @@ Penetration testing, exploitation, and red team tools for security assessment an
 
 **Author:** 3nock
 
+---
+
+## subfinder
+
+**Repository:** [https://github.com/subfinder/subfinder](https://github.com/subfinder/subfinder)
+
+**Author:** subfinder
+
+**Blog post**: [ProjectDiscovery Part 1](https://bobotjones.com/2026/02/projectdiscovery-part-1/)
 ---
 
 ## swap_digger
