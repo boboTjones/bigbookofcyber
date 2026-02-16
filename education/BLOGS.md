@@ -2,7 +2,7 @@
 
 ## Threat Intelligence & News
 - **Talos Intelligence Blog** - [https://blog.talosintelligence.com/](https://blog.talosintelligence.com/) - Cisco's threat research
-- **Krebson Security** - [https://krebsonsecurity.com/](https://krebsonsecurity.com/) - Investigative cybersecurity journalism
+- **Krebs On Security** - [https://krebsonsecurity.com/](https://krebsonsecurity.com/) - Investigative cybersecurity journalism
 - **The Record** - [https://therecord.media/podcast](https://therecord.media/podcast) - Cybersecurity news and podcast
 - **Threatpost** - [https://threatpost.com/](https://threatpost.com/) - Threat news and analysis
 - **CyberScoop** - [https://cyberscoop.com/](https://cyberscoop.com/) - Cybersecurity news coverage
@@ -25,7 +25,7 @@
 - **Bruce Schneier** - [https://www.schneier.com/](https://www.schneier.com/) - Cryptography and security expert
 - **Troy Hunt** - [https://www.troyhunt.com/](https://www.troyhunt.com/) - Web security and data breaches
 - **Daniel Miessler** - [https://danielmiessler.com/](https://danielmiessler.com/) - Security and infosec resources
-- **Matthew Green** - [https://mjg59.dreamwidth.org/](https://mjg59.dreamwidth.org/) - Security and cryptography
+- **Matthew Garret** - [https://mjg59.dreamwidth.org/](https://mjg59.dreamwidth.org/) - Security and cryptography
 - **Sam Curry** - [https://samcurry.net/](https://samcurry.net/) - Bug bounty and vulnerability research
 
 ## Intelligence & News Aggregation
@@ -36,7 +36,7 @@
 
 ## Specialized Content
 - **Darknet Diaries** - [https://darknetdiaries.com/](https://darknetdiaries.com/) - Stories from the internet's underground
-- **Where Warlocks Stay Uprate** - [https://wherewarlocksstayuplate.com/](https://wherewarlocksstayuplate.com/) - Security culture and discussion
+- **Where Warlocks Stay Up Late** - [https://wherewarlocksstayuplate.com/](https://wherewarlocksstayuplate.com/) - Security culture and discussion
 - **Security Cryptography Whatever** - [https://securitycryptographywhatever.com/](https://securitycryptographywhatever.com/) - Security discussion
 - **Seclists** - [https://seclists.org/](https://seclists.org/) - Mailing list archives and resources
 - **eCrime.ch** - [https://ecrime.ch/](https://ecrime.ch/) - Cybercrime research
